@@ -1,15 +1,15 @@
 import os
 import requests
 
-API_TOKEN = os.getenv("API_TOKEN")
+API_TOKEN = os.getenv("FOOTBALL_DATA_API_KEY")
 
 headers = {
     "X-Auth-Token": API_TOKEN
 }
 
-url = "https://api.football-data.org/v4/competitions/WC/matches"
+url = "https://api.football-data.org/v4/competitions"
 
 response = requests.get(url, headers=headers)
 
 print(response.status_code)
-print(response.text[:500])
+print(response.text[:1000])
