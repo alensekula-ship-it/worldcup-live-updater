@@ -1,6 +1,7 @@
+import os
 import requests
 
-API_TOKEN = "OVDJE_ZALIJEPI_SVOJ_API_TOKEN"
+API_TOKEN = os.getenv("API_TOKEN")
 
 headers = {
     "X-Auth-Token": API_TOKEN
