@@ -7,9 +7,9 @@ headers = {
     "X-Auth-Token": API_TOKEN
 }
 
-url = "https://api.football-data.org/v4/competitions"
+url = "https://api.football-data.org/v4/competitions/WC"
 
 response = requests.get(url, headers=headers)
 
 print(response.status_code)
-print(response.text[:1000])
+print(response.text)
