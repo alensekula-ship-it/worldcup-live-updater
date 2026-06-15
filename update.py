@@ -1,14 +1,14 @@
-import json
-from datetime import datetime
+import requests
 
-data = {
-    "lastUpdate": datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC"),
-    "live": [],
-    "finished": [],
-    "upcoming": []
+API_TOKEN = "OVDJE_ZALIJEPI_SVOJ_API_TOKEN"
+
+headers = {
+    "X-Auth-Token": API_TOKEN
 }
 
-with open("live-results.json", "w") as f:
-    json.dump(data, f, indent=2)
+url = "https://api.football-data.org/v4/competitions/WC/matches"
 
-print("Live results updated")
+response = requests.get(url, headers=headers)
+
+print(response.status_code)
+print(response.text[:500])
