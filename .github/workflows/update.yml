@@ -26,6 +26,8 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run updater
+        env:
+          API_TOKEN: ${{ secrets.API_TOKEN }}
         run: |
           python update.py
 
