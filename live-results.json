@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-06-26 18:10 UTC",
-  "lastUpdate": "2026-06-26 18:10 UTC",
+  "generatedAt": "2026-06-26 20:11 UTC",
+  "lastUpdate": "2026-06-26 20:11 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -3988,11 +3988,11 @@
       },
       "id": 537395,
       "utcDate": "2026-06-26T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
-      "lastUpdated": "2026-06-26T19:51:10Z",
+      "lastUpdated": "2026-06-26T22:11:46Z",
       "homeTeam": {
         "id": 8872,
         "name": "Norway",
@@ -4008,15 +4008,15 @@
         "crest": "https://crests.football-data.org/773.svg"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 3
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 3
         }
       },
       "odds": {
@@ -4054,11 +4054,11 @@
       },
       "id": 537396,
       "utcDate": "2026-06-26T19:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
-      "lastUpdated": "2026-06-26T19:53:14Z",
+      "lastUpdated": "2026-06-26T22:11:46Z",
       "homeTeam": {
         "id": 804,
         "name": "Senegal",
@@ -4074,15 +4074,15 @@
         "crest": "https://crests.football-data.org/iraq.svg"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
@@ -6576,7 +6576,140 @@
       "referees": []
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "area": {
+        "id": 2267,
+        "name": "World",
+        "code": "INT",
+        "flag": null
+      },
+      "competition": {
+        "id": 2000,
+        "name": "FIFA World Cup",
+        "code": "WC",
+        "type": "CUP",
+        "emblem": "https://crests.football-data.org/wm26.png"
+      },
+      "season": {
+        "id": 2398,
+        "startDate": "2026-06-11",
+        "endDate": "2026-07-19",
+        "currentMatchday": 3,
+        "winner": null
+      },
+      "id": 537395,
+      "utcDate": "2026-06-26T19:00:00Z",
+      "status": "IN_PLAY",
+      "matchday": 3,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_I",
+      "lastUpdated": "2026-06-26T22:11:46Z",
+      "homeTeam": {
+        "id": 8872,
+        "name": "Norway",
+        "shortName": "Norway",
+        "tla": "NOR",
+        "crest": "https://crests.football-data.org/813.svg"
+      },
+      "awayTeam": {
+        "id": 773,
+        "name": "France",
+        "shortName": "France",
+        "tla": "FRA",
+        "crest": "https://crests.football-data.org/773.svg"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 1,
+          "away": 3
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 3
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 11605,
+          "name": "Michael Oliver",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2267,
+        "name": "World",
+        "code": "INT",
+        "flag": null
+      },
+      "competition": {
+        "id": 2000,
+        "name": "FIFA World Cup",
+        "code": "WC",
+        "type": "CUP",
+        "emblem": "https://crests.football-data.org/wm26.png"
+      },
+      "season": {
+        "id": 2398,
+        "startDate": "2026-06-11",
+        "endDate": "2026-07-19",
+        "currentMatchday": 3,
+        "winner": null
+      },
+      "id": 537396,
+      "utcDate": "2026-06-26T19:00:00Z",
+      "status": "PAUSED",
+      "matchday": 3,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_I",
+      "lastUpdated": "2026-06-26T22:11:46Z",
+      "homeTeam": {
+        "id": 804,
+        "name": "Senegal",
+        "shortName": "Senegal",
+        "tla": "SEN",
+        "crest": "https://crests.football-data.org/senegal.svg"
+      },
+      "awayTeam": {
+        "id": 8062,
+        "name": "Iraq",
+        "shortName": "Iraq",
+        "tla": "IRQ",
+        "crest": "https://crests.football-data.org/iraq.svg"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 11580,
+          "name": "Anthony Taylor",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
+    }
+  ],
   "finished": [
     {
       "area": {
@@ -10526,138 +10659,6 @@
     }
   ],
   "upcoming": [
-    {
-      "area": {
-        "id": 2267,
-        "name": "World",
-        "code": "INT",
-        "flag": null
-      },
-      "competition": {
-        "id": 2000,
-        "name": "FIFA World Cup",
-        "code": "WC",
-        "type": "CUP",
-        "emblem": "https://crests.football-data.org/wm26.png"
-      },
-      "season": {
-        "id": 2398,
-        "startDate": "2026-06-11",
-        "endDate": "2026-07-19",
-        "currentMatchday": 3,
-        "winner": null
-      },
-      "id": 537395,
-      "utcDate": "2026-06-26T19:00:00Z",
-      "status": "TIMED",
-      "matchday": 3,
-      "stage": "GROUP_STAGE",
-      "group": "GROUP_I",
-      "lastUpdated": "2026-06-26T19:51:10Z",
-      "homeTeam": {
-        "id": 8872,
-        "name": "Norway",
-        "shortName": "Norway",
-        "tla": "NOR",
-        "crest": "https://crests.football-data.org/813.svg"
-      },
-      "awayTeam": {
-        "id": 773,
-        "name": "France",
-        "shortName": "France",
-        "tla": "FRA",
-        "crest": "https://crests.football-data.org/773.svg"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 11605,
-          "name": "Michael Oliver",
-          "type": "REFEREE",
-          "nationality": "England"
-        }
-      ]
-    },
-    {
-      "area": {
-        "id": 2267,
-        "name": "World",
-        "code": "INT",
-        "flag": null
-      },
-      "competition": {
-        "id": 2000,
-        "name": "FIFA World Cup",
-        "code": "WC",
-        "type": "CUP",
-        "emblem": "https://crests.football-data.org/wm26.png"
-      },
-      "season": {
-        "id": 2398,
-        "startDate": "2026-06-11",
-        "endDate": "2026-07-19",
-        "currentMatchday": 3,
-        "winner": null
-      },
-      "id": 537396,
-      "utcDate": "2026-06-26T19:00:00Z",
-      "status": "TIMED",
-      "matchday": 3,
-      "stage": "GROUP_STAGE",
-      "group": "GROUP_I",
-      "lastUpdated": "2026-06-26T19:53:14Z",
-      "homeTeam": {
-        "id": 804,
-        "name": "Senegal",
-        "shortName": "Senegal",
-        "tla": "SEN",
-        "crest": "https://crests.football-data.org/senegal.svg"
-      },
-      "awayTeam": {
-        "id": 8062,
-        "name": "Iraq",
-        "shortName": "Iraq",
-        "tla": "IRQ",
-        "crest": "https://crests.football-data.org/iraq.svg"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 11580,
-          "name": "Anthony Taylor",
-          "type": "REFEREE",
-          "nationality": "England"
-        }
-      ]
-    },
     {
       "area": {
         "id": 2267,
