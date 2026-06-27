@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-06-27 20:11 UTC",
-  "lastUpdate": "2026-06-27 20:11 UTC",
+  "generatedAt": "2026-06-27 21:31 UTC",
+  "lastUpdate": "2026-06-27 21:31 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -4384,11 +4384,11 @@
       },
       "id": 537413,
       "utcDate": "2026-06-27T21:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-06-27T21:55:14Z",
+      "lastUpdated": "2026-06-27T23:31:15Z",
       "homeTeam": {
         "id": 1836,
         "name": "Panama",
@@ -4404,11 +4404,11 @@
         "crest": "https://crests.football-data.org/770.svg"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -4450,11 +4450,11 @@
       },
       "id": 537414,
       "utcDate": "2026-06-27T21:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-06-27T21:57:13Z",
+      "lastUpdated": "2026-06-27T23:31:15Z",
       "homeTeam": {
         "id": 799,
         "name": "Croatia",
@@ -4470,11 +4470,11 @@
         "crest": "https://crests.football-data.org/ghana.svg"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -4520,7 +4520,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
-      "lastUpdated": "2026-06-27T20:20:40Z",
+      "lastUpdated": "2026-06-27T23:30:00Z",
       "homeTeam": {
         "id": 818,
         "name": "Colombia",
@@ -4550,7 +4550,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 55970,
+          "name": "Alireza Faghani",
+          "type": "REFEREE",
+          "nationality": "Iran"
+        }
+      ]
     },
     {
       "area": {
@@ -4579,7 +4586,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
-      "lastUpdated": "2026-06-27T20:20:40Z",
+      "lastUpdated": "2026-06-27T23:30:00Z",
       "homeTeam": {
         "id": 1934,
         "name": "Congo DR",
@@ -4609,7 +4616,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 43878,
+          "name": "Felix Zwayer",
+          "type": "REFEREE",
+          "nationality": "Germany"
+        }
+      ]
     },
     {
       "area": {
@@ -6618,7 +6632,140 @@
       "referees": []
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "area": {
+        "id": 2267,
+        "name": "World",
+        "code": "INT",
+        "flag": null
+      },
+      "competition": {
+        "id": 2000,
+        "name": "FIFA World Cup",
+        "code": "WC",
+        "type": "CUP",
+        "emblem": "https://crests.football-data.org/wm26.png"
+      },
+      "season": {
+        "id": 2398,
+        "startDate": "2026-06-11",
+        "endDate": "2026-07-19",
+        "currentMatchday": 3,
+        "winner": null
+      },
+      "id": 537413,
+      "utcDate": "2026-06-27T21:00:00Z",
+      "status": "IN_PLAY",
+      "matchday": 3,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_L",
+      "lastUpdated": "2026-06-27T23:31:15Z",
+      "homeTeam": {
+        "id": 1836,
+        "name": "Panama",
+        "shortName": "Panama",
+        "tla": "PAN",
+        "crest": "https://crests.football-data.org/panama.svg"
+      },
+      "awayTeam": {
+        "id": 770,
+        "name": "England",
+        "shortName": "England",
+        "tla": "ENG",
+        "crest": "https://crests.football-data.org/770.svg"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 236084,
+          "name": "Abdulrahman Al Jassim",
+          "type": "REFEREE",
+          "nationality": "Qatar"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2267,
+        "name": "World",
+        "code": "INT",
+        "flag": null
+      },
+      "competition": {
+        "id": 2000,
+        "name": "FIFA World Cup",
+        "code": "WC",
+        "type": "CUP",
+        "emblem": "https://crests.football-data.org/wm26.png"
+      },
+      "season": {
+        "id": 2398,
+        "startDate": "2026-06-11",
+        "endDate": "2026-07-19",
+        "currentMatchday": 3,
+        "winner": null
+      },
+      "id": 537414,
+      "utcDate": "2026-06-27T21:00:00Z",
+      "status": "IN_PLAY",
+      "matchday": 3,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_L",
+      "lastUpdated": "2026-06-27T23:31:15Z",
+      "homeTeam": {
+        "id": 799,
+        "name": "Croatia",
+        "shortName": "Croatia",
+        "tla": "CRO",
+        "crest": "https://crests.football-data.org/799.svg"
+      },
+      "awayTeam": {
+        "id": 763,
+        "name": "Ghana",
+        "shortName": "Ghana",
+        "tla": "GHA",
+        "crest": "https://crests.football-data.org/ghana.svg"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 77052,
+          "name": "Drew Fischer",
+          "type": "REFEREE",
+          "nationality": "Canada"
+        }
+      ]
+    }
+  ],
   "finished": [
     {
       "area": {
@@ -10985,145 +11132,13 @@
         "currentMatchday": 3,
         "winner": null
       },
-      "id": 537413,
-      "utcDate": "2026-06-27T21:00:00Z",
-      "status": "TIMED",
-      "matchday": 3,
-      "stage": "GROUP_STAGE",
-      "group": "GROUP_L",
-      "lastUpdated": "2026-06-27T21:55:14Z",
-      "homeTeam": {
-        "id": 1836,
-        "name": "Panama",
-        "shortName": "Panama",
-        "tla": "PAN",
-        "crest": "https://crests.football-data.org/panama.svg"
-      },
-      "awayTeam": {
-        "id": 770,
-        "name": "England",
-        "shortName": "England",
-        "tla": "ENG",
-        "crest": "https://crests.football-data.org/770.svg"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 236084,
-          "name": "Abdulrahman Al Jassim",
-          "type": "REFEREE",
-          "nationality": "Qatar"
-        }
-      ]
-    },
-    {
-      "area": {
-        "id": 2267,
-        "name": "World",
-        "code": "INT",
-        "flag": null
-      },
-      "competition": {
-        "id": 2000,
-        "name": "FIFA World Cup",
-        "code": "WC",
-        "type": "CUP",
-        "emblem": "https://crests.football-data.org/wm26.png"
-      },
-      "season": {
-        "id": 2398,
-        "startDate": "2026-06-11",
-        "endDate": "2026-07-19",
-        "currentMatchday": 3,
-        "winner": null
-      },
-      "id": 537414,
-      "utcDate": "2026-06-27T21:00:00Z",
-      "status": "TIMED",
-      "matchday": 3,
-      "stage": "GROUP_STAGE",
-      "group": "GROUP_L",
-      "lastUpdated": "2026-06-27T21:57:13Z",
-      "homeTeam": {
-        "id": 799,
-        "name": "Croatia",
-        "shortName": "Croatia",
-        "tla": "CRO",
-        "crest": "https://crests.football-data.org/799.svg"
-      },
-      "awayTeam": {
-        "id": 763,
-        "name": "Ghana",
-        "shortName": "Ghana",
-        "tla": "GHA",
-        "crest": "https://crests.football-data.org/ghana.svg"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 77052,
-          "name": "Drew Fischer",
-          "type": "REFEREE",
-          "nationality": "Canada"
-        }
-      ]
-    },
-    {
-      "area": {
-        "id": 2267,
-        "name": "World",
-        "code": "INT",
-        "flag": null
-      },
-      "competition": {
-        "id": 2000,
-        "name": "FIFA World Cup",
-        "code": "WC",
-        "type": "CUP",
-        "emblem": "https://crests.football-data.org/wm26.png"
-      },
-      "season": {
-        "id": 2398,
-        "startDate": "2026-06-11",
-        "endDate": "2026-07-19",
-        "currentMatchday": 3,
-        "winner": null
-      },
       "id": 537407,
       "utcDate": "2026-06-27T23:30:00Z",
       "status": "TIMED",
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
-      "lastUpdated": "2026-06-27T20:20:40Z",
+      "lastUpdated": "2026-06-27T23:30:00Z",
       "homeTeam": {
         "id": 818,
         "name": "Colombia",
@@ -11153,7 +11168,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 55970,
+          "name": "Alireza Faghani",
+          "type": "REFEREE",
+          "nationality": "Iran"
+        }
+      ]
     },
     {
       "area": {
@@ -11182,7 +11204,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
-      "lastUpdated": "2026-06-27T20:20:40Z",
+      "lastUpdated": "2026-06-27T23:30:00Z",
       "homeTeam": {
         "id": 1934,
         "name": "Congo DR",
@@ -11212,7 +11234,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 43878,
+          "name": "Felix Zwayer",
+          "type": "REFEREE",
+          "nationality": "Germany"
+        }
+      ]
     },
     {
       "area": {
