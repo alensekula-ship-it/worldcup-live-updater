@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-06-27 11:38 UTC",
-  "lastUpdate": "2026-06-27 11:38 UTC",
+  "generatedAt": "2026-06-27 12:57 UTC",
+  "lastUpdate": "2026-06-27 12:57 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -5214,13 +5214,13 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-27T10:20:14Z",
+      "lastUpdated": "2026-06-27T14:02:22Z",
       "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null,
-        "tla": null,
-        "crest": null
+        "id": 805,
+        "name": "Belgium",
+        "shortName": "Belgium",
+        "tla": "BEL",
+        "crest": "https://crests.football-data.org/805.svg"
       },
       "awayTeam": {
         "id": null,
@@ -5332,13 +5332,13 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-27T10:20:14Z",
+      "lastUpdated": "2026-06-27T14:01:17Z",
       "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null,
-        "tla": null,
-        "crest": null
+        "id": 760,
+        "name": "Spain",
+        "shortName": "Spain",
+        "tla": "ESP",
+        "crest": "https://crests.football-data.org/760.svg"
       },
       "awayTeam": {
         "id": null,
@@ -11803,13 +11803,13 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-27T10:20:14Z",
+      "lastUpdated": "2026-06-27T14:02:22Z",
       "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null,
-        "tla": null,
-        "crest": null
+        "id": 805,
+        "name": "Belgium",
+        "shortName": "Belgium",
+        "tla": "BEL",
+        "crest": "https://crests.football-data.org/805.svg"
       },
       "awayTeam": {
         "id": null,
@@ -11921,13 +11921,13 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-27T10:20:14Z",
+      "lastUpdated": "2026-06-27T14:01:17Z",
       "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null,
-        "tla": null,
-        "crest": null
+        "id": 760,
+        "name": "Spain",
+        "shortName": "Spain",
+        "tla": "ESP",
+        "crest": "https://crests.football-data.org/760.svg"
       },
       "awayTeam": {
         "id": null,
