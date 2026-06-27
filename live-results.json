@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-06-27 18:52 UTC",
-  "lastUpdate": "2026-06-27 18:52 UTC",
+  "generatedAt": "2026-06-27 20:11 UTC",
+  "lastUpdate": "2026-06-27 20:11 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -4388,7 +4388,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-06-27T20:20:40Z",
+      "lastUpdated": "2026-06-27T21:55:14Z",
       "homeTeam": {
         "id": 1836,
         "name": "Panama",
@@ -4418,7 +4418,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 236084,
+          "name": "Abdulrahman Al Jassim",
+          "type": "REFEREE",
+          "nationality": "Qatar"
+        }
+      ]
     },
     {
       "area": {
@@ -4447,7 +4454,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-06-27T20:20:40Z",
+      "lastUpdated": "2026-06-27T21:57:13Z",
       "homeTeam": {
         "id": 799,
         "name": "Croatia",
@@ -4477,7 +4484,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 77052,
+          "name": "Drew Fischer",
+          "type": "REFEREE",
+          "nationality": "Canada"
+        }
+      ]
     },
     {
       "area": {
@@ -10977,7 +10991,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-06-27T20:20:40Z",
+      "lastUpdated": "2026-06-27T21:55:14Z",
       "homeTeam": {
         "id": 1836,
         "name": "Panama",
@@ -11007,7 +11021,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 236084,
+          "name": "Abdulrahman Al Jassim",
+          "type": "REFEREE",
+          "nationality": "Qatar"
+        }
+      ]
     },
     {
       "area": {
@@ -11036,7 +11057,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-06-27T20:20:40Z",
+      "lastUpdated": "2026-06-27T21:57:13Z",
       "homeTeam": {
         "id": 799,
         "name": "Croatia",
@@ -11066,7 +11087,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 77052,
+          "name": "Drew Fischer",
+          "type": "REFEREE",
+          "nationality": "Canada"
+        }
+      ]
     },
     {
       "area": {
