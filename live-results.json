@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-06-27 22:43 UTC",
-  "lastUpdate": "2026-06-27 22:43 UTC",
+  "generatedAt": "2026-06-27 23:45 UTC",
+  "lastUpdate": "2026-06-27 23:45 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -16,7 +16,7 @@
     "count": 104,
     "first": "2026-06-11",
     "last": "2026-07-19",
-    "played": 66
+    "played": 68
   },
   "matches": [
     {
@@ -4384,11 +4384,11 @@
       },
       "id": 537413,
       "utcDate": "2026-06-27T21:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-06-28T00:43:51Z",
+      "lastUpdated": "2026-06-28T00:56:42Z",
       "homeTeam": {
         "id": 1836,
         "name": "Panama",
@@ -4450,11 +4450,11 @@
       },
       "id": 537414,
       "utcDate": "2026-06-27T21:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-06-28T00:43:51Z",
+      "lastUpdated": "2026-06-28T00:59:51Z",
       "homeTeam": {
         "id": 799,
         "name": "Croatia",
@@ -4470,10 +4470,10 @@
         "crest": "https://crests.football-data.org/ghana.svg"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 2,
           "away": 1
         },
         "halfTime": {
@@ -4516,11 +4516,11 @@
       },
       "id": 537407,
       "utcDate": "2026-06-27T23:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
-      "lastUpdated": "2026-06-28T00:17:06Z",
+      "lastUpdated": "2026-06-28T01:44:57Z",
       "homeTeam": {
         "id": 818,
         "name": "Colombia",
@@ -4536,11 +4536,11 @@
         "crest": "https://crests.football-data.org/765.svg"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -4582,11 +4582,11 @@
       },
       "id": 537408,
       "utcDate": "2026-06-27T23:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
-      "lastUpdated": "2026-06-28T00:42:30Z",
+      "lastUpdated": "2026-06-28T01:44:57Z",
       "homeTeam": {
         "id": 1934,
         "name": "Congo DR",
@@ -4602,11 +4602,11 @@
         "crest": "https://crests.football-data.org/8070.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "halfTime": {
           "home": null,
@@ -5124,7 +5124,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-27T20:20:40Z",
+      "lastUpdated": "2026-06-28T01:27:21Z",
       "homeTeam": {
         "id": 769,
         "name": "Mexico",
@@ -5133,11 +5133,11 @@
         "crest": "https://crests.football-data.org/769.svg"
       },
       "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null,
-        "tla": null,
-        "crest": null
+        "id": 791,
+        "name": "Ecuador",
+        "shortName": "Ecuador",
+        "tla": "ECU",
+        "crest": "https://crests.football-data.org/791.svg"
       },
       "score": {
         "winner": null,
@@ -5183,13 +5183,13 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-27T20:20:40Z",
+      "lastUpdated": "2026-06-28T01:26:49Z",
       "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null,
-        "tla": null,
-        "crest": null
+        "id": 770,
+        "name": "England",
+        "shortName": "England",
+        "tla": "ENG",
+        "crest": "https://crests.football-data.org/770.svg"
       },
       "awayTeam": {
         "id": null,
@@ -5419,7 +5419,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-27T20:20:40Z",
+      "lastUpdated": "2026-06-28T01:28:10Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -5428,11 +5428,11 @@
         "crest": null
       },
       "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null,
-        "tla": null,
-        "crest": null
+        "id": 799,
+        "name": "Croatia",
+        "shortName": "Croatia",
+        "tla": "CRO",
+        "crest": "https://crests.football-data.org/799.svg"
       },
       "score": {
         "winner": null,
@@ -5655,7 +5655,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-27T20:20:40Z",
+      "lastUpdated": "2026-06-28T01:28:43Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -5664,11 +5664,11 @@
         "crest": null
       },
       "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null,
-        "tla": null,
-        "crest": null
+        "id": 763,
+        "name": "Ghana",
+        "shortName": "Ghana",
+        "tla": "GHA",
+        "crest": "https://crests.football-data.org/ghana.svg"
       },
       "score": {
         "winner": null,
@@ -6654,37 +6654,37 @@
         "currentMatchday": 3,
         "winner": null
       },
-      "id": 537413,
-      "utcDate": "2026-06-27T21:00:00Z",
+      "id": 537407,
+      "utcDate": "2026-06-27T23:30:00Z",
       "status": "IN_PLAY",
       "matchday": 3,
       "stage": "GROUP_STAGE",
-      "group": "GROUP_L",
-      "lastUpdated": "2026-06-28T00:43:51Z",
+      "group": "GROUP_K",
+      "lastUpdated": "2026-06-28T01:44:57Z",
       "homeTeam": {
-        "id": 1836,
-        "name": "Panama",
-        "shortName": "Panama",
-        "tla": "PAN",
-        "crest": "https://crests.football-data.org/panama.svg"
+        "id": 818,
+        "name": "Colombia",
+        "shortName": "Colombia",
+        "tla": "COL",
+        "crest": "https://crests.football-data.org/818.svg"
       },
       "awayTeam": {
-        "id": 770,
-        "name": "England",
-        "shortName": "England",
-        "tla": "ENG",
-        "crest": "https://crests.football-data.org/770.svg"
+        "id": 765,
+        "name": "Portugal",
+        "shortName": "Portugal",
+        "tla": "POR",
+        "crest": "https://crests.football-data.org/765.svg"
       },
       "score": {
-        "winner": "AWAY_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 2
+          "away": 0
         },
         "halfTime": {
-          "home": 0,
-          "away": 0
+          "home": null,
+          "away": null
         }
       },
       "odds": {
@@ -6692,10 +6692,10 @@
       },
       "referees": [
         {
-          "id": 236084,
-          "name": "Abdulrahman Al Jassim",
+          "id": 55970,
+          "name": "Alireza Faghani",
           "type": "REFEREE",
-          "nationality": "Qatar"
+          "nationality": "Iran"
         }
       ]
     },
@@ -6720,37 +6720,37 @@
         "currentMatchday": 3,
         "winner": null
       },
-      "id": 537414,
-      "utcDate": "2026-06-27T21:00:00Z",
+      "id": 537408,
+      "utcDate": "2026-06-27T23:30:00Z",
       "status": "IN_PLAY",
       "matchday": 3,
       "stage": "GROUP_STAGE",
-      "group": "GROUP_L",
-      "lastUpdated": "2026-06-28T00:43:51Z",
+      "group": "GROUP_K",
+      "lastUpdated": "2026-06-28T01:44:57Z",
       "homeTeam": {
-        "id": 799,
-        "name": "Croatia",
-        "shortName": "Croatia",
-        "tla": "CRO",
-        "crest": "https://crests.football-data.org/799.svg"
+        "id": 1934,
+        "name": "Congo DR",
+        "shortName": "Congo DR",
+        "tla": "COD",
+        "crest": "https://crests.football-data.org/congo_dr.svg"
       },
       "awayTeam": {
-        "id": 763,
-        "name": "Ghana",
-        "shortName": "Ghana",
-        "tla": "GHA",
-        "crest": "https://crests.football-data.org/ghana.svg"
+        "id": 8070,
+        "name": "Uzbekistan",
+        "shortName": "Uzbekistan",
+        "tla": "UZB",
+        "crest": "https://crests.football-data.org/8070.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 0,
           "away": 1
         },
         "halfTime": {
-          "home": 1,
-          "away": 0
+          "home": null,
+          "away": null
         }
       },
       "odds": {
@@ -6758,10 +6758,10 @@
       },
       "referees": [
         {
-          "id": 77052,
-          "name": "Drew Fischer",
+          "id": 43878,
+          "name": "Felix Zwayer",
           "type": "REFEREE",
-          "nationality": "Canada"
+          "nationality": "Germany"
         }
       ]
     }
@@ -11108,141 +11108,141 @@
           "nationality": "Poland"
         }
       ]
+    },
+    {
+      "area": {
+        "id": 2267,
+        "name": "World",
+        "code": "INT",
+        "flag": null
+      },
+      "competition": {
+        "id": 2000,
+        "name": "FIFA World Cup",
+        "code": "WC",
+        "type": "CUP",
+        "emblem": "https://crests.football-data.org/wm26.png"
+      },
+      "season": {
+        "id": 2398,
+        "startDate": "2026-06-11",
+        "endDate": "2026-07-19",
+        "currentMatchday": 3,
+        "winner": null
+      },
+      "id": 537413,
+      "utcDate": "2026-06-27T21:00:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_L",
+      "lastUpdated": "2026-06-28T00:56:42Z",
+      "homeTeam": {
+        "id": 1836,
+        "name": "Panama",
+        "shortName": "Panama",
+        "tla": "PAN",
+        "crest": "https://crests.football-data.org/panama.svg"
+      },
+      "awayTeam": {
+        "id": 770,
+        "name": "England",
+        "shortName": "England",
+        "tla": "ENG",
+        "crest": "https://crests.football-data.org/770.svg"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 2
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 236084,
+          "name": "Abdulrahman Al Jassim",
+          "type": "REFEREE",
+          "nationality": "Qatar"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2267,
+        "name": "World",
+        "code": "INT",
+        "flag": null
+      },
+      "competition": {
+        "id": 2000,
+        "name": "FIFA World Cup",
+        "code": "WC",
+        "type": "CUP",
+        "emblem": "https://crests.football-data.org/wm26.png"
+      },
+      "season": {
+        "id": 2398,
+        "startDate": "2026-06-11",
+        "endDate": "2026-07-19",
+        "currentMatchday": 3,
+        "winner": null
+      },
+      "id": 537414,
+      "utcDate": "2026-06-27T21:00:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_L",
+      "lastUpdated": "2026-06-28T00:59:51Z",
+      "homeTeam": {
+        "id": 799,
+        "name": "Croatia",
+        "shortName": "Croatia",
+        "tla": "CRO",
+        "crest": "https://crests.football-data.org/799.svg"
+      },
+      "awayTeam": {
+        "id": 763,
+        "name": "Ghana",
+        "shortName": "Ghana",
+        "tla": "GHA",
+        "crest": "https://crests.football-data.org/ghana.svg"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 77052,
+          "name": "Drew Fischer",
+          "type": "REFEREE",
+          "nationality": "Canada"
+        }
+      ]
     }
   ],
   "upcoming": [
-    {
-      "area": {
-        "id": 2267,
-        "name": "World",
-        "code": "INT",
-        "flag": null
-      },
-      "competition": {
-        "id": 2000,
-        "name": "FIFA World Cup",
-        "code": "WC",
-        "type": "CUP",
-        "emblem": "https://crests.football-data.org/wm26.png"
-      },
-      "season": {
-        "id": 2398,
-        "startDate": "2026-06-11",
-        "endDate": "2026-07-19",
-        "currentMatchday": 3,
-        "winner": null
-      },
-      "id": 537407,
-      "utcDate": "2026-06-27T23:30:00Z",
-      "status": "TIMED",
-      "matchday": 3,
-      "stage": "GROUP_STAGE",
-      "group": "GROUP_K",
-      "lastUpdated": "2026-06-28T00:17:06Z",
-      "homeTeam": {
-        "id": 818,
-        "name": "Colombia",
-        "shortName": "Colombia",
-        "tla": "COL",
-        "crest": "https://crests.football-data.org/818.svg"
-      },
-      "awayTeam": {
-        "id": 765,
-        "name": "Portugal",
-        "shortName": "Portugal",
-        "tla": "POR",
-        "crest": "https://crests.football-data.org/765.svg"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 55970,
-          "name": "Alireza Faghani",
-          "type": "REFEREE",
-          "nationality": "Iran"
-        }
-      ]
-    },
-    {
-      "area": {
-        "id": 2267,
-        "name": "World",
-        "code": "INT",
-        "flag": null
-      },
-      "competition": {
-        "id": 2000,
-        "name": "FIFA World Cup",
-        "code": "WC",
-        "type": "CUP",
-        "emblem": "https://crests.football-data.org/wm26.png"
-      },
-      "season": {
-        "id": 2398,
-        "startDate": "2026-06-11",
-        "endDate": "2026-07-19",
-        "currentMatchday": 3,
-        "winner": null
-      },
-      "id": 537408,
-      "utcDate": "2026-06-27T23:30:00Z",
-      "status": "TIMED",
-      "matchday": 3,
-      "stage": "GROUP_STAGE",
-      "group": "GROUP_K",
-      "lastUpdated": "2026-06-28T00:42:30Z",
-      "homeTeam": {
-        "id": 1934,
-        "name": "Congo DR",
-        "shortName": "Congo DR",
-        "tla": "COD",
-        "crest": "https://crests.football-data.org/congo_dr.svg"
-      },
-      "awayTeam": {
-        "id": 8070,
-        "name": "Uzbekistan",
-        "shortName": "Uzbekistan",
-        "tla": "UZB",
-        "crest": "https://crests.football-data.org/8070.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 43878,
-          "name": "Felix Zwayer",
-          "type": "REFEREE",
-          "nationality": "Germany"
-        }
-      ]
-    },
     {
       "area": {
         "id": 2267,
@@ -11742,7 +11742,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-27T20:20:40Z",
+      "lastUpdated": "2026-06-28T01:27:21Z",
       "homeTeam": {
         "id": 769,
         "name": "Mexico",
@@ -11751,11 +11751,11 @@
         "crest": "https://crests.football-data.org/769.svg"
       },
       "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null,
-        "tla": null,
-        "crest": null
+        "id": 791,
+        "name": "Ecuador",
+        "shortName": "Ecuador",
+        "tla": "ECU",
+        "crest": "https://crests.football-data.org/791.svg"
       },
       "score": {
         "winner": null,
@@ -11801,13 +11801,13 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-27T20:20:40Z",
+      "lastUpdated": "2026-06-28T01:26:49Z",
       "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null,
-        "tla": null,
-        "crest": null
+        "id": 770,
+        "name": "England",
+        "shortName": "England",
+        "tla": "ENG",
+        "crest": "https://crests.football-data.org/770.svg"
       },
       "awayTeam": {
         "id": null,
@@ -12037,7 +12037,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-27T20:20:40Z",
+      "lastUpdated": "2026-06-28T01:28:10Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -12046,11 +12046,11 @@
         "crest": null
       },
       "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null,
-        "tla": null,
-        "crest": null
+        "id": 799,
+        "name": "Croatia",
+        "shortName": "Croatia",
+        "tla": "CRO",
+        "crest": "https://crests.football-data.org/799.svg"
       },
       "score": {
         "winner": null,
@@ -12273,7 +12273,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-27T20:20:40Z",
+      "lastUpdated": "2026-06-28T01:28:43Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -12282,11 +12282,11 @@
         "crest": null
       },
       "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null,
-        "tla": null,
-        "crest": null
+        "id": 763,
+        "name": "Ghana",
+        "shortName": "Ghana",
+        "tla": "GHA",
+        "crest": "https://crests.football-data.org/ghana.svg"
       },
       "score": {
         "winner": null,
