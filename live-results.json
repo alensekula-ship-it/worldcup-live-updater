@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-06-28 19:36 UTC",
-  "lastUpdate": "2026-06-28 19:36 UTC",
+  "generatedAt": "2026-06-28 20:45 UTC",
+  "lastUpdate": "2026-06-28 20:45 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -4784,7 +4784,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-28T21:36:45Z",
+      "lastUpdated": "2026-06-28T22:45:21Z",
       "homeTeam": {
         "id": 774,
         "name": "South Africa",
@@ -4807,8 +4807,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -6681,7 +6681,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-28T21:36:45Z",
+      "lastUpdated": "2026-06-28T22:45:21Z",
       "homeTeam": {
         "id": 774,
         "name": "South Africa",
@@ -6704,8 +6704,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
