@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-06-29 17:48 UTC",
-  "lastUpdate": "2026-06-29 17:48 UTC",
+  "generatedAt": "2026-06-29 20:05 UTC",
+  "lastUpdate": "2026-06-29 20:05 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -16,7 +16,7 @@
     "count": 104,
     "first": "2026-06-11",
     "last": "2026-07-19",
-    "played": 73
+    "played": 74
   },
   "matches": [
     {
@@ -4846,11 +4846,11 @@
       },
       "id": 537423,
       "utcDate": "2026-06-29T17:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-29T19:48:27Z",
+      "lastUpdated": "2026-06-29T21:04:03Z",
       "homeTeam": {
         "id": 764,
         "name": "Brazil",
@@ -4866,15 +4866,15 @@
         "crest": "https://crests.football-data.org/766.svg"
       },
       "score": {
-        "winner": "AWAY_TEAM",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -4916,7 +4916,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-29T15:20:12Z",
+      "lastUpdated": "2026-06-29T21:35:00Z",
       "homeTeam": {
         "id": 759,
         "name": "Germany",
@@ -4946,7 +4946,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 289426,
+          "name": "Jalal Jayed",
+          "type": "REFEREE",
+          "nationality": "Morocco"
+        }
+      ]
     },
     {
       "area": {
@@ -5860,13 +5867,13 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-06-29T15:20:12Z",
+      "lastUpdated": "2026-06-29T21:32:39Z",
       "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null,
-        "tla": null,
-        "crest": null
+        "id": 764,
+        "name": "Brazil",
+        "shortName": "Brazil",
+        "tla": "BRA",
+        "crest": "https://crests.football-data.org/764.svg"
       },
       "awayTeam": {
         "id": null,
@@ -6660,74 +6667,7 @@
       "referees": []
     }
   ],
-  "live": [
-    {
-      "area": {
-        "id": 2267,
-        "name": "World",
-        "code": "INT",
-        "flag": null
-      },
-      "competition": {
-        "id": 2000,
-        "name": "FIFA World Cup",
-        "code": "WC",
-        "type": "CUP",
-        "emblem": "https://crests.football-data.org/wm26.png"
-      },
-      "season": {
-        "id": 2398,
-        "startDate": "2026-06-11",
-        "endDate": "2026-07-19",
-        "currentMatchday": 3,
-        "winner": null
-      },
-      "id": 537423,
-      "utcDate": "2026-06-29T17:00:00Z",
-      "status": "IN_PLAY",
-      "matchday": null,
-      "stage": "LAST_32",
-      "group": null,
-      "lastUpdated": "2026-06-29T19:48:27Z",
-      "homeTeam": {
-        "id": 764,
-        "name": "Brazil",
-        "shortName": "Brazil",
-        "tla": "BRA",
-        "crest": "https://crests.football-data.org/764.svg"
-      },
-      "awayTeam": {
-        "id": 766,
-        "name": "Japan",
-        "shortName": "Japan",
-        "tla": "JPN",
-        "crest": "https://crests.football-data.org/766.svg"
-      },
-      "score": {
-        "winner": "AWAY_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 0,
-          "away": 1
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 11043,
-          "name": "Maurizio Mariani",
-          "type": "REFEREE",
-          "nationality": "Italy"
-        }
-      ]
-    }
-  ],
+  "live": [],
   "finished": [
     {
       "area": {
@@ -11532,6 +11472,72 @@
           "nationality": "Portugal"
         }
       ]
+    },
+    {
+      "area": {
+        "id": 2267,
+        "name": "World",
+        "code": "INT",
+        "flag": null
+      },
+      "competition": {
+        "id": 2000,
+        "name": "FIFA World Cup",
+        "code": "WC",
+        "type": "CUP",
+        "emblem": "https://crests.football-data.org/wm26.png"
+      },
+      "season": {
+        "id": 2398,
+        "startDate": "2026-06-11",
+        "endDate": "2026-07-19",
+        "currentMatchday": 3,
+        "winner": null
+      },
+      "id": 537423,
+      "utcDate": "2026-06-29T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": null,
+      "stage": "LAST_32",
+      "group": null,
+      "lastUpdated": "2026-06-29T21:04:03Z",
+      "homeTeam": {
+        "id": 764,
+        "name": "Brazil",
+        "shortName": "Brazil",
+        "tla": "BRA",
+        "crest": "https://crests.football-data.org/764.svg"
+      },
+      "awayTeam": {
+        "id": 766,
+        "name": "Japan",
+        "shortName": "Japan",
+        "tla": "JPN",
+        "crest": "https://crests.football-data.org/766.svg"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 11043,
+          "name": "Maurizio Mariani",
+          "type": "REFEREE",
+          "nationality": "Italy"
+        }
+      ]
     }
   ],
   "upcoming": [
@@ -11562,7 +11568,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-29T15:20:12Z",
+      "lastUpdated": "2026-06-29T21:35:00Z",
       "homeTeam": {
         "id": 759,
         "name": "Germany",
@@ -11592,7 +11598,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 289426,
+          "name": "Jalal Jayed",
+          "type": "REFEREE",
+          "nationality": "Morocco"
+        }
+      ]
     },
     {
       "area": {
@@ -12506,13 +12519,13 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-06-29T15:20:12Z",
+      "lastUpdated": "2026-06-29T21:32:39Z",
       "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null,
-        "tla": null,
-        "crest": null
+        "id": 764,
+        "name": "Brazil",
+        "shortName": "Brazil",
+        "tla": "BRA",
+        "crest": "https://crests.football-data.org/764.svg"
       },
       "awayTeam": {
         "id": null,
