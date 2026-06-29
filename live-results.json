@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-06-29 21:44 UTC",
-  "lastUpdate": "2026-06-29 21:44 UTC",
+  "generatedAt": "2026-06-29 22:45 UTC",
+  "lastUpdate": "2026-06-29 22:45 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -4916,7 +4916,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-29T23:44:45Z",
+      "lastUpdated": "2026-06-30T00:45:17Z",
       "homeTeam": {
         "id": 759,
         "name": "Germany",
@@ -4932,15 +4932,23 @@
         "crest": "https://crests.football-data.org/761.svg"
       },
       "score": {
-        "winner": "AWAY_TEAM",
-        "duration": "REGULAR",
+        "winner": "HOME_TEAM",
+        "duration": "EXTRA_TIME",
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 1
         },
         "halfTime": {
           "home": 0,
           "away": 1
+        },
+        "regularTime": {
+          "home": 1,
+          "away": 1
+        },
+        "extraTime": {
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -6695,7 +6703,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-29T23:44:45Z",
+      "lastUpdated": "2026-06-30T00:45:17Z",
       "homeTeam": {
         "id": 759,
         "name": "Germany",
@@ -6711,15 +6719,23 @@
         "crest": "https://crests.football-data.org/761.svg"
       },
       "score": {
-        "winner": "AWAY_TEAM",
-        "duration": "REGULAR",
+        "winner": "HOME_TEAM",
+        "duration": "EXTRA_TIME",
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 1
         },
         "halfTime": {
           "home": 0,
           "away": 1
+        },
+        "regularTime": {
+          "home": 1,
+          "away": 1
+        },
+        "extraTime": {
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
