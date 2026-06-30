@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-06-30 00:09 UTC",
-  "lastUpdate": "2026-06-30 00:09 UTC",
+  "generatedAt": "2026-06-30 04:34 UTC",
+  "lastUpdate": "2026-06-30 04:34 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -16,7 +16,7 @@
     "count": 104,
     "first": "2026-06-11",
     "last": "2026-07-19",
-    "played": 75
+    "played": 76
   },
   "matches": [
     {
@@ -4916,7 +4916,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-30T02:00:09Z",
+      "lastUpdated": "2026-06-30T02:22:13Z",
       "homeTeam": {
         "id": 759,
         "name": "Germany",
@@ -4935,8 +4935,8 @@
         "winner": "AWAY_TEAM",
         "duration": "PENALTY_SHOOTOUT",
         "fullTime": {
-          "home": 5,
-          "away": 6
+          "home": 4,
+          "away": 5
         },
         "halfTime": {
           "home": 0,
@@ -4951,8 +4951,8 @@
           "away": 0
         },
         "penalties": {
-          "home": 4,
-          "away": 5
+          "home": 3,
+          "away": 4
         }
       },
       "odds": {
@@ -4990,11 +4990,11 @@
       },
       "id": 537418,
       "utcDate": "2026-06-30T01:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-30T02:08:57Z",
+      "lastUpdated": "2026-06-30T06:02:35Z",
       "homeTeam": {
         "id": 8601,
         "name": "Netherlands",
@@ -5010,15 +5010,27 @@
         "crest": "https://crests.football-data.org/morocco.svg"
       },
       "score": {
-        "winner": null,
-        "duration": "REGULAR",
+        "winner": "AWAY_TEAM",
+        "duration": "PENALTY_SHOOTOUT",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 4
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
+        },
+        "regularTime": {
+          "home": 1,
+          "away": 1
+        },
+        "extraTime": {
+          "home": 0,
+          "away": 0
+        },
+        "penalties": {
+          "home": 2,
+          "away": 3
         }
       },
       "odds": {
@@ -5827,13 +5839,13 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-06-29T15:20:12Z",
+      "lastUpdated": "2026-06-30T04:22:06Z",
       "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null,
-        "tla": null,
-        "crest": null
+        "id": 761,
+        "name": "Paraguay",
+        "shortName": "Paraguay",
+        "tla": "PAR",
+        "crest": "https://crests.football-data.org/761.svg"
       },
       "awayTeam": {
         "id": null,
@@ -11585,7 +11597,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-30T02:00:09Z",
+      "lastUpdated": "2026-06-30T02:22:13Z",
       "homeTeam": {
         "id": 759,
         "name": "Germany",
@@ -11604,8 +11616,8 @@
         "winner": "AWAY_TEAM",
         "duration": "PENALTY_SHOOTOUT",
         "fullTime": {
-          "home": 5,
-          "away": 6
+          "home": 4,
+          "away": 5
         },
         "halfTime": {
           "home": 0,
@@ -11620,8 +11632,8 @@
           "away": 0
         },
         "penalties": {
-          "home": 4,
-          "away": 5
+          "home": 3,
+          "away": 4
         }
       },
       "odds": {
@@ -11635,9 +11647,7 @@
           "nationality": "Morocco"
         }
       ]
-    }
-  ],
-  "upcoming": [
+    },
     {
       "area": {
         "id": 2267,
@@ -11661,11 +11671,11 @@
       },
       "id": 537418,
       "utcDate": "2026-06-30T01:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-30T02:08:57Z",
+      "lastUpdated": "2026-06-30T06:02:35Z",
       "homeTeam": {
         "id": 8601,
         "name": "Netherlands",
@@ -11681,15 +11691,27 @@
         "crest": "https://crests.football-data.org/morocco.svg"
       },
       "score": {
-        "winner": null,
-        "duration": "REGULAR",
+        "winner": "AWAY_TEAM",
+        "duration": "PENALTY_SHOOTOUT",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 4
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
+        },
+        "regularTime": {
+          "home": 1,
+          "away": 1
+        },
+        "extraTime": {
+          "home": 0,
+          "away": 0
+        },
+        "penalties": {
+          "home": 2,
+          "away": 3
         }
       },
       "odds": {
@@ -11703,7 +11725,9 @@
           "nationality": "Brazil"
         }
       ]
-    },
+    }
+  ],
+  "upcoming": [
     {
       "area": {
         "id": 2267,
@@ -12498,13 +12522,13 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-06-29T15:20:12Z",
+      "lastUpdated": "2026-06-30T04:22:06Z",
       "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null,
-        "tla": null,
-        "crest": null
+        "id": 761,
+        "name": "Paraguay",
+        "shortName": "Paraguay",
+        "tla": "PAR",
+        "crest": "https://crests.football-data.org/761.svg"
       },
       "awayTeam": {
         "id": null,
