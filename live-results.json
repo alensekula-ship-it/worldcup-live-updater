@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-01 20:25 UTC",
-  "lastUpdate": "2026-07-01 20:25 UTC",
+  "generatedAt": "2026-07-01 22:04 UTC",
+  "lastUpdate": "2026-07-01 22:04 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -5332,11 +5332,11 @@
       },
       "id": 537422,
       "utcDate": "2026-07-01T20:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-01T22:25:24Z",
+      "lastUpdated": "2026-07-02T00:04:51Z",
       "homeTeam": {
         "id": 805,
         "name": "Belgium",
@@ -5355,12 +5355,12 @@
         "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
-          "away": 0
+          "home": 2,
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -5402,7 +5402,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-01T15:20:12Z",
+      "lastUpdated": "2026-07-02T00:00:00Z",
       "homeTeam": {
         "id": 771,
         "name": "United States",
@@ -5432,7 +5432,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11260,
+          "name": "Raphael Claus",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -6757,11 +6764,11 @@
       },
       "id": 537422,
       "utcDate": "2026-07-01T20:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-01T22:25:24Z",
+      "lastUpdated": "2026-07-02T00:04:51Z",
       "homeTeam": {
         "id": 805,
         "name": "Belgium",
@@ -6780,12 +6787,12 @@
         "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
-          "away": 0
+          "home": 2,
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -12121,7 +12128,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-01T15:20:12Z",
+      "lastUpdated": "2026-07-02T00:00:00Z",
       "homeTeam": {
         "id": 771,
         "name": "United States",
@@ -12151,7 +12158,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11260,
+          "name": "Raphael Claus",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
