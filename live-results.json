@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-03 04:10 UTC",
-  "lastUpdate": "2026-07-03 04:10 UTC",
+  "generatedAt": "2026-07-03 07:40 UTC",
+  "lastUpdate": "2026-07-03 07:40 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -16,7 +16,7 @@
     "count": 104,
     "first": "2026-06-11",
     "last": "2026-07-19",
-    "played": 84
+    "played": 85
   },
   "matches": [
     {
@@ -5604,11 +5604,11 @@
       },
       "id": 537429,
       "utcDate": "2026-07-03T03:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-03T06:10:42Z",
+      "lastUpdated": "2026-07-03T06:58:24Z",
       "homeTeam": {
         "id": 788,
         "name": "Switzerland",
@@ -6769,74 +6769,7 @@
       "referees": []
     }
   ],
-  "live": [
-    {
-      "area": {
-        "id": 2267,
-        "name": "World",
-        "code": "INT",
-        "flag": null
-      },
-      "competition": {
-        "id": 2000,
-        "name": "FIFA World Cup",
-        "code": "WC",
-        "type": "CUP",
-        "emblem": "https://crests.football-data.org/wm26.png"
-      },
-      "season": {
-        "id": 2398,
-        "startDate": "2026-06-11",
-        "endDate": "2026-07-19",
-        "currentMatchday": 3,
-        "winner": null
-      },
-      "id": 537429,
-      "utcDate": "2026-07-03T03:00:00Z",
-      "status": "IN_PLAY",
-      "matchday": null,
-      "stage": "LAST_32",
-      "group": null,
-      "lastUpdated": "2026-07-03T06:10:42Z",
-      "homeTeam": {
-        "id": 788,
-        "name": "Switzerland",
-        "shortName": "Switzerland",
-        "tla": "SUI",
-        "crest": "https://crests.football-data.org/788.svg"
-      },
-      "awayTeam": {
-        "id": 778,
-        "name": "Algeria",
-        "shortName": "Algeria",
-        "tla": "ALG",
-        "crest": "https://crests.football-data.org/algeria.svg"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 2,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 0
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 57435,
-          "name": "Yael Falcón",
-          "type": "REFEREE",
-          "nationality": "Argentina"
-        }
-      ]
-    }
-  ],
+  "live": [],
   "finished": [
     {
       "area": {
@@ -12397,6 +12330,72 @@
           "name": "Espen Eskås",
           "type": "REFEREE",
           "nationality": "Norway"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2267,
+        "name": "World",
+        "code": "INT",
+        "flag": null
+      },
+      "competition": {
+        "id": 2000,
+        "name": "FIFA World Cup",
+        "code": "WC",
+        "type": "CUP",
+        "emblem": "https://crests.football-data.org/wm26.png"
+      },
+      "season": {
+        "id": 2398,
+        "startDate": "2026-06-11",
+        "endDate": "2026-07-19",
+        "currentMatchday": 3,
+        "winner": null
+      },
+      "id": 537429,
+      "utcDate": "2026-07-03T03:00:00Z",
+      "status": "FINISHED",
+      "matchday": null,
+      "stage": "LAST_32",
+      "group": null,
+      "lastUpdated": "2026-07-03T06:58:24Z",
+      "homeTeam": {
+        "id": 788,
+        "name": "Switzerland",
+        "shortName": "Switzerland",
+        "tla": "SUI",
+        "crest": "https://crests.football-data.org/788.svg"
+      },
+      "awayTeam": {
+        "id": 778,
+        "name": "Algeria",
+        "shortName": "Algeria",
+        "tla": "ALG",
+        "crest": "https://crests.football-data.org/algeria.svg"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 57435,
+          "name": "Yael Falcón",
+          "type": "REFEREE",
+          "nationality": "Argentina"
         }
       ]
     }
