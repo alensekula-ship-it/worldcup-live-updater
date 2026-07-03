@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-03 18:02 UTC",
-  "lastUpdate": "2026-07-03 18:02 UTC",
+  "generatedAt": "2026-07-03 19:50 UTC",
+  "lastUpdate": "2026-07-03 19:50 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -5674,7 +5674,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-03T20:02:45Z",
+      "lastUpdated": "2026-07-03T21:50:33Z",
       "homeTeam": {
         "id": 779,
         "name": "Australia",
@@ -5693,12 +5693,12 @@
         "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
-          "away": 0
+          "home": 1,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -6804,7 +6804,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-03T20:02:45Z",
+      "lastUpdated": "2026-07-03T21:50:33Z",
       "homeTeam": {
         "id": 779,
         "name": "Australia",
@@ -6823,12 +6823,12 @@
         "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
-          "away": 0
+          "home": 1,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
