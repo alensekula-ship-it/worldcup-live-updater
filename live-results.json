@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-03 22:17 UTC",
-  "lastUpdate": "2026-07-03 22:17 UTC",
+  "generatedAt": "2026-07-03 23:35 UTC",
+  "lastUpdate": "2026-07-03 23:35 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -5752,7 +5752,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-04T00:17:39Z",
+      "lastUpdated": "2026-07-04T01:35:57Z",
       "homeTeam": {
         "id": 762,
         "name": "Argentina",
@@ -5771,12 +5771,12 @@
         "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
-          "away": 0
+          "home": 1,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
@@ -5818,7 +5818,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-03T15:20:13Z",
+      "lastUpdated": "2026-07-04T01:30:00Z",
       "homeTeam": {
         "id": 818,
         "name": "Colombia",
@@ -5848,7 +5848,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 9374,
+          "name": "Clément Turpin",
+          "type": "REFEREE",
+          "nationality": "France"
+        }
+      ]
     },
     {
       "area": {
@@ -6823,7 +6830,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-04T00:17:39Z",
+      "lastUpdated": "2026-07-04T01:35:57Z",
       "homeTeam": {
         "id": 762,
         "name": "Argentina",
@@ -6842,12 +6849,12 @@
         "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
-          "away": 0
+          "home": 1,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
@@ -12599,7 +12606,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-03T15:20:13Z",
+      "lastUpdated": "2026-07-04T01:30:00Z",
       "homeTeam": {
         "id": 818,
         "name": "Colombia",
@@ -12629,7 +12636,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 9374,
+          "name": "Clément Turpin",
+          "type": "REFEREE",
+          "nationality": "France"
+        }
+      ]
     },
     {
       "area": {
