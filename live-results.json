@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-04 05:12 UTC",
-  "lastUpdate": "2026-07-04 05:12 UTC",
+  "generatedAt": "2026-07-04 08:06 UTC",
+  "lastUpdate": "2026-07-04 08:06 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -6246,13 +6246,13 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-03T23:00:10Z",
+      "lastUpdated": "2026-07-04T07:44:48Z",
       "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null,
-        "tla": null,
-        "crest": null
+        "id": 762,
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "tla": "ARG",
+        "crest": "https://crests.football-data.org/762.png"
       },
       "awayTeam": {
         "id": 825,
@@ -6305,7 +6305,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-03T15:20:13Z",
+      "lastUpdated": "2026-07-04T07:45:34Z",
       "homeTeam": {
         "id": 788,
         "name": "Switzerland",
@@ -6314,11 +6314,11 @@
         "crest": "https://crests.football-data.org/788.svg"
       },
       "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null,
-        "tla": null,
-        "crest": null
+        "id": 818,
+        "name": "Colombia",
+        "shortName": "Colombia",
+        "tla": "COL",
+        "crest": "https://crests.football-data.org/818.svg"
       },
       "score": {
         "winner": null,
@@ -13041,13 +13041,13 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-03T23:00:10Z",
+      "lastUpdated": "2026-07-04T07:44:48Z",
       "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null,
-        "tla": null,
-        "crest": null
+        "id": 762,
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "tla": "ARG",
+        "crest": "https://crests.football-data.org/762.png"
       },
       "awayTeam": {
         "id": 825,
@@ -13100,7 +13100,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-03T15:20:13Z",
+      "lastUpdated": "2026-07-04T07:45:34Z",
       "homeTeam": {
         "id": 788,
         "name": "Switzerland",
@@ -13109,11 +13109,11 @@
         "crest": "https://crests.football-data.org/788.svg"
       },
       "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null,
-        "tla": null,
-        "crest": null
+        "id": 818,
+        "name": "Colombia",
+        "shortName": "Colombia",
+        "tla": "COL",
+        "crest": "https://crests.football-data.org/818.svg"
       },
       "score": {
         "winner": null,
