@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-04 17:27 UTC",
-  "lastUpdate": "2026-07-04 17:27 UTC",
+  "generatedAt": "2026-07-04 18:35 UTC",
+  "lastUpdate": "2026-07-04 18:35 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -5892,7 +5892,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-04T19:27:51Z",
+      "lastUpdated": "2026-07-04T20:35:06Z",
       "homeTeam": {
         "id": 828,
         "name": "Canada",
@@ -5908,15 +5908,15 @@
         "crest": "https://crests.football-data.org/morocco.svg"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -6845,7 +6845,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-04T19:27:51Z",
+      "lastUpdated": "2026-07-04T20:35:06Z",
       "homeTeam": {
         "id": 828,
         "name": "Canada",
@@ -6861,15 +6861,15 @@
         "crest": "https://crests.football-data.org/morocco.svg"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
