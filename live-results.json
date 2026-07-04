@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-04 01:18 UTC",
-  "lastUpdate": "2026-07-04 01:18 UTC",
+  "generatedAt": "2026-07-04 05:12 UTC",
+  "lastUpdate": "2026-07-04 05:12 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -16,7 +16,7 @@
     "count": 104,
     "first": "2026-06-11",
     "last": "2026-07-19",
-    "played": 87
+    "played": 88
   },
   "matches": [
     {
@@ -5822,11 +5822,11 @@
       },
       "id": 537430,
       "utcDate": "2026-07-04T01:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-04T02:48:18Z",
+      "lastUpdated": "2026-07-04T05:32:36Z",
       "homeTeam": {
         "id": 818,
         "name": "Colombia",
@@ -5842,15 +5842,15 @@
         "crest": "https://crests.football-data.org/ghana.svg"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
@@ -12591,9 +12591,7 @@
           "nationality": "Canada"
         }
       ]
-    }
-  ],
-  "upcoming": [
+    },
     {
       "area": {
         "id": 2267,
@@ -12617,11 +12615,11 @@
       },
       "id": 537430,
       "utcDate": "2026-07-04T01:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-04T02:48:18Z",
+      "lastUpdated": "2026-07-04T05:32:36Z",
       "homeTeam": {
         "id": 818,
         "name": "Colombia",
@@ -12637,15 +12635,15 @@
         "crest": "https://crests.football-data.org/ghana.svg"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
@@ -12659,7 +12657,9 @@
           "nationality": "France"
         }
       ]
-    },
+    }
+  ],
+  "upcoming": [
     {
       "area": {
         "id": 2267,
