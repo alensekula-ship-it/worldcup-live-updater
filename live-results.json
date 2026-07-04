@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-04 18:35 UTC",
-  "lastUpdate": "2026-07-04 18:35 UTC",
+  "generatedAt": "2026-07-04 19:56 UTC",
+  "lastUpdate": "2026-07-04 19:56 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -16,7 +16,7 @@
     "count": 104,
     "first": "2026-06-11",
     "last": "2026-07-19",
-    "played": 88
+    "played": 89
   },
   "matches": [
     {
@@ -5888,11 +5888,11 @@
       },
       "id": 537376,
       "utcDate": "2026-07-04T17:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-04T20:35:06Z",
+      "lastUpdated": "2026-07-04T21:09:58Z",
       "homeTeam": {
         "id": 828,
         "name": "Canada",
@@ -5912,7 +5912,7 @@
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 1
+          "away": 3
         },
         "halfTime": {
           "home": 0,
@@ -5958,7 +5958,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-04T15:20:12Z",
+      "lastUpdated": "2026-07-04T21:47:00Z",
       "homeTeam": {
         "id": 761,
         "name": "Paraguay",
@@ -5988,7 +5988,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 236055,
+          "name": "Il'giz Tantashev",
+          "type": "REFEREE",
+          "nationality": "Uzbekistan"
+        }
+      ]
     },
     {
       "area": {
@@ -6371,7 +6378,7 @@
       "matchday": null,
       "stage": "QUARTER_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-04T15:20:12Z",
+      "lastUpdated": "2026-07-04T21:15:31Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -6380,11 +6387,11 @@
         "crest": null
       },
       "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null,
-        "tla": null,
-        "crest": null
+        "id": 815,
+        "name": "Morocco",
+        "shortName": "Morocco",
+        "tla": "MAR",
+        "crest": "https://crests.football-data.org/morocco.svg"
       },
       "score": {
         "winner": null,
@@ -6817,74 +6824,7 @@
       "referees": []
     }
   ],
-  "live": [
-    {
-      "area": {
-        "id": 2267,
-        "name": "World",
-        "code": "INT",
-        "flag": null
-      },
-      "competition": {
-        "id": 2000,
-        "name": "FIFA World Cup",
-        "code": "WC",
-        "type": "CUP",
-        "emblem": "https://crests.football-data.org/wm26.png"
-      },
-      "season": {
-        "id": 2398,
-        "startDate": "2026-06-11",
-        "endDate": "2026-07-19",
-        "currentMatchday": 3,
-        "winner": null
-      },
-      "id": 537376,
-      "utcDate": "2026-07-04T17:00:00Z",
-      "status": "IN_PLAY",
-      "matchday": null,
-      "stage": "LAST_16",
-      "group": null,
-      "lastUpdated": "2026-07-04T20:35:06Z",
-      "homeTeam": {
-        "id": 828,
-        "name": "Canada",
-        "shortName": "Canada",
-        "tla": "CAN",
-        "crest": "https://crests.football-data.org/canada.svg"
-      },
-      "awayTeam": {
-        "id": 815,
-        "name": "Morocco",
-        "shortName": "Morocco",
-        "tla": "MAR",
-        "crest": "https://crests.football-data.org/morocco.svg"
-      },
-      "score": {
-        "winner": "AWAY_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 0,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 0
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 11605,
-          "name": "Michael Oliver",
-          "type": "REFEREE",
-          "nationality": "England"
-        }
-      ]
-    }
-  ],
+  "live": [],
   "finished": [
     {
       "area": {
@@ -12731,6 +12671,72 @@
           "nationality": "France"
         }
       ]
+    },
+    {
+      "area": {
+        "id": 2267,
+        "name": "World",
+        "code": "INT",
+        "flag": null
+      },
+      "competition": {
+        "id": 2000,
+        "name": "FIFA World Cup",
+        "code": "WC",
+        "type": "CUP",
+        "emblem": "https://crests.football-data.org/wm26.png"
+      },
+      "season": {
+        "id": 2398,
+        "startDate": "2026-06-11",
+        "endDate": "2026-07-19",
+        "currentMatchday": 3,
+        "winner": null
+      },
+      "id": 537376,
+      "utcDate": "2026-07-04T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": null,
+      "stage": "LAST_16",
+      "group": null,
+      "lastUpdated": "2026-07-04T21:09:58Z",
+      "homeTeam": {
+        "id": 828,
+        "name": "Canada",
+        "shortName": "Canada",
+        "tla": "CAN",
+        "crest": "https://crests.football-data.org/canada.svg"
+      },
+      "awayTeam": {
+        "id": 815,
+        "name": "Morocco",
+        "shortName": "Morocco",
+        "tla": "MAR",
+        "crest": "https://crests.football-data.org/morocco.svg"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 3
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 11605,
+          "name": "Michael Oliver",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     }
   ],
   "upcoming": [
@@ -12761,7 +12767,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-04T15:20:12Z",
+      "lastUpdated": "2026-07-04T21:47:00Z",
       "homeTeam": {
         "id": 761,
         "name": "Paraguay",
@@ -12791,7 +12797,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 236055,
+          "name": "Il'giz Tantashev",
+          "type": "REFEREE",
+          "nationality": "Uzbekistan"
+        }
+      ]
     },
     {
       "area": {
@@ -13174,7 +13187,7 @@
       "matchday": null,
       "stage": "QUARTER_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-04T15:20:12Z",
+      "lastUpdated": "2026-07-04T21:15:31Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -13183,11 +13196,11 @@
         "crest": null
       },
       "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null,
-        "tla": null,
-        "crest": null
+        "id": 815,
+        "name": "Morocco",
+        "shortName": "Morocco",
+        "tla": "MAR",
+        "crest": "https://crests.football-data.org/morocco.svg"
       },
       "score": {
         "winner": null,
