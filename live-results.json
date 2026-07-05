@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-05 19:59 UTC",
-  "lastUpdate": "2026-07-05 19:59 UTC",
+  "generatedAt": "2026-07-05 21:14 UTC",
+  "lastUpdate": "2026-07-05 21:14 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -6020,11 +6020,11 @@
       },
       "id": 537377,
       "utcDate": "2026-07-05T20:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-05T21:01:33Z",
+      "lastUpdated": "2026-07-05T23:14:27Z",
       "homeTeam": {
         "id": 764,
         "name": "Brazil",
@@ -6040,15 +6040,15 @@
         "crest": "https://crests.football-data.org/813.svg"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -6831,7 +6831,74 @@
       "referees": []
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "area": {
+        "id": 2267,
+        "name": "World",
+        "code": "INT",
+        "flag": null
+      },
+      "competition": {
+        "id": 2000,
+        "name": "FIFA World Cup",
+        "code": "WC",
+        "type": "CUP",
+        "emblem": "https://crests.football-data.org/wm26.png"
+      },
+      "season": {
+        "id": 2398,
+        "startDate": "2026-06-11",
+        "endDate": "2026-07-19",
+        "currentMatchday": 3,
+        "winner": null
+      },
+      "id": 537377,
+      "utcDate": "2026-07-05T20:00:00Z",
+      "status": "IN_PLAY",
+      "matchday": null,
+      "stage": "LAST_16",
+      "group": null,
+      "lastUpdated": "2026-07-05T23:14:27Z",
+      "homeTeam": {
+        "id": 764,
+        "name": "Brazil",
+        "shortName": "Brazil",
+        "tla": "BRA",
+        "crest": "https://crests.football-data.org/764.svg"
+      },
+      "awayTeam": {
+        "id": 8872,
+        "name": "Norway",
+        "shortName": "Norway",
+        "tla": "NOR",
+        "crest": "https://crests.football-data.org/813.svg"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 76608,
+          "name": "Ismail Elfath",
+          "type": "REFEREE",
+          "nationality": "United States"
+        }
+      ]
+    }
+  ],
   "finished": [
     {
       "area": {
@@ -12813,72 +12880,6 @@
     }
   ],
   "upcoming": [
-    {
-      "area": {
-        "id": 2267,
-        "name": "World",
-        "code": "INT",
-        "flag": null
-      },
-      "competition": {
-        "id": 2000,
-        "name": "FIFA World Cup",
-        "code": "WC",
-        "type": "CUP",
-        "emblem": "https://crests.football-data.org/wm26.png"
-      },
-      "season": {
-        "id": 2398,
-        "startDate": "2026-06-11",
-        "endDate": "2026-07-19",
-        "currentMatchday": 3,
-        "winner": null
-      },
-      "id": 537377,
-      "utcDate": "2026-07-05T20:00:00Z",
-      "status": "TIMED",
-      "matchday": null,
-      "stage": "LAST_16",
-      "group": null,
-      "lastUpdated": "2026-07-05T21:01:33Z",
-      "homeTeam": {
-        "id": 764,
-        "name": "Brazil",
-        "shortName": "Brazil",
-        "tla": "BRA",
-        "crest": "https://crests.football-data.org/764.svg"
-      },
-      "awayTeam": {
-        "id": 8872,
-        "name": "Norway",
-        "shortName": "Norway",
-        "tla": "NOR",
-        "crest": "https://crests.football-data.org/813.svg"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 76608,
-          "name": "Ismail Elfath",
-          "type": "REFEREE",
-          "nationality": "United States"
-        }
-      ]
-    },
     {
       "area": {
         "id": 2267,
