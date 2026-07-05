@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-05 22:16 UTC",
-  "lastUpdate": "2026-07-05 22:16 UTC",
+  "generatedAt": "2026-07-05 23:36 UTC",
+  "lastUpdate": "2026-07-05 23:36 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -6085,12 +6085,12 @@
         "winner": null
       },
       "id": 537378,
-      "utcDate": "2026-07-06T00:00:00Z",
-      "status": "TIMED",
+      "utcDate": "2026-07-06T01:00:00Z",
+      "status": "SCHEDULED",
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-06T00:00:00Z",
+      "lastUpdated": "2026-07-06T01:24:56Z",
       "homeTeam": {
         "id": 769,
         "name": "Mexico",
@@ -12908,12 +12908,12 @@
         "winner": null
       },
       "id": 537378,
-      "utcDate": "2026-07-06T00:00:00Z",
-      "status": "TIMED",
+      "utcDate": "2026-07-06T01:00:00Z",
+      "status": "SCHEDULED",
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-06T00:00:00Z",
+      "lastUpdated": "2026-07-06T01:24:56Z",
       "homeTeam": {
         "id": 769,
         "name": "Mexico",
