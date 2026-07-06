@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-06 21:11 UTC",
-  "lastUpdate": "2026-07-06 21:11 UTC",
+  "generatedAt": "2026-07-06 22:40 UTC",
+  "lastUpdate": "2026-07-06 22:40 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -6222,7 +6222,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-06T15:20:12Z",
+      "lastUpdated": "2026-07-07T00:00:00Z",
       "homeTeam": {
         "id": 771,
         "name": "United States",
@@ -6252,7 +6252,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 129250,
+          "name": "Adham Makhadmeh",
+          "type": "REFEREE",
+          "nationality": "Jordan"
+        }
+      ]
     },
     {
       "area": {
@@ -13052,7 +13059,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-06T15:20:12Z",
+      "lastUpdated": "2026-07-07T00:00:00Z",
       "homeTeam": {
         "id": 771,
         "name": "United States",
@@ -13082,7 +13089,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 129250,
+          "name": "Adham Makhadmeh",
+          "type": "REFEREE",
+          "nationality": "Jordan"
+        }
+      ]
     },
     {
       "area": {
