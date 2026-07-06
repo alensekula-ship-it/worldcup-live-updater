@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-06 14:37 UTC",
-  "lastUpdate": "2026-07-06 14:37 UTC",
+  "generatedAt": "2026-07-06 17:29 UTC",
+  "lastUpdate": "2026-07-06 17:29 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -6156,7 +6156,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-06T15:20:12Z",
+      "lastUpdated": "2026-07-06T19:00:00Z",
       "homeTeam": {
         "id": 765,
         "name": "Portugal",
@@ -6186,7 +6186,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11580,
+          "name": "Anthony Taylor",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     },
     {
       "area": {
@@ -12979,7 +12986,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-06T15:20:12Z",
+      "lastUpdated": "2026-07-06T19:00:00Z",
       "homeTeam": {
         "id": 765,
         "name": "Portugal",
@@ -13009,7 +13016,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11580,
+          "name": "Anthony Taylor",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     },
     {
       "area": {
