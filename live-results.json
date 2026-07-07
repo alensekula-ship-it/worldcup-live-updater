@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-07 20:16 UTC",
-  "lastUpdate": "2026-07-07 20:16 UTC",
+  "generatedAt": "2026-07-07 21:54 UTC",
+  "lastUpdate": "2026-07-07 21:54 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -6354,7 +6354,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-07T22:16:09Z",
+      "lastUpdated": "2026-07-07T23:54:12Z",
       "homeTeam": {
         "id": 788,
         "name": "Switzerland",
@@ -6377,8 +6377,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -6894,7 +6894,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-07T22:16:09Z",
+      "lastUpdated": "2026-07-07T23:54:12Z",
       "homeTeam": {
         "id": 788,
         "name": "Switzerland",
@@ -6917,8 +6917,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
