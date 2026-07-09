@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-09 20:26 UTC",
-  "lastUpdate": "2026-07-09 20:26 UTC",
+  "generatedAt": "2026-07-09 22:03 UTC",
+  "lastUpdate": "2026-07-09 22:03 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -16,7 +16,7 @@
     "count": 104,
     "first": "2026-06-11",
     "last": "2026-07-19",
-    "played": 96
+    "played": 97
   },
   "matches": [
     {
@@ -6428,11 +6428,11 @@
       },
       "id": 537383,
       "utcDate": "2026-07-09T20:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "QUARTER_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-09T22:26:13Z",
+      "lastUpdated": "2026-07-10T00:00:53Z",
       "homeTeam": {
         "id": 773,
         "name": "France",
@@ -6448,15 +6448,15 @@
         "crest": "https://crests.football-data.org/morocco.svg"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -6675,13 +6675,13 @@
       "matchday": null,
       "stage": "SEMI_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-09T15:20:09Z",
+      "lastUpdated": "2026-07-10T00:02:44Z",
       "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null,
-        "tla": null,
-        "crest": null
+        "id": 773,
+        "name": "France",
+        "shortName": "France",
+        "tla": "FRA",
+        "crest": "https://crests.football-data.org/773.svg"
       },
       "awayTeam": {
         "id": null,
@@ -6885,74 +6885,7 @@
       "referees": []
     }
   ],
-  "live": [
-    {
-      "area": {
-        "id": 2267,
-        "name": "World",
-        "code": "INT",
-        "flag": null
-      },
-      "competition": {
-        "id": 2000,
-        "name": "FIFA World Cup",
-        "code": "WC",
-        "type": "CUP",
-        "emblem": "https://crests.football-data.org/wm26.png"
-      },
-      "season": {
-        "id": 2398,
-        "startDate": "2026-06-11",
-        "endDate": "2026-07-19",
-        "currentMatchday": 3,
-        "winner": null
-      },
-      "id": 537383,
-      "utcDate": "2026-07-09T20:00:00Z",
-      "status": "IN_PLAY",
-      "matchday": null,
-      "stage": "QUARTER_FINALS",
-      "group": null,
-      "lastUpdated": "2026-07-09T22:26:13Z",
-      "homeTeam": {
-        "id": 773,
-        "name": "France",
-        "shortName": "France",
-        "tla": "FRA",
-        "crest": "https://crests.football-data.org/773.svg"
-      },
-      "awayTeam": {
-        "id": 815,
-        "name": "Morocco",
-        "shortName": "Morocco",
-        "tla": "MAR",
-        "crest": "https://crests.football-data.org/morocco.svg"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 0,
-          "away": 0
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 57301,
-          "name": "Facundo Tello",
-          "type": "REFEREE",
-          "nationality": "Argentina"
-        }
-      ]
-    }
-  ],
+  "live": [],
   "finished": [
     {
       "area": {
@@ -13339,6 +13272,72 @@
           "nationality": null
         }
       ]
+    },
+    {
+      "area": {
+        "id": 2267,
+        "name": "World",
+        "code": "INT",
+        "flag": null
+      },
+      "competition": {
+        "id": 2000,
+        "name": "FIFA World Cup",
+        "code": "WC",
+        "type": "CUP",
+        "emblem": "https://crests.football-data.org/wm26.png"
+      },
+      "season": {
+        "id": 2398,
+        "startDate": "2026-06-11",
+        "endDate": "2026-07-19",
+        "currentMatchday": 3,
+        "winner": null
+      },
+      "id": 537383,
+      "utcDate": "2026-07-09T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": null,
+      "stage": "QUARTER_FINALS",
+      "group": null,
+      "lastUpdated": "2026-07-10T00:00:53Z",
+      "homeTeam": {
+        "id": 773,
+        "name": "France",
+        "shortName": "France",
+        "tla": "FRA",
+        "crest": "https://crests.football-data.org/773.svg"
+      },
+      "awayTeam": {
+        "id": 815,
+        "name": "Morocco",
+        "shortName": "Morocco",
+        "tla": "MAR",
+        "crest": "https://crests.football-data.org/morocco.svg"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 57301,
+          "name": "Facundo Tello",
+          "type": "REFEREE",
+          "nationality": "Argentina"
+        }
+      ]
     }
   ],
   "upcoming": [
@@ -13546,13 +13545,13 @@
       "matchday": null,
       "stage": "SEMI_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-09T15:20:09Z",
+      "lastUpdated": "2026-07-10T00:02:44Z",
       "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null,
-        "tla": null,
-        "crest": null
+        "id": 773,
+        "name": "France",
+        "shortName": "France",
+        "tla": "FRA",
+        "crest": "https://crests.football-data.org/773.svg"
       },
       "awayTeam": {
         "id": null,
