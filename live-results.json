@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-11 18:37 UTC",
-  "lastUpdate": "2026-07-11 18:37 UTC",
+  "generatedAt": "2026-07-11 19:53 UTC",
+  "lastUpdate": "2026-07-11 19:53 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -6564,7 +6564,7 @@
       "matchday": null,
       "stage": "QUARTER_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-11T20:20:11Z",
+      "lastUpdated": "2026-07-11T21:00:01Z",
       "homeTeam": {
         "id": 8872,
         "name": "Norway",
@@ -6594,7 +6594,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 9374,
+          "name": "Clément Turpin",
+          "type": "REFEREE",
+          "nationality": "France"
+        }
+      ]
     },
     {
       "area": {
@@ -13441,7 +13448,7 @@
       "matchday": null,
       "stage": "QUARTER_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-11T20:20:11Z",
+      "lastUpdated": "2026-07-11T21:00:01Z",
       "homeTeam": {
         "id": 8872,
         "name": "Norway",
@@ -13471,7 +13478,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 9374,
+          "name": "Clément Turpin",
+          "type": "REFEREE",
+          "nationality": "France"
+        }
+      ]
     },
     {
       "area": {
