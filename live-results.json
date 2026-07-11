@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-11 21:56 UTC",
-  "lastUpdate": "2026-07-11 21:56 UTC",
+  "generatedAt": "2026-07-11 22:56 UTC",
+  "lastUpdate": "2026-07-11 22:56 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -6560,11 +6560,11 @@
       },
       "id": 537385,
       "utcDate": "2026-07-11T21:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "QUARTER_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-11T23:56:00Z",
+      "lastUpdated": "2026-07-12T00:56:45Z",
       "homeTeam": {
         "id": 8872,
         "name": "Norway",
@@ -6923,11 +6923,11 @@
       },
       "id": 537385,
       "utcDate": "2026-07-11T21:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "QUARTER_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-11T23:56:00Z",
+      "lastUpdated": "2026-07-12T00:56:45Z",
       "homeTeam": {
         "id": 8872,
         "name": "Norway",
