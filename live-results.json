@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-14 18:40 UTC",
-  "lastUpdate": "2026-07-14 18:40 UTC",
+  "generatedAt": "2026-07-14 19:56 UTC",
+  "lastUpdate": "2026-07-14 19:56 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -6708,11 +6708,11 @@
       },
       "id": 537387,
       "utcDate": "2026-07-14T19:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "matchday": null,
       "stage": "SEMI_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-14T20:06:22Z",
+      "lastUpdated": "2026-07-14T21:56:49Z",
       "homeTeam": {
         "id": 773,
         "name": "France",
@@ -6728,15 +6728,15 @@
         "crest": "https://crests.football-data.org/760.svg"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -6929,7 +6929,74 @@
       "referees": []
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "area": {
+        "id": 2267,
+        "name": "World",
+        "code": "INT",
+        "flag": null
+      },
+      "competition": {
+        "id": 2000,
+        "name": "FIFA World Cup",
+        "code": "WC",
+        "type": "CUP",
+        "emblem": "https://crests.football-data.org/wm26.png"
+      },
+      "season": {
+        "id": 2398,
+        "startDate": "2026-06-11",
+        "endDate": "2026-07-19",
+        "currentMatchday": 3,
+        "winner": null
+      },
+      "id": 537387,
+      "utcDate": "2026-07-14T19:00:00Z",
+      "status": "PAUSED",
+      "matchday": null,
+      "stage": "SEMI_FINALS",
+      "group": null,
+      "lastUpdated": "2026-07-14T21:56:49Z",
+      "homeTeam": {
+        "id": 773,
+        "name": "France",
+        "shortName": "France",
+        "tla": "FRA",
+        "crest": "https://crests.football-data.org/773.svg"
+      },
+      "awayTeam": {
+        "id": 760,
+        "name": "Spain",
+        "shortName": "Spain",
+        "tla": "ESP",
+        "crest": "https://crests.football-data.org/760.svg"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 1
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 190010,
+          "name": "Ivan Barton",
+          "type": "REFEREE",
+          "nationality": null
+        }
+      ]
+    }
+  ],
   "finished": [
     {
       "area": {
@@ -13599,72 +13666,6 @@
     }
   ],
   "upcoming": [
-    {
-      "area": {
-        "id": 2267,
-        "name": "World",
-        "code": "INT",
-        "flag": null
-      },
-      "competition": {
-        "id": 2000,
-        "name": "FIFA World Cup",
-        "code": "WC",
-        "type": "CUP",
-        "emblem": "https://crests.football-data.org/wm26.png"
-      },
-      "season": {
-        "id": 2398,
-        "startDate": "2026-06-11",
-        "endDate": "2026-07-19",
-        "currentMatchday": 3,
-        "winner": null
-      },
-      "id": 537387,
-      "utcDate": "2026-07-14T19:00:00Z",
-      "status": "TIMED",
-      "matchday": null,
-      "stage": "SEMI_FINALS",
-      "group": null,
-      "lastUpdated": "2026-07-14T20:06:22Z",
-      "homeTeam": {
-        "id": 773,
-        "name": "France",
-        "shortName": "France",
-        "tla": "FRA",
-        "crest": "https://crests.football-data.org/773.svg"
-      },
-      "awayTeam": {
-        "id": 760,
-        "name": "Spain",
-        "shortName": "Spain",
-        "tla": "ESP",
-        "crest": "https://crests.football-data.org/760.svg"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 190010,
-          "name": "Ivan Barton",
-          "type": "REFEREE",
-          "nationality": null
-        }
-      ]
-    },
     {
       "area": {
         "id": 2267,
