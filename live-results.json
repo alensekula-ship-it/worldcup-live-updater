@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-14 19:56 UTC",
-  "lastUpdate": "2026-07-14 19:56 UTC",
+  "generatedAt": "2026-07-14 20:25 UTC",
+  "lastUpdate": "2026-07-14 20:25 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -6708,11 +6708,11 @@
       },
       "id": 537387,
       "utcDate": "2026-07-14T19:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "SEMI_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-14T21:56:49Z",
+      "lastUpdated": "2026-07-14T22:25:22Z",
       "homeTeam": {
         "id": 773,
         "name": "France",
@@ -6732,7 +6732,7 @@
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 1
+          "away": 2
         },
         "halfTime": {
           "home": 0,
@@ -6953,11 +6953,11 @@
       },
       "id": 537387,
       "utcDate": "2026-07-14T19:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "SEMI_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-14T21:56:49Z",
+      "lastUpdated": "2026-07-14T22:25:22Z",
       "homeTeam": {
         "id": 773,
         "name": "France",
@@ -6977,7 +6977,7 @@
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 1
+          "away": 2
         },
         "halfTime": {
           "home": 0,
