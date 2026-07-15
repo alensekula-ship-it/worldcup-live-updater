@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-15 15:52 UTC",
-  "lastUpdate": "2026-07-15 15:52 UTC",
+  "generatedAt": "2026-07-15 17:21 UTC",
+  "lastUpdate": "2026-07-15 17:21 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -6778,7 +6778,7 @@
       "matchday": null,
       "stage": "SEMI_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-15T15:20:06Z",
+      "lastUpdated": "2026-07-15T19:00:02Z",
       "homeTeam": {
         "id": 770,
         "name": "England",
@@ -6808,7 +6808,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 76608,
+          "name": "Ismail Elfath",
+          "type": "REFEREE",
+          "nationality": "United States"
+        }
+      ]
     },
     {
       "area": {
@@ -13692,7 +13699,7 @@
       "matchday": null,
       "stage": "SEMI_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-15T15:20:06Z",
+      "lastUpdated": "2026-07-15T19:00:02Z",
       "homeTeam": {
         "id": 770,
         "name": "England",
@@ -13722,7 +13729,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 76608,
+          "name": "Ismail Elfath",
+          "type": "REFEREE",
+          "nationality": "United States"
+        }
+      ]
     },
     {
       "area": {
