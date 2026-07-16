@@ -23,6 +23,8 @@ BASE_URL = "https://api.football-data.org/v4"
 HEADERS = {"X-Auth-Token": API_TOKEN}
 
 PUBLIC_HEADERS = {
+    # Koristi identitet normalnog preglednika jer neke službene stranice
+    # odbijaju botovske User-Agent vrijednosti.
     "User-Agent": (
         "Mozilla/5.0 (X11; Linux x86_64) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -40,6 +42,7 @@ OUTPUT_FILE = Path("live-results.json")
 
 PUBLIC_SESSION = requests.Session()
 PUBLIC_SESSION.headers.update(PUBLIC_HEADERS)
+
 PUBLIC_SESSION.mount(
     "https://",
     HTTPAdapter(
@@ -54,6 +57,8 @@ PUBLIC_SESSION.mount(
     ),
 )
 
+
+# Natjecanja dostupna u football-data.org paketu.
 CLUB_CODES = [
     "CL",
     "BL1",
@@ -79,9 +84,19 @@ LIVE_STATUSES = {
     "PENALTY_SHOOTOUT",
 }
 
-FINISHED_STATUSES = {"FINISHED", "AWARDED"}
-UPCOMING_STATUSES = {"TIMED", "SCHEDULED"}
+FINISHED_STATUSES = {
+    "FINISHED",
+    "AWARDED",
+}
 
+UPCOMING_STATUSES = {
+    "TIMED",
+    "SCHEDULED",
+}
+
+
+# Službene javne HNL/HNS stranice.
+# HNS Semafor je glavni izvor, a hnl.hr rezervni izvor.
 HNL_SEMAFOR_URL = (
     "https://semafor.hns.family/natjecanja/114137140/"
     "supersport-hrvatska-nogometna-liga-20262027/"
@@ -96,6 +111,7 @@ HNL_EXPECTED_TEAMS = 10
 HNL_SEASON_ID = 202627
 HNL_SEASON_START = "2026-08-01"
 HNL_SEASON_END = "2027-05-22"
+
 
 HNL_TEAM_ALIASES = {
     "Dinamo": "Dinamo Zagreb",
@@ -148,15 +164,24 @@ HNL_SITE_TEAM_NAMES = sorted(
 
 HNL_TEAM_PATTERN = (
     "(?:"
-    + "|".join(re.escape(name) for name in HNL_SITE_TEAM_NAMES)
+    + "|".join(
+        re.escape(name)
+        for name in HNL_SITE_TEAM_NAMES
+    )
     + ")"
 )
 
+
+# Tablice se ne moraju osvježavati pri svakom pokretanju.
+# Dvije tablice po pokretanju čuvaju API ograničenja.
 STANDINGS_BATCH_SIZE = 2
 STANDINGS_MAX_AGE = timedelta(hours=6)
 
 
-def api_get(path: str, params: dict | None = None) -> dict:
+def api_get(
+    path: str,
+    params: dict | None = None,
+) -> dict:
     response = requests.get(
         f"{BASE_URL}{path}",
         headers=HEADERS,
@@ -166,8 +191,9 @@ def api_get(path: str, params: dict | None = None) -> dict:
 
     if response.status_code != 200:
         raise RuntimeError(
-            f"football-data.org error "
-            f"{response.status_code}: {response.text[:500]}"
+            "football-data.org error "
+            f"{response.status_code}: "
+            f"{response.text[:500]}"
         )
 
     return response.json()
@@ -182,12 +208,14 @@ def public_get(url: str) -> str:
 
     if response.status_code != 200:
         raise RuntimeError(
-            f"Public source error {response.status_code}: {url}"
+            f"Public source error "
+            f"{response.status_code}: {url}"
         )
 
     if len(response.text or "") < 1000:
         raise RuntimeError(
-            f"Public source returned an unexpectedly short page: {url}"
+            "Public source returned an "
+            f"unexpectedly short page: {url}"
         )
 
     return response.text
@@ -210,7 +238,9 @@ def competition_code(match: dict) -> str:
     ).upper()
 
 
-def merge_matches(*collections: list[dict]) -> list[dict]:
+def merge_matches(
+    *collections: list[dict],
+) -> list[dict]:
     by_id: dict[int | str, dict] = {}
 
     for collection in collections:
@@ -237,15 +267,19 @@ def should_fetch_details(
     match: dict,
     now: datetime,
 ) -> bool:
+    # HNL koristi zaseban službeni javni izvor.
     if competition_code(match) == "HNL":
         return False
 
-    status = str(match.get("status") or "").upper()
+    status = str(
+        match.get("status") or ""
+    ).upper()
 
     if status in LIVE_STATUSES:
         return True
 
     utc_date = match.get("utcDate")
+
     if not utc_date:
         return False
 
@@ -290,22 +324,32 @@ def enrich_with_match_details(
             and detailed_requests < 5
         ):
             try:
-                item = api_get(f"/matches/{match_id}")
+                item = api_get(
+                    f"/matches/{match_id}"
+                )
+
                 detailed_requests += 1
                 time.sleep(1.2)
+
             except Exception as exc:
                 print(
-                    f"Detail fetch failed for match "
+                    "Detail fetch failed for match "
                     f"{match_id}: {exc}"
                 )
 
         enriched.append(item)
 
-    print(f"Detailed match requests: {detailed_requests}")
+    print(
+        f"Detailed match requests: "
+        f"{detailed_requests}"
+    )
+
     return enriched
 
 
-def without_timestamps(payload: dict) -> dict:
+def without_timestamps(
+    payload: dict,
+) -> dict:
     cleaned = copy.deepcopy(payload)
     cleaned.pop("generatedAt", None)
     cleaned.pop("lastUpdate", None)
@@ -318,13 +362,17 @@ def load_existing() -> dict | None:
 
     try:
         return json.loads(
-            OUTPUT_FILE.read_text(encoding="utf-8")
+            OUTPUT_FILE.read_text(
+                encoding="utf-8"
+            )
         )
     except Exception:
         return None
 
 
-def parse_utc(value: str | None) -> datetime | None:
+def parse_utc(
+    value: str | None,
+) -> datetime | None:
     if not value:
         return None
 
@@ -343,7 +391,9 @@ def standings_age(
     if not isinstance(entry, dict):
         return timedelta.max
 
-    stamp = parse_utc(entry.get("updatedAt"))
+    stamp = parse_utc(
+        entry.get("updatedAt")
+    )
 
     if stamp is None:
         return timedelta.max
@@ -356,7 +406,8 @@ def refresh_football_data_standings(
     now: datetime,
 ) -> dict:
     standings: dict = copy.deepcopy(
-        (existing or {}).get("standings") or {}
+        (existing or {}).get("standings")
+        or {}
     )
 
     ordered = sorted(
@@ -379,39 +430,55 @@ def refresh_football_data_standings(
 
     refreshed = 0
 
-    for code in candidates[:STANDINGS_BATCH_SIZE]:
+    for code in candidates[
+        :STANDINGS_BATCH_SIZE
+    ]:
         try:
             payload = api_get(
                 f"/competitions/{code}/standings"
             )
 
-            tables = payload.get("standings") or []
+            tables = (
+                payload.get("standings")
+                or []
+            )
 
             if tables:
                 standings[code] = {
-                    "updatedAt": now.isoformat().replace(
-                        "+00:00",
-                        "Z",
+                    "updatedAt": (
+                        now.isoformat().replace(
+                            "+00:00",
+                            "Z",
+                        )
                     ),
                     "competition": (
-                        payload.get("competition") or {}
+                        payload.get("competition")
+                        or {}
                     ),
                     "season": (
-                        payload.get("season") or {}
+                        payload.get("season")
+                        or {}
                     ),
                     "standings": tables,
                 }
 
                 refreshed += 1
-                print(f"Standings refreshed: {code}")
+
+                print(
+                    f"Standings refreshed: {code}"
+                )
+
             else:
                 print(
-                    f"Standings unavailable/empty: {code}"
+                    "Standings unavailable/empty: "
+                    f"{code}"
                 )
 
         except Exception as exc:
+            # Kup natjecanja mogu legitimno
+            # vratiti 404 za tablicu.
             print(
-                f"Standings fetch skipped for "
+                "Standings fetch skipped for "
                 f"{code}: {exc}"
             )
 
@@ -432,8 +499,12 @@ def normalize_spaces(value: str) -> str:
     ).strip()
 
 
-def canonical_hnl_team(value: str) -> str:
-    clean = normalize_spaces(value).strip(" ,-–")
+def canonical_hnl_team(
+    value: str,
+) -> str:
+    clean = normalize_spaces(
+        value
+    ).strip(" ,-–")
 
     clean = re.sub(
         r"\s+s\.d\.d\.?$",
@@ -442,7 +513,10 @@ def canonical_hnl_team(value: str) -> str:
         flags=re.IGNORECASE,
     )
 
-    return HNL_TEAM_ALIASES.get(clean, clean)
+    return HNL_TEAM_ALIASES.get(
+        clean,
+        clean,
+    )
 
 
 def hnl_match_id(
@@ -482,10 +556,17 @@ def build_hnl_match(
     venue_raw: str,
     now_utc: datetime,
 ) -> dict | None:
-    home = canonical_hnl_team(home_raw)
-    away = canonical_hnl_team(away_raw)
+    home = canonical_hnl_team(
+        home_raw
+    )
 
-    valid_teams = set(HNL_TEAM_ALIASES.values())
+    away = canonical_hnl_team(
+        away_raw
+    )
+
+    valid_teams = set(
+        HNL_TEAM_ALIASES.values()
+    )
 
     if (
         home == away
@@ -505,18 +586,33 @@ def build_hnl_match(
     def score_value(
         raw: str | None,
     ) -> int | None:
-        raw = normalize_spaces(raw or "")
-        return int(raw) if raw.isdigit() else None
+        raw = normalize_spaces(
+            raw or ""
+        )
 
-    home_goals = score_value(home_score_raw)
-    away_goals = score_value(away_score_raw)
+        return (
+            int(raw)
+            if raw.isdigit()
+            else None
+        )
+
+    home_goals = score_value(
+        home_score_raw
+    )
+
+    away_goals = score_value(
+        away_score_raw
+    )
 
     has_score = (
         home_goals is not None
         and away_goals is not None
     )
 
-    date_key = match_date.strftime("%Y-%m-%d")
+    date_key = match_date.strftime(
+        "%Y-%m-%d"
+    )
+
     venue = normalize_spaces(
         venue_raw
     ).strip(" ,-–")
@@ -564,6 +660,8 @@ def build_hnl_match(
             status = "SCHEDULED"
 
     else:
+        # Ako službeni raspored još nema
+        # vrijeme, ne izmišljamo vrijeme.
         status = (
             "FINISHED"
             if has_score
@@ -627,7 +725,9 @@ def build_hnl_match(
             },
         },
         "venue": venue,
-        "dataSource": "HNS Semafor / hnl.hr",
+        "dataSource": (
+            "HNS Semafor / hnl.hr"
+        ),
     }
 
 
@@ -641,13 +741,19 @@ def parse_hnl_semafor_matches(
     )
 
     text = normalize_spaces(
-        soup.get_text(" ", strip=True)
+        soup.get_text(
+            " ",
+            strip=True,
+        )
     )
 
     marker = "2026/2027"
 
     if marker in text:
-        text = text.split(marker, 1)[1]
+        text = text.split(
+            marker,
+            1,
+        )[1]
 
     if "Ljestvica" in text:
         text = text.split(
@@ -664,7 +770,9 @@ def parse_hnl_semafor_matches(
     )
 
     parsed: list[dict] = []
-    seen: set[tuple[str, str, str]] = set()
+    seen: set[
+        tuple[str, str, str]
+    ] = set()
 
     match_pattern = re.compile(
         rf"(?P<date>\d{{2}}\.\d{{2}}\.\d{{4}}\.)"
@@ -684,7 +792,9 @@ def parse_hnl_semafor_matches(
             round_found.group("round")
         )
 
-        segment_start = round_found.end()
+        segment_start = (
+            round_found.end()
+        )
 
         segment_end = (
             round_matches[index + 1].start()
@@ -750,7 +860,10 @@ def parse_hnl_hr_matches(
     )
 
     text = normalize_spaces(
-        soup.get_text(" ", strip=True)
+        soup.get_text(
+            " ",
+            strip=True,
+        )
     )
 
     round_matches = list(
@@ -762,7 +875,10 @@ def parse_hnl_hr_matches(
     )
 
     parsed: list[dict] = []
-    seen: set[tuple[str, str, str]] = set()
+
+    seen: set[
+        tuple[str, str, str]
+    ] = set()
 
     pattern = re.compile(
         rf"(?P<home>{HNL_TEAM_PATTERN})\s*"
@@ -786,7 +902,9 @@ def parse_hnl_hr_matches(
             round_found.group("round")
         )
 
-        segment_start = round_found.end()
+        segment_start = (
+            round_found.end()
+        )
 
         segment_end = (
             round_matches[index + 1].start()
@@ -870,7 +988,10 @@ def parse_hnl_standings(
     )
 
     text = normalize_spaces(
-        soup.get_text(" ", strip=True)
+        soup.get_text(
+            " ",
+            strip=True,
+        )
     )
 
     if "Ljestvica" in text:
@@ -896,7 +1017,9 @@ def parse_hnl_standings(
     rows: list[dict] = []
     seen_teams: set[str] = set()
 
-    for found in pattern.finditer(text):
+    for found in pattern.finditer(
+        text
+    ):
         team = canonical_hnl_team(
             found.group("team")
         )
@@ -999,7 +1122,10 @@ def payload_without_updated_at(value):
     cleaned = copy.deepcopy(value)
 
     if isinstance(cleaned, dict):
-        cleaned.pop("updatedAt", None)
+        cleaned.pop(
+            "updatedAt",
+            None,
+        )
 
     return cleaned
 
@@ -1012,7 +1138,9 @@ def existing_hnl_matches(
 
     return [
         match
-        for match in existing.get("matches") or []
+        for match in (
+            existing.get("matches") or []
+        )
         if competition_code(match) == "HNL"
     ]
 
@@ -1022,12 +1150,19 @@ def refresh_hnl(
     standings: dict,
     now: datetime,
 ) -> tuple[list[dict], dict, dict]:
-    old_matches = existing_hnl_matches(existing)
-    old_standings = standings.get("HNL")
+    old_matches = existing_hnl_matches(
+        existing
+    )
+
+    old_standings = standings.get(
+        "HNL"
+    )
 
     old_source = copy.deepcopy(
-        ((existing or {}).get("sources") or {})
-        .get("HNL")
+        (
+            (existing or {}).get("sources")
+            or {}
+        ).get("HNL")
         or {}
     )
 
@@ -1050,7 +1185,6 @@ def refresh_hnl(
 
     matches_ok = False
     standings_ok = False
-
     matches_changed = False
     standings_changed = False
 
@@ -1069,22 +1203,28 @@ def refresh_hnl(
             )
         )
 
-        if len(parsed_matches) >= HNL_MIN_MATCHES:
+        if (
+            len(parsed_matches)
+            >= HNL_MIN_MATCHES
+        ):
             matches_changed = (
                 parsed_matches != old_matches
             )
 
             hnl_matches = (
                 parsed_matches
-                if matches_changed or not old_matches
+                if (
+                    matches_changed
+                    or not old_matches
+                )
                 else old_matches
             )
 
             matches_ok = True
 
-            source["activeMatchesUrl"] = (
-                HNL_SEMAFOR_URL
-            )
+            source[
+                "activeMatchesUrl"
+            ] = HNL_SEMAFOR_URL
 
             print(
                 "HNL Semafor matches parsed: "
@@ -1093,8 +1233,9 @@ def refresh_hnl(
 
         else:
             errors.append(
-                "Semafor schedule parser returned "
-                f"{len(parsed_matches)} matches"
+                "Semafor schedule parser "
+                f"returned {len(parsed_matches)} "
+                "matches"
             )
 
     except Exception as exc:
@@ -1124,16 +1265,18 @@ def refresh_hnl(
 
                 hnl_matches = (
                     parsed_matches
-                    if matches_changed
-                    or not old_matches
+                    if (
+                        matches_changed
+                        or not old_matches
+                    )
                     else old_matches
                 )
 
                 matches_ok = True
 
-                source["activeMatchesUrl"] = (
-                    HNL_RESULTS_URL
-                )
+                source[
+                    "activeMatchesUrl"
+                ] = HNL_RESULTS_URL
 
                 print(
                     "HNL hnl.hr matches parsed: "
@@ -1142,8 +1285,9 @@ def refresh_hnl(
 
             else:
                 errors.append(
-                    "hnl.hr schedule parser returned "
-                    f"{len(parsed_matches)} matches"
+                    "hnl.hr schedule parser "
+                    f"returned {len(parsed_matches)} "
+                    "matches"
                 )
 
         except Exception as exc:
@@ -1151,6 +1295,8 @@ def refresh_hnl(
                 f"hnl.hr schedule: {exc}"
             )
 
+    # Koristi isti Semafor odgovor i za tablicu
+    # kako bismo smanjili broj zahtjeva.
     if semafor_html:
         try:
             parsed_standings = (
@@ -1268,47 +1414,57 @@ def refresh_hnl(
     if matches_ok or standings_ok:
         source["status"] = "connected"
 
-        source["lastSuccessfulUpdate"] = (
-            now.isoformat().replace(
-                "+00:00",
-                "Z",
-            )
+        source[
+            "lastSuccessfulUpdate"
+        ] = now.isoformat().replace(
+            "+00:00",
+            "Z",
         )
 
-        source.pop("lastError", None)
+        source.pop(
+            "lastError",
+            None,
+        )
 
     elif has_verified_cache:
         source["status"] = "degraded"
+
         source["lastError"] = (
             " | ".join(errors)[:600]
         )
 
     else:
         source["status"] = "waiting"
+
         source["lastError"] = (
             " | ".join(errors)[:600]
         )
+
+    standings_table = []
+
+    if hnl_standing_entry:
+        standings_blocks = (
+            hnl_standing_entry.get(
+                "standings"
+            )
+            or []
+        )
+
+        if standings_blocks:
+            standings_table = (
+                standings_blocks[0].get(
+                    "table"
+                )
+                or []
+            )
 
     source.update({
         "name": "SuperSport HNL / HNS",
         "matchesUrl": HNL_SEMAFOR_URL,
         "standingsUrl": HNL_SEMAFOR_URL,
         "matchCount": len(hnl_matches),
-        "standingsTeamCount": (
-            len(
-                (
-                    (
-                        (
-                            hnl_standing_entry
-                            or {}
-                        ).get("standings")
-                        or [{}]
-                    )[0].get("table")
-                    or []
-                )
-            )
-            if hnl_standing_entry
-            else 0
+        "standingsTeamCount": len(
+            standings_table
         ),
         "providerPriority": [
             "HNS Semafor",
@@ -1318,8 +1474,8 @@ def refresh_hnl(
 
     if errors:
         print(
-            "HNL diagnostics:",
-            " | ".join(errors),
+            "HNL diagnostics: "
+            + " | ".join(errors)
         )
 
     return (
@@ -1330,9 +1486,13 @@ def refresh_hnl(
 
 
 def main() -> None:
-    now = datetime.now(timezone.utc)
+    now = datetime.now(
+        timezone.utc
+    )
+
     existing = load_existing()
 
+    # Cijeli raspored Svjetskog prvenstva.
     world_cup = api_get(
         "/competitions/WC/matches"
     ).get(
@@ -1340,12 +1500,16 @@ def main() -> None:
         [],
     )
 
+    # football-data.org dopušta maksimalno
+    # 10 kalendarskih dana po zahtjevu.
+    # Dva dana unatrag + danas + sedam dana
+    # unaprijed = ukupno 10 kalendarskih dana.
     date_from = (
-        now - timedelta(days=14)
+        now - timedelta(days=2)
     ).date().isoformat()
 
     date_to = (
-        now + timedelta(days=60)
+        now + timedelta(days=7)
     ).date().isoformat()
 
     other_codes = ",".join(
@@ -1438,10 +1602,14 @@ def main() -> None:
             output["live"].append(match)
 
         elif status in FINISHED_STATUSES:
-            output["finished"].append(match)
+            output["finished"].append(
+                match
+            )
 
         elif status in UPCOMING_STATUSES:
-            output["upcoming"].append(match)
+            output["upcoming"].append(
+                match
+            )
 
     if (
         existing is not None
@@ -1465,10 +1633,22 @@ def main() -> None:
 
     print("live-results.json updated")
     print("Matches:", len(matches))
-    print("HNL matches:", len(hnl_matches))
-    print("Live:", len(output["live"]))
-    print("Finished:", len(output["finished"]))
-    print("Upcoming:", len(output["upcoming"]))
+    print(
+        "HNL matches:",
+        len(hnl_matches),
+    )
+    print(
+        "Live:",
+        len(output["live"]),
+    )
+    print(
+        "Finished:",
+        len(output["finished"]),
+    )
+    print(
+        "Upcoming:",
+        len(output["upcoming"]),
+    )
     print(
         "Standings available:",
         len(standings),
