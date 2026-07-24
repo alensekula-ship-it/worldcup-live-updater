@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-24 18:47 UTC",
-  "lastUpdate": "2026-07-24 18:47 UTC",
+  "generatedAt": "2026-07-24 20:25 UTC",
+  "lastUpdate": "2026-07-24 20:25 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -28982,6 +28982,846 @@
     },
     {
       "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+      },
+      "id": 102,
+      "name": "Atalanta BC",
+      "shortName": "Atalanta",
+      "tla": "ATA",
+      "crest": "https://crests.football-data.org/102.png",
+      "address": "Corso Europa, 46, Zingonia Ciserano 24040",
+      "website": "http://www.atalanta.it",
+      "founded": 1904,
+      "clubColors": "Black / Blue",
+      "venue": "Stadio Atleti Azzurri d'Italia",
+      "runningCompetitions": [
+        {
+          "id": 2019,
+          "name": "Serie A",
+          "code": "SA",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/c111.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2024-04-09T16:20:48Z",
+      "_profileCompetitionCode": "SA",
+      "_profileFetchedAt": "2026-07-24 20:23 UTC"
+    },
+    {
+      "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+      },
+      "id": 103,
+      "name": "Bologna FC 1909",
+      "shortName": "Bologna",
+      "tla": "BOL",
+      "crest": "https://crests.football-data.org/103.png",
+      "address": "Via Casteldebole 10 Bologna 40132",
+      "website": "http://www.bolognafc.it",
+      "founded": 1909,
+      "clubColors": "Red / Blue / White",
+      "venue": "Stadio Renato Dall'Ara",
+      "runningCompetitions": [
+        {
+          "id": 2019,
+          "name": "Serie A",
+          "code": "SA",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/c111.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2024-04-09T16:20:45Z",
+      "_profileCompetitionCode": "SA",
+      "_profileFetchedAt": "2026-07-24 20:23 UTC"
+    },
+    {
+      "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+      },
+      "id": 104,
+      "name": "Cagliari Calcio",
+      "shortName": "Cagliari",
+      "tla": "CAG",
+      "crest": "https://crests.football-data.org/104.png",
+      "address": "Viale la Plaia 15 Cagliari 09123",
+      "website": "http://www.cagliaricalcio.net",
+      "founded": 1920,
+      "clubColors": "Red / Navy Blue / White",
+      "venue": "Sardegna Arena",
+      "runningCompetitions": [
+        {
+          "id": 2019,
+          "name": "Serie A",
+          "code": "SA",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/c111.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2024-04-09T16:20:43Z",
+      "_profileCompetitionCode": "SA",
+      "_profileFetchedAt": "2026-07-24 20:23 UTC"
+    },
+    {
+      "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+      },
+      "id": 7397,
+      "name": "Como 1907",
+      "shortName": "Como 1907",
+      "tla": "COM",
+      "crest": "https://crests.football-data.org/7397.png",
+      "address": "Viale Sinigaglia 2 Como 22100",
+      "website": "http://www.como1907.net/",
+      "founded": 1907,
+      "clubColors": "Sky Blue / White",
+      "venue": "Stadio Giuseppe Sinigaglia",
+      "runningCompetitions": [
+        {
+          "id": 2019,
+          "name": "Serie A",
+          "code": "SA",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/c111.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2025-02-17T16:52:41Z",
+      "_profileCompetitionCode": "SA",
+      "_profileFetchedAt": "2026-07-24 20:25 UTC"
+    },
+    {
+      "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+      },
+      "id": 99,
+      "name": "ACF Fiorentina",
+      "shortName": "Fiorentina",
+      "tla": "FIO",
+      "crest": "https://crests.football-data.org/99.png",
+      "address": "Viale Manfredo Fanti 4 Firenze 50137",
+      "website": "http://www.acffiorentina.it",
+      "founded": 1926,
+      "clubColors": "Purple / White",
+      "venue": "Stadio Artemio Franchi",
+      "runningCompetitions": [
+        {
+          "id": 2019,
+          "name": "Serie A",
+          "code": "SA",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/c111.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2024-04-09T16:20:54Z",
+      "_profileCompetitionCode": "SA",
+      "_profileFetchedAt": "2026-07-24 20:23 UTC"
+    },
+    {
+      "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+      },
+      "id": 470,
+      "name": "Frosinone Calcio",
+      "shortName": "Frosinone",
+      "tla": "FRO",
+      "crest": "https://crests.football-data.org/470.png",
+      "address": "Via Marittima, 2 Frosinone 03100",
+      "website": "http://www.frosinonecalcio.com",
+      "founded": 1912,
+      "clubColors": "Yellow / Blue",
+      "venue": "Stadio Benito Stirpe",
+      "runningCompetitions": [
+        {
+          "id": 2019,
+          "name": "Serie A",
+          "code": "SA",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/c111.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2022-03-20T17:51:41Z",
+      "_profileCompetitionCode": "SA",
+      "_profileFetchedAt": "2026-07-24 20:24 UTC"
+    },
+    {
+      "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+      },
+      "id": 107,
+      "name": "Genoa CFC",
+      "shortName": "Genoa",
+      "tla": "GEN",
+      "crest": "https://crests.football-data.org/107.png",
+      "address": "Via Ronchi, 67 Genova 16155",
+      "website": "http://www.genoacfc.it",
+      "founded": 1893,
+      "clubColors": "Red / Navy Blue",
+      "venue": "Stadio Comunale Luigi Ferraris",
+      "runningCompetitions": [
+        {
+          "id": 2019,
+          "name": "Serie A",
+          "code": "SA",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/c111.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2024-04-09T16:20:41Z",
+      "_profileCompetitionCode": "SA",
+      "_profileFetchedAt": "2026-07-24 20:23 UTC"
+    },
+    {
+      "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+      },
+      "id": 108,
+      "name": "FC Internazionale Milano",
+      "shortName": "Inter",
+      "tla": "INT",
+      "crest": "https://crests.football-data.org/108.png",
+      "address": "Corso Vittorio Emanuele II 9 Milano 20122",
+      "website": "http://www.inter.it",
+      "founded": 1908,
+      "clubColors": "Blue / Black",
+      "venue": "Stadio Giuseppe Meazza",
+      "runningCompetitions": [
+        {
+          "id": 2019,
+          "name": "Serie A",
+          "code": "SA",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/c111.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2021-11-24T14:55:58Z",
+      "_profileCompetitionCode": "SA",
+      "_profileFetchedAt": "2026-07-24 20:24 UTC"
+    },
+    {
+      "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+      },
+      "id": 109,
+      "name": "Juventus FC",
+      "shortName": "Juventus",
+      "tla": "JUV",
+      "crest": "https://crests.football-data.org/109.png",
+      "address": "Corso Galileo Ferraris, 32 Torino 10128",
+      "website": "http://www.juventus.com",
+      "founded": 1897,
+      "clubColors": "White / Black",
+      "venue": "Allianz Stadium",
+      "runningCompetitions": [
+        {
+          "id": 2019,
+          "name": "Serie A",
+          "code": "SA",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/c111.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2024-04-09T16:20:37Z",
+      "_profileCompetitionCode": "SA",
+      "_profileFetchedAt": "2026-07-24 20:24 UTC"
+    },
+    {
+      "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+      },
+      "id": 110,
+      "name": "SS Lazio",
+      "shortName": "Lazio",
+      "tla": "LAZ",
+      "crest": "https://crests.football-data.org/110.png",
+      "address": "Via di Santa Cornelia, 1000 Formello 00060",
+      "website": "http://www.sslazio.it",
+      "founded": 1900,
+      "clubColors": "White / Sky Blue",
+      "venue": "Stadio Olimpico",
+      "runningCompetitions": [
+        {
+          "id": 2019,
+          "name": "Serie A",
+          "code": "SA",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/c111.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2024-04-09T16:20:32Z",
+      "_profileCompetitionCode": "SA",
+      "_profileFetchedAt": "2026-07-24 20:24 UTC"
+    },
+    {
+      "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+      },
+      "id": 5890,
+      "name": "US Lecce",
+      "shortName": "Lecce",
+      "tla": "USL",
+      "crest": "https://crests.football-data.org/5890.png",
+      "address": "Via Templari 11 Lecce 73100",
+      "website": "http://www.uslecce.it",
+      "founded": 1908,
+      "clubColors": "Yellow / Red / Navy Blue",
+      "venue": "Stadio Comunale Via Del Mare",
+      "runningCompetitions": [
+        {
+          "id": 2019,
+          "name": "Serie A",
+          "code": "SA",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/c111.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2022-02-22T14:17:48Z",
+      "_profileCompetitionCode": "SA",
+      "_profileFetchedAt": "2026-07-24 20:25 UTC"
+    },
+    {
+      "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+      },
+      "id": 98,
+      "name": "AC Milan",
+      "shortName": "Milan",
+      "tla": "MIL",
+      "crest": "https://crests.football-data.org/98.png",
+      "address": "Via Filippo Turati 3 Milano 20121",
+      "website": "http://www.acmilan.com",
+      "founded": 1899,
+      "clubColors": "Red / Black",
+      "venue": "Stadio Giuseppe Meazza",
+      "runningCompetitions": [
+        {
+          "id": 2019,
+          "name": "Serie A",
+          "code": "SA",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/c111.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2024-04-09T16:20:58Z",
+      "_profileCompetitionCode": "SA",
+      "_profileFetchedAt": "2026-07-24 20:23 UTC"
+    },
+    {
+      "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+      },
+      "id": 5911,
+      "name": "AC Monza",
+      "shortName": "Monza",
+      "tla": "MON",
+      "crest": "https://crests.football-data.org/5911.png",
+      "address": "Via Ragazzi del '99, 14 Monza 20900",
+      "website": "http://www.monza1912.it",
+      "founded": 1912,
+      "clubColors": "Red / White",
+      "venue": "Stadio Comunale Brianteo",
+      "runningCompetitions": [
+        {
+          "id": 2019,
+          "name": "Serie A",
+          "code": "SA",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/c111.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2025-02-17T16:54:02Z",
+      "_profileCompetitionCode": "SA",
+      "_profileFetchedAt": "2026-07-24 20:25 UTC"
+    },
+    {
+      "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+      },
+      "id": 113,
+      "name": "SSC Napoli",
+      "shortName": "Napoli",
+      "tla": "NAP",
+      "crest": "https://crests.football-data.org/113.png",
+      "address": "Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030",
+      "website": "http://www.sscnapoli.it",
+      "founded": 1904,
+      "clubColors": "Sky Blue / White",
+      "venue": "Stadio San Paolo",
+      "runningCompetitions": [
+        {
+          "id": 2019,
+          "name": "Serie A",
+          "code": "SA",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/c111.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2025-02-17T16:51:11Z",
+      "_profileCompetitionCode": "SA",
+      "_profileFetchedAt": "2026-07-24 20:24 UTC"
+    },
+    {
+      "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+      },
+      "id": 112,
+      "name": "Parma Calcio 1913",
+      "shortName": "Parma",
+      "tla": "PAR",
+      "crest": "https://crests.football-data.org/112.png",
+      "address": "Strada Carlo Pisacane, 4 Parma 43121",
+      "website": "http://www.parmacalcio1913.com",
+      "founded": 1913,
+      "clubColors": "White / Black",
+      "venue": "Stadio Ennio Tardini",
+      "runningCompetitions": [
+        {
+          "id": 2019,
+          "name": "Serie A",
+          "code": "SA",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/c111.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2022-03-20T17:52:09Z",
+      "_profileCompetitionCode": "SA",
+      "_profileFetchedAt": "2026-07-24 20:24 UTC"
+    },
+    {
+      "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+      },
+      "id": 100,
+      "name": "AS Roma",
+      "shortName": "Roma",
+      "tla": "ROM",
+      "crest": "https://crests.football-data.org/100.png",
+      "address": "Via di Trigoria km. 3,600 Roma 00128",
+      "website": "http://www.asroma.it",
+      "founded": 1927,
+      "clubColors": "Maroon / Orange / White",
+      "venue": "Stadio Olimpico",
+      "runningCompetitions": [
+        {
+          "id": 2019,
+          "name": "Serie A",
+          "code": "SA",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/c111.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2025-02-17T16:53:31Z",
+      "_profileCompetitionCode": "SA",
+      "_profileFetchedAt": "2026-07-24 20:23 UTC"
+    },
+    {
+      "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+      },
+      "id": 471,
+      "name": "US Sassuolo Calcio",
+      "shortName": "Sassuolo",
+      "tla": "SAS",
+      "crest": "https://crests.football-data.org/471.png",
+      "address": "Piazza Risorgimento, 47 Sassuolo 41049",
+      "website": "http://www.sassuolocalcio.it",
+      "founded": 1920,
+      "clubColors": "Green / Black",
+      "venue": "Mapei Stadium - Città del Tricolore",
+      "runningCompetitions": [
+        {
+          "id": 2019,
+          "name": "Serie A",
+          "code": "SA",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/c111.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2024-04-09T16:20:13Z",
+      "_profileCompetitionCode": "SA",
+      "_profileFetchedAt": "2026-07-24 20:24 UTC"
+    },
+    {
+      "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+      },
+      "id": 586,
+      "name": "Torino FC",
+      "shortName": "Torino",
+      "tla": "TOR",
+      "crest": "https://crests.football-data.org/586.png",
+      "address": "Via Arcivescovado 1 Torino 10122",
+      "website": "http://www.torinofc.it",
+      "founded": 1894,
+      "clubColors": "Brown / White",
+      "venue": "Stadio Olimpico di Torino",
+      "runningCompetitions": [
+        {
+          "id": 2019,
+          "name": "Serie A",
+          "code": "SA",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/c111.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2024-04-09T16:20:07Z",
+      "_profileCompetitionCode": "SA",
+      "_profileFetchedAt": "2026-07-24 20:25 UTC"
+    },
+    {
+      "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+      },
+      "id": 115,
+      "name": "Udinese Calcio",
+      "shortName": "Udinese",
+      "tla": "UDI",
+      "crest": "https://crests.football-data.org/115.png",
+      "address": "Via Agostino e Angelo Candolini 2 Udine 33100",
+      "website": "http://www.udinese.it",
+      "founded": 1896,
+      "clubColors": "White / Black",
+      "venue": "Dacia Arena",
+      "runningCompetitions": [
+        {
+          "id": 2019,
+          "name": "Serie A",
+          "code": "SA",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/c111.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2022-02-24T07:45:52Z",
+      "_profileCompetitionCode": "SA",
+      "_profileFetchedAt": "2026-07-24 20:24 UTC"
+    },
+    {
+      "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+      },
+      "id": 454,
+      "name": "Venezia FC",
+      "shortName": "Venezia FC",
+      "tla": "VEN",
+      "crest": "https://crests.football-data.org/454.png",
+      "address": "Viale Ancona, 43 Venezia 30172",
+      "website": "http://www.veneziafc.club",
+      "founded": 1907,
+      "clubColors": "Orange / Black / Green",
+      "venue": "Stadio Pierluigi Penzo",
+      "runningCompetitions": [
+        {
+          "id": 2019,
+          "name": "Serie A",
+          "code": "SA",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/c111.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2022-02-20T08:41:04Z",
+      "_profileCompetitionCode": "SA",
+      "_profileFetchedAt": "2026-07-24 20:24 UTC"
+    },
+    {
+      "area": {
         "id": 2056,
         "name": "Ivory Coast",
         "code": "CIV",
@@ -35538,9 +36378,9 @@
   ],
   "profileSync": {
     "matchCompetitionCode": "WC",
-    "profileCompetitionProcessed": "BL1",
-    "profileCompetitionTeamCount": 18,
-    "profileCompetitionSquads": 18,
+    "profileCompetitionProcessed": "SA",
+    "profileCompetitionTeamCount": 20,
+    "profileCompetitionSquads": 0,
     "profileCompetitionCodes": [
       "WC",
       "PL",
@@ -35553,10 +36393,10 @@
       "CL",
       "ELC"
     ],
-    "nextCompetitionIndex": 4,
-    "teamCount": 106,
+    "nextCompetitionIndex": 5,
+    "teamCount": 126,
     "profilesWithSquad": 86,
-    "profilesPending": 20,
+    "profilesPending": 40,
     "regularBatchLimit": 7,
     "initialBatchLimit": 48
   }
