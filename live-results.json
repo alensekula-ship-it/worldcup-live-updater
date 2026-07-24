@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-24 20:25 UTC",
-  "lastUpdate": "2026-07-24 20:25 UTC",
+  "generatedAt": "2026-07-24 21:40 UTC",
+  "lastUpdate": "2026-07-24 21:40 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -22912,6 +22912,132 @@
         "code": "FRA",
         "flag": "https://crests.football-data.org/773.svg"
       },
+      "id": 532,
+      "name": "Angers SCO",
+      "shortName": "Angers SCO",
+      "tla": "ANG",
+      "crest": "https://crests.football-data.org/532.png",
+      "address": "73 boulevard Jacques Portet, BP 20212 Angers 49002",
+      "website": "http://www.angers-sco.fr",
+      "founded": 1919,
+      "clubColors": "Black / White / Gold",
+      "venue": "Stade Raymond Kopa",
+      "runningCompetitions": [
+        {
+          "id": 2015,
+          "name": "Ligue 1",
+          "code": "FL1",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/FL1.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2024-07-29T17:20:31Z",
+      "_profileCompetitionCode": "FL1",
+      "_profileFetchedAt": "2026-07-24 21:39 UTC"
+    },
+    {
+      "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+      },
+      "id": 519,
+      "name": "AJ Auxerre",
+      "shortName": "Auxerre",
+      "tla": "AJA",
+      "crest": "https://crests.football-data.org/519.png",
+      "address": "Route de Vaux BP 349 Auxerre 89006",
+      "website": "http://www.aja.fr",
+      "founded": 1905,
+      "clubColors": "White / Blue",
+      "venue": "Stade de l'Abbé Deschamps",
+      "runningCompetitions": [
+        {
+          "id": 2015,
+          "name": "Ligue 1",
+          "code": "FL1",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/FL1.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2022-07-26T18:03:55Z",
+      "_profileCompetitionCode": "FL1",
+      "_profileFetchedAt": "2026-07-24 21:38 UTC"
+    },
+    {
+      "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+      },
+      "id": 512,
+      "name": "Stade Brestois 29",
+      "shortName": "Brest",
+      "tla": "BRE",
+      "crest": "https://crests.football-data.org/512.png",
+      "address": "Port de Plaisance, 470 bis rue Alain Colas Brest 29200",
+      "website": "http://www.stade-brestois.com",
+      "founded": 1903,
+      "clubColors": "White / Red",
+      "venue": "Stade Francis-Le Blé",
+      "runningCompetitions": [
+        {
+          "id": 2015,
+          "name": "Ligue 1",
+          "code": "FL1",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/FL1.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2026-07-04T12:08:19Z",
+      "_profileCompetitionCode": "FL1",
+      "_profileFetchedAt": "2026-07-24 21:38 UTC"
+    },
+    {
+      "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+      },
       "id": 773,
       "name": "France",
       "shortName": "France",
@@ -23135,6 +23261,615 @@
       ],
       "lastUpdated": "2026-06-01T09:42:18Z",
       "_profileCompetitionCode": "WC"
+    },
+    {
+      "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+      },
+      "id": 533,
+      "name": "Le Havre AC",
+      "shortName": "Le Havre",
+      "tla": "HAC",
+      "crest": "https://crests.football-data.org/533.png",
+      "address": "2 route du château BP 90 Saint-Laurent-de-Brèvedent 76700",
+      "website": "http://www.hac-foot.com",
+      "founded": 1872,
+      "clubColors": "Sky Blue / Navy Blue",
+      "venue": "Stade Océane",
+      "runningCompetitions": [
+        {
+          "id": 2015,
+          "name": "Ligue 1",
+          "code": "FL1",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/FL1.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2022-06-19T00:03:33Z",
+      "_profileCompetitionCode": "FL1",
+      "_profileFetchedAt": "2026-07-24 21:39 UTC"
+    },
+    {
+      "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+      },
+      "id": 535,
+      "name": "Le Mans FC",
+      "shortName": "Le Mans",
+      "tla": "LMF",
+      "crest": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg",
+      "address": "La Pincenardière Le Mans 72230",
+      "website": "http://www.lemansfc.fr/",
+      "founded": 1985,
+      "clubColors": "Red / Yellow",
+      "venue": "MMArena",
+      "runningCompetitions": [
+        {
+          "id": 2015,
+          "name": "Ligue 1",
+          "code": "FL1",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/FL1.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2026-05-01T08:34:30Z",
+      "_profileCompetitionCode": "FL1",
+      "_profileFetchedAt": "2026-07-24 21:39 UTC"
+    },
+    {
+      "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+      },
+      "id": 521,
+      "name": "Lille OSC",
+      "shortName": "Lille",
+      "tla": "LIL",
+      "crest": "https://crests.football-data.org/521.png",
+      "address": "Grand Rue 59, 780 Camphin-en-Pévèle Lille null",
+      "website": "http://www.losc.fr",
+      "founded": 1944,
+      "clubColors": "White / Red",
+      "venue": "Stade Pierre-Mauroy",
+      "runningCompetitions": [
+        {
+          "id": 2015,
+          "name": "Ligue 1",
+          "code": "FL1",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/FL1.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2024-07-29T17:19:48Z",
+      "_profileCompetitionCode": "FL1",
+      "_profileFetchedAt": "2026-07-24 21:38 UTC"
+    },
+    {
+      "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+      },
+      "id": 525,
+      "name": "FC Lorient",
+      "shortName": "Lorient",
+      "tla": "FCL",
+      "crest": "https://crests.football-data.org/525.png",
+      "address": "Tade Yves Allainmat<br>Rue Du Tour Des Portes, BP 404 Lorient 56104",
+      "website": "http://www.fclweb.fr",
+      "founded": 1926,
+      "clubColors": "Orange / Black",
+      "venue": "Stade Yves Allainmat - Le Moustoir",
+      "runningCompetitions": [
+        {
+          "id": 2015,
+          "name": "Ligue 1",
+          "code": "FL1",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/FL1.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2022-02-19T08:25:01Z",
+      "_profileCompetitionCode": "FL1",
+      "_profileFetchedAt": "2026-07-24 21:39 UTC"
+    },
+    {
+      "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+      },
+      "id": 516,
+      "name": "Olympique de Marseille",
+      "shortName": "Marseille",
+      "tla": "MAR",
+      "crest": "https://crests.football-data.org/516.png",
+      "address": "La Commanderie, 33, traverse de La Martine Marseille 13012",
+      "website": "http://www.om.net",
+      "founded": 1898,
+      "clubColors": "White / Blue",
+      "venue": "Orange Vélodrome",
+      "runningCompetitions": [
+        {
+          "id": 2015,
+          "name": "Ligue 1",
+          "code": "FL1",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/FL1.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2022-02-19T08:35:12Z",
+      "_profileCompetitionCode": "FL1",
+      "_profileFetchedAt": "2026-07-24 21:38 UTC"
+    },
+    {
+      "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+      },
+      "id": 522,
+      "name": "OGC Nice",
+      "shortName": "Nice",
+      "tla": "NIC",
+      "crest": "https://crests.football-data.org/522.png",
+      "address": "35, avenue du Ray Nice 06100",
+      "website": "http://www.ogcnice.com",
+      "founded": 1904,
+      "clubColors": "Red / Black",
+      "venue": "Stade de Nice",
+      "runningCompetitions": [
+        {
+          "id": 2015,
+          "name": "Ligue 1",
+          "code": "FL1",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/FL1.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2022-02-19T08:51:11Z",
+      "_profileCompetitionCode": "FL1",
+      "_profileFetchedAt": "2026-07-24 21:38 UTC"
+    },
+    {
+      "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+      },
+      "id": 523,
+      "name": "Olympique Lyonnais",
+      "shortName": "Olympique Lyon",
+      "tla": "LYO",
+      "crest": "https://crests.football-data.org/523.png",
+      "address": "350 avenue Jean Jaurès Lyon 69007",
+      "website": "http://www.olweb.fr",
+      "founded": 1896,
+      "clubColors": "White / Red / Blue",
+      "venue": "Groupama Stadium",
+      "runningCompetitions": [
+        {
+          "id": 2015,
+          "name": "Ligue 1",
+          "code": "FL1",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/FL1.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2024-07-29T17:19:54Z",
+      "_profileCompetitionCode": "FL1",
+      "_profileFetchedAt": "2026-07-24 21:38 UTC"
+    },
+    {
+      "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+      },
+      "id": 524,
+      "name": "Paris Saint-Germain FC",
+      "shortName": "PSG",
+      "tla": "PSG",
+      "crest": "https://crests.football-data.org/524.png",
+      "address": "24, rue de Commandant Guibaud Paris 7501",
+      "website": "http://www.psg.fr",
+      "founded": 1904,
+      "clubColors": "Red / Blue / White",
+      "venue": "Parc des Princes",
+      "runningCompetitions": [
+        {
+          "id": 2015,
+          "name": "Ligue 1",
+          "code": "FL1",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/FL1.png"
+        },
+        {
+          "id": 2136,
+          "name": "Trophée des Champions",
+          "code": "TDC",
+          "type": "CUP",
+          "emblem": null
+        },
+        {
+          "id": 2157,
+          "name": "UEFA Super Cup",
+          "code": "ESC",
+          "type": "CUP",
+          "emblem": "https://crests.football-data.org/esc.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2022-02-10T19:07:11Z",
+      "_profileCompetitionCode": "FL1",
+      "_profileFetchedAt": "2026-07-24 21:39 UTC"
+    },
+    {
+      "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+      },
+      "id": 1045,
+      "name": "Paris FC",
+      "shortName": "Paris FC",
+      "tla": "PFC",
+      "crest": "https://crests.football-data.org/1045.png",
+      "address": "17 rue Neuve Tolbiac Paris 75013",
+      "website": "http://www.parisfootballclub.com",
+      "founded": 1969,
+      "clubColors": "Navy Blue / Sky Blue",
+      "venue": "Stade Sébastien Charléty",
+      "runningCompetitions": [
+        {
+          "id": 2015,
+          "name": "Ligue 1",
+          "code": "FL1",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/FL1.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2022-06-19T00:04:35Z",
+      "_profileCompetitionCode": "FL1",
+      "_profileFetchedAt": "2026-07-24 21:40 UTC"
+    },
+    {
+      "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+      },
+      "id": 546,
+      "name": "Racing Club de Lens",
+      "shortName": "RC Lens",
+      "tla": "RCL",
+      "crest": "https://crests.football-data.org/546.png",
+      "address": "33 rue Arthur Lamendin Avion 62210",
+      "website": "http://www.rclens.fr",
+      "founded": 1906,
+      "clubColors": "Red / Yellow",
+      "venue": "Stade Bollaert-Delelis",
+      "runningCompetitions": [
+        {
+          "id": 2015,
+          "name": "Ligue 1",
+          "code": "FL1",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/FL1.png"
+        },
+        {
+          "id": 2136,
+          "name": "Trophée des Champions",
+          "code": "TDC",
+          "type": "CUP",
+          "emblem": null
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2026-01-19T12:05:38Z",
+      "_profileCompetitionCode": "FL1",
+      "_profileFetchedAt": "2026-07-24 21:39 UTC"
+    },
+    {
+      "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+      },
+      "id": 529,
+      "name": "Stade Rennais FC 1901",
+      "shortName": "Stade Rennais",
+      "tla": "REN",
+      "crest": "https://crests.football-data.org/529.png",
+      "address": "La Piverdière - Chemin de la Taupinais CS 5390 Rennes 35039",
+      "website": "http://www.staderennais.com",
+      "founded": 1901,
+      "clubColors": "Red / Black",
+      "venue": "Roazhon Park",
+      "runningCompetitions": [
+        {
+          "id": 2015,
+          "name": "Ligue 1",
+          "code": "FL1",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/FL1.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2022-03-20T11:21:26Z",
+      "_profileCompetitionCode": "FL1",
+      "_profileFetchedAt": "2026-07-24 21:39 UTC"
+    },
+    {
+      "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+      },
+      "id": 576,
+      "name": "RC Strasbourg Alsace",
+      "shortName": "Strasbourg",
+      "tla": "RC ",
+      "crest": "https://crests.football-data.org/576.png",
+      "address": "12 Rue Extenwoerth Strasbourg 67000",
+      "website": "http://www.rcstrasbourgalsace.fr",
+      "founded": 1906,
+      "clubColors": "Blue / White",
+      "venue": "Stade de la Meinau",
+      "runningCompetitions": [
+        {
+          "id": 2015,
+          "name": "Ligue 1",
+          "code": "FL1",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/FL1.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2022-02-19T08:40:46Z",
+      "_profileCompetitionCode": "FL1",
+      "_profileFetchedAt": "2026-07-24 21:40 UTC"
+    },
+    {
+      "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+      },
+      "id": 511,
+      "name": "Toulouse FC",
+      "shortName": "Toulouse",
+      "tla": "TOU",
+      "crest": "https://crests.football-data.org/511.png",
+      "address": "1 allée Gabriel Biénèsm, BP 54023 Toulouse 31028",
+      "website": "http://www.tfc.info",
+      "founded": 1937,
+      "clubColors": "Violet / White",
+      "venue": "Stadium Municipal",
+      "runningCompetitions": [
+        {
+          "id": 2015,
+          "name": "Ligue 1",
+          "code": "FL1",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/FL1.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2026-07-04T12:07:20Z",
+      "_profileCompetitionCode": "FL1",
+      "_profileFetchedAt": "2026-07-24 21:38 UTC"
+    },
+    {
+      "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+      },
+      "id": 531,
+      "name": "ES Troyes AC",
+      "shortName": "Troyes",
+      "tla": "ETR",
+      "crest": "https://crests.football-data.org/531.png",
+      "address": "29bis Rue Saint-Exupéry Pont-Sainte-Marie 10158",
+      "website": "http://www.estac.fr",
+      "founded": 1986,
+      "clubColors": "Blue / White",
+      "venue": "Stade de l'Aube",
+      "runningCompetitions": [
+        {
+          "id": 2015,
+          "name": "Ligue 1",
+          "code": "FL1",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/FL1.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2024-07-29T17:20:22Z",
+      "_profileCompetitionCode": "FL1",
+      "_profileFetchedAt": "2026-07-24 21:39 UTC"
     },
     {
       "area": {
@@ -30739,6 +31474,48 @@
     },
     {
       "area": {
+        "id": 2152,
+        "name": "Monaco",
+        "code": "MCO",
+        "flag": null
+      },
+      "id": 548,
+      "name": "AS Monaco FC",
+      "shortName": "Monaco",
+      "tla": "ASM",
+      "crest": "https://crests.football-data.org/548.png",
+      "address": "Avenue des Castellans Monaco 98000",
+      "website": "http://www.asmonaco.com",
+      "founded": 1919,
+      "clubColors": "Red / White",
+      "venue": "Stade Louis II.",
+      "runningCompetitions": [
+        {
+          "id": 2015,
+          "name": "Ligue 1",
+          "code": "FL1",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/FL1.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "lastUpdated": "2021-11-06T13:27:09Z",
+      "_profileCompetitionCode": "FL1",
+      "_profileFetchedAt": "2026-07-24 21:39 UTC"
+    },
+    {
+      "area": {
         "id": 2156,
         "name": "Morocco",
         "code": "MAR",
@@ -36378,8 +37155,8 @@
   ],
   "profileSync": {
     "matchCompetitionCode": "WC",
-    "profileCompetitionProcessed": "SA",
-    "profileCompetitionTeamCount": 20,
+    "profileCompetitionProcessed": "FL1",
+    "profileCompetitionTeamCount": 18,
     "profileCompetitionSquads": 0,
     "profileCompetitionCodes": [
       "WC",
@@ -36393,10 +37170,10 @@
       "CL",
       "ELC"
     ],
-    "nextCompetitionIndex": 5,
-    "teamCount": 126,
+    "nextCompetitionIndex": 6,
+    "teamCount": 144,
     "profilesWithSquad": 86,
-    "profilesPending": 40,
+    "profilesPending": 58,
     "regularBatchLimit": 7,
     "initialBatchLimit": 48
   }
