@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-24 22:43 UTC",
-  "lastUpdate": "2026-07-24 22:43 UTC",
+  "generatedAt": "2026-07-24 23:46 UTC",
+  "lastUpdate": "2026-07-24 23:46 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -36790,6 +36790,2966 @@
         "code": "POR",
         "flag": "https://crests.football-data.org/765.svg"
       },
+      "id": 5527,
+      "name": "Académico de Viseu FC",
+      "shortName": "Acad. Viseu",
+      "tla": "ACV",
+      "crest": "https://crests.football-data.org/5527.png",
+      "address": "Rua Sra. do Postigo nº 10 Viseu 3500-200",
+      "website": "http://www.academicodeviseufc.com",
+      "founded": 1914,
+      "clubColors": "Black / White",
+      "venue": "Estádio Municipal do Fontelo",
+      "runningCompetitions": [
+        {
+          "id": 2017,
+          "name": "Primeira Liga",
+          "code": "PPL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PPL.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "squad": [
+        {
+          "id": 32337,
+          "name": "Marcos Lavín",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1996-09-02",
+          "nationality": "Spain"
+        },
+        {
+          "id": 74794,
+          "name": "Anthony Correia",
+          "position": "Defence",
+          "dateOfBirth": "1999-09-06",
+          "nationality": "France"
+        },
+        {
+          "id": 114132,
+          "name": "Robinho Vieira",
+          "position": "Defence",
+          "dateOfBirth": "1997-07-31",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 136307,
+          "name": "Rúben Pereira",
+          "position": "Defence",
+          "dateOfBirth": "1998-04-19",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 148902,
+          "name": "Igor Milioransa",
+          "position": "Defence",
+          "dateOfBirth": "1996-09-12",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 150787,
+          "name": "Tomás Domingos",
+          "position": "Defence",
+          "dateOfBirth": "1999-05-01",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 157462,
+          "name": "Nikolaos Michelis",
+          "position": "Defence",
+          "dateOfBirth": "2001-03-23",
+          "nationality": "Greece"
+        },
+        {
+          "id": 243563,
+          "name": "Pedro Barcelos",
+          "position": "Defence",
+          "dateOfBirth": "1996-01-19",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 285585,
+          "name": "Gustavo Costa",
+          "position": "Defence",
+          "dateOfBirth": "2005-09-15",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 6832,
+          "name": "Cihan Kahraman",
+          "position": "Midfield",
+          "dateOfBirth": "1998-10-08",
+          "nationality": "Turkey"
+        },
+        {
+          "id": 11727,
+          "name": "Cristian Ferreira",
+          "position": "Midfield",
+          "dateOfBirth": "1999-09-12",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 37474,
+          "name": "Luís Silva",
+          "position": "Midfield",
+          "dateOfBirth": "1992-09-29",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 53004,
+          "name": "André Ceitil",
+          "position": "Midfield",
+          "dateOfBirth": "1995-03-11",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 142160,
+          "name": "Soufiane Messeguem",
+          "position": "Midfield",
+          "dateOfBirth": "2001-02-05",
+          "nationality": "Germany"
+        },
+        {
+          "id": 173004,
+          "name": "Marquinho",
+          "position": "Midfield",
+          "dateOfBirth": "2002-04-05",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 243627,
+          "name": "Tomás Silva",
+          "position": "Midfield",
+          "dateOfBirth": "2003-10-25",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 45366,
+          "name": "André Clovis",
+          "position": "Offence",
+          "dateOfBirth": "1997-11-21",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 72466,
+          "name": "Dominik Steczyk",
+          "position": "Offence",
+          "dateOfBirth": "1999-05-04",
+          "nationality": "Poland"
+        },
+        {
+          "id": 183393,
+          "name": "Nils Mortimer Moreno",
+          "position": "Offence",
+          "dateOfBirth": "2001-06-11",
+          "nationality": "Spain"
+        },
+        {
+          "id": 189787,
+          "name": "Álvaro Zamora",
+          "position": "Offence",
+          "dateOfBirth": "2002-03-09",
+          "nationality": "Costa Rica"
+        },
+        {
+          "id": 270637,
+          "name": "Simão Silva",
+          "position": "Offence",
+          "dateOfBirth": "2005-07-27",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 276587,
+          "name": "Lorougnon Gohi",
+          "position": "Offence",
+          "dateOfBirth": "2004-08-10",
+          "nationality": "Ivory Coast"
+        }
+      ],
+      "lastUpdated": "2025-12-31T21:03:20Z",
+      "_profileCompetitionCode": "PPL"
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "id": 7822,
+      "name": "FC Alverca",
+      "shortName": "Alverca",
+      "tla": "ALV",
+      "crest": "https://crests.football-data.org/7822.png",
+      "address": "null Alverca do Ribatejo null",
+      "website": "http://www.fcalverca.pt/",
+      "founded": 1939,
+      "venue": "Campo Futebol Clube Alverca",
+      "runningCompetitions": [
+        {
+          "id": 2017,
+          "name": "Primeira Liga",
+          "code": "PPL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PPL.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "squad": [
+        {
+          "id": 146351,
+          "name": "Matheus Mendes",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1999-03-10",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 151205,
+          "name": "André Paulo",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1996-12-18",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 154616,
+          "name": "Mateus Oliveira",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2002-05-02",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 185551,
+          "name": "Noah Raveyre",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2005-06-22",
+          "nationality": "France"
+        },
+        {
+          "id": 33620,
+          "name": "Sergi Gómez",
+          "position": "Defence",
+          "dateOfBirth": "1992-03-28",
+          "nationality": "Spain"
+        },
+        {
+          "id": 212863,
+          "name": "Steven Baseya",
+          "position": "Defence",
+          "dateOfBirth": "2005-01-14",
+          "nationality": "France"
+        },
+        {
+          "id": 214507,
+          "name": "Bastien Meupiyou Menadjou",
+          "position": "Defence",
+          "dateOfBirth": "2006-03-19",
+          "nationality": "France"
+        },
+        {
+          "id": 218729,
+          "name": "Yaya Bojang",
+          "position": "Defence",
+          "dateOfBirth": "2004-09-10",
+          "nationality": "Gambia"
+        },
+        {
+          "id": 249393,
+          "name": "Diogo Spencer",
+          "position": "Defence",
+          "dateOfBirth": "2004-04-17",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 253528,
+          "name": "Julian Martinez",
+          "position": "Defence",
+          "dateOfBirth": "2003-12-01",
+          "nationality": "Honduras"
+        },
+        {
+          "id": 264461,
+          "name": "Isaac James",
+          "position": "Defence",
+          "dateOfBirth": "2004-08-28",
+          "nationality": "Nigeria"
+        },
+        {
+          "id": 283339,
+          "name": "Toni Tamarit",
+          "position": "Defence",
+          "dateOfBirth": "2005-11-22",
+          "nationality": "Spain"
+        },
+        {
+          "id": 110897,
+          "name": "Sabit Abdulai",
+          "position": "Midfield",
+          "dateOfBirth": "1999-05-11",
+          "nationality": "Ghana"
+        },
+        {
+          "id": 261671,
+          "name": "Nabil Touaizi",
+          "position": "Midfield",
+          "dateOfBirth": "2001-02-01",
+          "nationality": "Morocco"
+        },
+        {
+          "id": 263600,
+          "name": "Vasco Moreira",
+          "position": "Midfield",
+          "dateOfBirth": "2001-05-07",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 280296,
+          "name": "Davy Gui",
+          "position": "Midfield",
+          "dateOfBirth": "2006-06-15",
+          "nationality": "Ivory Coast"
+        },
+        {
+          "id": 290806,
+          "name": "Zakaria Kassary",
+          "position": "Midfield",
+          "dateOfBirth": "2006-01-25",
+          "nationality": "Morocco"
+        },
+        {
+          "id": 103003,
+          "name": "Stéphane Diarra",
+          "position": "Offence",
+          "dateOfBirth": "1998-12-09",
+          "nationality": "Ivory Coast"
+        },
+        {
+          "id": 114835,
+          "name": "Junior Mendes",
+          "position": "Offence",
+          "dateOfBirth": "2001-11-17",
+          "nationality": "Senegal"
+        },
+        {
+          "id": 133790,
+          "name": "Marco Essimi Ataba",
+          "position": "Offence",
+          "dateOfBirth": "1999-02-18",
+          "nationality": "France"
+        },
+        {
+          "id": 137985,
+          "name": "Chiquinho",
+          "position": "Offence",
+          "dateOfBirth": "2000-02-05",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 169646,
+          "name": "Lucas Figueiredo",
+          "position": "Offence",
+          "dateOfBirth": "2001-08-14",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 188002,
+          "name": "Vivaldo",
+          "position": "Offence",
+          "dateOfBirth": "2005-01-28",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 247293,
+          "name": "Samy Merheg",
+          "position": "Offence",
+          "dateOfBirth": "2006-12-06",
+          "nationality": "Colombia"
+        },
+        {
+          "id": 267815,
+          "name": "Felipe Lima",
+          "position": "Offence",
+          "dateOfBirth": "2006-04-17",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 280037,
+          "name": "Cédric Nuozzi",
+          "position": "Offence",
+          "dateOfBirth": "2006-01-30",
+          "nationality": "Belgium"
+        }
+      ],
+      "lastUpdated": "2026-03-27T01:48:52Z",
+      "_profileCompetitionCode": "PPL"
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "id": 9136,
+      "name": "CF Estrela da Amadora",
+      "shortName": "Amadora",
+      "tla": "AMA",
+      "crest": "https://crests.football-data.org/9136.png",
+      "address": "null null null",
+      "venue": "Estádio Nacional",
+      "runningCompetitions": [
+        {
+          "id": 2017,
+          "name": "Primeira Liga",
+          "code": "PPL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PPL.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "squad": [
+        {
+          "id": 75277,
+          "name": "Eduardo Dos Santos Haesler",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1999-02-10",
+          "nationality": "Germany"
+        },
+        {
+          "id": 90793,
+          "name": "Francisco Meixedo",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2001-05-19",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 179157,
+          "name": "Leo Linck",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2001-03-03",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 202181,
+          "name": "Diogo Pinto",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2004-06-18",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 231213,
+          "name": "David Grilo",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1996-08-13",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 80875,
+          "name": "Jefferson Encada",
+          "position": "Defence",
+          "dateOfBirth": "1998-04-17",
+          "nationality": "Guinea-Bissau"
+        },
+        {
+          "id": 136782,
+          "name": "Luan Patrick",
+          "position": "Defence",
+          "dateOfBirth": "2002-01-20",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 143609,
+          "name": "Bernardo",
+          "position": "Defence",
+          "dateOfBirth": "1999-03-22",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 152119,
+          "name": "Issiar Dramé",
+          "position": "Defence",
+          "dateOfBirth": "1999-02-16",
+          "nationality": "France"
+        },
+        {
+          "id": 188114,
+          "name": "Stefan Lekovic",
+          "position": "Defence",
+          "dateOfBirth": "2026-06-30",
+          "nationality": "Serbia"
+        },
+        {
+          "id": 202693,
+          "name": "Max Scholze",
+          "position": "Defence",
+          "dateOfBirth": "2005-04-30",
+          "nationality": "Germany"
+        },
+        {
+          "id": 270093,
+          "name": "Atanas Chernev",
+          "position": "Defence",
+          "dateOfBirth": "2002-03-25",
+          "nationality": "Bulgaria"
+        },
+        {
+          "id": 277674,
+          "name": "Otávio",
+          "position": "Defence",
+          "dateOfBirth": "2005-11-25",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 280040,
+          "name": "Gabriel Rodrigues",
+          "position": "Defence",
+          "dateOfBirth": "2003-03-01",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 122432,
+          "name": "Kevin Höög-Jansson",
+          "position": "Midfield",
+          "dateOfBirth": "2000-09-29",
+          "nationality": "Belgium"
+        },
+        {
+          "id": 183635,
+          "name": "Lovro Zvonarek",
+          "position": "Midfield",
+          "dateOfBirth": "2005-05-08",
+          "nationality": "Croatia"
+        },
+        {
+          "id": 209792,
+          "name": "Tom Moustier",
+          "position": "Midfield",
+          "dateOfBirth": "2002-05-02",
+          "nationality": "France"
+        },
+        {
+          "id": 277809,
+          "name": "Robinho",
+          "position": "Midfield",
+          "dateOfBirth": "2002-08-07",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 291311,
+          "name": "Eddy Doué",
+          "position": "Midfield",
+          "dateOfBirth": "2005-12-11",
+          "nationality": "Ivory Coast"
+        },
+        {
+          "id": 45350,
+          "name": "Rodrigo Pinho",
+          "position": "Offence",
+          "dateOfBirth": "1991-05-30",
+          "nationality": "Germany"
+        },
+        {
+          "id": 80336,
+          "name": "Sydney van Hooijdonk",
+          "position": "Offence",
+          "dateOfBirth": "2000-02-06",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 81357,
+          "name": "Ianis Stoica",
+          "position": "Offence",
+          "dateOfBirth": "2002-12-08",
+          "nationality": "Romania"
+        },
+        {
+          "id": 151113,
+          "name": "Abraham Marcus",
+          "position": "Offence",
+          "dateOfBirth": "2000-01-02",
+          "nationality": "Nigeria"
+        },
+        {
+          "id": 182080,
+          "name": "Leandro Antonetti",
+          "position": "Offence",
+          "dateOfBirth": "2003-01-13",
+          "nationality": "Spain"
+        },
+        {
+          "id": 216107,
+          "name": "Mathew Gbomadu",
+          "position": "Offence",
+          "dateOfBirth": "2004-10-16",
+          "nationality": "Nigeria"
+        },
+        {
+          "id": 256245,
+          "name": "Alisson Jesus",
+          "position": "Offence",
+          "dateOfBirth": "2005-04-11",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 261052,
+          "name": "Chilohem Onuoha",
+          "position": "Offence",
+          "dateOfBirth": "2005-05-07",
+          "nationality": "Germany"
+        }
+      ],
+      "lastUpdated": "2023-07-31T12:07:04Z",
+      "_profileCompetitionCode": "PPL"
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "id": 712,
+      "name": "FC Arouca",
+      "shortName": "Arouca",
+      "tla": "FCA",
+      "crest": "https://crests.football-data.org/712.png",
+      "address": "Rua Doutor Ângelo Miranda Arouca 4540-140",
+      "website": "http://www.fcarouca.eu",
+      "founded": 1952,
+      "clubColors": "Yellow / Blue",
+      "venue": "Estádio Municipal de Arouca",
+      "runningCompetitions": [
+        {
+          "id": 2017,
+          "name": "Primeira Liga",
+          "code": "PPL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PPL.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "squad": [
+        {
+          "id": 10345,
+          "name": "Nico Mantl",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2000-02-06",
+          "nationality": "Germany"
+        },
+        {
+          "id": 100703,
+          "name": "Ignacio De Arruabarrena",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1997-01-16",
+          "nationality": "Uruguay"
+        },
+        {
+          "id": 202404,
+          "name": "Jakub Vinarčík",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2005-07-11",
+          "nationality": "Slovakia"
+        },
+        {
+          "id": 53121,
+          "name": "Tiago Esgaio",
+          "position": "Defence",
+          "dateOfBirth": "1995-08-01",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 80899,
+          "name": "Javi Sánchez",
+          "position": "Defence",
+          "dateOfBirth": "1997-03-14",
+          "nationality": "Spain"
+        },
+        {
+          "id": 140169,
+          "name": "José Fontán",
+          "position": "Defence",
+          "dateOfBirth": "2000-02-11",
+          "nationality": "Spain"
+        },
+        {
+          "id": 151938,
+          "name": "Boris Popović",
+          "position": "Defence",
+          "dateOfBirth": "2000-02-26",
+          "nationality": "France"
+        },
+        {
+          "id": 153734,
+          "name": "Matí­as Rocha",
+          "position": "Defence",
+          "dateOfBirth": "2001-02-13",
+          "nationality": "Uruguay"
+        },
+        {
+          "id": 157101,
+          "name": "Diogo Monteiro",
+          "position": "Defence",
+          "dateOfBirth": "2005-01-28",
+          "nationality": "Switzerland"
+        },
+        {
+          "id": 184995,
+          "name": "Arnau Solà",
+          "position": "Defence",
+          "dateOfBirth": "2003-04-04",
+          "nationality": "Spain"
+        },
+        {
+          "id": 136929,
+          "name": "Pablo Gozalbez",
+          "position": "Midfield",
+          "dateOfBirth": "2001-04-30",
+          "nationality": "Spain"
+        },
+        {
+          "id": 169128,
+          "name": "Taichi Fukui",
+          "position": "Midfield",
+          "dateOfBirth": "2004-07-15",
+          "nationality": "Japan"
+        },
+        {
+          "id": 182405,
+          "name": "Hyun-Ju Lee",
+          "position": "Midfield",
+          "dateOfBirth": "2003-02-07",
+          "nationality": "South Korea"
+        },
+        {
+          "id": 191142,
+          "name": "Pedro Santos",
+          "position": "Midfield",
+          "dateOfBirth": "2000-10-12",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 214415,
+          "name": "Espen van Ee",
+          "position": "Midfield",
+          "dateOfBirth": "2003-07-05",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 270595,
+          "name": "Mateo Flores",
+          "position": "Midfield",
+          "dateOfBirth": "2004-04-07",
+          "nationality": "Spain"
+        },
+        {
+          "id": 81391,
+          "name": "Barbero",
+          "position": "Offence",
+          "dateOfBirth": "1998-08-17",
+          "nationality": "Spain"
+        },
+        {
+          "id": 92089,
+          "name": "Naïs Djouahra",
+          "position": "Offence",
+          "dateOfBirth": "1999-11-23",
+          "nationality": "France"
+        },
+        {
+          "id": 143641,
+          "name": "Alfonso Trezza",
+          "position": "Offence",
+          "dateOfBirth": "1999-06-22",
+          "nationality": "Uruguay"
+        },
+        {
+          "id": 152585,
+          "name": "Fally Mayulu",
+          "position": "Offence",
+          "dateOfBirth": "2002-07-15",
+          "nationality": "France"
+        },
+        {
+          "id": 161005,
+          "name": "Dylan Nandín",
+          "position": "Offence",
+          "dateOfBirth": "2002-02-28",
+          "nationality": "Uruguay"
+        },
+        {
+          "id": 178782,
+          "name": "Brian Mansilla",
+          "position": "Offence",
+          "dateOfBirth": "2002-05-14",
+          "nationality": "Uruguay"
+        },
+        {
+          "id": 180178,
+          "name": "Puche",
+          "position": "Offence",
+          "dateOfBirth": "2001-04-30",
+          "nationality": "Spain"
+        },
+        {
+          "id": 192545,
+          "name": "Vladislav Morozov",
+          "position": "Offence",
+          "dateOfBirth": "2000-10-12",
+          "nationality": "Belarus"
+        },
+        {
+          "id": 212549,
+          "name": "Romualdas Jansonas",
+          "position": "Offence",
+          "dateOfBirth": "2005-06-23",
+          "nationality": "Lithuania"
+        }
+      ],
+      "lastUpdated": "2022-02-25T16:58:25Z",
+      "_profileCompetitionCode": "PPL",
+      "_profileFetchedAt": "2026-07-24 23:46 UTC"
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "id": 5613,
+      "name": "Sporting Clube de Braga",
+      "shortName": "Braga",
+      "tla": "SCB",
+      "crest": "https://crests.football-data.org/5613.png",
+      "address": "Parque Norte, Monte Crasto, Apartado 12 Braga 4700-087",
+      "website": "http://www.scbraga.pt",
+      "founded": 1921,
+      "clubColors": "Red / White",
+      "venue": "Estádio Municipal de Braga",
+      "runningCompetitions": [
+        {
+          "id": 2017,
+          "name": "Primeira Liga",
+          "code": "PPL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PPL.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "squad": [
+        {
+          "id": 37817,
+          "name": "Tiago Sá",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1995-01-11",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 146753,
+          "name": "Lukáš Horníček",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2002-07-13",
+          "nationality": "Czech Republic"
+        },
+        {
+          "id": 182049,
+          "name": "Bernardo Fontes",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2002-07-23",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 275026,
+          "name": "João Carvalho",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2004-04-09",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 469,
+          "name": "Sikou Niakaté",
+          "position": "Defence",
+          "dateOfBirth": "1999-07-10",
+          "nationality": "France"
+        },
+        {
+          "id": 33339,
+          "name": "Paulo Oliveira",
+          "position": "Defence",
+          "dateOfBirth": "1992-01-08",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 105357,
+          "name": "Bartłomiej Wdowik",
+          "position": "Defence",
+          "dateOfBirth": "2000-09-25",
+          "nationality": "Poland"
+        },
+        {
+          "id": 131947,
+          "name": "Victor Perea",
+          "position": "Defence",
+          "dateOfBirth": "2000-04-01",
+          "nationality": "Spain"
+        },
+        {
+          "id": 146987,
+          "name": "Bright Arrey-Mbi",
+          "position": "Defence",
+          "dateOfBirth": "2003-03-26",
+          "nationality": "Germany"
+        },
+        {
+          "id": 154344,
+          "name": "Sergio Barcia",
+          "position": "Defence",
+          "dateOfBirth": "2000-12-31",
+          "nationality": "Spain"
+        },
+        {
+          "id": 166538,
+          "name": "Gustaf Lagerbielke",
+          "position": "Defence",
+          "dateOfBirth": "2000-04-10",
+          "nationality": "Sweden"
+        },
+        {
+          "id": 177020,
+          "name": "Adrian Leon Barisic",
+          "position": "Defence",
+          "dateOfBirth": "2001-07-19",
+          "nationality": "Bosnia-Herzegovina"
+        },
+        {
+          "id": 185146,
+          "name": "Leonardo Lelo",
+          "position": "Defence",
+          "dateOfBirth": "2000-03-30",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 220410,
+          "name": "Adrian Bajrami",
+          "position": "Defence",
+          "dateOfBirth": "2002-04-05",
+          "nationality": "Switzerland"
+        },
+        {
+          "id": 245259,
+          "name": "Diogo Travassos",
+          "position": "Defence",
+          "dateOfBirth": "2004-03-31",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 246741,
+          "name": "Francisco Chissumba",
+          "position": "Defence",
+          "dateOfBirth": "2005-05-29",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 265148,
+          "name": "Jonatás Noro",
+          "position": "Defence",
+          "dateOfBirth": "2005-07-09",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 3249,
+          "name": "João Moutinho",
+          "position": "Midfield",
+          "dateOfBirth": "1986-09-08",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 13911,
+          "name": "Vitor Carvalho",
+          "position": "Midfield",
+          "dateOfBirth": "1997-05-27",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 150087,
+          "name": "Denis Huseinbasic",
+          "position": "Midfield",
+          "dateOfBirth": "2001-07-03",
+          "nationality": "Bosnia-Herzegovina"
+        },
+        {
+          "id": 172912,
+          "name": "Demir Tiknaz",
+          "position": "Midfield",
+          "dateOfBirth": "2004-08-17",
+          "nationality": "Turkey"
+        },
+        {
+          "id": 178756,
+          "name": "Jean-Baptiste Gorby",
+          "position": "Midfield",
+          "dateOfBirth": "2002-07-25",
+          "nationality": "France"
+        },
+        {
+          "id": 186516,
+          "name": "Mario Dorgeles",
+          "position": "Midfield",
+          "dateOfBirth": "2004-08-07",
+          "nationality": "Ivory Coast"
+        },
+        {
+          "id": 205658,
+          "name": "Thiago Helguera",
+          "position": "Midfield",
+          "dateOfBirth": "2006-03-26",
+          "nationality": "Uruguay"
+        },
+        {
+          "id": 273888,
+          "name": "Diego Rodrigues",
+          "position": "Midfield",
+          "dateOfBirth": "2005-05-24",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 281002,
+          "name": "Yanis Da Rocha",
+          "position": "Midfield",
+          "dateOfBirth": "2004-05-10",
+          "nationality": "France"
+        },
+        {
+          "id": 294552,
+          "name": "Luisinho",
+          "position": "Midfield",
+          "dateOfBirth": "2006-08-16",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 16335,
+          "name": "Jonas Wind",
+          "position": "Offence",
+          "dateOfBirth": "1999-02-07",
+          "nationality": "Denmark"
+        },
+        {
+          "id": 45401,
+          "name": "Ricardo Horta",
+          "position": "Offence",
+          "dateOfBirth": "1994-09-15",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 102579,
+          "name": "Fran Navarro",
+          "position": "Offence",
+          "dateOfBirth": "1998-02-03",
+          "nationality": "Spain"
+        },
+        {
+          "id": 144579,
+          "name": "Pau Victor Delgado",
+          "position": "Offence",
+          "dateOfBirth": "2001-11-26",
+          "nationality": "Spain"
+        },
+        {
+          "id": 161414,
+          "name": "Ismaël Gharbi",
+          "position": "Offence",
+          "dateOfBirth": "2004-04-10",
+          "nationality": "Tunisia"
+        },
+        {
+          "id": 168766,
+          "name": "Gabriel Silva",
+          "position": "Offence",
+          "dateOfBirth": "2002-03-22",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 180185,
+          "name": "Gabriel Martínez",
+          "position": "Offence",
+          "dateOfBirth": "2003-01-22",
+          "nationality": "Spain"
+        },
+        {
+          "id": 190876,
+          "name": "Joao Marques",
+          "position": "Offence",
+          "dateOfBirth": "2002-02-13",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 275538,
+          "name": "Sandro Vidigal",
+          "position": "Offence",
+          "dateOfBirth": "2007-07-28",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 286765,
+          "name": "João Aragão",
+          "position": "Offence",
+          "dateOfBirth": "2008-03-24",
+          "nationality": "Portugal"
+        }
+      ],
+      "lastUpdated": "2022-02-19T08:44:56Z",
+      "_profileCompetitionCode": "PPL"
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "id": 5529,
+      "name": "CD Nacional",
+      "shortName": "CD Nacional",
+      "tla": "CDN",
+      "crest": "https://crests.football-data.org/5529.png",
+      "address": "Rua do Esmeraldo, n.º 46 Funchal 9060",
+      "website": "http://www.cdnacional.pt",
+      "founded": 1910,
+      "clubColors": "Black / White",
+      "venue": "Estádio da Madeira",
+      "runningCompetitions": [
+        {
+          "id": 2017,
+          "name": "Primeira Liga",
+          "code": "PPL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PPL.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "squad": [
+        {
+          "id": 124829,
+          "name": "João Gonçalves",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2000-11-05",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 245387,
+          "name": "Renato Marin",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2006-07-10",
+          "nationality": "Italy"
+        },
+        {
+          "id": 249175,
+          "name": "Kevyn",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2005-07-01",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 1437,
+          "name": "Léo Santos",
+          "position": "Defence",
+          "dateOfBirth": "1998-12-09",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 37727,
+          "name": "Ivanildo Fernandes",
+          "position": "Defence",
+          "dateOfBirth": "1996-03-26",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 119755,
+          "name": "Ulisses",
+          "position": "Defence",
+          "dateOfBirth": "1999-08-28",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 169570,
+          "name": "Zé Vitor",
+          "position": "Defence",
+          "dateOfBirth": "2001-02-09",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 243604,
+          "name": "José Gomes",
+          "position": "Defence",
+          "dateOfBirth": "1996-07-20",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 250231,
+          "name": "Daniel De la Cruz",
+          "position": "Defence",
+          "dateOfBirth": "2004-03-06",
+          "nationality": "Ecuador"
+        },
+        {
+          "id": 1362,
+          "name": "Liziero",
+          "position": "Midfield",
+          "dateOfBirth": "1998-02-07",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 43565,
+          "name": "Filipe Soares",
+          "position": "Midfield",
+          "dateOfBirth": "1999-05-20",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 147456,
+          "name": "Miguel Baeza",
+          "position": "Midfield",
+          "dateOfBirth": "2000-03-27",
+          "nationality": "Spain"
+        },
+        {
+          "id": 179837,
+          "name": "Matheus Dias",
+          "position": "Midfield",
+          "dateOfBirth": "2002-05-09",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 181585,
+          "name": "Daniel Jr.",
+          "position": "Midfield",
+          "dateOfBirth": "2002-05-09",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 187080,
+          "name": "Danel Dongmo",
+          "position": "Midfield",
+          "dateOfBirth": "2001-01-31",
+          "nationality": "Cameroon"
+        },
+        {
+          "id": 188089,
+          "name": "Joel Silva",
+          "position": "Midfield",
+          "dateOfBirth": "2003-02-11",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 226998,
+          "name": "Josué Souza",
+          "position": "Midfield",
+          "dateOfBirth": "2005-04-25",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 270035,
+          "name": "Chiheb Labidi",
+          "position": "Midfield",
+          "dateOfBirth": "2001-06-01",
+          "nationality": "Tunisia"
+        },
+        {
+          "id": 280035,
+          "name": "Deivison",
+          "position": "Midfield",
+          "dateOfBirth": "2006-05-04",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 285292,
+          "name": "Mateus Iseppe",
+          "position": "Midfield",
+          "dateOfBirth": "2006-05-02",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 37194,
+          "name": "Witi",
+          "position": "Offence",
+          "dateOfBirth": "1996-08-26",
+          "nationality": "Mozambique"
+        },
+        {
+          "id": 183598,
+          "name": "Stavros Gavriel",
+          "position": "Offence",
+          "dateOfBirth": "2002-01-29",
+          "nationality": "Cyprus"
+        },
+        {
+          "id": 188085,
+          "name": "Chuchu",
+          "position": "Offence",
+          "dateOfBirth": "1998-05-04",
+          "nationality": "Venezuela"
+        },
+        {
+          "id": 213842,
+          "name": "Markus Jensen",
+          "position": "Offence",
+          "dateOfBirth": "2005-07-15",
+          "nationality": "Denmark"
+        },
+        {
+          "id": 218644,
+          "name": "Pablo Ruan",
+          "position": "Offence",
+          "dateOfBirth": "2003-02-01",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 242472,
+          "name": "Martim Watts",
+          "position": "Offence",
+          "dateOfBirth": "2005-07-14",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 246141,
+          "name": "Mootaz Nourani",
+          "position": "Offence",
+          "dateOfBirth": "2002-01-11",
+          "nationality": "Tunisia"
+        }
+      ],
+      "lastUpdated": "2023-06-02T09:42:46Z",
+      "_profileCompetitionCode": "PPL"
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "id": 6618,
+      "name": "Casa Pia AC",
+      "shortName": "Casa Pia",
+      "tla": "CAS",
+      "crest": "https://crests.football-data.org/6618.png",
+      "address": "Estádio Pina Manique Lisboa 1500-462",
+      "website": "http://www.casapia-ac.pt",
+      "founded": 1920,
+      "clubColors": "Black / White",
+      "venue": "Estádio Pina Manique",
+      "runningCompetitions": [
+        {
+          "id": 2017,
+          "name": "Primeira Liga",
+          "code": "PPL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PPL.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "squad": [
+        {
+          "id": 33894,
+          "name": "Patrick Sequeira",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1999-03-01",
+          "nationality": "Costa Rica"
+        },
+        {
+          "id": 43642,
+          "name": "Daniel Azevedo",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1998-02-12",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 77869,
+          "name": "Ricardo Batista",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1986-11-19",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 192010,
+          "name": "Andre Gomes",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2004-10-20",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 246140,
+          "name": "Ivan Mandić",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2003-03-10",
+          "nationality": "Croatia"
+        },
+        {
+          "id": 37728,
+          "name": "Abdu Conté",
+          "position": "Defence",
+          "dateOfBirth": "1998-03-24",
+          "nationality": "Guinea-Bissau"
+        },
+        {
+          "id": 45303,
+          "name": "Geraldes",
+          "position": "Defence",
+          "dateOfBirth": "1991-05-02",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 99358,
+          "name": "Kaique Rocha",
+          "position": "Defence",
+          "dateOfBirth": "2001-02-28",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 138218,
+          "name": "David Sousa",
+          "position": "Defence",
+          "dateOfBirth": "2001-07-04",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 171386,
+          "name": "Joao Goulart",
+          "position": "Defence",
+          "dateOfBirth": "2000-01-27",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 263516,
+          "name": "Pedro Rosas",
+          "position": "Defence",
+          "dateOfBirth": "2000-11-28",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 274982,
+          "name": "Kaly",
+          "position": "Defence",
+          "dateOfBirth": "2003-11-27",
+          "nationality": "Angola"
+        },
+        {
+          "id": 11702,
+          "name": "Sebastián Pérez",
+          "position": "Midfield",
+          "dateOfBirth": "1993-03-29",
+          "nationality": "Colombia"
+        },
+        {
+          "id": 39959,
+          "name": "Lawrence Ofori",
+          "position": "Midfield",
+          "dateOfBirth": "1998-06-28",
+          "nationality": "Ghana"
+        },
+        {
+          "id": 150945,
+          "name": "Raúl Blanco",
+          "position": "Midfield",
+          "dateOfBirth": "2001-07-31",
+          "nationality": "Spain"
+        },
+        {
+          "id": 171553,
+          "name": "Iyad Mohamed",
+          "position": "Midfield",
+          "dateOfBirth": "2001-10-29",
+          "nationality": "Comoros"
+        },
+        {
+          "id": 263588,
+          "name": "Gabi Pereira",
+          "position": "Midfield",
+          "dateOfBirth": "2000-04-18",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 270882,
+          "name": "Kevin Prieto",
+          "position": "Midfield",
+          "dateOfBirth": "2003-06-27",
+          "nationality": "Uruguay"
+        },
+        {
+          "id": 14003,
+          "name": "Cassiano",
+          "position": "Offence",
+          "dateOfBirth": "1989-06-16",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 45116,
+          "name": "Jérémy Livolant",
+          "position": "Offence",
+          "dateOfBirth": "1998-01-09",
+          "nationality": "France"
+        },
+        {
+          "id": 45511,
+          "name": "Rochinha",
+          "position": "Offence",
+          "dateOfBirth": "1995-05-03",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 136091,
+          "name": "Kelian Nsona Wa Saka",
+          "position": "Offence",
+          "dateOfBirth": "2002-05-11",
+          "nationality": "France"
+        },
+        {
+          "id": 144580,
+          "name": "Claudio Mendes",
+          "position": "Offence",
+          "dateOfBirth": "2000-12-08",
+          "nationality": "Spain"
+        },
+        {
+          "id": 154532,
+          "name": "Max Svensson",
+          "position": "Offence",
+          "dateOfBirth": "2001-11-08",
+          "nationality": "Spain"
+        },
+        {
+          "id": 218361,
+          "name": "Korede Osundina",
+          "position": "Offence",
+          "dateOfBirth": "2004-02-13",
+          "nationality": "USA"
+        }
+      ],
+      "lastUpdated": "2022-07-26T17:38:35Z",
+      "_profileCompetitionCode": "PPL"
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "id": 582,
+      "name": "GD Estoril Praia",
+      "shortName": "Estoril Praia",
+      "tla": "EST",
+      "crest": "https://crests.football-data.org/582.png",
+      "address": "Estádio António Coimbra da Mota Estoril 2765",
+      "website": "http://www.estorilpraia.pt",
+      "founded": 1939,
+      "clubColors": "Yellow / Blue",
+      "venue": "Estádio António Coimbra da Mota",
+      "runningCompetitions": [
+        {
+          "id": 2017,
+          "name": "Primeira Liga",
+          "code": "PPL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PPL.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "squad": [
+        {
+          "id": 7821,
+          "name": "Joel Robles",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1990-06-17",
+          "nationality": "Spain"
+        },
+        {
+          "id": 153884,
+          "name": "Martin Turk",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2003-08-21",
+          "nationality": "Slovenia"
+        },
+        {
+          "id": 213111,
+          "name": "Diogo Dias",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2003-06-17",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 37554,
+          "name": "Ferro",
+          "position": "Defence",
+          "dateOfBirth": "1997-03-26",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 75196,
+          "name": "Felix Bacher",
+          "position": "Defence",
+          "dateOfBirth": "2000-10-25",
+          "nationality": "Austria"
+        },
+        {
+          "id": 141472,
+          "name": "Ricard Sánchez",
+          "position": "Defence",
+          "dateOfBirth": "2000-02-22",
+          "nationality": "Spain"
+        },
+        {
+          "id": 172422,
+          "name": "Fernando Medrano",
+          "position": "Defence",
+          "dateOfBirth": "2000-03-26",
+          "nationality": "Spain"
+        },
+        {
+          "id": 175853,
+          "name": "Antef Tsoungui",
+          "position": "Defence",
+          "dateOfBirth": "2002-12-30",
+          "nationality": "Belgium"
+        },
+        {
+          "id": 185120,
+          "name": "Gonçalo Costa",
+          "position": "Defence",
+          "dateOfBirth": "2000-02-18",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 243570,
+          "name": "Pedro Carvalho",
+          "position": "Defence",
+          "dateOfBirth": "2003-02-14",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 276658,
+          "name": "Tiago Parente",
+          "position": "Defence",
+          "dateOfBirth": "2004-01-14",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 278726,
+          "name": "Diogo Brasido",
+          "position": "Defence",
+          "dateOfBirth": "2003-05-24",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 8569,
+          "name": "Xeka",
+          "position": "Midfield",
+          "dateOfBirth": "1994-11-10",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 16752,
+          "name": "João Carvalho",
+          "position": "Midfield",
+          "dateOfBirth": "1997-03-09",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 135650,
+          "name": "Jordan Holsgrove",
+          "position": "Midfield",
+          "dateOfBirth": "1999-09-10",
+          "nationality": "Scotland"
+        },
+        {
+          "id": 146983,
+          "name": "Jandro Orellana",
+          "position": "Midfield",
+          "dateOfBirth": "2000-08-07",
+          "nationality": "Spain"
+        },
+        {
+          "id": 204177,
+          "name": "Tiago Brito",
+          "position": "Midfield",
+          "dateOfBirth": "2004-04-16",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 254264,
+          "name": "Nodar Lominadze",
+          "position": "Midfield",
+          "dateOfBirth": "2002-04-04",
+          "nationality": "Georgia"
+        },
+        {
+          "id": 553,
+          "name": "Yanis Begraoui",
+          "position": "Offence",
+          "dateOfBirth": "2001-07-04",
+          "nationality": "France"
+        },
+        {
+          "id": 636,
+          "name": "Rafik Guitane",
+          "position": "Offence",
+          "dateOfBirth": "1999-05-26",
+          "nationality": "France"
+        },
+        {
+          "id": 189251,
+          "name": "Khayon Edwards",
+          "position": "Offence",
+          "dateOfBirth": "2003-09-12",
+          "nationality": "England"
+        },
+        {
+          "id": 213075,
+          "name": "Peixinho",
+          "position": "Offence",
+          "dateOfBirth": "2004-05-23",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 244769,
+          "name": "Israel Salazar",
+          "position": "Offence",
+          "dateOfBirth": "2003-05-10",
+          "nationality": "Spain"
+        },
+        {
+          "id": 248958,
+          "name": "Fabrício Garcia",
+          "position": "Offence",
+          "dateOfBirth": "2001-05-04",
+          "nationality": "Cape Verde Islands"
+        },
+        {
+          "id": 249234,
+          "name": "André",
+          "position": "Offence",
+          "dateOfBirth": "2001-05-19",
+          "nationality": "Portugal"
+        }
+      ],
+      "lastUpdated": "2022-10-19T16:23:49Z",
+      "_profileCompetitionCode": "PPL",
+      "_profileFetchedAt": "2026-07-24 23:46 UTC"
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "id": 5531,
+      "name": "FC Famalicão",
+      "shortName": "Famalicão",
+      "tla": "FAM",
+      "crest": "https://crests.football-data.org/5531.png",
+      "address": "null Vila Nova de Famalicão null",
+      "website": "http://www.fcfamalicao.pt",
+      "founded": 1931,
+      "clubColors": "Blue / White",
+      "venue": "Estádio Municipal 22 de Junho",
+      "runningCompetitions": [
+        {
+          "id": 2017,
+          "name": "Primeira Liga",
+          "code": "PPL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PPL.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "squad": [
+        {
+          "id": 37556,
+          "name": "Ivan Zlobin",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1997-03-07",
+          "nationality": "Russia"
+        },
+        {
+          "id": 176011,
+          "name": "Lazar Carevic",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1999-03-16",
+          "nationality": "Montenegro"
+        },
+        {
+          "id": 112965,
+          "name": "Leonardo Realpe",
+          "position": "Defence",
+          "dateOfBirth": "2001-02-26",
+          "nationality": "Ecuador"
+        },
+        {
+          "id": 126147,
+          "name": "Rodrigo Pinheiro",
+          "position": "Defence",
+          "dateOfBirth": "2002-08-28",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 169260,
+          "name": "Gustavo Garcia",
+          "position": "Defence",
+          "dateOfBirth": "2002-01-04",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 186069,
+          "name": "Leny Meyer",
+          "position": "Defence",
+          "dateOfBirth": "2004-07-01",
+          "nationality": "Switzerland"
+        },
+        {
+          "id": 212379,
+          "name": "Finn van Breemen",
+          "position": "Defence",
+          "dateOfBirth": "2003-02-25",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 217397,
+          "name": "Vojin Serafimović",
+          "position": "Defence",
+          "dateOfBirth": "2005-10-14",
+          "nationality": "Serbia"
+        },
+        {
+          "id": 281588,
+          "name": "Renan Santana",
+          "position": "Defence",
+          "dateOfBirth": "2005-03-13",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 7533,
+          "name": "Tommie van de Looi",
+          "position": "Midfield",
+          "dateOfBirth": "1999-07-02",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 154435,
+          "name": "Paulo Moreira",
+          "position": "Midfield",
+          "dateOfBirth": "2000-02-17",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 176243,
+          "name": "Tamas Szucs",
+          "position": "Midfield",
+          "dateOfBirth": "2005-01-16",
+          "nationality": "Hungary"
+        },
+        {
+          "id": 187280,
+          "name": "Gustavo Sa",
+          "position": "Midfield",
+          "dateOfBirth": "2004-11-11",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 207131,
+          "name": "Marcos Peña",
+          "position": "Midfield",
+          "dateOfBirth": "2005-01-22",
+          "nationality": "Spain"
+        },
+        {
+          "id": 215432,
+          "name": "Mathias De Amorin",
+          "position": "Midfield",
+          "dateOfBirth": "2004-12-10",
+          "nationality": "France"
+        },
+        {
+          "id": 286945,
+          "name": "Mathis Jangeal",
+          "position": "Midfield",
+          "dateOfBirth": "2008-06-24",
+          "nationality": "France"
+        },
+        {
+          "id": 1785,
+          "name": "Gil Dias",
+          "position": "Offence",
+          "dateOfBirth": "1996-09-28",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 154741,
+          "name": "Óscar Aranda",
+          "position": "Offence",
+          "dateOfBirth": "2002-04-29",
+          "nationality": "Spain"
+        },
+        {
+          "id": 169412,
+          "name": "Marcos Vinicios",
+          "position": "Offence",
+          "dateOfBirth": "2001-02-23",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 206657,
+          "name": "Romeo Beney",
+          "position": "Offence",
+          "dateOfBirth": "2005-01-19",
+          "nationality": "Switzerland"
+        },
+        {
+          "id": 262588,
+          "name": "Pedro Santos",
+          "position": "Offence",
+          "dateOfBirth": "2003-02-10",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 280680,
+          "name": "Umar Abubakar",
+          "position": "Offence",
+          "dateOfBirth": "2006-02-15",
+          "nationality": "Nigeria"
+        },
+        {
+          "id": 292393,
+          "name": "Rudi Almeida",
+          "position": "Offence",
+          "dateOfBirth": "2005-03-19",
+          "nationality": "Portugal"
+        }
+      ],
+      "lastUpdated": "2022-08-07T11:37:24Z",
+      "_profileCompetitionCode": "PPL"
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "id": 5533,
+      "name": "Gil Vicente FC",
+      "shortName": "Gil Vicente",
+      "tla": "GIL",
+      "crest": "https://crests.football-data.org/5533.png",
+      "address": "Rua D. Diogo Pinheiro n.º 25, Apartado 197 Barcelos 4750-282",
+      "website": "http://www.gilvicentefc.pt",
+      "founded": 1924,
+      "clubColors": "Red / Blue",
+      "venue": "Estádio Cidade de Barcelos",
+      "runningCompetitions": [
+        {
+          "id": 2017,
+          "name": "Primeira Liga",
+          "code": "PPL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PPL.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "squad": [
+        {
+          "id": 128746,
+          "name": "Lucão",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2001-02-26",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 9125,
+          "name": "Jonathan Buatu",
+          "position": "Defence",
+          "dateOfBirth": "1993-09-27",
+          "nationality": "Belgium"
+        },
+        {
+          "id": 37432,
+          "name": "Ghislain Konan",
+          "position": "Defence",
+          "dateOfBirth": "1995-12-27",
+          "nationality": "Ivory Coast"
+        },
+        {
+          "id": 45388,
+          "name": "Ricardo Esgaio",
+          "position": "Defence",
+          "dateOfBirth": "1993-05-16",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 146361,
+          "name": "Weverson",
+          "position": "Defence",
+          "dateOfBirth": "2000-07-05",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 160445,
+          "name": "Marvin Elimbi",
+          "position": "Defence",
+          "dateOfBirth": "2003-02-20",
+          "nationality": "France"
+        },
+        {
+          "id": 211848,
+          "name": "Antonio Espigares",
+          "position": "Defence",
+          "dateOfBirth": "2004-09-05",
+          "nationality": "Spain"
+        },
+        {
+          "id": 245428,
+          "name": "Arthur Tchaptchet",
+          "position": "Defence",
+          "dateOfBirth": "2006-05-10",
+          "nationality": "France"
+        },
+        {
+          "id": 275631,
+          "name": "José Silva",
+          "position": "Defence",
+          "dateOfBirth": "2005-08-20",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 277088,
+          "name": "David Moreira",
+          "position": "Defence",
+          "dateOfBirth": "2004-04-18",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 153579,
+          "name": "Facundo Cáseres",
+          "position": "Midfield",
+          "dateOfBirth": "2001-05-28",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 153732,
+          "name": "Martín Fernández",
+          "position": "Midfield",
+          "dateOfBirth": "2003-06-23",
+          "nationality": "Uruguay"
+        },
+        {
+          "id": 180125,
+          "name": "Santi García",
+          "position": "Midfield",
+          "dateOfBirth": "2001-08-29",
+          "nationality": "Spain"
+        },
+        {
+          "id": 188094,
+          "name": "Zé Carlos",
+          "position": "Midfield",
+          "dateOfBirth": "2001-10-30",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 246194,
+          "name": "Diogo Prioste",
+          "position": "Midfield",
+          "dateOfBirth": "2004-03-26",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 256251,
+          "name": "Andreas Lausen",
+          "position": "Midfield",
+          "dateOfBirth": "2002-10-15",
+          "nationality": "Denmark"
+        },
+        {
+          "id": 262713,
+          "name": "Gil Martins",
+          "position": "Midfield",
+          "dateOfBirth": "2006-05-12",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 267932,
+          "name": "Mohamed Bamba",
+          "position": "Midfield",
+          "dateOfBirth": "2004-10-08",
+          "nationality": "Ivory Coast"
+        },
+        {
+          "id": 284048,
+          "name": "Gonçalo Maia",
+          "position": "Midfield",
+          "dateOfBirth": "2005-11-30",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 32309,
+          "name": "Héctor Hernández",
+          "position": "Offence",
+          "dateOfBirth": "1995-09-14",
+          "nationality": "Spain"
+        },
+        {
+          "id": 37160,
+          "name": "Murilo",
+          "position": "Offence",
+          "dateOfBirth": "1994-10-31",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 98160,
+          "name": "Sergio Bermejo",
+          "position": "Offence",
+          "dateOfBirth": "1997-08-17",
+          "nationality": "Spain"
+        },
+        {
+          "id": 143820,
+          "name": "Carlos Eduardo",
+          "position": "Offence",
+          "dateOfBirth": "2002-08-10",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 144710,
+          "name": "Joelson Fernandes",
+          "position": "Offence",
+          "dateOfBirth": "2003-02-28",
+          "nationality": "Guinea-Bissau"
+        },
+        {
+          "id": 177301,
+          "name": "Tidjany Touré",
+          "position": "Offence",
+          "dateOfBirth": "2002-07-15",
+          "nationality": "France"
+        },
+        {
+          "id": 218939,
+          "name": "Bassco Soyer",
+          "position": "Offence",
+          "dateOfBirth": "2006-10-17",
+          "nationality": "Peru"
+        },
+        {
+          "id": 249135,
+          "name": "Walace",
+          "position": "Offence",
+          "dateOfBirth": "2005-08-24",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 260041,
+          "name": "Agustin Moreira",
+          "position": "Offence",
+          "dateOfBirth": "2001-05-28",
+          "nationality": "Uruguay"
+        }
+      ],
+      "lastUpdated": "2022-02-19T08:57:44Z",
+      "_profileCompetitionCode": "PPL"
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "id": 5575,
+      "name": "CS Marítimo",
+      "shortName": "Marítimo",
+      "tla": "CSM",
+      "crest": "https://crests.football-data.org/5575.png",
+      "address": "Rua Campo do Marítimo, Santo António Funchal 9020-073",
+      "website": "http://www.csmaritimo.org.pt",
+      "founded": 1910,
+      "clubColors": "Green / Red",
+      "venue": "Estádio dos Barreiros",
+      "runningCompetitions": [
+        {
+          "id": 2017,
+          "name": "Primeira Liga",
+          "code": "PPL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PPL.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "squad": [
+        {
+          "id": 137015,
+          "name": "Alfonso Pastor",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2000-10-04",
+          "nationality": "Spain"
+        },
+        {
+          "id": 171318,
+          "name": "Pedro Teixeira",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2001-11-20",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 225965,
+          "name": "Gonçalo Tabuaço",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2001-03-11",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 259881,
+          "name": "Kimiss",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2004-05-08",
+          "nationality": "Mozambique"
+        },
+        {
+          "id": 37698,
+          "name": "Paulo Henrique",
+          "position": "Defence",
+          "dateOfBirth": "1996-10-23",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 83846,
+          "name": "Igor Julião",
+          "position": "Defence",
+          "dateOfBirth": "1994-08-23",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 98612,
+          "name": "Rodrigo Borges",
+          "position": "Defence",
+          "dateOfBirth": "1998-08-05",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 157711,
+          "name": "Nathanael Ogbeta",
+          "position": "Defence",
+          "dateOfBirth": "2001-04-18",
+          "nationality": "England"
+        },
+        {
+          "id": 186692,
+          "name": "Rafael Fernandes",
+          "position": "Defence",
+          "dateOfBirth": "2002-06-28",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 187537,
+          "name": "Afonso Freitas",
+          "position": "Defence",
+          "dateOfBirth": "2000-04-07",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 243644,
+          "name": "Noah Madsen",
+          "position": "Defence",
+          "dateOfBirth": "2001-09-17",
+          "nationality": "Denmark"
+        },
+        {
+          "id": 262651,
+          "name": "Romain Correia",
+          "position": "Defence",
+          "dateOfBirth": "1999-09-06",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 263721,
+          "name": "Tyler Keating",
+          "position": "Defence",
+          "dateOfBirth": "2005-04-29",
+          "nationality": "Japan"
+        },
+        {
+          "id": 17713,
+          "name": "Vladan Danilović",
+          "position": "Midfield",
+          "dateOfBirth": "1999-07-27",
+          "nationality": "Bosnia-Herzegovina"
+        },
+        {
+          "id": 32995,
+          "name": "Raphael Guzzo",
+          "position": "Midfield",
+          "dateOfBirth": "1995-01-06",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 33160,
+          "name": "Maxime Dominguez",
+          "position": "Midfield",
+          "dateOfBirth": "1996-02-01",
+          "nationality": "Switzerland"
+        },
+        {
+          "id": 150592,
+          "name": "Carlos Daniel",
+          "position": "Midfield",
+          "dateOfBirth": "1994-07-11",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 171541,
+          "name": "Rodrigo Andrade",
+          "position": "Midfield",
+          "dateOfBirth": "2001-11-24",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 295371,
+          "name": "Nélio Batista",
+          "position": "Midfield",
+          "dateOfBirth": "2009-01-14",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 43705,
+          "name": "Alexandre Guedes",
+          "position": "Offence",
+          "dateOfBirth": "1994-02-11",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 123003,
+          "name": "Enrique Peña Zauner",
+          "position": "Offence",
+          "dateOfBirth": "2000-03-04",
+          "nationality": "Venezuela"
+        },
+        {
+          "id": 159694,
+          "name": "Adrián Butzke",
+          "position": "Offence",
+          "dateOfBirth": "1999-03-30",
+          "nationality": "Spain"
+        },
+        {
+          "id": 211950,
+          "name": "Maurice Boakye",
+          "position": "Offence",
+          "dateOfBirth": "2004-09-01",
+          "nationality": "Germany"
+        },
+        {
+          "id": 214182,
+          "name": "Martin Tejón",
+          "position": "Offence",
+          "dateOfBirth": "2004-04-12",
+          "nationality": "Spain"
+        },
+        {
+          "id": 263278,
+          "name": "Simo Bouzaidi",
+          "position": "Offence",
+          "dateOfBirth": "1999-11-16",
+          "nationality": "Morocco"
+        },
+        {
+          "id": 263720,
+          "name": "José Melro",
+          "position": "Offence",
+          "dateOfBirth": "2004-05-26",
+          "nationality": "Portugal"
+        }
+      ],
+      "lastUpdated": "2022-07-26T17:39:05Z",
+      "_profileCompetitionCode": "PPL"
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "id": 583,
+      "name": "Moreirense FC",
+      "shortName": "Moreirense",
+      "tla": "MOR",
+      "crest": "https://crests.football-data.org/583.png",
+      "address": "Avenida Comendador Joaquim de Almeida Freitas Moreira de Cónegos 4815-270",
+      "website": "http://www.moreirensefc.pt",
+      "founded": 1938,
+      "clubColors": "Green / White",
+      "venue": "P.D. Comendador Joaquim de Almeida Freitas",
+      "runningCompetitions": [
+        {
+          "id": 2017,
+          "name": "Primeira Liga",
+          "code": "PPL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PPL.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "squad": [
+        {
+          "id": 52791,
+          "name": "André Ferreira",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1996-05-29",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 13839,
+          "name": "Maracás",
+          "position": "Defence",
+          "dateOfBirth": "1994-04-27",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 188084,
+          "name": "Dinis Pinto",
+          "position": "Defence",
+          "dateOfBirth": "2000-08-24",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 213097,
+          "name": "Gilberto Batista",
+          "position": "Defence",
+          "dateOfBirth": "2003-12-29",
+          "nationality": "Guinea-Bissau"
+        },
+        {
+          "id": 249408,
+          "name": "Kevyn Monteiro",
+          "position": "Defence",
+          "dateOfBirth": "2005-09-13",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 262652,
+          "name": "Kiko",
+          "position": "Defence",
+          "dateOfBirth": "2002-04-16",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 263709,
+          "name": "Leandro Santos",
+          "position": "Defence",
+          "dateOfBirth": "2005-09-28",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 271514,
+          "name": "Álvaro Martínez",
+          "position": "Defence",
+          "dateOfBirth": "2002-05-04",
+          "nationality": "Spain"
+        },
+        {
+          "id": 161013,
+          "name": "Nile John",
+          "position": "Midfield",
+          "dateOfBirth": "2003-03-06",
+          "nationality": "England"
+        },
+        {
+          "id": 169637,
+          "name": "Guilherme Liberato",
+          "position": "Midfield",
+          "dateOfBirth": "2001-06-16",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 191408,
+          "name": "Rodri Alonso",
+          "position": "Midfield",
+          "dateOfBirth": "2003-01-04",
+          "nationality": "Spain"
+        },
+        {
+          "id": 191985,
+          "name": "Mateja Stjepanovic",
+          "position": "Midfield",
+          "dateOfBirth": "2004-02-20",
+          "nationality": "Serbia"
+        },
+        {
+          "id": 262645,
+          "name": "João Veloso",
+          "position": "Midfield",
+          "dateOfBirth": "2005-06-26",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 270448,
+          "name": "Jimi Gower",
+          "position": "Midfield",
+          "dateOfBirth": "2004-10-01",
+          "nationality": "England"
+        },
+        {
+          "id": 274500,
+          "name": "Afonso Assis",
+          "position": "Midfield",
+          "dateOfBirth": "2006-07-15",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 291863,
+          "name": "Miguel Silva",
+          "position": "Midfield",
+          "dateOfBirth": "2007-12-17",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 105208,
+          "name": "Kiko Bondoso",
+          "position": "Offence",
+          "dateOfBirth": "1995-11-17",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 190318,
+          "name": "Koby Mottoh",
+          "position": "Offence",
+          "dateOfBirth": "2001-03-01",
+          "nationality": "England"
+        },
+        {
+          "id": 191052,
+          "name": "Michael DaCosta",
+          "position": "Offence",
+          "dateOfBirth": "2005-03-05",
+          "nationality": "Spain"
+        },
+        {
+          "id": 264054,
+          "name": "Landerson",
+          "position": "Offence",
+          "dateOfBirth": "2006-12-12",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 275027,
+          "name": "Yan Maranhão",
+          "position": "Offence",
+          "dateOfBirth": "2002-09-13",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 279774,
+          "name": "Alexandre Parsemain",
+          "position": "Offence",
+          "dateOfBirth": "2003-05-27",
+          "nationality": "France"
+        }
+      ],
+      "lastUpdated": "2023-03-05T07:40:05Z",
+      "_profileCompetitionCode": "PPL",
+      "_profileFetchedAt": "2026-07-24 23:46 UTC"
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "id": 503,
+      "name": "FC Porto",
+      "shortName": "Porto",
+      "tla": "FCP",
+      "crest": "https://crests.football-data.org/503.png",
+      "address": "Estádio do Dragão, Entrada Poente - Piso 3 Porto 4350-451",
+      "website": "http://www.fcporto.pt",
+      "founded": 1893,
+      "clubColors": "Blue / White",
+      "venue": "Estádio Do Dragão",
+      "runningCompetitions": [
+        {
+          "id": 2017,
+          "name": "Primeira Liga",
+          "code": "PPL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PPL.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "squad": [
+        {
+          "id": 13887,
+          "name": "Samuel Portugal",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1994-03-29",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 37362,
+          "name": "Diogo Costa",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1999-09-19",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 45217,
+          "name": "Cláudio Ramos",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1991-11-16",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 80037,
+          "name": "João Costa Gomes",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1996-02-02",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 245889,
+          "name": "João Afonso",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2007-04-30",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 8086,
+          "name": "Jan Bednarek",
+          "position": "Defence",
+          "dateOfBirth": "1996-04-12",
+          "nationality": "Poland"
+        },
+        {
+          "id": 45671,
+          "name": "Nehuén Pérez",
+          "position": "Defence",
+          "dateOfBirth": "2000-06-24",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 98611,
+          "name": "Moura",
+          "position": "Defence",
+          "dateOfBirth": "1999-08-16",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 125160,
+          "name": "Zaidu Sanusi",
+          "position": "Defence",
+          "dateOfBirth": "1997-06-13",
+          "nationality": "Nigeria"
+        },
+        {
+          "id": 147286,
+          "name": "Jakub Kiwior",
+          "position": "Defence",
+          "dateOfBirth": "2000-02-15",
+          "nationality": "Poland"
+        },
+        {
+          "id": 184496,
+          "name": "Alberto Baio",
+          "position": "Defence",
+          "dateOfBirth": "2003-09-29",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 216825,
+          "name": "Dominik Prpić",
+          "position": "Defence",
+          "dateOfBirth": "2004-05-19",
+          "nationality": "Croatia"
+        },
+        {
+          "id": 227047,
+          "name": "Martim Fernandes",
+          "position": "Defence",
+          "dateOfBirth": "2006-01-18",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 7448,
+          "name": "Pablo Rosario",
+          "position": "Midfield",
+          "dateOfBirth": "1997-01-07",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 37479,
+          "name": "Stephen Eustáquio",
+          "position": "Midfield",
+          "dateOfBirth": "1996-12-21",
+          "nationality": "Canada"
+        },
+        {
+          "id": 83223,
+          "name": "Ivan Jaime Pajuelo",
+          "position": "Midfield",
+          "dateOfBirth": "2000-09-26",
+          "nationality": "Spain"
+        },
+        {
+          "id": 150519,
+          "name": "Gabriel Veiga",
+          "position": "Midfield",
+          "dateOfBirth": "2002-05-27",
+          "nationality": "Spain"
+        },
+        {
+          "id": 153629,
+          "name": "Alan Varela",
+          "position": "Midfield",
+          "dateOfBirth": "2001-07-04",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 170561,
+          "name": "In-beom Hwang",
+          "position": "Midfield",
+          "dateOfBirth": "1996-09-20",
+          "nationality": "South Korea"
+        },
+        {
+          "id": 178712,
+          "name": "Vasco Sousa",
+          "position": "Midfield",
+          "dateOfBirth": "2003-04-03",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 221262,
+          "name": "Victor Froholdt",
+          "position": "Midfield",
+          "dateOfBirth": "2006-02-25",
+          "nationality": "Denmark"
+        },
+        {
+          "id": 261273,
+          "name": "Rodrigo Mora",
+          "position": "Midfield",
+          "dateOfBirth": "2007-05-05",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 1166,
+          "name": "Pepê",
+          "position": "Offence",
+          "dateOfBirth": "1997-02-24",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 1760,
+          "name": "André Silva",
+          "position": "Offence",
+          "dateOfBirth": "1995-11-06",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 39102,
+          "name": "William da Silva",
+          "position": "Offence",
+          "dateOfBirth": "2006-03-15",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 127034,
+          "name": "Borja Sainz",
+          "position": "Offence",
+          "dateOfBirth": "2001-02-01",
+          "nationality": "Spain"
+        },
+        {
+          "id": 169080,
+          "name": "Gabriel Veron",
+          "position": "Offence",
+          "dateOfBirth": "2002-09-03",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 188466,
+          "name": "Deniz Gul",
+          "position": "Offence",
+          "dateOfBirth": "2004-07-02",
+          "nationality": "Turkey"
+        },
+        {
+          "id": 215434,
+          "name": "Samu Omorodion",
+          "position": "Offence",
+          "dateOfBirth": null,
+          "nationality": "Spain"
+        },
+        {
+          "id": 265174,
+          "name": "Oskar Pietuszewski",
+          "position": "Offence",
+          "dateOfBirth": "2008-05-20",
+          "nationality": "Poland"
+        }
+      ],
+      "lastUpdated": "2022-02-10T19:26:43Z",
+      "_profileCompetitionCode": "PPL",
+      "_profileFetchedAt": "2026-07-24 23:46 UTC"
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
       "id": 765,
       "name": "Portugal",
       "shortName": "Portugal",
@@ -37013,6 +39973,1238 @@
       ],
       "lastUpdated": "2026-06-01T09:41:53Z",
       "_profileCompetitionCode": "WC"
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "id": 496,
+      "name": "Rio Ave FC",
+      "shortName": "Rio Ave",
+      "tla": "RIO",
+      "crest": "https://crests.football-data.org/496.png",
+      "address": "Praça da República, n.º35, Apartado 42 Vila do Conde 4481-909",
+      "website": "http://www.rioave-fc.pt",
+      "founded": 1939,
+      "clubColors": "Green / White",
+      "venue": "Estádio do Rio Ave Futebol Clube",
+      "runningCompetitions": [
+        {
+          "id": 2017,
+          "name": "Primeira Liga",
+          "code": "PPL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PPL.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "squad": [
+        {
+          "id": 110864,
+          "name": "Kevin Chamorro",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2000-04-08",
+          "nationality": "Costa Rica"
+        },
+        {
+          "id": 114150,
+          "name": "Cezary Miszta",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2001-10-30",
+          "nationality": "Poland"
+        },
+        {
+          "id": 135116,
+          "name": "Ennio van der Gouw",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2001-01-01",
+          "nationality": "England"
+        },
+        {
+          "id": 263610,
+          "name": "Antzelo Sina",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2004-01-07",
+          "nationality": "Albania"
+        },
+        {
+          "id": 8966,
+          "name": "Jakub Brabec",
+          "position": "Defence",
+          "dateOfBirth": "1992-08-06",
+          "nationality": "Czech Republic"
+        },
+        {
+          "id": 15990,
+          "name": "Marious Vrousai",
+          "position": "Defence",
+          "dateOfBirth": "1998-07-02",
+          "nationality": "Albania"
+        },
+        {
+          "id": 149940,
+          "name": "Nelson Abbey",
+          "position": "Defence",
+          "dateOfBirth": "2003-08-28",
+          "nationality": "England"
+        },
+        {
+          "id": 188099,
+          "name": "Julien Lomboto",
+          "position": "Defence",
+          "dateOfBirth": "2002-05-13",
+          "nationality": "France"
+        },
+        {
+          "id": 193588,
+          "name": "Joao Tome",
+          "position": "Defence",
+          "dateOfBirth": "2003-02-12",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 244638,
+          "name": "Ioannis Karakoutis",
+          "position": "Defence",
+          "dateOfBirth": "2003-02-02",
+          "nationality": "Greece"
+        },
+        {
+          "id": 250593,
+          "name": "Francisco Petrasso",
+          "position": "Defence",
+          "dateOfBirth": "2002-02-28",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 81950,
+          "name": "Georgios Liavas",
+          "position": "Midfield",
+          "dateOfBirth": "2001-02-12",
+          "nationality": "Greece"
+        },
+        {
+          "id": 111896,
+          "name": "Tamás Nikitscher",
+          "position": "Midfield",
+          "dateOfBirth": "1999-11-03",
+          "nationality": "Hungary"
+        },
+        {
+          "id": 185179,
+          "name": "Brandon Aguilera",
+          "position": "Midfield",
+          "dateOfBirth": "2003-06-28",
+          "nationality": "Costa Rica"
+        },
+        {
+          "id": 213079,
+          "name": "Diogo Nascimento",
+          "position": "Midfield",
+          "dateOfBirth": "2002-11-02",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 250777,
+          "name": "Ryan Guilherme",
+          "position": "Midfield",
+          "dateOfBirth": "2002-12-07",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 118074,
+          "name": "Dario Špikić",
+          "position": "Offence",
+          "dateOfBirth": "1999-03-22",
+          "nationality": "Croatia"
+        },
+        {
+          "id": 211519,
+          "name": "Tobias Medina",
+          "position": "Offence",
+          "dateOfBirth": "2004-03-03",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 214166,
+          "name": "Amine Rehmi",
+          "position": "Offence",
+          "dateOfBirth": "2002-04-01",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 243745,
+          "name": "Tamble Monteiro",
+          "position": "Offence",
+          "dateOfBirth": "2000-11-15",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 246203,
+          "name": "Diogo Oliveira",
+          "position": "Offence",
+          "dateOfBirth": "2002-07-16",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 247235,
+          "name": "Jalen Blesa",
+          "position": "Offence",
+          "dateOfBirth": "2001-02-05",
+          "nationality": "Spain"
+        },
+        {
+          "id": 274157,
+          "name": "Rafael Genuino",
+          "position": "Offence",
+          "dateOfBirth": "2006-02-23",
+          "nationality": "Brazil"
+        }
+      ],
+      "lastUpdated": "2022-07-26T17:38:50Z",
+      "_profileCompetitionCode": "PPL",
+      "_profileFetchedAt": "2026-07-24 23:46 UTC"
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "id": 1903,
+      "name": "Sport Lisboa e Benfica",
+      "shortName": "SL Benfica",
+      "tla": "BEN",
+      "crest": "https://crests.football-data.org/1903.png",
+      "address": "Avenida General Norton de Matos 1500 Lissabon null",
+      "website": "https://www.slbenfica.pt",
+      "founded": 1904,
+      "venue": "Estádio do Sport Lisboa e Benfica",
+      "runningCompetitions": [
+        {
+          "id": 2017,
+          "name": "Primeira Liga",
+          "code": "PPL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PPL.png"
+        },
+        {
+          "id": 2183,
+          "name": "Europa League Qualification",
+          "code": "ELQ",
+          "type": "CUP",
+          "emblem": null
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "squad": [
+        {
+          "id": 111481,
+          "name": "Anatolii Trubin",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2001-08-01",
+          "nationality": "Ukraine"
+        },
+        {
+          "id": 153846,
+          "name": "Samuel Soares",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2002-06-15",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 63,
+          "name": "Clément Lenglet",
+          "position": "Defence",
+          "dateOfBirth": "1995-06-17",
+          "nationality": "France"
+        },
+        {
+          "id": 70583,
+          "name": "Alexander Bah",
+          "position": "Defence",
+          "dateOfBirth": "1997-12-09",
+          "nationality": "Denmark"
+        },
+        {
+          "id": 81816,
+          "name": "Amar Dedić",
+          "position": "Defence",
+          "dateOfBirth": "2002-08-18",
+          "nationality": "Austria"
+        },
+        {
+          "id": 175753,
+          "name": "Samuel Dahl",
+          "position": "Defence",
+          "dateOfBirth": "2003-03-04",
+          "nationality": "Sweden"
+        },
+        {
+          "id": 177842,
+          "name": "Tomas Araujo",
+          "position": "Defence",
+          "dateOfBirth": "2002-05-16",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 185610,
+          "name": "Antonio Silva",
+          "position": "Defence",
+          "dateOfBirth": "2003-10-31",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 265154,
+          "name": "Rafa Obrador",
+          "position": "Defence",
+          "dateOfBirth": "2004-02-24",
+          "nationality": "Spain"
+        },
+        {
+          "id": 282871,
+          "name": "Daniel Banjaqui",
+          "position": "Defence",
+          "dateOfBirth": "2008-03-24",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 289781,
+          "name": "José Neto",
+          "position": "Defence",
+          "dateOfBirth": "2008-04-19",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 38088,
+          "name": "Fredrik Aursnes",
+          "position": "Midfield",
+          "dateOfBirth": "1995-12-10",
+          "nationality": "Norway"
+        },
+        {
+          "id": 82403,
+          "name": "Leandro Barreiro Martins",
+          "position": "Midfield",
+          "dateOfBirth": "2000-01-03",
+          "nationality": "Luxembourg"
+        },
+        {
+          "id": 151558,
+          "name": "Heorhii Sudakov",
+          "position": "Midfield",
+          "dateOfBirth": "2002-09-01",
+          "nationality": "Ukraine"
+        },
+        {
+          "id": 158894,
+          "name": "Enzo Barrenechea",
+          "position": "Midfield",
+          "dateOfBirth": "2001-05-22",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 170657,
+          "name": "Richard Rios",
+          "position": "Midfield",
+          "dateOfBirth": "2000-06-02",
+          "nationality": "Colombia"
+        },
+        {
+          "id": 194008,
+          "name": "Manu Silva",
+          "position": "Midfield",
+          "dateOfBirth": "2001-06-12",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 251296,
+          "name": "João Rêgo",
+          "position": "Midfield",
+          "dateOfBirth": "2005-06-20",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 8128,
+          "name": "Dodi Lukebakio",
+          "position": "Offence",
+          "dateOfBirth": "1997-09-24",
+          "nationality": "Belgium"
+        },
+        {
+          "id": 9553,
+          "name": "Bruma",
+          "position": "Offence",
+          "dateOfBirth": "1994-10-24",
+          "nationality": "Guinea-Bissau"
+        },
+        {
+          "id": 16748,
+          "name": "Rafa Silva",
+          "position": "Offence",
+          "dateOfBirth": "1993-05-17",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 67299,
+          "name": "Vangelis Pavlidis",
+          "position": "Offence",
+          "dateOfBirth": "1998-11-21",
+          "nationality": "Greece"
+        },
+        {
+          "id": 104493,
+          "name": "Jhon Durán",
+          "position": "Offence",
+          "dateOfBirth": "2003-12-13",
+          "nationality": "Colombia"
+        },
+        {
+          "id": 127401,
+          "name": "Jakub Kamiński",
+          "position": "Offence",
+          "dateOfBirth": "2002-06-05",
+          "nationality": "Poland"
+        },
+        {
+          "id": 133573,
+          "name": "Tiago Gouveia",
+          "position": "Offence",
+          "dateOfBirth": "2001-06-18",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 157796,
+          "name": "Andreas Schjelderup",
+          "position": "Offence",
+          "dateOfBirth": "2004-06-01",
+          "nationality": "Norway"
+        },
+        {
+          "id": 177322,
+          "name": "Henrique Araujo",
+          "position": "Offence",
+          "dateOfBirth": "2002-01-19",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 182123,
+          "name": "Gianluca Prestianni",
+          "position": "Offence",
+          "dateOfBirth": "2006-01-31",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 183643,
+          "name": "Franjo Ivanovic",
+          "position": "Offence",
+          "dateOfBirth": "2003-10-01",
+          "nationality": "Austria"
+        },
+        {
+          "id": 291341,
+          "name": "Anísio Cabral",
+          "position": "Offence",
+          "dateOfBirth": "2008-02-15",
+          "nationality": "Portugal"
+        }
+      ],
+      "lastUpdated": "2024-11-06T20:07:52Z",
+      "_profileCompetitionCode": "PPL",
+      "_profileFetchedAt": "2026-07-24 23:46 UTC"
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "id": 5530,
+      "name": "CD Santa Clara",
+      "shortName": "Santa Clara",
+      "tla": "CD ",
+      "crest": "https://crests.football-data.org/5530.png",
+      "address": "Rua Comandante Jaime de Sousa, 21 Ponta Delgada 9500",
+      "website": "http://www.cdsantaclara.pt",
+      "founded": 1921,
+      "clubColors": "Red / White",
+      "venue": "Cidade do Futebol",
+      "runningCompetitions": [
+        {
+          "id": 2017,
+          "name": "Primeira Liga",
+          "code": "PPL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PPL.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "squad": [
+        {
+          "id": 151951,
+          "name": "Cristian",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2002-02-25",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 181527,
+          "name": "Neneca",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2003-08-27",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 11524,
+          "name": "Frederico Venâncio",
+          "position": "Defence",
+          "dateOfBirth": "1993-02-04",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 32569,
+          "name": "Pedro Pacheco",
+          "position": "Defence",
+          "dateOfBirth": "1997-01-27",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 103136,
+          "name": "Douglas Borel",
+          "position": "Defence",
+          "dateOfBirth": "2002-03-30",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 124982,
+          "name": "Lucas Soares",
+          "position": "Defence",
+          "dateOfBirth": "1998-05-04",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 165625,
+          "name": "MT",
+          "position": "Defence",
+          "dateOfBirth": "2001-03-01",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 178743,
+          "name": "Diogo Calila",
+          "position": "Defence",
+          "dateOfBirth": "1998-10-10",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 179799,
+          "name": "Lara",
+          "position": "Defence",
+          "dateOfBirth": "2004-01-22",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 221564,
+          "name": "Edney",
+          "position": "Defence",
+          "dateOfBirth": "2004-07-26",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 243594,
+          "name": "Sidney Lima",
+          "position": "Defence",
+          "dateOfBirth": "1997-01-17",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 261162,
+          "name": "Alysson",
+          "position": "Defence",
+          "dateOfBirth": "2002-09-26",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 278476,
+          "name": "Henrique Silva",
+          "position": "Defence",
+          "dateOfBirth": "2005-10-17",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 286868,
+          "name": "Kamika",
+          "position": "Defence",
+          "dateOfBirth": "2004-06-04",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 80878,
+          "name": "Pedro Ferreira",
+          "position": "Midfield",
+          "dateOfBirth": "1998-01-05",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 146653,
+          "name": "Rildo",
+          "position": "Midfield",
+          "dateOfBirth": "2000-01-21",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 177273,
+          "name": "Tiago Ribeiro",
+          "position": "Midfield",
+          "dateOfBirth": "2002-03-14",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 179772,
+          "name": "Andrey",
+          "position": "Midfield",
+          "dateOfBirth": "2002-02-06",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 243589,
+          "name": "Miguel Pires",
+          "position": "Midfield",
+          "dateOfBirth": "2002-05-23",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 273272,
+          "name": "Pedro Jesus",
+          "position": "Midfield",
+          "dateOfBirth": "2003-04-26",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 278474,
+          "name": "José Tavares",
+          "position": "Midfield",
+          "dateOfBirth": "2003-06-02",
+          "nationality": "Cape Verde Islands"
+        },
+        {
+          "id": 278937,
+          "name": "Vitinho",
+          "position": "Midfield",
+          "dateOfBirth": "2007-04-19",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 15919,
+          "name": "Gonçalo Paciência",
+          "position": "Offence",
+          "dateOfBirth": "1994-08-01",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 118015,
+          "name": "Vinícius",
+          "position": "Offence",
+          "dateOfBirth": "1999-05-07",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 129463,
+          "name": "Welinton",
+          "position": "Offence",
+          "dateOfBirth": "1999-06-30",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 178811,
+          "name": "Jader",
+          "position": "Offence",
+          "dateOfBirth": "2003-07-24",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 181456,
+          "name": "Brenner",
+          "position": "Offence",
+          "dateOfBirth": "2002-01-02",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 193668,
+          "name": "Vitinho",
+          "position": "Offence",
+          "dateOfBirth": "2003-03-25",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 227024,
+          "name": "Luis Fernando",
+          "position": "Offence",
+          "dateOfBirth": "2005-04-12",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 261163,
+          "name": "João Costa",
+          "position": "Offence",
+          "dateOfBirth": "2000-03-07",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 261166,
+          "name": "Henrique Pereira",
+          "position": "Offence",
+          "dateOfBirth": "2002-02-15",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 278610,
+          "name": "Sorriso",
+          "position": "Offence",
+          "dateOfBirth": "2006-04-15",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 296985,
+          "name": "Afonso Duarte",
+          "position": "Offence",
+          "dateOfBirth": "2005-09-05",
+          "nationality": "Portugal"
+        }
+      ],
+      "lastUpdated": "2022-02-20T08:40:31Z",
+      "_profileCompetitionCode": "PPL"
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "id": 498,
+      "name": "Sporting Clube de Portugal",
+      "shortName": "Sporting CP",
+      "tla": "SPO",
+      "crest": "https://crests.football-data.org/498.png",
+      "address": "Edifício Visconde de Alvalade, Apartado 42099 Lisboa 1601-801",
+      "website": "http://www.sporting.pt",
+      "founded": 1906,
+      "clubColors": "Green / White",
+      "venue": "Estádio José Alvalade",
+      "runningCompetitions": [
+        {
+          "id": 2017,
+          "name": "Primeira Liga",
+          "code": "PPL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PPL.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "squad": [
+        {
+          "id": 32014,
+          "name": "Rui Silva",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1994-02-07",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 82207,
+          "name": "João Virgínia",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1999-10-10",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 28770,
+          "name": "Maximiliano Araújo",
+          "position": "Defence",
+          "dateOfBirth": "2000-02-15",
+          "nationality": "Uruguay"
+        },
+        {
+          "id": 45463,
+          "name": "Nuno Santos",
+          "position": "Defence",
+          "dateOfBirth": "1995-02-13",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 53190,
+          "name": "Ricardo Mangas",
+          "position": "Defence",
+          "dateOfBirth": "1998-03-19",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 137045,
+          "name": "Georgios Vagiannidis",
+          "position": "Defence",
+          "dateOfBirth": "2001-09-12",
+          "nationality": "Greece"
+        },
+        {
+          "id": 144406,
+          "name": "Eduardo Simões",
+          "position": "Defence",
+          "dateOfBirth": "2002-03-02",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 145357,
+          "name": "Gonçalo Inácio",
+          "position": "Defence",
+          "dateOfBirth": "2001-08-25",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 160926,
+          "name": "Zeno Debast",
+          "position": "Defence",
+          "dateOfBirth": "2003-10-24",
+          "nationality": "Belgium"
+        },
+        {
+          "id": 176840,
+          "name": "Ivan Fresneda",
+          "position": "Defence",
+          "dateOfBirth": "2004-09-28",
+          "nationality": "Spain"
+        },
+        {
+          "id": 184747,
+          "name": "Ousmane Diomande",
+          "position": "Defence",
+          "dateOfBirth": "2004-11-16",
+          "nationality": "Cote d'Ivoire"
+        },
+        {
+          "id": 282381,
+          "name": "Salvador Blopa",
+          "position": "Defence",
+          "dateOfBirth": "2007-06-13",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 102336,
+          "name": "Daniel Bragança",
+          "position": "Midfield",
+          "dateOfBirth": "1999-05-27",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 121007,
+          "name": "Rodrigo Zalazar",
+          "position": "Midfield",
+          "dateOfBirth": "1999-08-12",
+          "nationality": "Uruguay"
+        },
+        {
+          "id": 130062,
+          "name": "Sotiris Alexandropoulos",
+          "position": "Midfield",
+          "dateOfBirth": "2001-11-26",
+          "nationality": "Greece"
+        },
+        {
+          "id": 144628,
+          "name": "Giorgi Kochorashvili",
+          "position": "Midfield",
+          "dateOfBirth": "1999-06-29",
+          "nationality": "Georgia"
+        },
+        {
+          "id": 146110,
+          "name": "Koba Koindredi",
+          "position": "Midfield",
+          "dateOfBirth": "2001-10-27",
+          "nationality": "France"
+        },
+        {
+          "id": 188816,
+          "name": "Issa Doumbia",
+          "position": "Midfield",
+          "dateOfBirth": "2003-10-16",
+          "nationality": "Italy"
+        },
+        {
+          "id": 192912,
+          "name": "Pedro Lima",
+          "position": "Midfield",
+          "dateOfBirth": "2003-03-27",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 212861,
+          "name": "Sergi Altimira",
+          "position": "Midfield",
+          "dateOfBirth": "2001-08-25",
+          "nationality": "Spain"
+        },
+        {
+          "id": 217997,
+          "name": "Silas Andersen",
+          "position": "Midfield",
+          "dateOfBirth": "2004-06-13",
+          "nationality": "Denmark"
+        },
+        {
+          "id": 270551,
+          "name": "João Simões",
+          "position": "Midfield",
+          "dateOfBirth": "2007-01-06",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 32386,
+          "name": "Luis Suárez",
+          "position": "Offence",
+          "dateOfBirth": "1997-12-02",
+          "nationality": "Colombia"
+        },
+        {
+          "id": 92050,
+          "name": "Pedro Gonçalves",
+          "position": "Offence",
+          "dateOfBirth": "1998-06-28",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 128825,
+          "name": "Geny Catamo",
+          "position": "Offence",
+          "dateOfBirth": "2001-01-26",
+          "nationality": "Mozambique"
+        },
+        {
+          "id": 186459,
+          "name": "Fotis Ioannidis",
+          "position": "Offence",
+          "dateOfBirth": "2000-01-10",
+          "nationality": "Greece"
+        },
+        {
+          "id": 192653,
+          "name": "Luis Guilherme",
+          "position": "Offence",
+          "dateOfBirth": "2006-02-09",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 247303,
+          "name": "Rafael Nel",
+          "position": "Offence",
+          "dateOfBirth": "2005-04-03",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 283132,
+          "name": "Souleymane Faye",
+          "position": "Offence",
+          "dateOfBirth": "2003-02-08",
+          "nationality": "Senegal"
+        },
+        {
+          "id": 292473,
+          "name": "Jesse Derry",
+          "position": "Offence",
+          "dateOfBirth": "2007-06-30",
+          "nationality": "England"
+        }
+      ],
+      "lastUpdated": "2022-07-26T17:38:53Z",
+      "_profileCompetitionCode": "PPL",
+      "_profileFetchedAt": "2026-07-24 23:46 UTC"
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "id": 5543,
+      "name": "Vitória SC",
+      "shortName": "Vitória SC",
+      "tla": "GUI",
+      "crest": "https://crests.football-data.org/5543.png",
+      "address": "Dr. António Pimenta Machado, Apartado 505 Guimarães 4802-914",
+      "website": "http://www.vitoriasc.pt",
+      "founded": 1922,
+      "clubColors": "White / Black",
+      "venue": "Estádio Dom Afonso Henriques",
+      "runningCompetitions": [
+        {
+          "id": 2017,
+          "name": "Primeira Liga",
+          "code": "PPL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PPL.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "squad": [
+        {
+          "id": 45324,
+          "name": "Charles Silva",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1994-02-04",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 136711,
+          "name": "Oliwier Zych",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2004-06-28",
+          "nationality": "Poland"
+        },
+        {
+          "id": 204127,
+          "name": "Gui",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2006-05-13",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 246248,
+          "name": "Juan Castillo",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2003-01-13",
+          "nationality": "Colombia"
+        },
+        {
+          "id": 28243,
+          "name": "Rodrigo Abascal",
+          "position": "Defence",
+          "dateOfBirth": "1994-01-14",
+          "nationality": "Uruguay"
+        },
+        {
+          "id": 28976,
+          "name": "Orest Lebedenko",
+          "position": "Defence",
+          "dateOfBirth": "1998-09-23",
+          "nationality": "Ukraine"
+        },
+        {
+          "id": 171351,
+          "name": "Miguel Magalhães",
+          "position": "Defence",
+          "dateOfBirth": "2002-11-16",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 177044,
+          "name": "Joao Mendes",
+          "position": "Defence",
+          "dateOfBirth": "2000-04-13",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 180163,
+          "name": "Óscar Rivas",
+          "position": "Defence",
+          "dateOfBirth": "2000-03-27",
+          "nationality": "Spain"
+        },
+        {
+          "id": 185139,
+          "name": "Miguel Nóbrega",
+          "position": "Defence",
+          "dateOfBirth": "2000-04-17",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 204259,
+          "name": "Anthony Strata",
+          "position": "Defence",
+          "dateOfBirth": "2004-09-07",
+          "nationality": "France"
+        },
+        {
+          "id": 274548,
+          "name": "Thiago Balieiro",
+          "position": "Defence",
+          "dateOfBirth": "2003-02-23",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 293863,
+          "name": "Francisco Dias",
+          "position": "Defence",
+          "dateOfBirth": "2002-10-23",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 45514,
+          "name": "Samu",
+          "position": "Midfield",
+          "dateOfBirth": "1996-04-21",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 176893,
+          "name": "Lohann Doucet",
+          "position": "Midfield",
+          "dateOfBirth": "2002-09-14",
+          "nationality": "Burkina Faso"
+        },
+        {
+          "id": 191013,
+          "name": "Goncalo Nogueira",
+          "position": "Midfield",
+          "dateOfBirth": "2003-12-28",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 191259,
+          "name": "Beni",
+          "position": "Midfield",
+          "dateOfBirth": "2002-05-21",
+          "nationality": "Angola"
+        },
+        {
+          "id": 243705,
+          "name": "Ricardo Rocha",
+          "position": "Midfield",
+          "dateOfBirth": "2003-09-07",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 261582,
+          "name": "Marco Cruz",
+          "position": "Midfield",
+          "dateOfBirth": "2004-02-23",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 280042,
+          "name": "Matija Mitrović",
+          "position": "Midfield",
+          "dateOfBirth": "2004-12-12",
+          "nationality": "Serbia"
+        },
+        {
+          "id": 145346,
+          "name": "Telmo Arcanjo",
+          "position": "Offence",
+          "dateOfBirth": "2001-06-21",
+          "nationality": "Cape Verde Islands"
+        },
+        {
+          "id": 149724,
+          "name": "Alioune Ndoye",
+          "position": "Offence",
+          "dateOfBirth": "2001-10-05",
+          "nationality": "Senegal"
+        },
+        {
+          "id": 165917,
+          "name": "Vando Félix",
+          "position": "Offence",
+          "dateOfBirth": "2002-09-03",
+          "nationality": "Guinea"
+        },
+        {
+          "id": 170076,
+          "name": "Fabio Blanco",
+          "position": "Offence",
+          "dateOfBirth": "2004-02-18",
+          "nationality": "Spain"
+        },
+        {
+          "id": 243569,
+          "name": "Gustavo Silva",
+          "position": "Offence",
+          "dateOfBirth": "1999-06-01",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 262363,
+          "name": "Miguel Nogueira",
+          "position": "Offence",
+          "dateOfBirth": "2005-02-27",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 273367,
+          "name": "Dieu Michel",
+          "position": "Offence",
+          "dateOfBirth": "2004-02-09",
+          "nationality": "Canada"
+        },
+        {
+          "id": 280039,
+          "name": "Oumar Camara",
+          "position": "Offence",
+          "dateOfBirth": "2007-05-11",
+          "nationality": "France"
+        }
+      ],
+      "lastUpdated": "2022-03-06T09:31:54Z",
+      "_profileCompetitionCode": "PPL"
     },
     {
       "area": {
@@ -41058,7 +45250,7 @@
   ],
   "profileSync": {
     "matchCompetitionCode": "WC",
-    "profileCompetitionProcessed": "DED",
+    "profileCompetitionProcessed": "PPL",
     "profileCompetitionTeamCount": 18,
     "profileCompetitionSquads": 18,
     "profileCompetitionCodes": [
@@ -41073,9 +45265,9 @@
       "CL",
       "ELC"
     ],
-    "nextCompetitionIndex": 7,
-    "teamCount": 162,
-    "profilesWithSquad": 104,
+    "nextCompetitionIndex": 8,
+    "teamCount": 180,
+    "profilesWithSquad": 122,
     "profilesPending": 58,
     "regularBatchLimit": 7,
     "initialBatchLimit": 48
