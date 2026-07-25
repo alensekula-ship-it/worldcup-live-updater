@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-25 14:41 UTC",
-  "lastUpdate": "2026-07-25 14:41 UTC",
+  "generatedAt": "2026-07-25 15:49 UTC",
+  "lastUpdate": "2026-07-25 15:49 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -29504,7 +29504,7 @@
       },
       "lastUpdated": "2024-07-29T17:20:31Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-24 21:39 UTC"
+      "_profileFetchedAt": "2026-07-25 15:48 UTC"
     },
     {
       "area": {
@@ -29546,7 +29546,7 @@
       },
       "lastUpdated": "2022-07-26T18:03:55Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-24 21:38 UTC"
+      "_profileFetchedAt": "2026-07-25 15:47 UTC"
     },
     {
       "area": {
@@ -29588,7 +29588,7 @@
       },
       "lastUpdated": "2026-07-04T12:08:19Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-24 21:38 UTC"
+      "_profileFetchedAt": "2026-07-25 15:47 UTC"
     },
     {
       "area": {
@@ -29862,7 +29862,7 @@
       },
       "lastUpdated": "2022-06-19T00:03:33Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-24 21:39 UTC"
+      "_profileFetchedAt": "2026-07-25 15:48 UTC"
     },
     {
       "area": {
@@ -29904,7 +29904,7 @@
       },
       "lastUpdated": "2026-05-01T08:34:30Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-24 21:39 UTC"
+      "_profileFetchedAt": "2026-07-25 15:48 UTC"
     },
     {
       "area": {
@@ -29946,7 +29946,7 @@
       },
       "lastUpdated": "2024-07-29T17:19:48Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-24 21:38 UTC"
+      "_profileFetchedAt": "2026-07-25 15:47 UTC"
     },
     {
       "area": {
@@ -29988,7 +29988,7 @@
       },
       "lastUpdated": "2022-02-19T08:25:01Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-24 21:39 UTC"
+      "_profileFetchedAt": "2026-07-25 15:47 UTC"
     },
     {
       "area": {
@@ -30029,8 +30029,8 @@
         }
       },
       "lastUpdated": "2022-02-19T08:35:12Z",
-      "_profileCompetitionCode": "CL",
-      "_profileFetchedAt": "2026-07-24 21:38 UTC",
+      "_profileCompetitionCode": "FL1",
+      "_profileFetchedAt": "2026-07-25 15:48 UTC",
       "squad": [
         {
           "id": 6,
@@ -30312,7 +30312,7 @@
       },
       "lastUpdated": "2022-02-19T08:51:11Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-24 21:38 UTC"
+      "_profileFetchedAt": "2026-07-25 15:47 UTC"
     },
     {
       "area": {
@@ -30354,7 +30354,7 @@
       },
       "lastUpdated": "2024-07-29T17:19:54Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-24 21:38 UTC"
+      "_profileFetchedAt": "2026-07-25 15:47 UTC"
     },
     {
       "area": {
@@ -30409,8 +30409,8 @@
         }
       },
       "lastUpdated": "2022-02-10T19:07:11Z",
-      "_profileCompetitionCode": "CL",
-      "_profileFetchedAt": "2026-07-24 21:39 UTC",
+      "_profileCompetitionCode": "FL1",
+      "_profileFetchedAt": "2026-07-25 15:49 UTC",
       "squad": [
         {
           "id": 49244,
@@ -30706,7 +30706,7 @@
       },
       "lastUpdated": "2022-06-19T00:04:35Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-24 21:40 UTC"
+      "_profileFetchedAt": "2026-07-25 15:48 UTC"
     },
     {
       "area": {
@@ -30755,7 +30755,7 @@
       },
       "lastUpdated": "2026-01-19T12:05:38Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-24 21:39 UTC"
+      "_profileFetchedAt": "2026-07-25 15:48 UTC"
     },
     {
       "area": {
@@ -30797,7 +30797,7 @@
       },
       "lastUpdated": "2022-03-20T11:21:26Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-24 21:39 UTC"
+      "_profileFetchedAt": "2026-07-25 15:48 UTC"
     },
     {
       "area": {
@@ -30839,7 +30839,7 @@
       },
       "lastUpdated": "2022-02-19T08:40:46Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-24 21:40 UTC"
+      "_profileFetchedAt": "2026-07-25 15:48 UTC"
     },
     {
       "area": {
@@ -30881,7 +30881,7 @@
       },
       "lastUpdated": "2026-07-04T12:07:20Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-24 21:38 UTC"
+      "_profileFetchedAt": "2026-07-25 15:47 UTC"
     },
     {
       "area": {
@@ -30923,7 +30923,7 @@
       },
       "lastUpdated": "2024-07-29T17:20:22Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-24 21:39 UTC"
+      "_profileFetchedAt": "2026-07-25 15:48 UTC"
     },
     {
       "area": {
@@ -40149,8 +40149,8 @@
         }
       },
       "lastUpdated": "2021-11-06T13:27:09Z",
-      "_profileCompetitionCode": "CL",
-      "_profileFetchedAt": "2026-07-24 21:39 UTC",
+      "_profileCompetitionCode": "FL1",
+      "_profileFetchedAt": "2026-07-25 15:49 UTC",
       "squad": [
         {
           "id": 6696,
@@ -56982,9 +56982,9 @@
   ],
   "profileSync": {
     "matchCompetitionCode": "WC",
-    "profileCompetitionProcessed": "SA",
-    "profileCompetitionTeamCount": 20,
-    "profileCompetitionSquads": 4,
+    "profileCompetitionProcessed": "FL1",
+    "profileCompetitionTeamCount": 18,
+    "profileCompetitionSquads": 3,
     "profileCompetitionCodes": [
       "WC",
       "PL",
@@ -56997,7 +56997,7 @@
       "CL",
       "ELC"
     ],
-    "nextCompetitionIndex": 5,
+    "nextCompetitionIndex": 6,
     "teamCount": 214,
     "profilesWithSquad": 168,
     "profilesPending": 46,
