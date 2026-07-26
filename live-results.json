@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-26 20:32 UTC",
-  "lastUpdate": "2026-07-26 20:32 UTC",
+  "generatedAt": "2026-07-26 21:42 UTC",
+  "lastUpdate": "2026-07-26 21:42 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -37130,8 +37130,8 @@
         }
       },
       "lastUpdated": "2024-04-09T16:20:48Z",
-      "_profileCompetitionCode": "CL",
-      "_profileFetchedAt": "2026-07-26 07:45 UTC",
+      "_profileCompetitionCode": "SA",
+      "_profileFetchedAt": "2026-07-26 21:42 UTC",
       "squad": [
         {
           "id": 1767,
@@ -37399,7 +37399,7 @@
       },
       "lastUpdated": "2024-04-09T16:20:45Z",
       "_profileCompetitionCode": "SA",
-      "_profileFetchedAt": "2026-07-26 07:43 UTC"
+      "_profileFetchedAt": "2026-07-26 21:40 UTC"
     },
     {
       "area": {
@@ -37441,7 +37441,7 @@
       },
       "lastUpdated": "2024-04-09T16:20:43Z",
       "_profileCompetitionCode": "SA",
-      "_profileFetchedAt": "2026-07-26 07:43 UTC"
+      "_profileFetchedAt": "2026-07-26 21:40 UTC"
     },
     {
       "area": {
@@ -37483,7 +37483,7 @@
       },
       "lastUpdated": "2025-02-17T16:52:41Z",
       "_profileCompetitionCode": "SA",
-      "_profileFetchedAt": "2026-07-26 07:44 UTC"
+      "_profileFetchedAt": "2026-07-26 21:41 UTC"
     },
     {
       "area": {
@@ -37525,7 +37525,7 @@
       },
       "lastUpdated": "2024-04-09T16:20:54Z",
       "_profileCompetitionCode": "SA",
-      "_profileFetchedAt": "2026-07-26 07:43 UTC"
+      "_profileFetchedAt": "2026-07-26 21:40 UTC"
     },
     {
       "area": {
@@ -37567,7 +37567,7 @@
       },
       "lastUpdated": "2022-03-20T17:51:41Z",
       "_profileCompetitionCode": "SA",
-      "_profileFetchedAt": "2026-07-26 07:44 UTC"
+      "_profileFetchedAt": "2026-07-26 21:41 UTC"
     },
     {
       "area": {
@@ -37609,7 +37609,7 @@
       },
       "lastUpdated": "2024-04-09T16:20:41Z",
       "_profileCompetitionCode": "SA",
-      "_profileFetchedAt": "2026-07-26 07:43 UTC"
+      "_profileFetchedAt": "2026-07-26 21:40 UTC"
     },
     {
       "area": {
@@ -37650,8 +37650,8 @@
         }
       },
       "lastUpdated": "2021-11-24T14:55:58Z",
-      "_profileCompetitionCode": "CL",
-      "_profileFetchedAt": "2026-07-26 07:45 UTC",
+      "_profileCompetitionCode": "SA",
+      "_profileFetchedAt": "2026-07-26 21:42 UTC",
       "squad": [
         {
           "id": 2819,
@@ -37967,8 +37967,8 @@
         }
       },
       "lastUpdated": "2024-04-09T16:20:37Z",
-      "_profileCompetitionCode": "CL",
-      "_profileFetchedAt": "2026-07-26 07:45 UTC",
+      "_profileCompetitionCode": "SA",
+      "_profileFetchedAt": "2026-07-26 21:42 UTC",
       "squad": [
         {
           "id": 1959,
@@ -38257,7 +38257,7 @@
       },
       "lastUpdated": "2024-04-09T16:20:32Z",
       "_profileCompetitionCode": "SA",
-      "_profileFetchedAt": "2026-07-26 07:43 UTC"
+      "_profileFetchedAt": "2026-07-26 21:40 UTC"
     },
     {
       "area": {
@@ -38299,7 +38299,7 @@
       },
       "lastUpdated": "2022-02-22T14:17:48Z",
       "_profileCompetitionCode": "SA",
-      "_profileFetchedAt": "2026-07-26 07:44 UTC"
+      "_profileFetchedAt": "2026-07-26 21:41 UTC"
     },
     {
       "area": {
@@ -38341,7 +38341,7 @@
       },
       "lastUpdated": "2024-04-09T16:20:58Z",
       "_profileCompetitionCode": "SA",
-      "_profileFetchedAt": "2026-07-26 07:43 UTC"
+      "_profileFetchedAt": "2026-07-26 21:40 UTC"
     },
     {
       "area": {
@@ -38383,7 +38383,7 @@
       },
       "lastUpdated": "2025-02-17T16:54:02Z",
       "_profileCompetitionCode": "SA",
-      "_profileFetchedAt": "2026-07-26 07:44 UTC"
+      "_profileFetchedAt": "2026-07-26 21:41 UTC"
     },
     {
       "area": {
@@ -38424,8 +38424,8 @@
         }
       },
       "lastUpdated": "2025-02-17T16:51:11Z",
-      "_profileCompetitionCode": "CL",
-      "_profileFetchedAt": "2026-07-26 07:45 UTC",
+      "_profileCompetitionCode": "SA",
+      "_profileFetchedAt": "2026-07-26 21:42 UTC",
       "squad": [
         {
           "id": 2275,
@@ -38686,7 +38686,7 @@
       },
       "lastUpdated": "2022-03-20T17:52:09Z",
       "_profileCompetitionCode": "SA",
-      "_profileFetchedAt": "2026-07-26 07:44 UTC"
+      "_profileFetchedAt": "2026-07-26 21:41 UTC"
     },
     {
       "area": {
@@ -38728,7 +38728,7 @@
       },
       "lastUpdated": "2025-02-17T16:53:31Z",
       "_profileCompetitionCode": "SA",
-      "_profileFetchedAt": "2026-07-26 07:43 UTC"
+      "_profileFetchedAt": "2026-07-26 21:40 UTC"
     },
     {
       "area": {
@@ -38770,7 +38770,7 @@
       },
       "lastUpdated": "2024-04-09T16:20:13Z",
       "_profileCompetitionCode": "SA",
-      "_profileFetchedAt": "2026-07-26 07:44 UTC"
+      "_profileFetchedAt": "2026-07-26 21:41 UTC"
     },
     {
       "area": {
@@ -38812,7 +38812,7 @@
       },
       "lastUpdated": "2024-04-09T16:20:07Z",
       "_profileCompetitionCode": "SA",
-      "_profileFetchedAt": "2026-07-26 07:44 UTC"
+      "_profileFetchedAt": "2026-07-26 21:41 UTC"
     },
     {
       "area": {
@@ -38854,7 +38854,7 @@
       },
       "lastUpdated": "2022-02-24T07:45:52Z",
       "_profileCompetitionCode": "SA",
-      "_profileFetchedAt": "2026-07-26 07:44 UTC"
+      "_profileFetchedAt": "2026-07-26 21:41 UTC"
     },
     {
       "area": {
@@ -38896,7 +38896,7 @@
       },
       "lastUpdated": "2022-02-20T08:41:04Z",
       "_profileCompetitionCode": "SA",
-      "_profileFetchedAt": "2026-07-26 07:44 UTC"
+      "_profileFetchedAt": "2026-07-26 21:41 UTC"
     },
     {
       "area": {
@@ -57039,9 +57039,9 @@
   ],
   "profileSync": {
     "matchCompetitionCode": "WC",
-    "profileCompetitionProcessed": "BL1",
-    "profileCompetitionTeamCount": 18,
-    "profileCompetitionSquads": 18,
+    "profileCompetitionProcessed": "SA",
+    "profileCompetitionTeamCount": 20,
+    "profileCompetitionSquads": 4,
     "profileCompetitionCodes": [
       "WC",
       "PL",
@@ -57054,7 +57054,7 @@
       "CL",
       "ELC"
     ],
-    "nextCompetitionIndex": 4,
+    "nextCompetitionIndex": 5,
     "teamCount": 214,
     "profilesWithSquad": 168,
     "profilesPending": 46,
