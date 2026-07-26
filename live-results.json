@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-26 14:16 UTC",
-  "lastUpdate": "2026-07-26 14:16 UTC",
+  "generatedAt": "2026-07-26 15:41 UTC",
+  "lastUpdate": "2026-07-26 15:41 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -21572,7 +21572,8 @@
         }
       ],
       "lastUpdated": "2024-07-29T17:18:14Z",
-      "_profileCompetitionCode": "ELC"
+      "_profileCompetitionCode": "ELC",
+      "_profileFetchedAt": "2026-07-26 15:41 UTC"
     },
     {
       "area": {
@@ -22093,7 +22094,8 @@
         }
       ],
       "lastUpdated": "2022-02-19T09:03:24Z",
-      "_profileCompetitionCode": "ELC"
+      "_profileCompetitionCode": "ELC",
+      "_profileFetchedAt": "2026-07-26 15:41 UTC"
     },
     {
       "area": {
@@ -26126,7 +26128,8 @@
         }
       ],
       "lastUpdated": "2022-02-19T09:00:14Z",
-      "_profileCompetitionCode": "ELC"
+      "_profileCompetitionCode": "ELC",
+      "_profileFetchedAt": "2026-07-26 15:41 UTC"
     },
     {
       "area": {
@@ -27922,7 +27925,8 @@
         }
       ],
       "lastUpdated": "2024-07-29T17:17:53Z",
-      "_profileCompetitionCode": "ELC"
+      "_profileCompetitionCode": "ELC",
+      "_profileFetchedAt": "2026-07-26 15:41 UTC"
     },
     {
       "area": {
@@ -29163,7 +29167,8 @@
         }
       ],
       "lastUpdated": "2022-07-26T17:53:47Z",
-      "_profileCompetitionCode": "ELC"
+      "_profileCompetitionCode": "ELC",
+      "_profileFetchedAt": "2026-07-26 15:40 UTC"
     },
     {
       "area": {
@@ -29593,7 +29598,8 @@
         }
       ],
       "lastUpdated": "2022-02-19T08:09:25Z",
-      "_profileCompetitionCode": "ELC"
+      "_profileCompetitionCode": "ELC",
+      "_profileFetchedAt": "2026-07-26 15:41 UTC"
     },
     {
       "area": {
@@ -57321,14 +57327,15 @@
         }
       ],
       "lastUpdated": "2023-09-18T10:13:25Z",
-      "_profileCompetitionCode": "ELC"
+      "_profileCompetitionCode": "ELC",
+      "_profileFetchedAt": "2026-07-26 15:41 UTC"
     }
   ],
   "profileSync": {
     "matchCompetitionCode": "WC",
-    "profileCompetitionProcessed": "CL",
-    "profileCompetitionTeamCount": 36,
-    "profileCompetitionSquads": 36,
+    "profileCompetitionProcessed": "ELC",
+    "profileCompetitionTeamCount": 24,
+    "profileCompetitionSquads": 24,
     "profileCompetitionCodes": [
       "WC",
       "PL",
@@ -57341,7 +57348,7 @@
       "CL",
       "ELC"
     ],
-    "nextCompetitionIndex": 9,
+    "nextCompetitionIndex": 0,
     "teamCount": 214,
     "profilesWithSquad": 168,
     "profilesPending": 46,
