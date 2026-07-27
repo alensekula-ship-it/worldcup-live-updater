@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-07-27 21:44 UTC",
-  "lastUpdate": "2026-07-27 21:44 UTC",
+  "generatedAt": "2026-07-27 22:44 UTC",
+  "lastUpdate": "2026-07-27 22:44 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -46,7 +46,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 769,
         "name": "Mexico",
@@ -112,7 +112,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 772,
         "name": "South Korea",
@@ -178,7 +178,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 828,
         "name": "Canada",
@@ -244,7 +244,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 771,
         "name": "United States",
@@ -310,7 +310,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8030,
         "name": "Qatar",
@@ -376,7 +376,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 764,
         "name": "Brazil",
@@ -442,7 +442,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 836,
         "name": "Haiti",
@@ -508,7 +508,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 779,
         "name": "Australia",
@@ -574,7 +574,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 759,
         "name": "Germany",
@@ -640,7 +640,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8601,
         "name": "Netherlands",
@@ -706,7 +706,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 1935,
         "name": "Ivory Coast",
@@ -772,7 +772,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 792,
         "name": "Sweden",
@@ -838,7 +838,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 760,
         "name": "Spain",
@@ -904,7 +904,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 805,
         "name": "Belgium",
@@ -970,7 +970,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 801,
         "name": "Saudi Arabia",
@@ -1036,7 +1036,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 840,
         "name": "Iran",
@@ -1102,7 +1102,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 773,
         "name": "France",
@@ -1168,7 +1168,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8062,
         "name": "Iraq",
@@ -1234,7 +1234,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_J",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 762,
         "name": "Argentina",
@@ -1300,7 +1300,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_J",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 816,
         "name": "Austria",
@@ -1366,7 +1366,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 765,
         "name": "Portugal",
@@ -1432,7 +1432,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 770,
         "name": "England",
@@ -1498,7 +1498,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 763,
         "name": "Ghana",
@@ -1564,7 +1564,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8070,
         "name": "Uzbekistan",
@@ -1630,7 +1630,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 798,
         "name": "Czechia",
@@ -1696,7 +1696,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 788,
         "name": "Switzerland",
@@ -1762,7 +1762,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 828,
         "name": "Canada",
@@ -1828,7 +1828,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 769,
         "name": "Mexico",
@@ -1894,7 +1894,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 771,
         "name": "United States",
@@ -1960,7 +1960,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8873,
         "name": "Scotland",
@@ -2026,7 +2026,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 764,
         "name": "Brazil",
@@ -2092,7 +2092,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 803,
         "name": "Turkey",
@@ -2158,7 +2158,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8601,
         "name": "Netherlands",
@@ -2224,7 +2224,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 759,
         "name": "Germany",
@@ -2290,7 +2290,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 791,
         "name": "Ecuador",
@@ -2356,7 +2356,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 802,
         "name": "Tunisia",
@@ -2422,7 +2422,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 760,
         "name": "Spain",
@@ -2488,7 +2488,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 805,
         "name": "Belgium",
@@ -2554,7 +2554,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 758,
         "name": "Uruguay",
@@ -2620,7 +2620,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 783,
         "name": "New Zealand",
@@ -2686,7 +2686,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_J",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 762,
         "name": "Argentina",
@@ -2752,7 +2752,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 773,
         "name": "France",
@@ -2818,7 +2818,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8872,
         "name": "Norway",
@@ -2884,7 +2884,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_J",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8049,
         "name": "Jordan",
@@ -2950,7 +2950,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 765,
         "name": "Portugal",
@@ -3016,7 +3016,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 770,
         "name": "England",
@@ -3082,7 +3082,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 1836,
         "name": "Panama",
@@ -3141,7 +3141,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 818,
         "name": "Colombia",
@@ -3200,7 +3200,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 788,
         "name": "Switzerland",
@@ -3266,7 +3266,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 1060,
         "name": "Bosnia-Herzegovina",
@@ -3332,7 +3332,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 815,
         "name": "Morocco",
@@ -3398,7 +3398,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8873,
         "name": "Scotland",
@@ -3464,7 +3464,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 798,
         "name": "Czechia",
@@ -3530,7 +3530,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 774,
         "name": "South Africa",
@@ -3596,7 +3596,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 791,
         "name": "Ecuador",
@@ -3662,7 +3662,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 9460,
         "name": "Curaçao",
@@ -3728,7 +3728,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 802,
         "name": "Tunisia",
@@ -3794,7 +3794,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 766,
         "name": "Japan",
@@ -3860,7 +3860,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 803,
         "name": "Turkey",
@@ -3926,7 +3926,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 761,
         "name": "Paraguay",
@@ -3992,7 +3992,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8872,
         "name": "Norway",
@@ -4058,7 +4058,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 804,
         "name": "Senegal",
@@ -4124,7 +4124,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 758,
         "name": "Uruguay",
@@ -4190,7 +4190,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 1930,
         "name": "Cape Verde Islands",
@@ -4256,7 +4256,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 783,
         "name": "New Zealand",
@@ -4322,7 +4322,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 825,
         "name": "Egypt",
@@ -4388,7 +4388,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 1836,
         "name": "Panama",
@@ -4454,7 +4454,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 799,
         "name": "Croatia",
@@ -4520,7 +4520,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 818,
         "name": "Colombia",
@@ -4586,7 +4586,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 1934,
         "name": "Congo DR",
@@ -4652,7 +4652,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_J",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8049,
         "name": "Jordan",
@@ -4718,7 +4718,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_J",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 778,
         "name": "Algeria",
@@ -4784,7 +4784,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 774,
         "name": "South Africa",
@@ -4850,7 +4850,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 764,
         "name": "Brazil",
@@ -4916,7 +4916,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 759,
         "name": "Germany",
@@ -4994,7 +4994,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8601,
         "name": "Netherlands",
@@ -5072,7 +5072,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 1935,
         "name": "Ivory Coast",
@@ -5138,7 +5138,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 773,
         "name": "France",
@@ -5204,7 +5204,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 769,
         "name": "Mexico",
@@ -5270,7 +5270,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 770,
         "name": "England",
@@ -5336,7 +5336,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 805,
         "name": "Belgium",
@@ -5410,7 +5410,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 771,
         "name": "United States",
@@ -5476,7 +5476,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 760,
         "name": "Spain",
@@ -5542,7 +5542,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 765,
         "name": "Portugal",
@@ -5608,7 +5608,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 788,
         "name": "Switzerland",
@@ -5674,7 +5674,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 779,
         "name": "Australia",
@@ -5752,7 +5752,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 762,
         "name": "Argentina",
@@ -5826,7 +5826,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 818,
         "name": "Colombia",
@@ -5892,7 +5892,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 828,
         "name": "Canada",
@@ -5958,7 +5958,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 761,
         "name": "Paraguay",
@@ -6024,7 +6024,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 764,
         "name": "Brazil",
@@ -6090,7 +6090,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 769,
         "name": "Mexico",
@@ -6156,7 +6156,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 765,
         "name": "Portugal",
@@ -6222,7 +6222,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 771,
         "name": "United States",
@@ -6288,7 +6288,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 762,
         "name": "Argentina",
@@ -6354,7 +6354,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 788,
         "name": "Switzerland",
@@ -6432,7 +6432,7 @@
       "matchday": null,
       "stage": "QUARTER_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 773,
         "name": "France",
@@ -6498,7 +6498,7 @@
       "matchday": null,
       "stage": "QUARTER_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 760,
         "name": "Spain",
@@ -6564,7 +6564,7 @@
       "matchday": null,
       "stage": "QUARTER_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8872,
         "name": "Norway",
@@ -6638,7 +6638,7 @@
       "matchday": null,
       "stage": "QUARTER_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 762,
         "name": "Argentina",
@@ -6712,7 +6712,7 @@
       "matchday": null,
       "stage": "SEMI_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 773,
         "name": "France",
@@ -6778,7 +6778,7 @@
       "matchday": null,
       "stage": "SEMI_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 770,
         "name": "England",
@@ -6844,7 +6844,7 @@
       "matchday": null,
       "stage": "THIRD_PLACE",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 773,
         "name": "France",
@@ -6910,7 +6910,7 @@
       "matchday": null,
       "stage": "FINAL",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 760,
         "name": "Spain",
@@ -6987,7 +6987,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 769,
         "name": "Mexico",
@@ -7053,7 +7053,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 772,
         "name": "South Korea",
@@ -7119,7 +7119,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 828,
         "name": "Canada",
@@ -7185,7 +7185,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 771,
         "name": "United States",
@@ -7251,7 +7251,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8030,
         "name": "Qatar",
@@ -7317,7 +7317,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 764,
         "name": "Brazil",
@@ -7383,7 +7383,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 836,
         "name": "Haiti",
@@ -7449,7 +7449,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 779,
         "name": "Australia",
@@ -7515,7 +7515,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 759,
         "name": "Germany",
@@ -7581,7 +7581,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8601,
         "name": "Netherlands",
@@ -7647,7 +7647,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 1935,
         "name": "Ivory Coast",
@@ -7713,7 +7713,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 792,
         "name": "Sweden",
@@ -7779,7 +7779,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 760,
         "name": "Spain",
@@ -7845,7 +7845,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 805,
         "name": "Belgium",
@@ -7911,7 +7911,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 801,
         "name": "Saudi Arabia",
@@ -7977,7 +7977,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 840,
         "name": "Iran",
@@ -8043,7 +8043,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 773,
         "name": "France",
@@ -8109,7 +8109,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8062,
         "name": "Iraq",
@@ -8175,7 +8175,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_J",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 762,
         "name": "Argentina",
@@ -8241,7 +8241,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_J",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 816,
         "name": "Austria",
@@ -8307,7 +8307,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 765,
         "name": "Portugal",
@@ -8373,7 +8373,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 770,
         "name": "England",
@@ -8439,7 +8439,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 763,
         "name": "Ghana",
@@ -8505,7 +8505,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8070,
         "name": "Uzbekistan",
@@ -8571,7 +8571,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 798,
         "name": "Czechia",
@@ -8637,7 +8637,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 788,
         "name": "Switzerland",
@@ -8703,7 +8703,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 828,
         "name": "Canada",
@@ -8769,7 +8769,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 769,
         "name": "Mexico",
@@ -8835,7 +8835,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 771,
         "name": "United States",
@@ -8901,7 +8901,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8873,
         "name": "Scotland",
@@ -8967,7 +8967,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 764,
         "name": "Brazil",
@@ -9033,7 +9033,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 803,
         "name": "Turkey",
@@ -9099,7 +9099,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8601,
         "name": "Netherlands",
@@ -9165,7 +9165,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 759,
         "name": "Germany",
@@ -9231,7 +9231,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 791,
         "name": "Ecuador",
@@ -9297,7 +9297,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 802,
         "name": "Tunisia",
@@ -9363,7 +9363,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 760,
         "name": "Spain",
@@ -9429,7 +9429,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 805,
         "name": "Belgium",
@@ -9495,7 +9495,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 758,
         "name": "Uruguay",
@@ -9561,7 +9561,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 783,
         "name": "New Zealand",
@@ -9627,7 +9627,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_J",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 762,
         "name": "Argentina",
@@ -9693,7 +9693,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 773,
         "name": "France",
@@ -9759,7 +9759,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8872,
         "name": "Norway",
@@ -9825,7 +9825,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_J",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8049,
         "name": "Jordan",
@@ -9891,7 +9891,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 765,
         "name": "Portugal",
@@ -9957,7 +9957,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 770,
         "name": "England",
@@ -10023,7 +10023,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 1836,
         "name": "Panama",
@@ -10082,7 +10082,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 818,
         "name": "Colombia",
@@ -10141,7 +10141,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 788,
         "name": "Switzerland",
@@ -10207,7 +10207,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 1060,
         "name": "Bosnia-Herzegovina",
@@ -10273,7 +10273,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 815,
         "name": "Morocco",
@@ -10339,7 +10339,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8873,
         "name": "Scotland",
@@ -10405,7 +10405,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 798,
         "name": "Czechia",
@@ -10471,7 +10471,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 774,
         "name": "South Africa",
@@ -10537,7 +10537,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 791,
         "name": "Ecuador",
@@ -10603,7 +10603,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 9460,
         "name": "Curaçao",
@@ -10669,7 +10669,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 802,
         "name": "Tunisia",
@@ -10735,7 +10735,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 766,
         "name": "Japan",
@@ -10801,7 +10801,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 803,
         "name": "Turkey",
@@ -10867,7 +10867,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 761,
         "name": "Paraguay",
@@ -10933,7 +10933,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8872,
         "name": "Norway",
@@ -10999,7 +10999,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 804,
         "name": "Senegal",
@@ -11065,7 +11065,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 758,
         "name": "Uruguay",
@@ -11131,7 +11131,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 1930,
         "name": "Cape Verde Islands",
@@ -11197,7 +11197,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 783,
         "name": "New Zealand",
@@ -11263,7 +11263,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 825,
         "name": "Egypt",
@@ -11329,7 +11329,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 1836,
         "name": "Panama",
@@ -11395,7 +11395,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 799,
         "name": "Croatia",
@@ -11461,7 +11461,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 818,
         "name": "Colombia",
@@ -11527,7 +11527,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 1934,
         "name": "Congo DR",
@@ -11593,7 +11593,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_J",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8049,
         "name": "Jordan",
@@ -11659,7 +11659,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_J",
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 778,
         "name": "Algeria",
@@ -11725,7 +11725,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 774,
         "name": "South Africa",
@@ -11791,7 +11791,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 764,
         "name": "Brazil",
@@ -11857,7 +11857,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 759,
         "name": "Germany",
@@ -11935,7 +11935,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8601,
         "name": "Netherlands",
@@ -12013,7 +12013,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 1935,
         "name": "Ivory Coast",
@@ -12079,7 +12079,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 773,
         "name": "France",
@@ -12145,7 +12145,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 769,
         "name": "Mexico",
@@ -12211,7 +12211,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 770,
         "name": "England",
@@ -12277,7 +12277,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 805,
         "name": "Belgium",
@@ -12351,7 +12351,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 771,
         "name": "United States",
@@ -12417,7 +12417,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 760,
         "name": "Spain",
@@ -12483,7 +12483,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 765,
         "name": "Portugal",
@@ -12549,7 +12549,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 788,
         "name": "Switzerland",
@@ -12615,7 +12615,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 779,
         "name": "Australia",
@@ -12693,7 +12693,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 762,
         "name": "Argentina",
@@ -12767,7 +12767,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 818,
         "name": "Colombia",
@@ -12833,7 +12833,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 828,
         "name": "Canada",
@@ -12899,7 +12899,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 761,
         "name": "Paraguay",
@@ -12965,7 +12965,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 764,
         "name": "Brazil",
@@ -13031,7 +13031,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 769,
         "name": "Mexico",
@@ -13097,7 +13097,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 765,
         "name": "Portugal",
@@ -13163,7 +13163,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 771,
         "name": "United States",
@@ -13229,7 +13229,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 762,
         "name": "Argentina",
@@ -13295,7 +13295,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 788,
         "name": "Switzerland",
@@ -13373,7 +13373,7 @@
       "matchday": null,
       "stage": "QUARTER_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 773,
         "name": "France",
@@ -13439,7 +13439,7 @@
       "matchday": null,
       "stage": "QUARTER_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 760,
         "name": "Spain",
@@ -13505,7 +13505,7 @@
       "matchday": null,
       "stage": "QUARTER_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 8872,
         "name": "Norway",
@@ -13579,7 +13579,7 @@
       "matchday": null,
       "stage": "QUARTER_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 762,
         "name": "Argentina",
@@ -13653,7 +13653,7 @@
       "matchday": null,
       "stage": "SEMI_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 773,
         "name": "France",
@@ -13719,7 +13719,7 @@
       "matchday": null,
       "stage": "SEMI_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 770,
         "name": "England",
@@ -13785,7 +13785,7 @@
       "matchday": null,
       "stage": "THIRD_PLACE",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 773,
         "name": "France",
@@ -13851,7 +13851,7 @@
       "matchday": null,
       "stage": "FINAL",
       "group": null,
-      "lastUpdated": "2026-07-27T20:20:04Z",
+      "lastUpdated": "2026-07-28T00:20:04Z",
       "homeTeam": {
         "id": 760,
         "name": "Spain",
@@ -29533,7 +29533,170 @@
       },
       "lastUpdated": "2024-07-29T17:20:31Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-26 22:43 UTC"
+      "_profileFetchedAt": "2026-07-26 22:43 UTC",
+      "squad": [
+        {
+          "id": 3240,
+          "name": "Anthony Lopes",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1990-10-01",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 186084,
+          "name": "Melvin Zinga",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2002-03-16",
+          "nationality": "France"
+        },
+        {
+          "id": 244934,
+          "name": "Oumar Pona",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2006-06-21",
+          "nationality": "Mali"
+        },
+        {
+          "id": 532,
+          "name": "Carlens Arcus",
+          "position": "Defence",
+          "dateOfBirth": "1996-06-28",
+          "nationality": "Haiti"
+        },
+        {
+          "id": 1020,
+          "name": "Jordan Lefort",
+          "position": "Defence",
+          "dateOfBirth": "1993-08-09",
+          "nationality": "France"
+        },
+        {
+          "id": 147895,
+          "name": "Ousman Camara",
+          "position": "Defence",
+          "dateOfBirth": "2003-03-06",
+          "nationality": "France"
+        },
+        {
+          "id": 176904,
+          "name": "Jacques Ekomie",
+          "position": "Defence",
+          "dateOfBirth": "2003-08-19",
+          "nationality": "Gabon"
+        },
+        {
+          "id": 190546,
+          "name": "Emmanuel Biumla",
+          "position": "Defence",
+          "dateOfBirth": "2005-05-08",
+          "nationality": "France"
+        },
+        {
+          "id": 191002,
+          "name": "Lilian Rao-Lisoa",
+          "position": "Defence",
+          "dateOfBirth": "2000-06-16",
+          "nationality": "France"
+        },
+        {
+          "id": 271979,
+          "name": "Marius Louãr",
+          "position": "Defence",
+          "dateOfBirth": "2007-03-11",
+          "nationality": "France"
+        },
+        {
+          "id": 279750,
+          "name": "Dan Sinaté",
+          "position": "Defence",
+          "dateOfBirth": "2006-06-09",
+          "nationality": "France"
+        },
+        {
+          "id": 746,
+          "name": "Haris Belkebla",
+          "position": "Midfield",
+          "dateOfBirth": "1994-01-28",
+          "nationality": "Algeria"
+        },
+        {
+          "id": 53397,
+          "name": "Branco van den Boomen",
+          "position": "Midfield",
+          "dateOfBirth": "1995-07-21",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 177021,
+          "name": "Louis Mouton",
+          "position": "Midfield",
+          "dateOfBirth": "2002-06-03",
+          "nationality": "France"
+        },
+        {
+          "id": 178075,
+          "name": "Yassin Belkhdim",
+          "position": "Midfield",
+          "dateOfBirth": "2002-02-14",
+          "nationality": "Morocco"
+        },
+        {
+          "id": 213045,
+          "name": "Marius Courcoul",
+          "position": "Midfield",
+          "dateOfBirth": "2007-01-01",
+          "nationality": "France"
+        },
+        {
+          "id": 101297,
+          "name": "Jim Allevinah",
+          "position": "Offence",
+          "dateOfBirth": "1995-02-27",
+          "nationality": "Gabon"
+        },
+        {
+          "id": 137515,
+          "name": "Amine El Ouazzani",
+          "position": "Offence",
+          "dateOfBirth": "2001-07-15",
+          "nationality": "France"
+        },
+        {
+          "id": 170416,
+          "name": "Mamadou Usman Simbakoli",
+          "position": "Offence",
+          "dateOfBirth": "2001-04-19",
+          "nationality": "Central African Republic"
+        },
+        {
+          "id": 185033,
+          "name": "Amine Sbaï",
+          "position": "Offence",
+          "dateOfBirth": "2000-11-05",
+          "nationality": "France"
+        },
+        {
+          "id": 246160,
+          "name": "Anthony Bermont",
+          "position": "Offence",
+          "dateOfBirth": "2005-02-10",
+          "nationality": "France"
+        },
+        {
+          "id": 278087,
+          "name": "Prosper Peter",
+          "position": "Offence",
+          "dateOfBirth": "2007-08-09",
+          "nationality": "Nigeria"
+        },
+        {
+          "id": 287857,
+          "name": "Harouna Djibirin",
+          "position": "Offence",
+          "dateOfBirth": "2006-11-05",
+          "nationality": "Cameroon"
+        }
+      ]
     },
     {
       "area": {
@@ -29575,7 +29738,219 @@
       },
       "lastUpdated": "2022-07-26T18:03:55Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-26 22:42 UTC"
+      "_profileFetchedAt": "2026-07-27 22:43 UTC",
+      "squad": [
+        {
+          "id": 16925,
+          "name": "Paul Nardi",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1994-05-18",
+          "nationality": "France"
+        },
+        {
+          "id": 131150,
+          "name": "Mamadou Diop",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2000-01-03",
+          "nationality": "Mauritania"
+        },
+        {
+          "id": 255520,
+          "name": "Louis Mezerette",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2006-08-30",
+          "nationality": "France"
+        },
+        {
+          "id": 2402,
+          "name": "Francisco Sierralta",
+          "position": "Defence",
+          "dateOfBirth": "1997-05-06",
+          "nationality": "Chile"
+        },
+        {
+          "id": 124243,
+          "name": "Bryan Okoh",
+          "position": "Defence",
+          "dateOfBirth": "2003-05-16",
+          "nationality": "Switzerland"
+        },
+        {
+          "id": 141637,
+          "name": "Sinaly Diomandé",
+          "position": "Defence",
+          "dateOfBirth": "2001-04-09",
+          "nationality": "Ivory Coast"
+        },
+        {
+          "id": 153924,
+          "name": "Marvin Senaya",
+          "position": "Defence",
+          "dateOfBirth": "2001-01-28",
+          "nationality": "Ghana"
+        },
+        {
+          "id": 154108,
+          "name": "Fredrik Oppegard",
+          "position": "Defence",
+          "dateOfBirth": "2002-08-07",
+          "nationality": "Norway"
+        },
+        {
+          "id": 177412,
+          "name": "Lamine Sy",
+          "position": "Defence",
+          "dateOfBirth": "2002-08-10",
+          "nationality": "France"
+        },
+        {
+          "id": 185194,
+          "name": "Clement Akpa",
+          "position": "Defence",
+          "dateOfBirth": "2001-11-24",
+          "nationality": "Ivory Coast"
+        },
+        {
+          "id": 206881,
+          "name": "Christ Makosso",
+          "position": "Defence",
+          "dateOfBirth": "2004-05-09",
+          "nationality": "Congo"
+        },
+        {
+          "id": 254867,
+          "name": "Sekou Fofana",
+          "position": "Defence",
+          "dateOfBirth": "2003-03-25",
+          "nationality": "Ivory Coast"
+        },
+        {
+          "id": 277960,
+          "name": "Telli Siwe",
+          "position": "Defence",
+          "dateOfBirth": "2004-12-14",
+          "nationality": "France"
+        },
+        {
+          "id": 281100,
+          "name": "Elikya Legros",
+          "position": "Defence",
+          "dateOfBirth": "2008-06-06",
+          "nationality": "France"
+        },
+        {
+          "id": 286281,
+          "name": "Alvin Petit Dol",
+          "position": "Defence",
+          "dateOfBirth": "2006-11-07",
+          "nationality": "France"
+        },
+        {
+          "id": 3631,
+          "name": "Assane Dioussé",
+          "position": "Midfield",
+          "dateOfBirth": "1997-09-20",
+          "nationality": "Senegal"
+        },
+        {
+          "id": 8470,
+          "name": "Elisha Owusu",
+          "position": "Midfield",
+          "dateOfBirth": "1997-11-07",
+          "nationality": "Ghana"
+        },
+        {
+          "id": 8762,
+          "name": "Romain Faivre",
+          "position": "Midfield",
+          "dateOfBirth": "1998-07-14",
+          "nationality": "France"
+        },
+        {
+          "id": 131752,
+          "name": "Naouirou Ahamada",
+          "position": "Midfield",
+          "dateOfBirth": "2002-03-29",
+          "nationality": "France"
+        },
+        {
+          "id": 175724,
+          "name": "Kevin Danois",
+          "position": "Midfield",
+          "dateOfBirth": "2004-06-28",
+          "nationality": "France"
+        },
+        {
+          "id": 191991,
+          "name": "Arthur Piedfort",
+          "position": "Midfield",
+          "dateOfBirth": "2005-02-01",
+          "nationality": "Belgium"
+        },
+        {
+          "id": 281104,
+          "name": "Tidiane Devernois",
+          "position": "Midfield",
+          "dateOfBirth": "2007-10-18",
+          "nationality": "France"
+        },
+        {
+          "id": 4289,
+          "name": "Daniel Namaso",
+          "position": "Offence",
+          "dateOfBirth": "2000-08-28",
+          "nationality": "Cameroon"
+        },
+        {
+          "id": 83162,
+          "name": "Eros Maddy",
+          "position": "Offence",
+          "dateOfBirth": "2001-02-05",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 113229,
+          "name": "Theo Bair",
+          "position": "Offence",
+          "dateOfBirth": "1999-08-27",
+          "nationality": "Canada"
+        },
+        {
+          "id": 152737,
+          "name": "Josué Casimir",
+          "position": "Offence",
+          "dateOfBirth": "2001-09-24",
+          "nationality": "Haiti"
+        },
+        {
+          "id": 170396,
+          "name": "Lasso Coulibaly",
+          "position": "Offence",
+          "dateOfBirth": "2002-10-19",
+          "nationality": "Ivory Coast"
+        },
+        {
+          "id": 270290,
+          "name": "Aristide Zossou",
+          "position": "Offence",
+          "dateOfBirth": "2005-06-14",
+          "nationality": "Ivory Coast"
+        },
+        {
+          "id": 275829,
+          "name": "Xiangxin Wei",
+          "position": "Offence",
+          "dateOfBirth": "2008-03-05",
+          "nationality": "China PR"
+        },
+        {
+          "id": 286557,
+          "name": "Ryan Rodin",
+          "position": "Offence",
+          "dateOfBirth": "2006-03-02",
+          "nationality": "France"
+        }
+      ]
     },
     {
       "area": {
@@ -29617,7 +29992,135 @@
       },
       "lastUpdated": "2026-07-04T12:08:19Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-26 22:42 UTC"
+      "_profileFetchedAt": "2026-07-27 22:43 UTC",
+      "squad": [
+        {
+          "id": 731,
+          "name": "Grégoire Coudert",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1999-04-03",
+          "nationality": "France"
+        },
+        {
+          "id": 263957,
+          "name": "Noah Jauny",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2004-08-26",
+          "nationality": "Ireland"
+        },
+        {
+          "id": 441,
+          "name": "Brendan Chardonnet",
+          "position": "Defence",
+          "dateOfBirth": "1994-12-22",
+          "nationality": "France"
+        },
+        {
+          "id": 8778,
+          "name": "Kenny Lala",
+          "position": "Defence",
+          "dateOfBirth": "1991-10-03",
+          "nationality": "France"
+        },
+        {
+          "id": 171659,
+          "name": "Bradley Locko",
+          "position": "Defence",
+          "dateOfBirth": "2002-05-06",
+          "nationality": "France"
+        },
+        {
+          "id": 227982,
+          "name": "Luc Zogbe",
+          "position": "Defence",
+          "dateOfBirth": "2005-03-24",
+          "nationality": "Ivory Coast"
+        },
+        {
+          "id": 273433,
+          "name": "Raphaël Le Guen",
+          "position": "Defence",
+          "dateOfBirth": "2006-09-01",
+          "nationality": "France"
+        },
+        {
+          "id": 274570,
+          "name": "Justin Bourgault",
+          "position": "Defence",
+          "dateOfBirth": "2005-09-14",
+          "nationality": "France"
+        },
+        {
+          "id": 8465,
+          "name": "Lucas Tousart",
+          "position": "Midfield",
+          "dateOfBirth": "1997-04-29",
+          "nationality": "France"
+        },
+        {
+          "id": 76145,
+          "name": "Hugo Magnetti",
+          "position": "Midfield",
+          "dateOfBirth": "1998-05-30",
+          "nationality": "France"
+        },
+        {
+          "id": 125677,
+          "name": "Joris Chotard",
+          "position": "Midfield",
+          "dateOfBirth": "2001-09-24",
+          "nationality": "France"
+        },
+        {
+          "id": 175942,
+          "name": "Kamory Doumbia",
+          "position": "Midfield",
+          "dateOfBirth": "2003-02-18",
+          "nationality": "Mali"
+        },
+        {
+          "id": 276983,
+          "name": "Hamidou Makalou",
+          "position": "Midfield",
+          "dateOfBirth": "2006-07-15",
+          "nationality": "Mali"
+        },
+        {
+          "id": 723,
+          "name": "Ludovic Ajorque",
+          "position": "Offence",
+          "dateOfBirth": "1994-02-25",
+          "nationality": "France"
+        },
+        {
+          "id": 856,
+          "name": "Romain Del Castillo",
+          "position": "Offence",
+          "dateOfBirth": "1996-03-29",
+          "nationality": "France"
+        },
+        {
+          "id": 43707,
+          "name": "Mama Baldé",
+          "position": "Offence",
+          "dateOfBirth": "1995-11-06",
+          "nationality": "Guinea-Bissau"
+        },
+        {
+          "id": 191108,
+          "name": "Axel Camblan",
+          "position": "Offence",
+          "dateOfBirth": "2025-06-30",
+          "nationality": "France"
+        },
+        {
+          "id": 218249,
+          "name": "Pathé Mboup",
+          "position": "Offence",
+          "dateOfBirth": "2003-10-19",
+          "nationality": "Senegal"
+        }
+      ]
     },
     {
       "area": {
@@ -29891,7 +30394,177 @@
       },
       "lastUpdated": "2022-06-19T00:03:33Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-26 22:43 UTC"
+      "_profileFetchedAt": "2026-07-26 22:43 UTC",
+      "squad": [
+        {
+          "id": 20931,
+          "name": "Mory Diaw",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1993-06-22",
+          "nationality": "Senegal"
+        },
+        {
+          "id": 106838,
+          "name": "Lionel Mpasi",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1994-08-01",
+          "nationality": "Congo DR"
+        },
+        {
+          "id": 248779,
+          "name": "Paul Argney",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2006-05-23",
+          "nationality": "France"
+        },
+        {
+          "id": 45300,
+          "name": "Vincent Sasso",
+          "position": "Defence",
+          "dateOfBirth": "1991-02-16",
+          "nationality": "France"
+        },
+        {
+          "id": 113230,
+          "name": "Ayumu Seko",
+          "position": "Defence",
+          "dateOfBirth": "2000-06-07",
+          "nationality": "Japan"
+        },
+        {
+          "id": 148288,
+          "name": "Timothee Pembele",
+          "position": "Defence",
+          "dateOfBirth": "2002-09-09",
+          "nationality": "France"
+        },
+        {
+          "id": 149098,
+          "name": "Fodé Doucouré",
+          "position": "Defence",
+          "dateOfBirth": "2001-02-03",
+          "nationality": "Mali"
+        },
+        {
+          "id": 260293,
+          "name": "Yanis Zouaoui",
+          "position": "Defence",
+          "dateOfBirth": "1998-04-20",
+          "nationality": "France"
+        },
+        {
+          "id": 276981,
+          "name": "Stephan Zagadou",
+          "position": "Defence",
+          "dateOfBirth": "2008-10-24",
+          "nationality": "France"
+        },
+        {
+          "id": 281102,
+          "name": "Enzo Koffi",
+          "position": "Defence",
+          "dateOfBirth": "2006-03-04",
+          "nationality": "France"
+        },
+        {
+          "id": 150018,
+          "name": "Kaito Mizuta",
+          "position": "Midfield",
+          "dateOfBirth": "2000-04-08",
+          "nationality": "Japan"
+        },
+        {
+          "id": 169152,
+          "name": "Amir Richardson",
+          "position": "Midfield",
+          "dateOfBirth": "2002-01-24",
+          "nationality": "Morocco"
+        },
+        {
+          "id": 178663,
+          "name": "Rassoul N'Diaye",
+          "position": "Midfield",
+          "dateOfBirth": "2001-12-11",
+          "nationality": "France"
+        },
+        {
+          "id": 204279,
+          "name": "Simon Ebonog",
+          "position": "Midfield",
+          "dateOfBirth": "2004-08-16",
+          "nationality": "France"
+        },
+        {
+          "id": 206360,
+          "name": "Makrane Bentoumi",
+          "position": "Midfield",
+          "dateOfBirth": "2005-11-16",
+          "nationality": "France"
+        },
+        {
+          "id": 244823,
+          "name": "Ismail Bouneb",
+          "position": "Midfield",
+          "dateOfBirth": "2006-06-07",
+          "nationality": "France"
+        },
+        {
+          "id": 263479,
+          "name": "Daren Mosengo",
+          "position": "Midfield",
+          "dateOfBirth": "2006-08-11",
+          "nationality": "France"
+        },
+        {
+          "id": 263480,
+          "name": "Guy Zohouri",
+          "position": "Midfield",
+          "dateOfBirth": "2007-02-01",
+          "nationality": "Ivory Coast"
+        },
+        {
+          "id": 8982,
+          "name": "Mbwana Samatta",
+          "position": "Offence",
+          "dateOfBirth": "1992-12-13",
+          "nationality": "Tanzania"
+        },
+        {
+          "id": 111019,
+          "name": "Godson Kyeremeh",
+          "position": "Offence",
+          "dateOfBirth": "2000-06-14",
+          "nationality": "France"
+        },
+        {
+          "id": 111230,
+          "name": "Felix Mambimbi",
+          "position": "Offence",
+          "dateOfBirth": "2001-01-18",
+          "nationality": "Switzerland"
+        },
+        {
+          "id": 204322,
+          "name": "Andy Logbo",
+          "position": "Offence",
+          "dateOfBirth": "2004-05-06",
+          "nationality": "France"
+        },
+        {
+          "id": 263481,
+          "name": "Noam Obougou",
+          "position": "Offence",
+          "dateOfBirth": "2006-03-15",
+          "nationality": "France"
+        },
+        {
+          "id": 275182,
+          "name": "Sota Nakamura",
+          "position": "Offence",
+          "dateOfBirth": "2002-10-15",
+          "nationality": "Japan"
+        }
+      ]
     },
     {
       "area": {
@@ -29933,7 +30606,170 @@
       },
       "lastUpdated": "2026-05-01T08:34:30Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-26 22:43 UTC"
+      "_profileFetchedAt": "2026-07-26 22:43 UTC",
+      "squad": [
+        {
+          "id": 464,
+          "name": "Nicolas Kocik",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1998-08-04",
+          "nationality": "France"
+        },
+        {
+          "id": 254368,
+          "name": "Ewan Hatfout",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2000-04-01",
+          "nationality": "France"
+        },
+        {
+          "id": 255027,
+          "name": "Augustin Delbecque",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2002-02-03",
+          "nationality": "France"
+        },
+        {
+          "id": 867,
+          "name": "Lucas Buadés",
+          "position": "Defence",
+          "dateOfBirth": "1997-12-28",
+          "nationality": "France"
+        },
+        {
+          "id": 934,
+          "name": "Samuel Yohou",
+          "position": "Defence",
+          "dateOfBirth": "1991-08-06",
+          "nationality": "France"
+        },
+        {
+          "id": 133766,
+          "name": "Yasser Larouci",
+          "position": "Defence",
+          "dateOfBirth": "2001-01-01",
+          "nationality": "Algeria"
+        },
+        {
+          "id": 158230,
+          "name": "Harold Voyer",
+          "position": "Defence",
+          "dateOfBirth": "1997-03-26",
+          "nationality": "Martinique"
+        },
+        {
+          "id": 176335,
+          "name": "Lucas Calodat",
+          "position": "Defence",
+          "dateOfBirth": "2002-02-06",
+          "nationality": "France"
+        },
+        {
+          "id": 256284,
+          "name": "Théo Eyoum",
+          "position": "Defence",
+          "dateOfBirth": "2002-01-07",
+          "nationality": "France"
+        },
+        {
+          "id": 279674,
+          "name": "Noa Boisse",
+          "position": "Defence",
+          "dateOfBirth": "2006-01-20",
+          "nationality": "France"
+        },
+        {
+          "id": 74608,
+          "name": "Edwin Quarshie",
+          "position": "Midfield",
+          "dateOfBirth": "1995-10-25",
+          "nationality": "France"
+        },
+        {
+          "id": 116275,
+          "name": "Alexandre Lauray",
+          "position": "Midfield",
+          "dateOfBirth": "1997-03-18",
+          "nationality": "France"
+        },
+        {
+          "id": 157984,
+          "name": "Jean Vercruysse",
+          "position": "Midfield",
+          "dateOfBirth": "2000-07-03",
+          "nationality": "France"
+        },
+        {
+          "id": 260282,
+          "name": "Milan Robin",
+          "position": "Midfield",
+          "dateOfBirth": "1999-11-24",
+          "nationality": "France"
+        },
+        {
+          "id": 279676,
+          "name": "Martin Rossignol",
+          "position": "Midfield",
+          "dateOfBirth": "2003-11-03",
+          "nationality": "France"
+        },
+        {
+          "id": 279719,
+          "name": "Lucas Bretelle",
+          "position": "Midfield",
+          "dateOfBirth": "2002-04-17",
+          "nationality": "France"
+        },
+        {
+          "id": 292172,
+          "name": "Adil Bourabaa",
+          "position": "Midfield",
+          "dateOfBirth": "2005-03-09",
+          "nationality": "Algeria"
+        },
+        {
+          "id": 74648,
+          "name": "Antoine Rabillard",
+          "position": "Offence",
+          "dateOfBirth": "1995-09-22",
+          "nationality": "France"
+        },
+        {
+          "id": 82197,
+          "name": "Dame Guèye",
+          "position": "Offence",
+          "dateOfBirth": "1995-08-12",
+          "nationality": "Senegal"
+        },
+        {
+          "id": 124178,
+          "name": "Louis Mafouta",
+          "position": "Offence",
+          "dateOfBirth": "1994-07-02",
+          "nationality": "Central African Republic"
+        },
+        {
+          "id": 138969,
+          "name": "Erwan Colas",
+          "position": "Offence",
+          "dateOfBirth": "1997-04-22",
+          "nationality": "France"
+        },
+        {
+          "id": 181927,
+          "name": "Bilal Brahimi",
+          "position": "Offence",
+          "dateOfBirth": "2000-03-14",
+          "nationality": "France"
+        },
+        {
+          "id": 281688,
+          "name": "William Harhouz",
+          "position": "Offence",
+          "dateOfBirth": "1999-12-30",
+          "nationality": "France"
+        }
+      ]
     },
     {
       "area": {
@@ -29975,7 +30811,205 @@
       },
       "lastUpdated": "2024-07-29T17:19:48Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-26 22:42 UTC"
+      "_profileFetchedAt": "2026-07-27 22:44 UTC",
+      "squad": [
+        {
+          "id": 9222,
+          "name": "Arnaud Bodart",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1998-03-11",
+          "nationality": "Belgium"
+        },
+        {
+          "id": 29890,
+          "name": "Berke Özer",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2000-05-25",
+          "nationality": "Turkey"
+        },
+        {
+          "id": 8435,
+          "name": "Romain Perraud",
+          "position": "Defence",
+          "dateOfBirth": "1997-09-22",
+          "nationality": "France"
+        },
+        {
+          "id": 9861,
+          "name": "Calvin Verdonk",
+          "position": "Defence",
+          "dateOfBirth": "1997-04-26",
+          "nationality": "Indonesia"
+        },
+        {
+          "id": 127127,
+          "name": "Nianzou Kouassi",
+          "position": "Defence",
+          "dateOfBirth": "2002-06-07",
+          "nationality": "France"
+        },
+        {
+          "id": 185196,
+          "name": "Alexsandro Ribeiro",
+          "position": "Defence",
+          "dateOfBirth": "1999-08-09",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 188087,
+          "name": "Tiago Santos",
+          "position": "Defence",
+          "dateOfBirth": "2002-07-23",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 192677,
+          "name": "Nathan Ngoy",
+          "position": "Defence",
+          "dateOfBirth": "2003-06-10",
+          "nationality": "Belgium"
+        },
+        {
+          "id": 216223,
+          "name": "Ousmane Touré",
+          "position": "Defence",
+          "dateOfBirth": "2005-02-18",
+          "nationality": "France"
+        },
+        {
+          "id": 261543,
+          "name": "Loun Srdanovic",
+          "position": "Defence",
+          "dateOfBirth": "2006-08-04",
+          "nationality": "Switzerland"
+        },
+        {
+          "id": 270793,
+          "name": "Isaac Cossier",
+          "position": "Defence",
+          "dateOfBirth": "2006-11-30",
+          "nationality": "France"
+        },
+        {
+          "id": 8811,
+          "name": "Benjamin André",
+          "position": "Midfield",
+          "dateOfBirth": "1990-08-03",
+          "nationality": "France"
+        },
+        {
+          "id": 117908,
+          "name": "Hákon Arnar Haraldsson",
+          "position": "Midfield",
+          "dateOfBirth": "2003-04-10",
+          "nationality": "Iceland"
+        },
+        {
+          "id": 177365,
+          "name": "Ugo Raghouber",
+          "position": "Midfield",
+          "dateOfBirth": "2003-07-13",
+          "nationality": "France"
+        },
+        {
+          "id": 192666,
+          "name": "Ngal'ayel Mukau",
+          "position": "Midfield",
+          "dateOfBirth": "2004-11-03",
+          "nationality": "Congo DR"
+        },
+        {
+          "id": 221819,
+          "name": "Ayyoub Bouaddi",
+          "position": "Midfield",
+          "dateOfBirth": "2007-10-02",
+          "nationality": "France"
+        },
+        {
+          "id": 728,
+          "name": "Mohamed Bayo",
+          "position": "Offence",
+          "dateOfBirth": "1993-09-15",
+          "nationality": "Guinea"
+        },
+        {
+          "id": 914,
+          "name": "Gaëtan Perrin",
+          "position": "Offence",
+          "dateOfBirth": "1996-06-07",
+          "nationality": "France"
+        },
+        {
+          "id": 3371,
+          "name": "Olivier Giroud",
+          "position": "Offence",
+          "dateOfBirth": "1986-09-30",
+          "nationality": "France"
+        },
+        {
+          "id": 99722,
+          "name": "Osame Sahraoui",
+          "position": "Offence",
+          "dateOfBirth": "2001-06-11",
+          "nationality": "Morocco"
+        },
+        {
+          "id": 127657,
+          "name": "Félix Correia",
+          "position": "Offence",
+          "dateOfBirth": "2001-01-22",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 150925,
+          "name": "Tiago Fonseca Morais",
+          "position": "Offence",
+          "dateOfBirth": "2003-09-03",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 178127,
+          "name": "Basar Onal",
+          "position": "Offence",
+          "dateOfBirth": "2004-07-06",
+          "nationality": "Turkey"
+        },
+        {
+          "id": 212975,
+          "name": "Noah Edjouma",
+          "position": "Offence",
+          "dateOfBirth": "2005-10-04",
+          "nationality": "France"
+        },
+        {
+          "id": 213511,
+          "name": "Matias Fernandez-Pardo",
+          "position": "Offence",
+          "dateOfBirth": "2005-02-03",
+          "nationality": "Belgium"
+        },
+        {
+          "id": 218468,
+          "name": "Ethan Mbappé",
+          "position": "Offence",
+          "dateOfBirth": "2006-12-29",
+          "nationality": "France"
+        },
+        {
+          "id": 260879,
+          "name": "Hamza Igamane",
+          "position": "Offence",
+          "dateOfBirth": "2002-11-02",
+          "nationality": "Morocco"
+        },
+        {
+          "id": 275537,
+          "name": "Soriba Diaoune",
+          "position": "Offence",
+          "dateOfBirth": "2007-08-14",
+          "nationality": "France"
+        }
+      ]
     },
     {
       "area": {
@@ -30017,7 +31051,163 @@
       },
       "lastUpdated": "2022-02-19T08:25:01Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-26 22:42 UTC"
+      "_profileFetchedAt": "2026-07-27 22:44 UTC",
+      "squad": [
+        {
+          "id": 8554,
+          "name": "Benjamin Leroy",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1989-04-07",
+          "nationality": "France"
+        },
+        {
+          "id": 8771,
+          "name": "Bingourou Kamara",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1996-10-21",
+          "nationality": "Senegal"
+        },
+        {
+          "id": 9534,
+          "name": "Yvon Mvogo",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1994-06-06",
+          "nationality": "Switzerland"
+        },
+        {
+          "id": 57099,
+          "name": "Alec Georgen",
+          "position": "Defence",
+          "dateOfBirth": "1998-09-17",
+          "nationality": "France"
+        },
+        {
+          "id": 149069,
+          "name": "Souleymane Isaak Toure",
+          "position": "Defence",
+          "dateOfBirth": "2003-03-28",
+          "nationality": "France"
+        },
+        {
+          "id": 156630,
+          "name": "Formose Mendy",
+          "position": "Defence",
+          "dateOfBirth": "2001-01-02",
+          "nationality": "Senegal"
+        },
+        {
+          "id": 177695,
+          "name": "Montassar Talbi",
+          "position": "Defence",
+          "dateOfBirth": "1998-05-26",
+          "nationality": "Tunisia"
+        },
+        {
+          "id": 187420,
+          "name": "Dembo Sylla",
+          "position": "Defence",
+          "dateOfBirth": "2002-11-10",
+          "nationality": "Guinea"
+        },
+        {
+          "id": 187473,
+          "name": "Nathaniel Adjei",
+          "position": "Defence",
+          "dateOfBirth": "2002-08-21",
+          "nationality": "Ghana"
+        },
+        {
+          "id": 244087,
+          "name": "Kan Guy Arsène Kouassi",
+          "position": "Defence",
+          "dateOfBirth": "2004-09-11",
+          "nationality": "Burkina Faso"
+        },
+        {
+          "id": 245464,
+          "name": "Enzo Genton",
+          "position": "Defence",
+          "dateOfBirth": "2006-03-31",
+          "nationality": "France"
+        },
+        {
+          "id": 8437,
+          "name": "Jean-Victor Makengo",
+          "position": "Midfield",
+          "dateOfBirth": "1998-06-12",
+          "nationality": "France"
+        },
+        {
+          "id": 106791,
+          "name": "Noah Cadiou",
+          "position": "Midfield",
+          "dateOfBirth": "1998-10-26",
+          "nationality": "France"
+        },
+        {
+          "id": 150424,
+          "name": "Bandiougou Fadiga",
+          "position": "Midfield",
+          "dateOfBirth": "2001-01-15",
+          "nationality": "France"
+        },
+        {
+          "id": 153994,
+          "name": "Joel Mugisha",
+          "position": "Midfield",
+          "dateOfBirth": "2002-11-12",
+          "nationality": "Norway"
+        },
+        {
+          "id": 172520,
+          "name": "Theo Le Bris",
+          "position": "Midfield",
+          "dateOfBirth": "2002-10-01",
+          "nationality": "France"
+        },
+        {
+          "id": 188658,
+          "name": "Panos Katseris",
+          "position": "Midfield",
+          "dateOfBirth": "2001-07-05",
+          "nationality": "Greece"
+        },
+        {
+          "id": 263322,
+          "name": "Arthur Ebong",
+          "position": "Midfield",
+          "dateOfBirth": "2004-12-15",
+          "nationality": "Cameroon"
+        },
+        {
+          "id": 279671,
+          "name": "Gabin Bernardeau",
+          "position": "Midfield",
+          "dateOfBirth": "2006-01-24",
+          "nationality": "France"
+        },
+        {
+          "id": 72551,
+          "name": "Aiyegun Tosin",
+          "position": "Offence",
+          "dateOfBirth": "1998-06-26",
+          "nationality": "Benin"
+        },
+        {
+          "id": 213749,
+          "name": "Mohamed Bamba",
+          "position": "Offence",
+          "dateOfBirth": "2001-12-10",
+          "nationality": "Ivory Coast"
+        },
+        {
+          "id": 270612,
+          "name": "Jérémy Hatchi",
+          "position": "Offence",
+          "dateOfBirth": "2005-06-13",
+          "nationality": "Guadeloupe"
+        }
+      ]
     },
     {
       "area": {
@@ -30058,7 +31248,7 @@
         }
       },
       "lastUpdated": "2022-02-19T08:35:12Z",
-      "_profileCompetitionCode": "CL",
+      "_profileCompetitionCode": "FL1",
       "_profileFetchedAt": "2026-07-26 22:43 UTC",
       "squad": [
         {
@@ -30076,18 +31266,25 @@
           "nationality": "Netherlands"
         },
         {
-          "id": 130271,
-          "name": "Théo Vermot",
-          "position": "Goalkeeper",
-          "dateOfBirth": "1997-01-27",
-          "nationality": "France"
-        },
-        {
           "id": 178114,
           "name": "Jelle Van Neck",
           "position": "Goalkeeper",
           "dateOfBirth": "2004-03-07",
           "nationality": "Belgium"
+        },
+        {
+          "id": 238,
+          "name": "Ulisses Garcia",
+          "position": "Defence",
+          "dateOfBirth": "1996-01-11",
+          "nationality": "Switzerland"
+        },
+        {
+          "id": 7809,
+          "name": "Emerson",
+          "position": "Defence",
+          "dateOfBirth": "1994-08-03",
+          "nationality": "Italy"
         },
         {
           "id": 46125,
@@ -30111,39 +31308,60 @@
           "nationality": "Argentina"
         },
         {
-          "id": 288911,
-          "name": "Pladi N'Zinga-Pambani",
+          "id": 113228,
+          "name": "Derek Cornelius",
           "position": "Defence",
-          "dateOfBirth": "2007-03-17",
-          "nationality": "France"
+          "dateOfBirth": "1997-11-25",
+          "nationality": "Canada"
         },
         {
-          "id": 289111,
-          "name": "Rayan Ouro Bang Na",
+          "id": 179596,
+          "name": "Bamo Meité",
           "position": "Defence",
-          "dateOfBirth": "2007-03-18",
-          "nationality": "France"
+          "dateOfBirth": "2001-06-20",
+          "nationality": "Ivory Coast"
         },
         {
-          "id": 290991,
-          "name": "Anis Doubal",
+          "id": 179721,
+          "name": "CJ Egan-Riley",
           "position": "Defence",
-          "dateOfBirth": "2006-10-29",
-          "nationality": "Tunisia"
+          "dateOfBirth": "2003-01-02",
+          "nationality": "England"
         },
         {
-          "id": 294658,
-          "name": "Hilan Hamzaoui Slimani",
-          "position": "Defence",
-          "dateOfBirth": "2006-02-15",
-          "nationality": "France"
+          "id": 7910,
+          "name": "Angel Gomes",
+          "position": "Midfield",
+          "dateOfBirth": "2000-08-31",
+          "nationality": "England"
         },
         {
-          "id": 295070,
-          "name": "Kelyann Bezahaf",
-          "position": "Defence",
-          "dateOfBirth": "2006-05-16",
-          "nationality": "France"
+          "id": 8093,
+          "name": "Pierre Emile Højbjerg",
+          "position": "Midfield",
+          "dateOfBirth": "1995-08-05",
+          "nationality": "Denmark"
+        },
+        {
+          "id": 8492,
+          "name": "Tim Weah",
+          "position": "Midfield",
+          "dateOfBirth": "2000-02-22",
+          "nationality": "USA"
+        },
+        {
+          "id": 33149,
+          "name": "Geoffrey Kondogbia",
+          "position": "Midfield",
+          "dateOfBirth": "1993-02-15",
+          "nationality": "Central African Republic"
+        },
+        {
+          "id": 80754,
+          "name": "Himad Abdelli",
+          "position": "Midfield",
+          "dateOfBirth": "1999-11-17",
+          "nationality": "Algeria"
         },
         {
           "id": 97536,
@@ -30160,25 +31378,18 @@
           "nationality": "Nigeria"
         },
         {
-          "id": 184146,
-          "name": "Arthur Vermeeren",
-          "position": "Midfield",
-          "dateOfBirth": "2005-02-07",
-          "nationality": "Belgium"
+          "id": 3714,
+          "name": "Amine Harit",
+          "position": "Offence",
+          "dateOfBirth": "1997-06-18",
+          "nationality": "Morocco"
         },
         {
-          "id": 188476,
-          "name": "Ethan Nwaneri",
-          "position": "Midfield",
-          "dateOfBirth": "2007-03-21",
-          "nationality": "England"
-        },
-        {
-          "id": 294659,
-          "name": "Nouhoum Kamissoko",
-          "position": "Midfield",
-          "dateOfBirth": "2004-12-27",
-          "nationality": "Mali"
+          "id": 4443,
+          "name": "Neal Maupay",
+          "position": "Offence",
+          "dateOfBirth": "1996-08-14",
+          "nationality": "France"
         },
         {
           "id": 8476,
@@ -30188,116 +31399,18 @@
           "nationality": "Algeria"
         },
         {
-          "id": 8492,
-          "name": "Tim Weah",
-          "position": "Offence",
-          "dateOfBirth": "2000-02-22",
-          "nationality": "USA"
-        },
-        {
-          "id": 288624,
-          "name": "Tadjidine M'Madi",
-          "position": "Offence",
-          "dateOfBirth": "2007-03-03",
-          "nationality": "France"
-        },
-        {
-          "id": 289110,
-          "name": "Emmanuel Lago",
-          "position": "Offence",
-          "dateOfBirth": "2004-12-27",
-          "nationality": "Ivory Coast"
-        },
-        {
-          "id": 289112,
-          "name": "Mathis Clement",
-          "position": "Offence",
-          "dateOfBirth": "2006-01-23",
-          "nationality": "France"
-        },
-        {
-          "id": 294660,
-          "name": "Ugo Lamare El Kadmiri",
-          "position": "Offence",
-          "dateOfBirth": "2007-06-25",
-          "nationality": "France"
-        },
-        {
           "id": 119703,
           "name": "Igor Paixão",
-          "position": "Left Winger",
+          "position": "Offence",
           "dateOfBirth": "2000-06-28",
           "nationality": "Brazil"
         },
         {
-          "id": 101075,
-          "name": "Mason Greenwood",
-          "position": "Right Winger",
-          "dateOfBirth": "2001-10-01",
-          "nationality": "England"
-        },
-        {
-          "id": 80754,
-          "name": "Himad Abdelli",
-          "position": "Attacking Midfield",
-          "dateOfBirth": "1999-11-17",
-          "nationality": "Algeria"
-        },
-        {
-          "id": 33149,
-          "name": "Geoffrey Kondogbia",
-          "position": "Defensive Midfield",
-          "dateOfBirth": "1993-02-15",
-          "nationality": "Central African Republic"
-        },
-        {
-          "id": 8093,
-          "name": "Pierre Emile Højbjerg",
-          "position": "Defensive Midfield",
-          "dateOfBirth": "1995-08-05",
-          "nationality": "Denmark"
-        },
-        {
-          "id": 7809,
-          "name": "Emerson",
-          "position": "Left-Back",
-          "dateOfBirth": "1994-08-03",
-          "nationality": "Italy"
-        },
-        {
-          "id": 7801,
-          "name": "Pierre-Emerick Aubameyang",
-          "position": "Centre-Forward",
-          "dateOfBirth": "1989-06-18",
-          "nationality": "Gabon"
-        },
-        {
-          "id": 3364,
-          "name": "Benjamin Pavard",
-          "position": "Centre-Back",
-          "dateOfBirth": "1996-03-28",
-          "nationality": "France"
-        },
-        {
-          "id": 2499,
-          "name": "Hamed Traoré",
-          "position": "Attacking Midfield",
-          "dateOfBirth": "2000-02-16",
-          "nationality": "Ivory Coast"
-        },
-        {
-          "id": 179721,
-          "name": "CJ Egan-Riley",
-          "position": "Centre-Back",
-          "dateOfBirth": "2003-01-02",
-          "nationality": "England"
-        },
-        {
-          "id": 170409,
-          "name": "Bilal Nadir",
-          "position": "Central Midfield",
-          "dateOfBirth": "2003-11-28",
-          "nationality": "France"
+          "id": 144651,
+          "name": "Faris Moumbagna",
+          "position": "Offence",
+          "dateOfBirth": "2000-07-01",
+          "nationality": "Cameroon"
         }
       ]
     },
@@ -30341,7 +31454,198 @@
       },
       "lastUpdated": "2022-02-19T08:51:11Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-26 22:42 UTC"
+      "_profileFetchedAt": "2026-07-27 22:44 UTC",
+      "squad": [
+        {
+          "id": 8608,
+          "name": "Yehvann Diouf",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1999-11-16",
+          "nationality": "Senegal"
+        },
+        {
+          "id": 147975,
+          "name": "Teddy Boulhendi",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2001-04-09",
+          "nationality": "France"
+        },
+        {
+          "id": 1023,
+          "name": "Jonathan Clauss",
+          "position": "Defence",
+          "dateOfBirth": "1992-09-25",
+          "nationality": "France"
+        },
+        {
+          "id": 99394,
+          "name": "Ali El Abdi",
+          "position": "Defence",
+          "dateOfBirth": "1993-12-20",
+          "nationality": "Tunisia"
+        },
+        {
+          "id": 136628,
+          "name": "Mattia Viti",
+          "position": "Defence",
+          "dateOfBirth": "2002-01-24",
+          "nationality": "Italy"
+        },
+        {
+          "id": 136721,
+          "name": "Melvin Bard",
+          "position": "Defence",
+          "dateOfBirth": "2000-11-06",
+          "nationality": "France"
+        },
+        {
+          "id": 168667,
+          "name": "Antoine Mendy",
+          "position": "Defence",
+          "dateOfBirth": "2004-05-27",
+          "nationality": "Senegal"
+        },
+        {
+          "id": 172057,
+          "name": "Youssouf Ndayishimiye",
+          "position": "Defence",
+          "dateOfBirth": "1998-10-27",
+          "nationality": "Burundi"
+        },
+        {
+          "id": 192153,
+          "name": "Moise Bombito",
+          "position": "Defence",
+          "dateOfBirth": "2000-03-30",
+          "nationality": "Canada"
+        },
+        {
+          "id": 202896,
+          "name": "Kojo Peprah Oppong",
+          "position": "Defence",
+          "dateOfBirth": "2004-06-04",
+          "nationality": "Ghana"
+        },
+        {
+          "id": 245563,
+          "name": "Mohamed Abdelmonem",
+          "position": "Defence",
+          "dateOfBirth": "1999-02-01",
+          "nationality": "Egypt"
+        },
+        {
+          "id": 282317,
+          "name": "Hamza Koutoune",
+          "position": "Defence",
+          "dateOfBirth": "2006-09-17",
+          "nationality": "Morocco"
+        },
+        {
+          "id": 566,
+          "name": "Laurent Abergel",
+          "position": "Midfield",
+          "dateOfBirth": "1993-02-01",
+          "nationality": "France"
+        },
+        {
+          "id": 8355,
+          "name": "Morgan Sanson",
+          "position": "Midfield",
+          "dateOfBirth": "1994-08-18",
+          "nationality": "France"
+        },
+        {
+          "id": 119630,
+          "name": "Everton",
+          "position": "Midfield",
+          "dateOfBirth": "1995-04-10",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 123206,
+          "name": "Salis Abdul Samed",
+          "position": "Midfield",
+          "dateOfBirth": "2000-03-26",
+          "nationality": "Ghana"
+        },
+        {
+          "id": 123508,
+          "name": "Hicham Boudaoui",
+          "position": "Midfield",
+          "dateOfBirth": "1999-09-23",
+          "nationality": "Algeria"
+        },
+        {
+          "id": 160330,
+          "name": "Rareş Ilie",
+          "position": "Midfield",
+          "dateOfBirth": "2003-04-19",
+          "nationality": "Romania"
+        },
+        {
+          "id": 204237,
+          "name": "Tom Louchet",
+          "position": "Midfield",
+          "dateOfBirth": "2003-05-04",
+          "nationality": "France"
+        },
+        {
+          "id": 245461,
+          "name": "Issiaga Camara",
+          "position": "Midfield",
+          "dateOfBirth": "2005-02-02",
+          "nationality": "Guinea"
+        },
+        {
+          "id": 273766,
+          "name": "Djibril Coulibaly",
+          "position": "Midfield",
+          "dateOfBirth": "2008-11-18",
+          "nationality": "France"
+        },
+        {
+          "id": 76723,
+          "name": "Sofiane Diop",
+          "position": "Offence",
+          "dateOfBirth": "2000-06-09",
+          "nationality": "France"
+        },
+        {
+          "id": 98601,
+          "name": "Isak Jansson",
+          "position": "Offence",
+          "dateOfBirth": "2002-01-31",
+          "nationality": "Sweden"
+        },
+        {
+          "id": 113427,
+          "name": "Terem Moffi",
+          "position": "Offence",
+          "dateOfBirth": "1999-05-25",
+          "nationality": "Nigeria"
+        },
+        {
+          "id": 149129,
+          "name": "Mohamed Ali Cho",
+          "position": "Offence",
+          "dateOfBirth": "2004-01-19",
+          "nationality": "France"
+        },
+        {
+          "id": 180180,
+          "name": "Kevin Carlos",
+          "position": "Offence",
+          "dateOfBirth": "2001-04-10",
+          "nationality": "Spain"
+        },
+        {
+          "id": 264399,
+          "name": "Victor Orakpo",
+          "position": "Offence",
+          "dateOfBirth": "2006-01-14",
+          "nationality": "Nigeria"
+        }
+      ]
     },
     {
       "area": {
@@ -30383,7 +31687,226 @@
       },
       "lastUpdated": "2024-07-29T17:19:54Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-26 22:42 UTC"
+      "_profileFetchedAt": "2026-07-27 22:44 UTC",
+      "squad": [
+        {
+          "id": 733,
+          "name": "Rémy Descamps",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1996-06-25",
+          "nationality": "France"
+        },
+        {
+          "id": 79776,
+          "name": "Dominik Greif",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1997-04-06",
+          "nationality": "Slovakia"
+        },
+        {
+          "id": 244704,
+          "name": "Justin Jose Bengui Joao",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2005-07-09",
+          "nationality": "France"
+        },
+        {
+          "id": 261256,
+          "name": "Lassine Diarra",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2002-11-11",
+          "nationality": "Mali"
+        },
+        {
+          "id": 3208,
+          "name": "Nicolás Tagliafico",
+          "position": "Defence",
+          "dateOfBirth": "1992-08-31",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 7792,
+          "name": "Ainsley Maitland-Niles",
+          "position": "Defence",
+          "dateOfBirth": "1997-08-29",
+          "nationality": "England"
+        },
+        {
+          "id": 8723,
+          "name": "Moussa Niakhaté",
+          "position": "Defence",
+          "dateOfBirth": "1996-03-08",
+          "nationality": "Senegal"
+        },
+        {
+          "id": 8977,
+          "name": "Clinton Mata",
+          "position": "Defence",
+          "dateOfBirth": "1992-11-07",
+          "nationality": "Angola"
+        },
+        {
+          "id": 10206,
+          "name": "Duje Ćaleta-Car",
+          "position": "Defence",
+          "dateOfBirth": "1996-09-17",
+          "nationality": "Croatia"
+        },
+        {
+          "id": 103142,
+          "name": "Abner",
+          "position": "Defence",
+          "dateOfBirth": "2000-05-27",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 137655,
+          "name": "Ruben Kluivert",
+          "position": "Defence",
+          "dateOfBirth": "2001-05-21",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 213754,
+          "name": "Mohamed Ouédraogo",
+          "position": "Defence",
+          "dateOfBirth": "2003-01-02",
+          "nationality": "Burkina Faso"
+        },
+        {
+          "id": 277933,
+          "name": "Noham Kamara",
+          "position": "Defence",
+          "dateOfBirth": "2007-01-22",
+          "nationality": "France"
+        },
+        {
+          "id": 366,
+          "name": "Corentin Tolisso",
+          "position": "Midfield",
+          "dateOfBirth": "1994-08-03",
+          "nationality": "France"
+        },
+        {
+          "id": 9398,
+          "name": "Orel Mangala",
+          "position": "Midfield",
+          "dateOfBirth": "1998-03-18",
+          "nationality": "Belgium"
+        },
+        {
+          "id": 81737,
+          "name": "Paul Akouokou",
+          "position": "Midfield",
+          "dateOfBirth": "1997-12-20",
+          "nationality": "Ivory Coast"
+        },
+        {
+          "id": 121312,
+          "name": "Pavel Šulc",
+          "position": "Midfield",
+          "dateOfBirth": "2000-12-29",
+          "nationality": "Czech Republic"
+        },
+        {
+          "id": 142456,
+          "name": "Tanner Tessmann",
+          "position": "Midfield",
+          "dateOfBirth": "2001-09-24",
+          "nationality": "USA"
+        },
+        {
+          "id": 160816,
+          "name": "Mads Bidstrup",
+          "position": "Midfield",
+          "dateOfBirth": "2001-02-25",
+          "nationality": "Denmark"
+        },
+        {
+          "id": 175845,
+          "name": "Tyler Morton",
+          "position": "Midfield",
+          "dateOfBirth": "2002-10-31",
+          "nationality": "England"
+        },
+        {
+          "id": 215864,
+          "name": "Noah Nartey",
+          "position": "Midfield",
+          "dateOfBirth": "2005-10-05",
+          "nationality": "Denmark"
+        },
+        {
+          "id": 221812,
+          "name": "Mahamadou Diawara",
+          "position": "Midfield",
+          "dateOfBirth": "2005-02-17",
+          "nationality": "France"
+        },
+        {
+          "id": 277733,
+          "name": "Mathys De Carvalho",
+          "position": "Midfield",
+          "dateOfBirth": "2005-05-01",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 281451,
+          "name": "Khalis Merah",
+          "position": "Midfield",
+          "dateOfBirth": "2007-02-24",
+          "nationality": "France"
+        },
+        {
+          "id": 182280,
+          "name": "Julien Duranville",
+          "position": "Offence",
+          "dateOfBirth": "2006-05-05",
+          "nationality": "Belgium"
+        },
+        {
+          "id": 184726,
+          "name": "Ernest Nuamah",
+          "position": "Offence",
+          "dateOfBirth": "2003-11-01",
+          "nationality": "Ghana"
+        },
+        {
+          "id": 187065,
+          "name": "Malick Fofana",
+          "position": "Offence",
+          "dateOfBirth": "2005-03-31",
+          "nationality": "Belgium"
+        },
+        {
+          "id": 245455,
+          "name": "Kaïl Boudache",
+          "position": "Offence",
+          "dateOfBirth": "2006-06-15",
+          "nationality": "France"
+        },
+        {
+          "id": 267821,
+          "name": "Alejandro Rodriguez",
+          "position": "Offence",
+          "dateOfBirth": "2008-03-11",
+          "nationality": "England"
+        },
+        {
+          "id": 267849,
+          "name": "Enzo Molébé",
+          "position": "Offence",
+          "dateOfBirth": "2007-09-18",
+          "nationality": "France"
+        },
+        {
+          "id": 281450,
+          "name": "Rémi Himbert",
+          "position": "Offence",
+          "dateOfBirth": "2008-02-29",
+          "nationality": "France"
+        }
+      ]
     },
     {
       "area": {
@@ -30438,7 +31961,7 @@
         }
       },
       "lastUpdated": "2022-02-10T19:07:11Z",
-      "_profileCompetitionCode": "CL",
+      "_profileCompetitionCode": "FL1",
       "_profileFetchedAt": "2026-07-26 22:44 UTC",
       "squad": [
         {
@@ -30454,34 +31977,6 @@
           "position": "Goalkeeper",
           "dateOfBirth": "2001-11-06",
           "nationality": "France"
-        },
-        {
-          "id": 245387,
-          "name": "Renato Marin",
-          "position": "Goalkeeper",
-          "dateOfBirth": "2006-07-10",
-          "nationality": "Italy"
-        },
-        {
-          "id": 289578,
-          "name": "Martin James",
-          "position": "Goalkeeper",
-          "dateOfBirth": "2008-02-14",
-          "nationality": "France"
-        },
-        {
-          "id": 290430,
-          "name": "Arthur Vignaud",
-          "position": "Goalkeeper",
-          "dateOfBirth": "2008-01-21",
-          "nationality": "France"
-        },
-        {
-          "id": 295076,
-          "name": "Bilal Laurendon",
-          "position": "Goalkeeper",
-          "dateOfBirth": "2006-02-15",
-          "nationality": "Morocco"
         },
         {
           "id": 53,
@@ -30512,6 +32007,13 @@
           "nationality": "Ecuador"
         },
         {
+          "id": 143573,
+          "name": "Illia Zabarnyi",
+          "position": "Defence",
+          "dateOfBirth": "2002-09-01",
+          "nationality": "Ukraine"
+        },
+        {
           "id": 144570,
           "name": "Nuno Mendes",
           "position": "Defence",
@@ -30519,32 +32021,25 @@
           "nationality": "Portugal"
         },
         {
-          "id": 289216,
-          "name": "David Boly",
+          "id": 169204,
+          "name": "Lucas Beraldo",
           "position": "Defence",
-          "dateOfBirth": "2009-01-22",
+          "dateOfBirth": "2003-11-24",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 246711,
+          "name": "Yoram Zague",
+          "position": "Defence",
+          "dateOfBirth": "2006-05-15",
           "nationality": "France"
         },
         {
-          "id": 295073,
-          "name": "Samba Coulibaly",
+          "id": 270300,
+          "name": "Naoufel El Hannach",
           "position": "Defence",
-          "dateOfBirth": "2008-04-04",
-          "nationality": "France"
-        },
-        {
-          "id": 295074,
-          "name": "Thomas Cordier",
-          "position": "Defence",
-          "dateOfBirth": "2006-03-13",
-          "nationality": "France"
-        },
-        {
-          "id": 295355,
-          "name": "Dimitri Lucea",
-          "position": "Defence",
-          "dateOfBirth": "2007-01-20",
-          "nationality": "France"
+          "dateOfBirth": "2006-12-07",
+          "nationality": "Morocco"
         },
         {
           "id": 22,
@@ -30554,11 +32049,11 @@
           "nationality": "Spain"
         },
         {
-          "id": 177522,
-          "name": "Desire Doue",
+          "id": 7988,
+          "name": "Renato Sanches",
           "position": "Midfield",
-          "dateOfBirth": "2005-06-03",
-          "nationality": "France"
+          "dateOfBirth": "1997-08-18",
+          "nationality": "Portugal"
         },
         {
           "id": 178722,
@@ -30582,18 +32077,11 @@
           "nationality": "Portugal"
         },
         {
-          "id": 213217,
-          "name": "Kang-in Lee",
+          "id": 246066,
+          "name": "Senny Mayulu",
           "position": "Midfield",
-          "dateOfBirth": "2001-02-19",
-          "nationality": "South Korea"
-        },
-        {
-          "id": 278378,
-          "name": "Wassim Slama",
-          "position": "Midfield",
-          "dateOfBirth": "2008-09-26",
-          "nationality": "Tunisia"
+          "dateOfBirth": "2006-05-17",
+          "nationality": "France"
         },
         {
           "id": 283413,
@@ -30603,27 +32091,6 @@
           "nationality": "Spain"
         },
         {
-          "id": 286944,
-          "name": "Yanis Khafi",
-          "position": "Midfield",
-          "dateOfBirth": "2006-04-23",
-          "nationality": "France"
-        },
-        {
-          "id": 286945,
-          "name": "Mathis Jangeal",
-          "position": "Midfield",
-          "dateOfBirth": "2008-06-24",
-          "nationality": "France"
-        },
-        {
-          "id": 290082,
-          "name": "Noah Nsoki",
-          "position": "Midfield",
-          "dateOfBirth": "2007-02-20",
-          "nationality": "France"
-        },
-        {
           "id": 3373,
           "name": "Ousmane Dembélé",
           "position": "Offence",
@@ -30631,17 +32098,31 @@
           "nationality": "France"
         },
         {
-          "id": 101431,
-          "name": "Gonçalo Ramos",
+          "id": 8708,
+          "name": "Randal Kolo Muani",
           "position": "Offence",
-          "dateOfBirth": "2001-06-20",
-          "nationality": "Portugal"
+          "dateOfBirth": "1998-12-05",
+          "nationality": "France"
+        },
+        {
+          "id": 113285,
+          "name": "Khvicha Kvaratskhelia",
+          "position": "Offence",
+          "dateOfBirth": "2001-02-12",
+          "nationality": "Georgia"
         },
         {
           "id": 172762,
           "name": "Bradley Barcola",
           "position": "Offence",
           "dateOfBirth": "2002-09-02",
+          "nationality": "France"
+        },
+        {
+          "id": 177522,
+          "name": "Desire Doue",
+          "position": "Offence",
+          "dateOfBirth": "2005-06-03",
           "nationality": "France"
         },
         {
@@ -30656,41 +32137,6 @@
           "name": "Quentin Ndjantou",
           "position": "Offence",
           "dateOfBirth": "2007-07-23",
-          "nationality": "France"
-        },
-        {
-          "id": 295077,
-          "name": "Pierre Mounguengue",
-          "position": "Offence",
-          "dateOfBirth": "2008-01-03",
-          "nationality": "France"
-        },
-        {
-          "id": 169204,
-          "name": "Lucas Beraldo",
-          "position": "Centre-Back",
-          "dateOfBirth": "2003-11-24",
-          "nationality": "Brazil"
-        },
-        {
-          "id": 143573,
-          "name": "Illia Zabarnyi",
-          "position": "Centre-Back",
-          "dateOfBirth": "2002-09-01",
-          "nationality": "Ukraine"
-        },
-        {
-          "id": 113285,
-          "name": "Khvicha Kvaratskhelia",
-          "position": "Left Winger",
-          "dateOfBirth": "2001-02-12",
-          "nationality": "Georgia"
-        },
-        {
-          "id": 246066,
-          "name": "Senny Mayulu",
-          "position": "Central Midfield",
-          "dateOfBirth": "2006-05-17",
           "nationality": "France"
         }
       ]
@@ -30735,7 +32181,205 @@
       },
       "lastUpdated": "2022-06-19T00:04:35Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-26 22:43 UTC"
+      "_profileFetchedAt": "2026-07-26 22:43 UTC",
+      "squad": [
+        {
+          "id": 3175,
+          "name": "Kevin Trapp",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1990-07-08",
+          "nationality": "Germany"
+        },
+        {
+          "id": 138022,
+          "name": "Obed Nkambadio",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2003-02-07",
+          "nationality": "France"
+        },
+        {
+          "id": 8808,
+          "name": "Hamari Traoré",
+          "position": "Defence",
+          "dateOfBirth": "1992-01-27",
+          "nationality": "Mali"
+        },
+        {
+          "id": 8900,
+          "name": "Thibault De Smet",
+          "position": "Defence",
+          "dateOfBirth": "1998-06-05",
+          "nationality": "Belgium"
+        },
+        {
+          "id": 94034,
+          "name": "Tuomas Ollila",
+          "position": "Defence",
+          "dateOfBirth": "2000-04-24",
+          "nationality": "Finland"
+        },
+        {
+          "id": 116150,
+          "name": "Samir Chergui",
+          "position": "Defence",
+          "dateOfBirth": "1999-02-06",
+          "nationality": "Algeria"
+        },
+        {
+          "id": 151363,
+          "name": "Otavio Ataide",
+          "position": "Defence",
+          "dateOfBirth": "2002-04-21",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 169339,
+          "name": "Mamadou Mbow",
+          "position": "Defence",
+          "dateOfBirth": "2000-03-08",
+          "nationality": "Senegal"
+        },
+        {
+          "id": 171012,
+          "name": "Yoan Kore",
+          "position": "Defence",
+          "dateOfBirth": "2004-11-16",
+          "nationality": "France"
+        },
+        {
+          "id": 176720,
+          "name": "Diego Coppola",
+          "position": "Defence",
+          "dateOfBirth": "2003-12-28",
+          "nationality": "Italy"
+        },
+        {
+          "id": 192249,
+          "name": "Mathys Tourraine",
+          "position": "Defence",
+          "dateOfBirth": "2001-01-14",
+          "nationality": "Morocco"
+        },
+        {
+          "id": 245430,
+          "name": "Nhoa Sangui",
+          "position": "Defence",
+          "dateOfBirth": "2006-02-27",
+          "nationality": "France"
+        },
+        {
+          "id": 565,
+          "name": "Vincent Marchetti",
+          "position": "Midfield",
+          "dateOfBirth": "1997-07-04",
+          "nationality": "France"
+        },
+        {
+          "id": 8352,
+          "name": "Maxime López",
+          "position": "Midfield",
+          "dateOfBirth": "1997-12-04",
+          "nationality": "France"
+        },
+        {
+          "id": 8439,
+          "name": "Pierre Lees Melou",
+          "position": "Midfield",
+          "dateOfBirth": "1993-05-25",
+          "nationality": "France"
+        },
+        {
+          "id": 129221,
+          "name": "Adama Camara",
+          "position": "Midfield",
+          "dateOfBirth": "1996-10-18",
+          "nationality": "France"
+        },
+        {
+          "id": 274112,
+          "name": "Patrick Zabi",
+          "position": "Midfield",
+          "dateOfBirth": "2006-09-24",
+          "nationality": "Ivory Coast"
+        },
+        {
+          "id": 277673,
+          "name": "Rudy Matondo",
+          "position": "Midfield",
+          "dateOfBirth": "2008-03-13",
+          "nationality": "France"
+        },
+        {
+          "id": 552,
+          "name": "Lassine Sinayoko",
+          "position": "Offence",
+          "dateOfBirth": "1999-12-08",
+          "nationality": "Mali"
+        },
+        {
+          "id": 638,
+          "name": "Alimami Gory",
+          "position": "Offence",
+          "dateOfBirth": "1996-08-30",
+          "nationality": "France"
+        },
+        {
+          "id": 2076,
+          "name": "Ciro Immobile",
+          "position": "Offence",
+          "dateOfBirth": "1990-02-20",
+          "nationality": "Italy"
+        },
+        {
+          "id": 3398,
+          "name": "Moses Simon",
+          "position": "Offence",
+          "dateOfBirth": "1995-07-12",
+          "nationality": "Nigeria"
+        },
+        {
+          "id": 8381,
+          "name": "Jonathan Ikoné",
+          "position": "Offence",
+          "dateOfBirth": "1998-05-02",
+          "nationality": "France"
+        },
+        {
+          "id": 8475,
+          "name": "Willem Geubbels",
+          "position": "Offence",
+          "dateOfBirth": "2001-08-16",
+          "nationality": "France"
+        },
+        {
+          "id": 106896,
+          "name": "Jean-Philippe Krasso",
+          "position": "Offence",
+          "dateOfBirth": "1997-07-17",
+          "nationality": "Ivory Coast"
+        },
+        {
+          "id": 108520,
+          "name": "Ilan Kebbal",
+          "position": "Offence",
+          "dateOfBirth": "1998-07-10",
+          "nationality": "Algeria"
+        },
+        {
+          "id": 177248,
+          "name": "Pablo Pagis",
+          "position": "Offence",
+          "dateOfBirth": "2002-12-29",
+          "nationality": "France"
+        },
+        {
+          "id": 219655,
+          "name": "Omar Sissoko",
+          "position": "Offence",
+          "dateOfBirth": "2006-08-18",
+          "nationality": "France"
+        }
+      ]
     },
     {
       "area": {
@@ -30784,7 +32428,226 @@
       },
       "lastUpdated": "2026-01-19T12:05:38Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-26 22:43 UTC"
+      "_profileFetchedAt": "2026-07-26 22:43 UTC",
+      "squad": [
+        {
+          "id": 8391,
+          "name": "Hervé Koffi",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1996-10-16",
+          "nationality": "Burkina Faso"
+        },
+        {
+          "id": 8449,
+          "name": "Mathieu Gorgelin",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1990-08-05",
+          "nationality": "France"
+        },
+        {
+          "id": 8579,
+          "name": "Régis Gurtner",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1986-12-08",
+          "nationality": "France"
+        },
+        {
+          "id": 188389,
+          "name": "Robin Risser",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2004-12-02",
+          "nationality": "France"
+        },
+        {
+          "id": 278383,
+          "name": "Ilan Jourdren",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2008-07-17",
+          "nationality": "France"
+        },
+        {
+          "id": 735,
+          "name": "Jonathan Gradit",
+          "position": "Defence",
+          "dateOfBirth": "1992-11-24",
+          "nationality": "France"
+        },
+        {
+          "id": 8372,
+          "name": "Ruben Aguilar",
+          "position": "Defence",
+          "dateOfBirth": "1993-04-26",
+          "nationality": "France"
+        },
+        {
+          "id": 8717,
+          "name": "Matthieu Udol",
+          "position": "Defence",
+          "dateOfBirth": "1996-03-20",
+          "nationality": "France"
+        },
+        {
+          "id": 124469,
+          "name": "Maik Nawrocki",
+          "position": "Defence",
+          "dateOfBirth": "2001-02-07",
+          "nationality": "Poland"
+        },
+        {
+          "id": 129098,
+          "name": "Saud Abdulhamid",
+          "position": "Defence",
+          "dateOfBirth": "1999-07-18",
+          "nationality": "Saudi Arabia"
+        },
+        {
+          "id": 169041,
+          "name": "Jhoanner Chavez",
+          "position": "Defence",
+          "dateOfBirth": "2002-04-25",
+          "nationality": "Ecuador"
+        },
+        {
+          "id": 188148,
+          "name": "Samson Baidoo",
+          "position": "Defence",
+          "dateOfBirth": "2004-03-31",
+          "nationality": "Austria"
+        },
+        {
+          "id": 188468,
+          "name": "Pierre Ganiou",
+          "position": "Defence",
+          "dateOfBirth": "2005-03-14",
+          "nationality": "France"
+        },
+        {
+          "id": 216398,
+          "name": "Nidal Čelik",
+          "position": "Defence",
+          "dateOfBirth": "2006-07-17",
+          "nationality": "Bosnia-Herzegovina"
+        },
+        {
+          "id": 270890,
+          "name": "Kyllian Antonio",
+          "position": "Defence",
+          "dateOfBirth": "2008-01-04",
+          "nationality": "France"
+        },
+        {
+          "id": 276665,
+          "name": "Souleymane Sagnan",
+          "position": "Defence",
+          "dateOfBirth": "2006-05-06",
+          "nationality": "Mali"
+        },
+        {
+          "id": 3655,
+          "name": "Thorgan Hazard",
+          "position": "Midfield",
+          "dateOfBirth": "1993-03-29",
+          "nationality": "Belgium"
+        },
+        {
+          "id": 6688,
+          "name": "Mickaël Cuisance",
+          "position": "Midfield",
+          "dateOfBirth": "1999-08-16",
+          "nationality": "France"
+        },
+        {
+          "id": 15704,
+          "name": "Amadou Haïdara",
+          "position": "Midfield",
+          "dateOfBirth": "1998-01-31",
+          "nationality": "Mali"
+        },
+        {
+          "id": 150964,
+          "name": "Mamadou Sangare",
+          "position": "Midfield",
+          "dateOfBirth": "2002-06-26",
+          "nationality": "Mali"
+        },
+        {
+          "id": 244936,
+          "name": "Alpha Diallo",
+          "position": "Midfield",
+          "dateOfBirth": "2006-02-25",
+          "nationality": "France"
+        },
+        {
+          "id": 268900,
+          "name": "Andrija Bulatović",
+          "position": "Midfield",
+          "dateOfBirth": "2006-12-27",
+          "nationality": "Montenegro"
+        },
+        {
+          "id": 3370,
+          "name": "Florian Thauvin",
+          "position": "Offence",
+          "dateOfBirth": "1993-01-26",
+          "nationality": "France"
+        },
+        {
+          "id": 16077,
+          "name": "Odsonne Edouard",
+          "position": "Offence",
+          "dateOfBirth": "1998-01-16",
+          "nationality": "France"
+        },
+        {
+          "id": 64837,
+          "name": "Florian Sotoca",
+          "position": "Offence",
+          "dateOfBirth": "1990-10-25",
+          "nationality": "France"
+        },
+        {
+          "id": 99985,
+          "name": "Michał Skóraś",
+          "position": "Offence",
+          "dateOfBirth": "2000-02-15",
+          "nationality": "Poland"
+        },
+        {
+          "id": 151264,
+          "name": "Abdallah Sima",
+          "position": "Offence",
+          "dateOfBirth": "2001-06-17",
+          "nationality": "Senegal"
+        },
+        {
+          "id": 204240,
+          "name": "Rémy Labeau Lascary",
+          "position": "Offence",
+          "dateOfBirth": "2003-03-03",
+          "nationality": "Guadeloupe"
+        },
+        {
+          "id": 273952,
+          "name": "Gabin Capuano",
+          "position": "Offence",
+          "dateOfBirth": "2006-04-26",
+          "nationality": "France"
+        },
+        {
+          "id": 276430,
+          "name": "Rayan Fofana",
+          "position": "Offence",
+          "dateOfBirth": "2006-02-12",
+          "nationality": "France"
+        },
+        {
+          "id": 290657,
+          "name": "Erawan Garnier",
+          "position": "Offence",
+          "dateOfBirth": "2006-01-05",
+          "nationality": "Thailand"
+        }
+      ]
     },
     {
       "area": {
@@ -30826,7 +32689,240 @@
       },
       "lastUpdated": "2022-03-20T11:21:26Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-26 22:43 UTC"
+      "_profileFetchedAt": "2026-07-26 22:43 UTC",
+      "squad": [
+        {
+          "id": 802,
+          "name": "Nicolas Lemaître",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1997-01-12",
+          "nationality": "France"
+        },
+        {
+          "id": 8316,
+          "name": "Brice Samba",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1994-04-25",
+          "nationality": "France"
+        },
+        {
+          "id": 288619,
+          "name": "Kilian Belazzoug",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2006-07-18",
+          "nationality": "France"
+        },
+        {
+          "id": 3540,
+          "name": "Przemysław Frankowski",
+          "position": "Defence",
+          "dateOfBirth": "1995-04-12",
+          "nationality": "Poland"
+        },
+        {
+          "id": 83868,
+          "name": "Bryan Reynolds",
+          "position": "Defence",
+          "dateOfBirth": "2001-06-28",
+          "nationality": "USA"
+        },
+        {
+          "id": 123200,
+          "name": "Lilian Brassier",
+          "position": "Defence",
+          "dateOfBirth": "1999-11-02",
+          "nationality": "France"
+        },
+        {
+          "id": 147893,
+          "name": "Alidu Seidu",
+          "position": "Defence",
+          "dateOfBirth": "2000-06-04",
+          "nationality": "Ghana"
+        },
+        {
+          "id": 150751,
+          "name": "Anthony Rouault",
+          "position": "Defence",
+          "dateOfBirth": "2001-05-29",
+          "nationality": "France"
+        },
+        {
+          "id": 160410,
+          "name": "Quentin Merlin",
+          "position": "Defence",
+          "dateOfBirth": "2002-05-16",
+          "nationality": "France"
+        },
+        {
+          "id": 227004,
+          "name": "Mahamadou Nagida",
+          "position": "Defence",
+          "dateOfBirth": "2005-06-28",
+          "nationality": "Cameroon"
+        },
+        {
+          "id": 250296,
+          "name": "Rayan Bamba",
+          "position": "Defence",
+          "dateOfBirth": "2004-05-14",
+          "nationality": "France"
+        },
+        {
+          "id": 262856,
+          "name": "Gonçalo Oliveira",
+          "position": "Defence",
+          "dateOfBirth": "2006-07-04",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 272594,
+          "name": "Abdelhamid Ait Boudlal",
+          "position": "Defence",
+          "dateOfBirth": "2006-04-16",
+          "nationality": "Morocco"
+        },
+        {
+          "id": 280447,
+          "name": "Jonathan Do Marcolino",
+          "position": "Defence",
+          "dateOfBirth": "2006-05-10",
+          "nationality": "France"
+        },
+        {
+          "id": 2126,
+          "name": "Seko Fofana",
+          "position": "Midfield",
+          "dateOfBirth": "1995-05-07",
+          "nationality": "Ivory Coast"
+        },
+        {
+          "id": 8542,
+          "name": "Mahdi Camara",
+          "position": "Midfield",
+          "dateOfBirth": "1998-06-30",
+          "nationality": "France"
+        },
+        {
+          "id": 8695,
+          "name": "Valentin Rongier",
+          "position": "Midfield",
+          "dateOfBirth": "1994-12-07",
+          "nationality": "France"
+        },
+        {
+          "id": 8706,
+          "name": "Adrien Thomasson",
+          "position": "Midfield",
+          "dateOfBirth": "1993-12-10",
+          "nationality": "France"
+        },
+        {
+          "id": 10201,
+          "name": "Sebastian Szymański",
+          "position": "Midfield",
+          "dateOfBirth": "1999-05-10",
+          "nationality": "Poland"
+        },
+        {
+          "id": 34522,
+          "name": "Glen Kamara",
+          "position": "Midfield",
+          "dateOfBirth": "1995-10-28",
+          "nationality": "Finland"
+        },
+        {
+          "id": 96869,
+          "name": "Ludovic Blas",
+          "position": "Midfield",
+          "dateOfBirth": "1997-12-31",
+          "nationality": "France"
+        },
+        {
+          "id": 175979,
+          "name": "Jordan James",
+          "position": "Midfield",
+          "dateOfBirth": "2004-07-02",
+          "nationality": "Wales"
+        },
+        {
+          "id": 212872,
+          "name": "Ayanda Sishuba",
+          "position": "Midfield",
+          "dateOfBirth": "2005-02-02",
+          "nationality": "Belgium"
+        },
+        {
+          "id": 246322,
+          "name": "Djaoui Cissé",
+          "position": "Midfield",
+          "dateOfBirth": "2004-01-31",
+          "nationality": "France"
+        },
+        {
+          "id": 575,
+          "name": "Arnaud Nordin",
+          "position": "Offence",
+          "dateOfBirth": "1998-06-17",
+          "nationality": "France"
+        },
+        {
+          "id": 3483,
+          "name": "Breel Embolo",
+          "position": "Offence",
+          "dateOfBirth": "1997-02-14",
+          "nationality": "Switzerland"
+        },
+        {
+          "id": 98763,
+          "name": "Musa Al Taamari",
+          "position": "Offence",
+          "dateOfBirth": "1997-06-10",
+          "nationality": "Jordan"
+        },
+        {
+          "id": 149850,
+          "name": "Esteban Lepaul",
+          "position": "Offence",
+          "dateOfBirth": "2000-04-18",
+          "nationality": "France"
+        },
+        {
+          "id": 177648,
+          "name": "Issa Soumaré",
+          "position": "Offence",
+          "dateOfBirth": "2022-06-30",
+          "nationality": "Senegal"
+        },
+        {
+          "id": 178644,
+          "name": "Eliezer Mayenda",
+          "position": "Offence",
+          "dateOfBirth": "2005-05-08",
+          "nationality": "Spain"
+        },
+        {
+          "id": 265516,
+          "name": "Yassir Zabiri",
+          "position": "Offence",
+          "dateOfBirth": "2005-02-23",
+          "nationality": "Morocco"
+        },
+        {
+          "id": 285238,
+          "name": "Nordan Mukiele",
+          "position": "Offence",
+          "dateOfBirth": "2006-02-12",
+          "nationality": "France"
+        },
+        {
+          "id": 289597,
+          "name": "Elias Legendre Quiñonez",
+          "position": "Offence",
+          "dateOfBirth": "2008-04-22",
+          "nationality": "Ecuador"
+        }
+      ]
     },
     {
       "area": {
@@ -30868,7 +32964,247 @@
       },
       "lastUpdated": "2022-02-19T08:40:46Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-26 22:43 UTC"
+      "_profileFetchedAt": "2026-07-26 22:43 UTC",
+      "squad": [
+        {
+          "id": 261900,
+          "name": "Miłosz Piekutowski",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2006-05-08",
+          "nationality": "Poland"
+        },
+        {
+          "id": 8065,
+          "name": "Ben Chilwell",
+          "position": "Defence",
+          "dateOfBirth": "1996-12-21",
+          "nationality": "England"
+        },
+        {
+          "id": 147878,
+          "name": "Ismaël Doukouré",
+          "position": "Defence",
+          "dateOfBirth": "2003-07-24",
+          "nationality": "France"
+        },
+        {
+          "id": 149127,
+          "name": "Saïdou Sow",
+          "position": "Defence",
+          "dateOfBirth": "2002-07-04",
+          "nationality": "Guinea"
+        },
+        {
+          "id": 149920,
+          "name": "Andrew Omobamidele",
+          "position": "Defence",
+          "dateOfBirth": "2002-06-23",
+          "nationality": "Ireland"
+        },
+        {
+          "id": 170075,
+          "name": "Soumaïla Coulibaly",
+          "position": "Defence",
+          "dateOfBirth": "2003-10-14",
+          "nationality": "France"
+        },
+        {
+          "id": 182297,
+          "name": "Abakar Sylla",
+          "position": "Defence",
+          "dateOfBirth": "2002-12-25",
+          "nationality": "Ivory Coast"
+        },
+        {
+          "id": 183532,
+          "name": "Mateo Del Blanco",
+          "position": "Defence",
+          "dateOfBirth": "2003-10-31",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 191179,
+          "name": "Guéla Doué",
+          "position": "Defence",
+          "dateOfBirth": "2025-06-30",
+          "nationality": "Cote d'Ivoire"
+        },
+        {
+          "id": 204280,
+          "name": "Yoni Gomis",
+          "position": "Defence",
+          "dateOfBirth": "2005-09-23",
+          "nationality": "France"
+        },
+        {
+          "id": 205551,
+          "name": "Lucas Høgsberg",
+          "position": "Defence",
+          "dateOfBirth": "2006-06-23",
+          "nationality": "Denmark"
+        },
+        {
+          "id": 270889,
+          "name": "Abdoul Ouattara",
+          "position": "Defence",
+          "dateOfBirth": "2005-10-22",
+          "nationality": "Ivory Coast"
+        },
+        {
+          "id": 168949,
+          "name": "Julio Enciso",
+          "position": "Midfield",
+          "dateOfBirth": "2004-01-23",
+          "nationality": "Paraguay"
+        },
+        {
+          "id": 170261,
+          "name": "Valentin Barco",
+          "position": "Midfield",
+          "dateOfBirth": "2004-07-23",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 182091,
+          "name": "Junior Mwanga",
+          "position": "Midfield",
+          "dateOfBirth": "2003-05-11",
+          "nationality": "France"
+        },
+        {
+          "id": 182192,
+          "name": "Diego Moreira",
+          "position": "Midfield",
+          "dateOfBirth": "2004-08-06",
+          "nationality": "Belgium"
+        },
+        {
+          "id": 192686,
+          "name": "Pape Diop",
+          "position": "Midfield",
+          "dateOfBirth": "2003-09-04",
+          "nationality": "Senegal"
+        },
+        {
+          "id": 210644,
+          "name": "Maximillian Oyedele",
+          "position": "Midfield",
+          "dateOfBirth": "2004-11-07",
+          "nationality": "Poland"
+        },
+        {
+          "id": 244750,
+          "name": "Mathis Amougou",
+          "position": "Midfield",
+          "dateOfBirth": "2006-01-18",
+          "nationality": "France"
+        },
+        {
+          "id": 244929,
+          "name": "Samir El Mourabet",
+          "position": "Midfield",
+          "dateOfBirth": "2005-10-06",
+          "nationality": "Morocco"
+        },
+        {
+          "id": 246704,
+          "name": "Rabby Nzingoula",
+          "position": "Midfield",
+          "dateOfBirth": "2005-11-25",
+          "nationality": "France"
+        },
+        {
+          "id": 247065,
+          "name": "Benjamin Brantlind",
+          "position": "Midfield",
+          "dateOfBirth": "2008-08-15",
+          "nationality": "Sweden"
+        },
+        {
+          "id": 261041,
+          "name": "Pape Diong",
+          "position": "Midfield",
+          "dateOfBirth": "2006-06-15",
+          "nationality": "Senegal"
+        },
+        {
+          "id": 262361,
+          "name": "Diogo Lobão",
+          "position": "Midfield",
+          "dateOfBirth": "2006-01-20",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 144643,
+          "name": "Sebastian Nanasi",
+          "position": "Offence",
+          "dateOfBirth": "2002-05-16",
+          "nationality": "Sweden"
+        },
+        {
+          "id": 151552,
+          "name": "Sekou Mara",
+          "position": "Offence",
+          "dateOfBirth": "2002-07-30",
+          "nationality": "France"
+        },
+        {
+          "id": 182441,
+          "name": "Oscar Perea",
+          "position": "Offence",
+          "dateOfBirth": "2005-09-27",
+          "nationality": "Colombia"
+        },
+        {
+          "id": 203561,
+          "name": "Joaquín Panichelli",
+          "position": "Offence",
+          "dateOfBirth": "2002-10-07",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 204426,
+          "name": "Martial Godo",
+          "position": "Offence",
+          "dateOfBirth": "2003-03-14",
+          "nationality": "England"
+        },
+        {
+          "id": 206809,
+          "name": "Samuel Amo-Ameyaw",
+          "position": "Offence",
+          "dateOfBirth": "2006-07-18",
+          "nationality": "England"
+        },
+        {
+          "id": 245336,
+          "name": "Gessime Yassine",
+          "position": "Offence",
+          "dateOfBirth": "2005-11-22",
+          "nationality": "France"
+        },
+        {
+          "id": 246110,
+          "name": "Milos Lukovic",
+          "position": "Offence",
+          "dateOfBirth": "2005-11-18",
+          "nationality": "Serbia"
+        },
+        {
+          "id": 271961,
+          "name": "Rayane Messi",
+          "position": "Offence",
+          "dateOfBirth": "2007-05-23",
+          "nationality": "France"
+        },
+        {
+          "id": 295113,
+          "name": "Yaya Diemé",
+          "position": "Offence",
+          "dateOfBirth": "2007-10-16",
+          "nationality": "Senegal"
+        }
+      ]
     },
     {
       "area": {
@@ -30910,7 +33246,156 @@
       },
       "lastUpdated": "2026-07-04T12:07:20Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-26 22:42 UTC"
+      "_profileFetchedAt": "2026-07-27 22:43 UTC",
+      "squad": [
+        {
+          "id": 178669,
+          "name": "Guillaume Restes",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2005-03-11",
+          "nationality": "France"
+        },
+        {
+          "id": 274174,
+          "name": "Mathys Niflore",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2007-03-02",
+          "nationality": "France"
+        },
+        {
+          "id": 24190,
+          "name": "Rasmus Nicolaisen",
+          "position": "Defence",
+          "dateOfBirth": "1997-03-16",
+          "nationality": "Denmark"
+        },
+        {
+          "id": 77803,
+          "name": "Mark McKenzie",
+          "position": "Defence",
+          "dateOfBirth": "1999-02-25",
+          "nationality": "USA"
+        },
+        {
+          "id": 150797,
+          "name": "Charlie Cresswell",
+          "position": "Defence",
+          "dateOfBirth": "2002-08-17",
+          "nationality": "England"
+        },
+        {
+          "id": 204253,
+          "name": "Ilyes Aradj",
+          "position": "Defence",
+          "dateOfBirth": "2005-06-05",
+          "nationality": "France"
+        },
+        {
+          "id": 250994,
+          "name": "Rafik Messali",
+          "position": "Defence",
+          "dateOfBirth": "2003-04-28",
+          "nationality": "Algeria"
+        },
+        {
+          "id": 264401,
+          "name": "Dayann Methalie",
+          "position": "Defence",
+          "dateOfBirth": "2006-02-15",
+          "nationality": "France"
+        },
+        {
+          "id": 283252,
+          "name": "Seny Koumbassa",
+          "position": "Defence",
+          "dateOfBirth": "2007-06-20",
+          "nationality": "France"
+        },
+        {
+          "id": 9455,
+          "name": "Niklas Schmidt",
+          "position": "Midfield",
+          "dateOfBirth": "1998-03-01",
+          "nationality": "Germany"
+        },
+        {
+          "id": 81229,
+          "name": "Cristian Cásseres Jr.",
+          "position": "Midfield",
+          "dateOfBirth": "2000-01-20",
+          "nationality": "Venezuela"
+        },
+        {
+          "id": 121896,
+          "name": "Francis Abu",
+          "position": "Midfield",
+          "dateOfBirth": "2001-04-27",
+          "nationality": "Ghana"
+        },
+        {
+          "id": 192688,
+          "name": "Aron Dönnum",
+          "position": "Midfield",
+          "dateOfBirth": "1998-04-20",
+          "nationality": "Norway"
+        },
+        {
+          "id": 216718,
+          "name": "Mário Sauer",
+          "position": "Midfield",
+          "dateOfBirth": "2004-05-15",
+          "nationality": "Slovakia"
+        },
+        {
+          "id": 260272,
+          "name": "Mathis Saka",
+          "position": "Midfield",
+          "dateOfBirth": "2006-09-20",
+          "nationality": "France"
+        },
+        {
+          "id": 283443,
+          "name": "Alexis Vossah",
+          "position": "Midfield",
+          "dateOfBirth": "2008-03-11",
+          "nationality": "France"
+        },
+        {
+          "id": 80175,
+          "name": "Yann Gboho",
+          "position": "Offence",
+          "dateOfBirth": "2001-01-14",
+          "nationality": "France"
+        },
+        {
+          "id": 182406,
+          "name": "Jacen Russell-Rowe",
+          "position": "Offence",
+          "dateOfBirth": "2002-09-13",
+          "nationality": "Canada"
+        },
+        {
+          "id": 191371,
+          "name": "Santiago Hidalgo",
+          "position": "Offence",
+          "dateOfBirth": "2005-02-17",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 283251,
+          "name": "Enzo Faty",
+          "position": "Offence",
+          "dateOfBirth": "2007-03-09",
+          "nationality": "France"
+        },
+        {
+          "id": 285243,
+          "name": "Julián Vignolo",
+          "position": "Offence",
+          "dateOfBirth": "2006-12-07",
+          "nationality": "Argentina"
+        }
+      ]
     },
     {
       "area": {
@@ -30952,7 +33437,177 @@
       },
       "lastUpdated": "2024-07-29T17:20:22Z",
       "_profileCompetitionCode": "FL1",
-      "_profileFetchedAt": "2026-07-26 22:43 UTC"
+      "_profileFetchedAt": "2026-07-26 22:43 UTC",
+      "squad": [
+        {
+          "id": 522,
+          "name": "Zacharie Boucher",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1992-03-07",
+          "nationality": "France"
+        },
+        {
+          "id": 74515,
+          "name": "Hillel Konaté",
+          "position": "Goalkeeper",
+          "dateOfBirth": "1994-12-28",
+          "nationality": "Burkina Faso"
+        },
+        {
+          "id": 177427,
+          "name": "Patrick Beach",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2003-08-06",
+          "nationality": "Australia"
+        },
+        {
+          "id": 906,
+          "name": "Adrien Monfray",
+          "position": "Defence",
+          "dateOfBirth": "1990-12-20",
+          "nationality": "France"
+        },
+        {
+          "id": 99282,
+          "name": "Paolo Gozzi Iweru",
+          "position": "Defence",
+          "dateOfBirth": "2001-04-25",
+          "nationality": "Italy"
+        },
+        {
+          "id": 147927,
+          "name": "Ismaëlben Boura",
+          "position": "Defence",
+          "dateOfBirth": "2000-08-14",
+          "nationality": "Comoros"
+        },
+        {
+          "id": 170627,
+          "name": "Thierno Baldé",
+          "position": "Defence",
+          "dateOfBirth": "2002-06-10",
+          "nationality": "France"
+        },
+        {
+          "id": 178696,
+          "name": "Lucas Maronnier",
+          "position": "Defence",
+          "dateOfBirth": "2000-03-09",
+          "nationality": "France"
+        },
+        {
+          "id": 187530,
+          "name": "Michel Diaz",
+          "position": "Defence",
+          "dateOfBirth": "2003-07-23",
+          "nationality": "France"
+        },
+        {
+          "id": 218406,
+          "name": "Yvann Titi",
+          "position": "Defence",
+          "dateOfBirth": "2006-05-05",
+          "nationality": "France"
+        },
+        {
+          "id": 264215,
+          "name": "Sankhoun Diawara",
+          "position": "Defence",
+          "dateOfBirth": "2006-01-13",
+          "nationality": "France"
+        },
+        {
+          "id": 264216,
+          "name": "Tom Akpakoun",
+          "position": "Defence",
+          "dateOfBirth": "2005-04-22",
+          "nationality": "France"
+        },
+        {
+          "id": 282710,
+          "name": "Anis Ouzenadji",
+          "position": "Defence",
+          "dateOfBirth": "2006-11-04",
+          "nationality": "France"
+        },
+        {
+          "id": 99815,
+          "name": "Alexandre Phliponeau",
+          "position": "Midfield",
+          "dateOfBirth": "2000-01-26",
+          "nationality": "France"
+        },
+        {
+          "id": 114136,
+          "name": "Iron Gomis",
+          "position": "Midfield",
+          "dateOfBirth": "1999-11-08",
+          "nationality": "France"
+        },
+        {
+          "id": 134600,
+          "name": "Antoine Mille",
+          "position": "Midfield",
+          "dateOfBirth": "1997-08-14",
+          "nationality": "France"
+        },
+        {
+          "id": 187038,
+          "name": "Mouhamed Diop",
+          "position": "Midfield",
+          "dateOfBirth": "2000-09-30",
+          "nationality": "Senegal"
+        },
+        {
+          "id": 282714,
+          "name": "Roman Murcy",
+          "position": "Midfield",
+          "dateOfBirth": "2006-02-23",
+          "nationality": "France"
+        },
+        {
+          "id": 851,
+          "name": "Renaud Ripart",
+          "position": "Offence",
+          "dateOfBirth": "1993-03-14",
+          "nationality": "France"
+        },
+        {
+          "id": 133695,
+          "name": "Kandet Diawara",
+          "position": "Offence",
+          "dateOfBirth": "2000-02-10",
+          "nationality": "Guinea"
+        },
+        {
+          "id": 251325,
+          "name": "Ibrahim Traoré",
+          "position": "Offence",
+          "dateOfBirth": "2006-03-12",
+          "nationality": "France"
+        },
+        {
+          "id": 260298,
+          "name": "Merwan Ifnaoui",
+          "position": "Offence",
+          "dateOfBirth": "1998-10-22",
+          "nationality": "France"
+        },
+        {
+          "id": 280496,
+          "name": "Amadou Diakite",
+          "position": "Offence",
+          "dateOfBirth": "2005-05-31",
+          "nationality": "France"
+        },
+        {
+          "id": 284226,
+          "name": "Elijah Olaniyi Odede",
+          "position": "Offence",
+          "dateOfBirth": "2007-01-12",
+          "nationality": "Nigeria"
+        }
+      ]
     },
     {
       "area": {
@@ -40183,7 +42838,7 @@
         }
       },
       "lastUpdated": "2021-11-06T13:27:09Z",
-      "_profileCompetitionCode": "CL",
+      "_profileCompetitionCode": "FL1",
       "_profileFetchedAt": "2026-07-26 22:44 UTC",
       "squad": [
         {
@@ -40208,53 +42863,74 @@
           "nationality": "France"
         },
         {
-          "id": 254051,
-          "name": "Jules Stawiecki",
-          "position": "Goalkeeper",
-          "dateOfBirth": "2007-04-10",
-          "nationality": "France"
-        },
-        {
-          "id": 254564,
-          "name": "Yanis Benchaouch Marty",
-          "position": "Goalkeeper",
-          "dateOfBirth": "2006-04-10",
-          "nationality": "Morocco"
-        },
-        {
-          "id": 1612,
-          "name": "Caio Henrique",
+          "id": 3314,
+          "name": "Eric Dier",
           "position": "Defence",
-          "dateOfBirth": "1997-07-31",
+          "dateOfBirth": "1994-01-15",
+          "nationality": "England"
+        },
+        {
+          "id": 6493,
+          "name": "Thilo Kehrer",
+          "position": "Defence",
+          "dateOfBirth": "1996-09-21",
+          "nationality": "Germany"
+        },
+        {
+          "id": 67965,
+          "name": "Jordan Teze",
+          "position": "Defence",
+          "dateOfBirth": "1999-09-30",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 81039,
+          "name": "Mohammed Salisu",
+          "position": "Defence",
+          "dateOfBirth": "1999-04-17",
+          "nationality": "Ghana"
+        },
+        {
+          "id": 154607,
+          "name": "Vanderson",
+          "position": "Defence",
+          "dateOfBirth": "2001-06-21",
           "nationality": "Brazil"
         },
         {
-          "id": 7328,
-          "name": "Wout Faes",
+          "id": 165315,
+          "name": "Flávio Nazinho",
           "position": "Defence",
-          "dateOfBirth": "1998-04-03",
-          "nationality": "Belgium"
+          "dateOfBirth": "2003-07-20",
+          "nationality": "Portugal"
         },
         {
-          "id": 185069,
-          "name": "Kassoum Ouattara",
+          "id": 188481,
+          "name": "Christian Mawissa",
           "position": "Defence",
-          "dateOfBirth": "2004-10-14",
+          "dateOfBirth": "2005-04-18",
           "nationality": "France"
         },
         {
-          "id": 272502,
-          "name": "Samuel Nibombe",
+          "id": 212866,
+          "name": "Sadibou Sané",
           "position": "Defence",
-          "dateOfBirth": "2007-08-15",
-          "nationality": "Belgium"
+          "dateOfBirth": "2004-06-10",
+          "nationality": "Senegal"
         },
         {
-          "id": 272947,
-          "name": "Bradel Kiwa",
-          "position": "Defence",
-          "dateOfBirth": "2006-02-05",
+          "id": 3366,
+          "name": "Paul Pogba",
+          "position": "Midfield",
+          "dateOfBirth": "1993-03-15",
           "nationality": "France"
+        },
+        {
+          "id": 3683,
+          "name": "Aleksandr Golovin",
+          "position": "Midfield",
+          "dateOfBirth": "1996-05-30",
+          "nationality": "Russia"
         },
         {
           "id": 6687,
@@ -40264,17 +42940,10 @@
           "nationality": "Switzerland"
         },
         {
-          "id": 8887,
-          "name": "Krépin Diatta",
+          "id": 204238,
+          "name": "Edan Diop",
           "position": "Midfield",
-          "dateOfBirth": "1999-02-25",
-          "nationality": "Senegal"
-        },
-        {
-          "id": 175701,
-          "name": "Maghnes Akliouche",
-          "position": "Midfield",
-          "dateOfBirth": "2002-02-25",
+          "dateOfBirth": "2004-08-28",
           "nationality": "France"
         },
         {
@@ -40285,32 +42954,32 @@
           "nationality": "Senegal"
         },
         {
-          "id": 272943,
-          "name": "Aladji Bamba",
+          "id": 221295,
+          "name": "Stanis Idumbo-Muzambo",
           "position": "Midfield",
-          "dateOfBirth": "2006-07-14",
-          "nationality": "France"
-        },
-        {
-          "id": 286934,
-          "name": "Pape Cabral",
-          "position": "Midfield",
-          "dateOfBirth": "2007-01-20",
-          "nationality": "France"
-        },
-        {
-          "id": 287511,
-          "name": "Matthias Wamu Oyatambwe",
-          "position": "Midfield",
-          "dateOfBirth": "2008-10-22",
+          "dateOfBirth": "2005-06-29",
           "nationality": "Belgium"
         },
         {
-          "id": 290115,
-          "name": "Ilane Touré",
+          "id": 244898,
+          "name": "Mamadou Coulibaly",
           "position": "Midfield",
-          "dateOfBirth": "2006-08-04",
+          "dateOfBirth": "2004-04-21",
           "nationality": "France"
+        },
+        {
+          "id": 15100,
+          "name": "Takumi Minamino",
+          "position": "Offence",
+          "dateOfBirth": "1995-01-16",
+          "nationality": "Japan"
+        },
+        {
+          "id": 128040,
+          "name": "Ansu Fati",
+          "position": "Offence",
+          "dateOfBirth": "2002-10-31",
+          "nationality": "Spain"
         },
         {
           "id": 131040,
@@ -40320,109 +42989,39 @@
           "nationality": "USA"
         },
         {
-          "id": 166249,
-          "name": "Simon Adingra",
+          "id": 175701,
+          "name": "Maghnes Akliouche",
           "position": "Offence",
-          "dateOfBirth": "2002-01-01",
-          "nationality": "Ivory Coast"
-        },
-        {
-          "id": 154607,
-          "name": "Vanderson",
-          "position": "Right-Back",
-          "dateOfBirth": "2001-06-21",
-          "nationality": "Brazil"
-        },
-        {
-          "id": 128040,
-          "name": "Ansu Fati",
-          "position": "Left Winger",
-          "dateOfBirth": "2002-10-31",
-          "nationality": "Spain"
-        },
-        {
-          "id": 81039,
-          "name": "Mohammed Salisu",
-          "position": "Centre-Back",
-          "dateOfBirth": "1999-04-17",
-          "nationality": "Ghana"
-        },
-        {
-          "id": 67965,
-          "name": "Jordan Teze",
-          "position": "Right-Back",
-          "dateOfBirth": "1999-09-30",
-          "nationality": "Netherlands"
-        },
-        {
-          "id": 15100,
-          "name": "Takumi Minamino",
-          "position": "Left Winger",
-          "dateOfBirth": "1995-01-16",
-          "nationality": "Japan"
-        },
-        {
-          "id": 6493,
-          "name": "Thilo Kehrer",
-          "position": "Centre-Back",
-          "dateOfBirth": "1996-09-21",
-          "nationality": "Germany"
-        },
-        {
-          "id": 3683,
-          "name": "Aleksandr Golovin",
-          "position": "Attacking Midfield",
-          "dateOfBirth": "1996-05-30",
-          "nationality": "Russia"
-        },
-        {
-          "id": 3366,
-          "name": "Paul Pogba",
-          "position": "Central Midfield",
-          "dateOfBirth": "1993-03-15",
-          "nationality": "France"
-        },
-        {
-          "id": 3314,
-          "name": "Eric Dier",
-          "position": "Centre-Back",
-          "dateOfBirth": "1994-01-15",
-          "nationality": "England"
-        },
-        {
-          "id": 244898,
-          "name": "Mamadou Coulibaly",
-          "position": "Central Midfield",
-          "dateOfBirth": "2004-04-21",
-          "nationality": "France"
-        },
-        {
-          "id": 244696,
-          "name": "Paris Brunner",
-          "position": "Centre-Forward",
-          "dateOfBirth": "2006-02-15",
-          "nationality": "Germany"
-        },
-        {
-          "id": 221295,
-          "name": "Stanis Idumbo-Muzambo",
-          "position": "Attacking Midfield",
-          "dateOfBirth": "2005-06-29",
-          "nationality": "Belgium"
-        },
-        {
-          "id": 188481,
-          "name": "Christian Mawissa",
-          "position": "Centre-Back",
-          "dateOfBirth": "2005-04-18",
+          "dateOfBirth": "2002-02-25",
           "nationality": "France"
         },
         {
           "id": 177260,
           "name": "Mika Biereth",
-          "position": "Centre-Forward",
+          "position": "Offence",
           "dateOfBirth": "2003-02-08",
           "nationality": "Denmark"
+        },
+        {
+          "id": 244696,
+          "name": "Paris Brunner",
+          "position": "Offence",
+          "dateOfBirth": "2006-02-15",
+          "nationality": "Germany"
+        },
+        {
+          "id": 246674,
+          "name": "Lucas Michal",
+          "position": "Offence",
+          "dateOfBirth": "2005-06-22",
+          "nationality": "France"
+        },
+        {
+          "id": 274298,
+          "name": "Mathys Detourbet",
+          "position": "Offence",
+          "dateOfBirth": "2007-04-29",
+          "nationality": "France"
         }
       ]
     },
@@ -57049,9 +59648,9 @@
   ],
   "profileSync": {
     "matchCompetitionCode": "WC",
-    "profileCompetitionProcessed": "SA",
-    "profileCompetitionTeamCount": 20,
-    "profileCompetitionSquads": 4,
+    "profileCompetitionProcessed": "FL1",
+    "profileCompetitionTeamCount": 18,
+    "profileCompetitionSquads": 18,
     "profileCompetitionCodes": [
       "WC",
       "PL",
@@ -57064,10 +59663,10 @@
       "CL",
       "ELC"
     ],
-    "nextCompetitionIndex": 5,
+    "nextCompetitionIndex": 6,
     "teamCount": 214,
-    "profilesWithSquad": 168,
-    "profilesPending": 46,
+    "profilesWithSquad": 183,
+    "profilesPending": 31,
     "regularBatchLimit": 7,
     "initialBatchLimit": 48
   }
