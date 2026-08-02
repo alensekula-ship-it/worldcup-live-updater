@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-02 04:01 UTC",
-  "lastUpdate": "2026-08-02 04:01 UTC",
+  "generatedAt": "2026-08-02 06:41 UTC",
+  "lastUpdate": "2026-08-02 06:41 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -34546,20 +34546,6 @@
           "nationality": "Germany"
         },
         {
-          "id": 280160,
-          "name": "Jannis Bärtl",
-          "position": "Goalkeeper",
-          "dateOfBirth": "2006-06-24",
-          "nationality": "Germany"
-        },
-        {
-          "id": 288435,
-          "name": "Leonard Prescott",
-          "position": "Goalkeeper",
-          "dateOfBirth": "2009-09-23",
-          "nationality": "Germany"
-        },
-        {
           "id": 149,
           "name": "Jonathan Tah",
           "position": "Defence",
@@ -34595,6 +34581,13 @@
           "nationality": "Japan"
         },
         {
+          "id": 114915,
+          "name": "Sacha Boey",
+          "position": "Defence",
+          "dateOfBirth": "2000-09-13",
+          "nationality": "France"
+        },
+        {
           "id": 122188,
           "name": "Josip Stanišić",
           "position": "Defence",
@@ -34609,31 +34602,17 @@
           "nationality": "South Korea"
         },
         {
-          "id": 212343,
-          "name": "Vincent Manuba",
+          "id": 184533,
+          "name": "Nathaniel Brown",
           "position": "Defence",
-          "dateOfBirth": "2005-07-01",
+          "dateOfBirth": "2003-06-16",
           "nationality": "Germany"
         },
         {
-          "id": 279064,
-          "name": "Cassiano Kiala",
+          "id": 212013,
+          "name": "Tarek Buchmann",
           "position": "Defence",
-          "dateOfBirth": "2009-01-11",
-          "nationality": "Germany"
-        },
-        {
-          "id": 284705,
-          "name": "Deniz Ofli",
-          "position": "Defence",
-          "dateOfBirth": "2007-03-29",
-          "nationality": "Turkey"
-        },
-        {
-          "id": 293795,
-          "name": "Filip Pavić",
-          "position": "Defence",
-          "dateOfBirth": "2010-01-19",
+          "dateOfBirth": "2005-02-28",
           "nationality": "Germany"
         },
         {
@@ -34644,11 +34623,18 @@
           "nationality": "Germany"
         },
         {
-          "id": 3181,
-          "name": "Leon Goretzka",
+          "id": 15884,
+          "name": "João Palhinha",
           "position": "Midfield",
-          "dateOfBirth": "1995-02-06",
-          "nationality": "Germany"
+          "dateOfBirth": "1995-07-09",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 130173,
+          "name": "Ismael Saibari",
+          "position": "Midfield",
+          "dateOfBirth": "2001-01-28",
+          "nationality": "Morocco"
         },
         {
           "id": 144393,
@@ -34662,6 +34648,13 @@
           "name": "Tom Bischof",
           "position": "Midfield",
           "dateOfBirth": "2005-06-28",
+          "nationality": "Germany"
+        },
+        {
+          "id": 176899,
+          "name": "Arijon Ibrahimovic",
+          "position": "Midfield",
+          "dateOfBirth": "2005-12-11",
           "nationality": "Germany"
         },
         {
@@ -34684,27 +34677,6 @@
           "position": "Midfield",
           "dateOfBirth": "2007-01-10",
           "nationality": "Portugal"
-        },
-        {
-          "id": 290450,
-          "name": "Bara Ndiaye",
-          "position": "Midfield",
-          "dateOfBirth": "2007-12-31",
-          "nationality": "Senegal"
-        },
-        {
-          "id": 291949,
-          "name": "Maycon Cardozo",
-          "position": "Midfield",
-          "dateOfBirth": "2008-10-10",
-          "nationality": "Brazil"
-        },
-        {
-          "id": 293855,
-          "name": "Erblin Osmani",
-          "position": "Midfield",
-          "dateOfBirth": "2009-05-19",
-          "nationality": "Germany"
         },
         {
           "id": 311,
@@ -34735,44 +34707,23 @@
           "nationality": "France"
         },
         {
-          "id": 152515,
-          "name": "Nicolas Jackson",
+          "id": 151458,
+          "name": "Armindo Sieb",
           "position": "Offence",
-          "dateOfBirth": "2001-06-20",
-          "nationality": "Senegal"
-        },
-        {
-          "id": 246060,
-          "name": "Guido Della Rovere",
-          "position": "Offence",
-          "dateOfBirth": "2007-06-04",
-          "nationality": "Italy"
-        },
-        {
-          "id": 275164,
-          "name": "Wisdom Mike",
-          "position": "Offence",
-          "dateOfBirth": "2008-09-24",
+          "dateOfBirth": "2003-02-17",
           "nationality": "Germany"
         },
         {
-          "id": 294776,
-          "name": "Bastian Assomo",
+          "id": 191403,
+          "name": "Bryan Zaragoza",
           "position": "Offence",
-          "dateOfBirth": "2010-01-03",
-          "nationality": "Germany"
-        },
-        {
-          "id": 3246,
-          "name": "Raphaël Guerreiro",
-          "position": "Left-Back",
-          "dateOfBirth": "1993-12-22",
-          "nationality": "Portugal"
+          "dateOfBirth": "2001-09-09",
+          "nationality": "Spain"
         }
       ],
       "lastUpdated": "2024-07-09T17:26:37Z",
-      "_profileCompetitionCode": "CL",
-      "_profileFetchedAt": "2026-07-31 21:29 UTC"
+      "_profileCompetitionCode": "BL1",
+      "_profileFetchedAt": "2026-08-02 06:41 UTC"
     },
     {
       "area": {
@@ -35096,6 +35047,13 @@
           "nationality": "Germany"
         },
         {
+          "id": 117476,
+          "name": "Diant Ramaj",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2001-09-19",
+          "nationality": "Germany"
+        },
+        {
           "id": 176268,
           "name": "Silas Ostrzinski",
           "position": "Goalkeeper",
@@ -35152,6 +35110,13 @@
           "nationality": "Sweden"
         },
         {
+          "id": 246542,
+          "name": "Kouakou Gadou",
+          "position": "Defence",
+          "dateOfBirth": "2007-01-17",
+          "nationality": "France"
+        },
+        {
           "id": 261058,
           "name": "Filippo Mané",
           "position": "Defence",
@@ -35166,25 +35131,11 @@
           "nationality": "Germany"
         },
         {
-          "id": 273354,
-          "name": "Elias Benkara",
-          "position": "Defence",
-          "dateOfBirth": "2007-04-29",
-          "nationality": "Germany"
-        },
-        {
           "id": 290034,
           "name": "Luca Reggiani",
           "position": "Defence",
           "dateOfBirth": "2008-01-09",
           "nationality": "Italy"
-        },
-        {
-          "id": 201,
-          "name": "Salih Özcan",
-          "position": "Midfield",
-          "dateOfBirth": "1998-01-11",
-          "nationality": "Turkey"
         },
         {
           "id": 9551,
@@ -35201,13 +35152,6 @@
           "nationality": "Germany"
         },
         {
-          "id": 133548,
-          "name": "Ayman Azhil",
-          "position": "Midfield",
-          "dateOfBirth": "2001-04-10",
-          "nationality": "Morocco"
-        },
-        {
           "id": 167570,
           "name": "Carney Chukwuemeka",
           "position": "Midfield",
@@ -35222,11 +35166,11 @@
           "nationality": "England"
         },
         {
-          "id": 250515,
-          "name": "Danylo Krevsun",
+          "id": 250337,
+          "name": "Justin Lerma",
           "position": "Midfield",
-          "dateOfBirth": "2005-04-21",
-          "nationality": "Ukraine"
+          "dateOfBirth": "2008-05-05",
+          "nationality": "Ecuador"
         },
         {
           "id": 278316,
@@ -35276,25 +35220,11 @@
           "position": "Offence",
           "dateOfBirth": "2009-05-21",
           "nationality": "USA"
-        },
-        {
-          "id": 351,
-          "name": "Niklas Süle",
-          "position": "Centre-Back",
-          "dateOfBirth": "1995-09-03",
-          "nationality": "Germany"
-        },
-        {
-          "id": 148,
-          "name": "Julian Brandt",
-          "position": "Attacking Midfield",
-          "dateOfBirth": "1996-05-02",
-          "nationality": "Germany"
         }
       ],
       "lastUpdated": "2022-02-25T16:50:16Z",
-      "_profileCompetitionCode": "CL",
-      "_profileFetchedAt": "2026-07-31 21:29 UTC"
+      "_profileCompetitionCode": "BL1",
+      "_profileFetchedAt": "2026-08-02 06:41 UTC"
     },
     {
       "area": {
@@ -35548,7 +35478,7 @@
       ],
       "lastUpdated": "2022-07-22T08:44:52Z",
       "_profileCompetitionCode": "BL1",
-      "_profileFetchedAt": "2026-07-30 23:18 UTC"
+      "_profileFetchedAt": "2026-08-02 06:41 UTC"
     },
     {
       "area": {
@@ -35611,6 +35541,13 @@
           "nationality": "Brazil"
         },
         {
+          "id": 191130,
+          "name": "Simon Simoni",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2027-06-30",
+          "nationality": "Albania"
+        },
+        {
           "id": 273124,
           "name": "Amil Siljevic",
           "position": "Goalkeeper",
@@ -35625,18 +35562,18 @@
           "nationality": "USA"
         },
         {
-          "id": 7554,
-          "name": "Rasmus Kristensen",
-          "position": "Defence",
-          "dateOfBirth": "1997-07-11",
-          "nationality": "Denmark"
-        },
-        {
           "id": 9479,
           "name": "Robin Koch",
           "position": "Defence",
           "dateOfBirth": "1996-07-17",
           "nationality": "Germany"
+        },
+        {
+          "id": 133292,
+          "name": "Niels Nkounkou",
+          "position": "Defence",
+          "dateOfBirth": "2000-11-01",
+          "nationality": "France"
         },
         {
           "id": 145893,
@@ -35646,24 +35583,10 @@
           "nationality": "Belgium"
         },
         {
-          "id": 169297,
-          "name": "Aurele Amenda",
-          "position": "Defence",
-          "dateOfBirth": "2003-07-31",
-          "nationality": "Switzerland"
-        },
-        {
           "id": 171714,
           "name": "Nnamdi Collins",
           "position": "Defence",
           "dateOfBirth": "2004-01-10",
-          "nationality": "Germany"
-        },
-        {
-          "id": 184533,
-          "name": "Nathaniel Brown",
-          "position": "Defence",
-          "dateOfBirth": "2003-06-16",
           "nationality": "Germany"
         },
         {
@@ -35681,11 +35604,11 @@
           "nationality": "Japan"
         },
         {
-          "id": 261407,
-          "name": "Fousseny Doumbia",
+          "id": 277674,
+          "name": "Otávio",
           "position": "Defence",
-          "dateOfBirth": "2005-02-23",
-          "nationality": "Germany"
+          "dateOfBirth": "2005-11-25",
+          "nationality": "Brazil"
         },
         {
           "id": 140,
@@ -35700,6 +35623,13 @@
           "position": "Midfield",
           "dateOfBirth": "1995-05-10",
           "nationality": "Tunisia"
+        },
+        {
+          "id": 116407,
+          "name": "Dina Ebimbe",
+          "position": "Midfield",
+          "dateOfBirth": "2000-11-21",
+          "nationality": "Cameroon"
         },
         {
           "id": 178658,
@@ -35723,6 +35653,13 @@
           "nationality": "Turkey"
         },
         {
+          "id": 202588,
+          "name": "Noel Aseko Nkili",
+          "position": "Midfield",
+          "dateOfBirth": "2005-11-22",
+          "nationality": "Germany"
+        },
+        {
           "id": 205537,
           "name": "Oscar Højlund",
           "position": "Midfield",
@@ -35735,13 +35672,6 @@
           "position": "Midfield",
           "dateOfBirth": "2008-05-17",
           "nationality": "Sweden"
-        },
-        {
-          "id": 280371,
-          "name": "Marvin Dills",
-          "position": "Midfield",
-          "dateOfBirth": "2007-04-25",
-          "nationality": "Germany"
         },
         {
           "id": 3664,
@@ -35765,11 +35695,18 @@
           "nationality": "Germany"
         },
         {
-          "id": 130668,
-          "name": "Arnaud Kalimuendo",
+          "id": 123049,
+          "name": "Jessic Ngankam",
           "position": "Offence",
-          "dateOfBirth": "2002-01-20",
-          "nationality": "France"
+          "dateOfBirth": "2000-07-20",
+          "nationality": "Germany"
+        },
+        {
+          "id": 140191,
+          "name": "Noel Futkeu",
+          "position": "Offence",
+          "dateOfBirth": "2002-12-06",
+          "nationality": "Germany"
         },
         {
           "id": 150860,
@@ -35777,6 +35714,13 @@
           "position": "Offence",
           "dateOfBirth": "2002-01-10",
           "nationality": "Germany"
+        },
+        {
+          "id": 156808,
+          "name": "Sepe Elye Wahi",
+          "position": "Offence",
+          "dateOfBirth": "2003-01-02",
+          "nationality": "Ivory Coast"
         },
         {
           "id": 185882,
@@ -35800,22 +35744,15 @@
           "nationality": "Morocco"
         },
         {
-          "id": 271956,
-          "name": "Alexander Staff",
+          "id": 291037,
+          "name": "Malik Pimpong",
           "position": "Offence",
-          "dateOfBirth": "2008-06-12",
-          "nationality": "Germany"
-        },
-        {
-          "id": 158,
-          "name": "Mahmoud Dahoud",
-          "position": "Central Midfield",
-          "dateOfBirth": "1996-01-01",
-          "nationality": "Germany"
+          "dateOfBirth": "2008-01-01",
+          "nationality": "Denmark"
         }
       ],
       "lastUpdated": "2024-07-29T17:13:52Z",
-      "_profileCompetitionCode": "CL",
+      "_profileCompetitionCode": "BL1",
       "_profileFetchedAt": "2026-07-31 21:29 UTC"
     },
     {
@@ -36556,7 +36493,7 @@
       ],
       "lastUpdated": "2023-02-28T07:57:55Z",
       "_profileCompetitionCode": "BL1",
-      "_profileFetchedAt": "2026-07-30 23:18 UTC"
+      "_profileFetchedAt": "2026-08-02 06:41 UTC"
     },
     {
       "area": {
@@ -36915,20 +36852,6 @@
           "nationality": "Netherlands"
         },
         {
-          "id": 30774,
-          "name": "Jonas Omlin",
-          "position": "Goalkeeper",
-          "dateOfBirth": "1994-01-10",
-          "nationality": "Switzerland"
-        },
-        {
-          "id": 289572,
-          "name": "Jesper Schlich",
-          "position": "Goalkeeper",
-          "dateOfBirth": "2007-07-12",
-          "nationality": "Germany"
-        },
-        {
           "id": 45,
           "name": "Lucas Vázquez",
           "position": "Defence",
@@ -36936,11 +36859,11 @@
           "nationality": "Spain"
         },
         {
-          "id": 16739,
-          "name": "Alejandro Grimaldo",
+          "id": 42751,
+          "name": "Abdoulaye Fayé",
           "position": "Defence",
-          "dateOfBirth": "1995-09-20",
-          "nationality": "Spain"
+          "dateOfBirth": "1978-02-26",
+          "nationality": "Senegal"
         },
         {
           "id": 64713,
@@ -36957,18 +36880,18 @@
           "nationality": "France"
         },
         {
-          "id": 154228,
-          "name": "Nicolás Ezequiel Fernández",
-          "position": "Defence",
-          "dateOfBirth": "2002-07-25",
-          "nationality": "Argentina"
-        },
-        {
           "id": 176718,
           "name": "Jarell Quansah",
           "position": "Defence",
           "dateOfBirth": "2003-01-29",
           "nationality": "England"
+        },
+        {
+          "id": 177037,
+          "name": "Jeanuel Belocian",
+          "position": "Defence",
+          "dateOfBirth": "2005-02-17",
+          "nationality": "France"
         },
         {
           "id": 178860,
@@ -36990,27 +36913,6 @@
           "position": "Defence",
           "dateOfBirth": "2007-08-10",
           "nationality": "France"
-        },
-        {
-          "id": 273033,
-          "name": "Ben Hawighorst",
-          "position": "Defence",
-          "dateOfBirth": "2008-03-01",
-          "nationality": "Germany"
-        },
-        {
-          "id": 289109,
-          "name": "Ferdinand Pohl",
-          "position": "Defence",
-          "dateOfBirth": "2007-02-02",
-          "nationality": "Germany"
-        },
-        {
-          "id": 290212,
-          "name": "Issa Traoré",
-          "position": "Defence",
-          "dateOfBirth": "2007-11-14",
-          "nationality": "Mali"
         },
         {
           "id": 6681,
@@ -37048,11 +36950,18 @@
           "nationality": "USA"
         },
         {
-          "id": 189287,
-          "name": "Eliesse Ben Seghir",
+          "id": 157596,
+          "name": "Noah Mbamba",
           "position": "Midfield",
-          "dateOfBirth": "2005-02-16",
-          "nationality": "Morocco"
+          "dateOfBirth": "2005-01-05",
+          "nationality": "Belgium"
+        },
+        {
+          "id": 166223,
+          "name": "Ignacio Fernández",
+          "position": "Midfield",
+          "dateOfBirth": "2002-07-25",
+          "nationality": "Argentina"
         },
         {
           "id": 202532,
@@ -37062,10 +36971,10 @@
           "nationality": "Algeria"
         },
         {
-          "id": 283302,
-          "name": "Jeremiah Mensah",
+          "id": 273370,
+          "name": "Kennet Eichhorn",
           "position": "Midfield",
-          "dateOfBirth": "2008-02-21",
+          "dateOfBirth": "2009-07-27",
           "nationality": "Germany"
         },
         {
@@ -37090,6 +36999,13 @@
           "nationality": "France"
         },
         {
+          "id": 130811,
+          "name": "Victor Boniface",
+          "position": "Offence",
+          "dateOfBirth": "2000-12-23",
+          "nationality": "Nigeria"
+        },
+        {
           "id": 144715,
           "name": "Nathan Tella",
           "position": "Offence",
@@ -37104,6 +37020,41 @@
           "nationality": "Netherlands"
         },
         {
+          "id": 191157,
+          "name": "Eliesse Ben Seghir",
+          "position": "Offence",
+          "dateOfBirth": "2025-06-30",
+          "nationality": "France"
+        },
+        {
+          "id": 204136,
+          "name": "Afonso Moreira",
+          "position": "Offence",
+          "dateOfBirth": "2005-03-19",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 250453,
+          "name": "Alejo Sarco",
+          "position": "Offence",
+          "dateOfBirth": "2006-01-06",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 272213,
+          "name": "Kerim Alajbegović",
+          "position": "Offence",
+          "dateOfBirth": "2007-09-21",
+          "nationality": "Bosnia-Herzegovina"
+        },
+        {
+          "id": 272311,
+          "name": "Farid Alfa-Ruprecht",
+          "position": "Offence",
+          "dateOfBirth": "2006-03-28",
+          "nationality": "Germany"
+        },
+        {
           "id": 274045,
           "name": "Christian Kofane",
           "position": "Offence",
@@ -37111,22 +37062,22 @@
           "nationality": "Cameroon"
         },
         {
+          "id": 282096,
+          "name": "Aleksa Damjanović",
+          "position": "Offence",
+          "dateOfBirth": "2008-12-04",
+          "nationality": "Serbia"
+        },
+        {
           "id": 287850,
           "name": "Montrell Culbreath",
           "position": "Offence",
           "dateOfBirth": "2007-08-29",
           "nationality": "Germany"
-        },
-        {
-          "id": 293515,
-          "name": "Emmanuel Owen",
-          "position": "Offence",
-          "dateOfBirth": "2007-06-11",
-          "nationality": "Germany"
         }
       ],
       "lastUpdated": "2022-02-25T16:43:07Z",
-      "_profileCompetitionCode": "CL",
+      "_profileCompetitionCode": "BL1",
       "_profileFetchedAt": "2026-08-01 15:11 UTC"
     },
     {
@@ -37903,7 +37854,7 @@
       ],
       "lastUpdated": "2022-02-19T09:03:00Z",
       "_profileCompetitionCode": "BL1",
-      "_profileFetchedAt": "2026-07-30 23:18 UTC"
+      "_profileFetchedAt": "2026-08-02 06:41 UTC"
     },
     {
       "area": {
@@ -38164,7 +38115,7 @@
       ],
       "lastUpdated": "2022-07-12T12:09:44Z",
       "_profileCompetitionCode": "BL1",
-      "_profileFetchedAt": "2026-07-30 23:18 UTC"
+      "_profileFetchedAt": "2026-08-02 06:41 UTC"
     },
     {
       "area": {
@@ -38453,7 +38404,7 @@
       ],
       "lastUpdated": "2022-11-21T15:12:51Z",
       "_profileCompetitionCode": "BL1",
-      "_profileFetchedAt": "2026-07-31 21:29 UTC"
+      "_profileFetchedAt": "2026-08-02 06:41 UTC"
     },
     {
       "area": {
@@ -60375,9 +60326,9 @@
   ],
   "profileSync": {
     "matchCompetitionCode": "WC",
-    "profileCompetitionProcessed": "PD",
-    "profileCompetitionTeamCount": 20,
-    "profileCompetitionSquads": 5,
+    "profileCompetitionProcessed": "BL1",
+    "profileCompetitionTeamCount": 18,
+    "profileCompetitionSquads": 18,
     "profileCompetitionCodes": [
       "WC",
       "PL",
@@ -60390,7 +60341,7 @@
       "CL",
       "ELC"
     ],
-    "nextCompetitionIndex": 3,
+    "nextCompetitionIndex": 4,
     "teamCount": 214,
     "profilesWithSquad": 183,
     "profilesPending": 31,
