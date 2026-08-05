@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-05 18:55 UTC",
-  "lastUpdate": "2026-08-05 18:55 UTC",
+  "generatedAt": "2026-08-05 20:34 UTC",
+  "lastUpdate": "2026-08-05 20:34 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -49137,7 +49137,7 @@
       ],
       "lastUpdated": "2025-12-31T21:03:20Z",
       "_profileCompetitionCode": "PPL",
-      "_profileFetchedAt": "2026-08-03 04:06 UTC"
+      "_profileFetchedAt": "2026-08-05 20:34 UTC"
     },
     {
       "area": {
@@ -49832,7 +49832,7 @@
       ],
       "lastUpdated": "2022-02-25T16:58:25Z",
       "_profileCompetitionCode": "PPL",
-      "_profileFetchedAt": "2026-08-04 02:54 UTC"
+      "_profileFetchedAt": "2026-08-05 20:34 UTC"
     },
     {
       "area": {
@@ -50375,7 +50375,7 @@
       ],
       "lastUpdated": "2023-06-02T09:42:46Z",
       "_profileCompetitionCode": "PPL",
-      "_profileFetchedAt": "2026-08-03 04:06 UTC"
+      "_profileFetchedAt": "2026-08-05 20:34 UTC"
     },
     {
       "area": {
@@ -50834,7 +50834,7 @@
       ],
       "lastUpdated": "2022-10-19T16:23:49Z",
       "_profileCompetitionCode": "PPL",
-      "_profileFetchedAt": "2026-08-04 02:54 UTC"
+      "_profileFetchedAt": "2026-08-05 20:34 UTC"
     },
     {
       "area": {
@@ -51738,7 +51738,7 @@
       ],
       "lastUpdated": "2023-03-05T07:40:05Z",
       "_profileCompetitionCode": "PPL",
-      "_profileFetchedAt": "2026-08-04 02:54 UTC"
+      "_profileFetchedAt": "2026-08-05 20:34 UTC"
     },
     {
       "area": {
@@ -52491,25 +52491,11 @@
           "nationality": "Portugal"
         },
         {
-          "id": 273525,
-          "name": "Diogo Ferreira",
-          "position": "Goalkeeper",
-          "dateOfBirth": "2007-02-10",
-          "nationality": "Portugal"
-        },
-        {
-          "id": 282866,
-          "name": "Arnas Voitinovičius",
-          "position": "Goalkeeper",
-          "dateOfBirth": "2006-08-30",
-          "nationality": "Lithuania"
-        },
-        {
-          "id": 3205,
-          "name": "Nicolás Otamendi",
+          "id": 63,
+          "name": "Clément Lenglet",
           "position": "Defence",
-          "dateOfBirth": "1988-02-12",
-          "nationality": "Argentina"
+          "dateOfBirth": "1995-06-17",
+          "nationality": "France"
         },
         {
           "id": 70583,
@@ -52547,39 +52533,11 @@
           "nationality": "Portugal"
         },
         {
-          "id": 209178,
-          "name": "Sidny Lopes Cabral",
+          "id": 265154,
+          "name": "Rafa Obrador",
           "position": "Defence",
-          "dateOfBirth": "2002-09-18",
-          "nationality": "Cape Verde Islands"
-        },
-        {
-          "id": 262709,
-          "name": "João Fonseca",
-          "position": "Defence",
-          "dateOfBirth": "2006-08-31",
-          "nationality": "Portugal"
-        },
-        {
-          "id": 262714,
-          "name": "Joshua Wynder",
-          "position": "Defence",
-          "dateOfBirth": "2005-05-02",
-          "nationality": "USA"
-        },
-        {
-          "id": 262856,
-          "name": "Gonçalo Oliveira",
-          "position": "Defence",
-          "dateOfBirth": "2006-07-04",
-          "nationality": "Portugal"
-        },
-        {
-          "id": 273524,
-          "name": "Kevin Pinto",
-          "position": "Defence",
-          "dateOfBirth": "2006-09-23",
-          "nationality": "Portugal"
+          "dateOfBirth": "2004-02-24",
+          "nationality": "Spain"
         },
         {
           "id": 282871,
@@ -52594,6 +52552,13 @@
           "position": "Defence",
           "dateOfBirth": "2008-04-19",
           "nationality": "Portugal"
+        },
+        {
+          "id": 297959,
+          "name": "Gabriel Índio",
+          "position": "Defence",
+          "dateOfBirth": "2008-07-26",
+          "nationality": "Brazil"
         },
         {
           "id": 38088,
@@ -52638,45 +52603,10 @@
           "nationality": "Portugal"
         },
         {
-          "id": 246194,
-          "name": "Diogo Prioste",
-          "position": "Midfield",
-          "dateOfBirth": "2004-03-26",
-          "nationality": "Portugal"
-        },
-        {
           "id": 251296,
           "name": "João Rêgo",
           "position": "Midfield",
           "dateOfBirth": "2005-06-20",
-          "nationality": "Portugal"
-        },
-        {
-          "id": 262645,
-          "name": "João Veloso",
-          "position": "Midfield",
-          "dateOfBirth": "2005-06-26",
-          "nationality": "Portugal"
-        },
-        {
-          "id": 275555,
-          "name": "Tiago Freitas",
-          "position": "Midfield",
-          "dateOfBirth": "2006-08-17",
-          "nationality": "Portugal"
-        },
-        {
-          "id": 282868,
-          "name": "Miguel Figueiredo",
-          "position": "Midfield",
-          "dateOfBirth": "2008-08-02",
-          "nationality": "Portugal"
-        },
-        {
-          "id": 282872,
-          "name": "Gonçalo Moreira",
-          "position": "Midfield",
-          "dateOfBirth": "2006-01-03",
           "nationality": "Portugal"
         },
         {
@@ -52708,6 +52638,27 @@
           "nationality": "Greece"
         },
         {
+          "id": 104493,
+          "name": "Jhon Durán",
+          "position": "Offence",
+          "dateOfBirth": "2003-12-13",
+          "nationality": "Colombia"
+        },
+        {
+          "id": 127401,
+          "name": "Jakub Kamiński",
+          "position": "Offence",
+          "dateOfBirth": "2002-06-05",
+          "nationality": "Poland"
+        },
+        {
+          "id": 133573,
+          "name": "Tiago Gouveia",
+          "position": "Offence",
+          "dateOfBirth": "2001-06-18",
+          "nationality": "Portugal"
+        },
+        {
           "id": 157796,
           "name": "Andreas Schjelderup",
           "position": "Offence",
@@ -52736,13 +52687,6 @@
           "nationality": "Austria"
         },
         {
-          "id": 263708,
-          "name": "Rodrigo Rêgo",
-          "position": "Offence",
-          "dateOfBirth": "2005-01-03",
-          "nationality": "Portugal"
-        },
-        {
           "id": 291341,
           "name": "Anísio Cabral",
           "position": "Offence",
@@ -52751,8 +52695,8 @@
         }
       ],
       "lastUpdated": "2024-11-06T20:07:52Z",
-      "_profileCompetitionCode": "CL",
-      "_profileFetchedAt": "2026-08-03 04:06 UTC"
+      "_profileCompetitionCode": "PPL",
+      "_profileFetchedAt": "2026-08-05 20:34 UTC"
     },
     {
       "area": {
@@ -53048,7 +52992,7 @@
       ],
       "lastUpdated": "2022-02-20T08:40:31Z",
       "_profileCompetitionCode": "PPL",
-      "_profileFetchedAt": "2026-08-03 04:06 UTC"
+      "_profileFetchedAt": "2026-08-05 20:34 UTC"
     },
     {
       "area": {
@@ -53104,20 +53048,6 @@
           "nationality": "Portugal"
         },
         {
-          "id": 178770,
-          "name": "Diego Callai",
-          "position": "Goalkeeper",
-          "dateOfBirth": "2004-07-18",
-          "nationality": "Brazil"
-        },
-        {
-          "id": 194860,
-          "name": "Francisco Silva",
-          "position": "Goalkeeper",
-          "dateOfBirth": "2005-11-20",
-          "nationality": "Portugal"
-        },
-        {
           "id": 28770,
           "name": "Maximiliano Araújo",
           "position": "Defence",
@@ -53146,6 +53076,13 @@
           "nationality": "Greece"
         },
         {
+          "id": 144406,
+          "name": "Eduardo Simões",
+          "position": "Defence",
+          "dateOfBirth": "2002-03-02",
+          "nationality": "Portugal"
+        },
+        {
           "id": 145357,
           "name": "Gonçalo Inácio",
           "position": "Defence",
@@ -53167,53 +53104,11 @@
           "nationality": "Spain"
         },
         {
-          "id": 178768,
-          "name": "Eduardo Quaresma",
-          "position": "Defence",
-          "dateOfBirth": "2002-03-02",
-          "nationality": "Portugal"
-        },
-        {
-          "id": 191760,
+          "id": 184747,
           "name": "Ousmane Diomande",
           "position": "Defence",
-          "dateOfBirth": "2003-12-04",
-          "nationality": "Ivory Coast"
-        },
-        {
-          "id": 213298,
-          "name": "Rômulo",
-          "position": "Defence",
-          "dateOfBirth": "2004-01-31",
-          "nationality": "Brazil"
-        },
-        {
-          "id": 227767,
-          "name": "João Muniz",
-          "position": "Defence",
-          "dateOfBirth": "2005-06-26",
-          "nationality": "Portugal"
-        },
-        {
-          "id": 229418,
-          "name": "Rayan Lucas",
-          "position": "Defence",
-          "dateOfBirth": "2005-01-03",
-          "nationality": "Brazil"
-        },
-        {
-          "id": 242475,
-          "name": "Bruno Ramos",
-          "position": "Defence",
-          "dateOfBirth": "2005-01-18",
-          "nationality": "Brazil"
-        },
-        {
-          "id": 277088,
-          "name": "David Moreira",
-          "position": "Defence",
-          "dateOfBirth": "2004-04-18",
-          "nationality": "Portugal"
+          "dateOfBirth": "2004-11-16",
+          "nationality": "Cote d'Ivoire"
         },
         {
           "id": 282381,
@@ -53223,18 +53118,25 @@
           "nationality": "Portugal"
         },
         {
-          "id": 49092,
-          "name": "Hidemasa Morita",
-          "position": "Midfield",
-          "dateOfBirth": "1995-05-10",
-          "nationality": "Japan"
-        },
-        {
           "id": 102336,
           "name": "Daniel Bragança",
           "position": "Midfield",
           "dateOfBirth": "1999-05-27",
           "nationality": "Portugal"
+        },
+        {
+          "id": 121007,
+          "name": "Rodrigo Zalazar",
+          "position": "Midfield",
+          "dateOfBirth": "1999-08-12",
+          "nationality": "Uruguay"
+        },
+        {
+          "id": 130062,
+          "name": "Sotiris Alexandropoulos",
+          "position": "Midfield",
+          "dateOfBirth": "2001-11-26",
+          "nationality": "Greece"
         },
         {
           "id": 144628,
@@ -53244,24 +53146,45 @@
           "nationality": "Georgia"
         },
         {
-          "id": 217543,
-          "name": "Samuel Justo",
+          "id": 146110,
+          "name": "Koba Koindredi",
           "position": "Midfield",
-          "dateOfBirth": "2004-04-02",
-          "nationality": "Portugal"
+          "dateOfBirth": "2001-10-27",
+          "nationality": "France"
+        },
+        {
+          "id": 188816,
+          "name": "Issa Doumbia",
+          "position": "Midfield",
+          "dateOfBirth": "2003-10-16",
+          "nationality": "Italy"
+        },
+        {
+          "id": 192912,
+          "name": "Pedro Lima",
+          "position": "Midfield",
+          "dateOfBirth": "2003-03-27",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 212861,
+          "name": "Sergi Altimira",
+          "position": "Midfield",
+          "dateOfBirth": "2001-08-25",
+          "nationality": "Spain"
+        },
+        {
+          "id": 217997,
+          "name": "Silas Andersen",
+          "position": "Midfield",
+          "dateOfBirth": "2004-06-13",
+          "nationality": "Denmark"
         },
         {
           "id": 270551,
           "name": "João Simões",
           "position": "Midfield",
           "dateOfBirth": "2007-01-06",
-          "nationality": "Portugal"
-        },
-        {
-          "id": 273613,
-          "name": "Eduardo Felicíssimo",
-          "position": "Midfield",
-          "dateOfBirth": "2007-01-08",
           "nationality": "Portugal"
         },
         {
@@ -53277,13 +53200,6 @@
           "position": "Offence",
           "dateOfBirth": "1997-12-02",
           "nationality": "Colombia"
-        },
-        {
-          "id": 37332,
-          "name": "Trincão",
-          "position": "Offence",
-          "dateOfBirth": "1999-12-29",
-          "nationality": "Portugal"
         },
         {
           "id": 92050,
@@ -53314,31 +53230,10 @@
           "nationality": "Brazil"
         },
         {
-          "id": 204124,
-          "name": "Mauro Couto",
-          "position": "Offence",
-          "dateOfBirth": "2005-11-15",
-          "nationality": "Portugal"
-        },
-        {
-          "id": 229421,
-          "name": "Geovany Quenda",
-          "position": "Offence",
-          "dateOfBirth": "2007-04-30",
-          "nationality": "Guinea-Bissau"
-        },
-        {
           "id": 247303,
           "name": "Rafael Nel",
           "position": "Offence",
           "dateOfBirth": "2005-04-03",
-          "nationality": "Portugal"
-        },
-        {
-          "id": 275336,
-          "name": "Lucas Anjos",
-          "position": "Offence",
-          "dateOfBirth": "2004-07-07",
           "nationality": "Portugal"
         },
         {
@@ -53349,15 +53244,15 @@
           "nationality": "Senegal"
         },
         {
-          "id": 73998,
-          "name": "Morten Hjulmand",
-          "position": "Defensive Midfield",
-          "dateOfBirth": "1999-06-25",
-          "nationality": "Denmark"
+          "id": 292473,
+          "name": "Jesse Derry",
+          "position": "Offence",
+          "dateOfBirth": "2007-06-30",
+          "nationality": "England"
         }
       ],
       "lastUpdated": "2022-07-26T17:38:53Z",
-      "_profileCompetitionCode": "CL",
+      "_profileCompetitionCode": "PPL",
       "_profileFetchedAt": "2026-08-04 23:13 UTC"
     },
     {
@@ -60011,7 +59906,7 @@
   ],
   "profileSync": {
     "matchCompetitionCode": "WC",
-    "profileCompetitionProcessed": "DED",
+    "profileCompetitionProcessed": "PPL",
     "profileCompetitionTeamCount": 18,
     "profileCompetitionSquads": 18,
     "profileCompetitionCodes": [
@@ -60026,7 +59921,7 @@
       "CL",
       "ELC"
     ],
-    "nextCompetitionIndex": 7,
+    "nextCompetitionIndex": 8,
     "teamCount": 214,
     "profilesWithSquad": 183,
     "profilesPending": 31,
