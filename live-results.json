@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-09 15:50 UTC",
-  "lastUpdate": "2026-08-09 15:50 UTC",
+  "generatedAt": "2026-08-09 16:40 UTC",
+  "lastUpdate": "2026-08-09 16:40 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -16425,13 +16425,6 @@
           "nationality": "Canada"
         },
         {
-          "id": 113175,
-          "name": "Tajon Buchanan",
-          "position": "Midfield",
-          "dateOfBirth": "1999-02-08",
-          "nationality": "Canada"
-        },
-        {
           "id": 171216,
           "name": "Nathan-Dylan Saliba",
           "position": "Midfield",
@@ -16485,6 +16478,13 @@
           "name": "Jacob Shaffelburg",
           "position": "Offence",
           "dateOfBirth": "1999-11-26",
+          "nationality": "Canada"
+        },
+        {
+          "id": 113175,
+          "name": "Tajon Buchanan",
+          "position": "Offence",
+          "dateOfBirth": "1999-02-08",
           "nationality": "Canada"
         },
         {
@@ -23303,13 +23303,6 @@
           "nationality": "England"
         },
         {
-          "id": 7848,
-          "name": "Anthony Gordon",
-          "position": "Midfield",
-          "dateOfBirth": "2001-02-24",
-          "nationality": "England"
-        },
-        {
           "id": 8215,
           "name": "Declan Rice",
           "position": "Midfield",
@@ -23363,6 +23356,13 @@
           "name": "Ivan Toney",
           "position": "Offence",
           "dateOfBirth": "1996-03-16",
+          "nationality": "England"
+        },
+        {
+          "id": 7848,
+          "name": "Anthony Gordon",
+          "position": "Offence",
+          "dateOfBirth": "2001-02-24",
           "nationality": "England"
         },
         {
@@ -46447,13 +46447,6 @@
           "nationality": "Japan"
         },
         {
-          "id": 48555,
-          "name": "Takefusa Kubo",
-          "position": "Midfield",
-          "dateOfBirth": "2001-06-04",
-          "nationality": "Japan"
-        },
-        {
           "id": 49105,
           "name": "Ao Tanaka",
           "position": "Midfield",
@@ -46479,6 +46472,13 @@
           "name": "Daizen Maeda",
           "position": "Offence",
           "dateOfBirth": "1997-10-20",
+          "nationality": "Japan"
+        },
+        {
+          "id": 48555,
+          "name": "Takefusa Kubo",
+          "position": "Offence",
+          "dateOfBirth": "2001-06-04",
           "nationality": "Japan"
         },
         {
@@ -47737,13 +47737,6 @@
           "nationality": "Morocco"
         },
         {
-          "id": 7887,
-          "name": "Brahim Diaz",
-          "position": "Midfield",
-          "dateOfBirth": "1999-08-03",
-          "nationality": "Morocco"
-        },
-        {
           "id": 122511,
           "name": "Azzedine Ounahi",
           "position": "Midfield",
@@ -47783,6 +47776,13 @@
           "name": "Samir El Mourabet",
           "position": "Midfield",
           "dateOfBirth": "2005-10-06",
+          "nationality": "Morocco"
+        },
+        {
+          "id": 7887,
+          "name": "Brahim Diaz",
+          "position": "Offence",
+          "dateOfBirth": "1999-08-03",
           "nationality": "Morocco"
         },
         {
@@ -56699,13 +56699,6 @@
           "nationality": "Portugal"
         },
         {
-          "id": 3259,
-          "name": "Gonçalo Guedes",
-          "position": "Midfield",
-          "dateOfBirth": "1996-11-29",
-          "nationality": "Portugal"
-        },
-        {
           "id": 140814,
           "name": "Samuel Almeida Costa",
           "position": "Midfield",
@@ -56738,6 +56731,13 @@
           "name": "Pedro Neto",
           "position": "Offence",
           "dateOfBirth": "2000-03-09",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 3259,
+          "name": "Gonçalo Guedes",
+          "position": "Offence",
+          "dateOfBirth": "1996-11-29",
           "nationality": "Portugal"
         },
         {
@@ -61441,6 +61441,13 @@
           "nationality": "Spain"
         },
         {
+          "id": 70,
+          "name": "Marcos Llorente",
+          "position": "Defence",
+          "dateOfBirth": "1995-01-30",
+          "nationality": "Spain"
+        },
+        {
           "id": 7884,
           "name": "Aymeric Laporte",
           "position": "Defence",
@@ -61497,13 +61504,6 @@
           "nationality": "Spain"
         },
         {
-          "id": 70,
-          "name": "Marcos Llorente",
-          "position": "Midfield",
-          "dateOfBirth": "1995-01-30",
-          "nationality": "Spain"
-        },
-        {
           "id": 3199,
           "name": "Rodri",
           "position": "Midfield",
@@ -61522,13 +61522,6 @@
           "name": "Dani Olmo",
           "position": "Midfield",
           "dateOfBirth": "1998-05-07",
-          "nationality": "Spain"
-        },
-        {
-          "id": 33154,
-          "name": "Ferrán Torres",
-          "position": "Midfield",
-          "dateOfBirth": "2000-02-29",
           "nationality": "Spain"
         },
         {
@@ -61553,13 +61546,6 @@
           "nationality": "Spain"
         },
         {
-          "id": 180137,
-          "name": "Mikel Oyarzabal",
-          "position": "Midfield",
-          "dateOfBirth": "1997-04-21",
-          "nationality": "Spain"
-        },
-        {
           "id": 213278,
           "name": "Álex Baena",
           "position": "Midfield",
@@ -61574,6 +61560,13 @@
           "nationality": "Spain"
         },
         {
+          "id": 33154,
+          "name": "Ferrán Torres",
+          "position": "Offence",
+          "dateOfBirth": "2000-02-29",
+          "nationality": "Spain"
+        },
+        {
           "id": 152505,
           "name": "Yeremi Pino",
           "position": "Offence",
@@ -61585,6 +61578,13 @@
           "name": "Nico Williams",
           "position": "Offence",
           "dateOfBirth": "2002-07-12",
+          "nationality": "Spain"
+        },
+        {
+          "id": 180137,
+          "name": "Mikel Oyarzabal",
+          "position": "Offence",
+          "dateOfBirth": "1997-04-21",
           "nationality": "Spain"
         },
         {
@@ -62320,13 +62320,6 @@
           "nationality": "Switzerland"
         },
         {
-          "id": 31913,
-          "name": "Ruben Vargas",
-          "position": "Midfield",
-          "dateOfBirth": "1998-08-05",
-          "nationality": "Switzerland"
-        },
-        {
           "id": 144909,
           "name": "Ardon Jasari",
           "position": "Midfield",
@@ -62366,6 +62359,13 @@
           "name": "Cédric Itten",
           "position": "Offence",
           "dateOfBirth": "1996-12-27",
+          "nationality": "Switzerland"
+        },
+        {
+          "id": 31913,
+          "name": "Ruben Vargas",
+          "position": "Offence",
+          "dateOfBirth": "1998-08-05",
           "nationality": "Switzerland"
         },
         {
@@ -64579,9 +64579,9 @@
   ],
   "profileSync": {
     "matchCompetitionCode": "WC",
-    "profileCompetitionProcessed": "ELC",
-    "profileCompetitionTeamCount": 24,
-    "profileCompetitionSquads": 24,
+    "profileCompetitionProcessed": "WC",
+    "profileCompetitionTeamCount": 48,
+    "profileCompetitionSquads": 48,
     "profileCompetitionCodes": [
       "WC",
       "PL",
@@ -64594,7 +64594,7 @@
       "CL",
       "ELC"
     ],
-    "nextCompetitionIndex": 0,
+    "nextCompetitionIndex": 1,
     "teamCount": 214,
     "profilesWithSquad": 199,
     "profilesPending": 15,
