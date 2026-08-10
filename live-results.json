@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-10 00:35 UTC",
-  "lastUpdate": "2026-08-10 00:35 UTC",
+  "generatedAt": "2026-08-10 03:00 UTC",
+  "lastUpdate": "2026-08-10 03:00 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -59397,7 +59397,7 @@
       },
       "lastUpdated": "2022-02-19T08:23:45Z",
       "_profileCompetitionCode": "PD",
-      "_profileFetchedAt": "2026-08-09 10:45 UTC",
+      "_profileFetchedAt": "2026-08-10 03:00 UTC",
       "squad": [
         {
           "id": 283,
@@ -59636,8 +59636,8 @@
         }
       },
       "lastUpdated": "2022-03-06T09:31:27Z",
-      "_profileCompetitionCode": "CL",
-      "_profileFetchedAt": "2026-08-09 10:45 UTC",
+      "_profileCompetitionCode": "PD",
+      "_profileFetchedAt": "2026-08-10 03:00 UTC",
       "squad": [
         {
           "id": 32570,
@@ -59647,17 +59647,17 @@
           "nationality": "Spain"
         },
         {
+          "id": 172017,
+          "name": "Julen Agirrezabala",
+          "position": "Goalkeeper",
+          "dateOfBirth": "2000-12-26",
+          "nationality": "Spain"
+        },
+        {
           "id": 203459,
           "name": "Álex Padilla",
           "position": "Goalkeeper",
           "dateOfBirth": "2003-09-01",
-          "nationality": "Spain"
-        },
-        {
-          "id": 286275,
-          "name": "Mikel Santos",
-          "position": "Goalkeeper",
-          "dateOfBirth": "2004-11-01",
           "nationality": "Spain"
         },
         {
@@ -59710,10 +59710,10 @@
           "nationality": "Spain"
         },
         {
-          "id": 217432,
-          "name": "Unai Eguíluz",
+          "id": 229042,
+          "name": "Hugo Rincón",
           "position": "Defence",
-          "dateOfBirth": "2002-03-19",
+          "dateOfBirth": "2003-01-27",
           "nationality": "Spain"
         },
         {
@@ -59724,31 +59724,10 @@
           "nationality": "Spain"
         },
         {
-          "id": 276865,
-          "name": "Aimar Duñabeitia",
+          "id": 261644,
+          "name": "Unai Egiluz",
           "position": "Defence",
-          "dateOfBirth": "2003-02-26",
-          "nationality": "Spain"
-        },
-        {
-          "id": 276982,
-          "name": "Ander Izagirre",
-          "position": "Defence",
-          "dateOfBirth": "2003-06-28",
-          "nationality": "Spain"
-        },
-        {
-          "id": 283817,
-          "name": "Jon de Luis",
-          "position": "Defence",
-          "dateOfBirth": "2003-08-05",
-          "nationality": "Spain"
-        },
-        {
-          "id": 286606,
-          "name": "Iker Monreal",
-          "position": "Defence",
-          "dateOfBirth": "2005-07-03",
+          "dateOfBirth": "2002-03-19",
           "nationality": "Spain"
         },
         {
@@ -59766,6 +59745,13 @@
           "nationality": "Spain"
         },
         {
+          "id": 141828,
+          "name": "Unai Vencedor Paris",
+          "position": "Midfield",
+          "dateOfBirth": "2000-11-15",
+          "nationality": "Spain"
+        },
+        {
           "id": 168663,
           "name": "Benat Prados",
           "position": "Midfield",
@@ -59780,6 +59766,13 @@
           "nationality": "Spain"
         },
         {
+          "id": 270747,
+          "name": "Peio Canales",
+          "position": "Midfield",
+          "dateOfBirth": "2005-01-17",
+          "nationality": "Spain"
+        },
+        {
           "id": 278297,
           "name": "Alejandro Rego",
           "position": "Midfield",
@@ -59787,10 +59780,10 @@
           "nationality": "Spain"
         },
         {
-          "id": 287081,
-          "name": "Ibon Sánchez",
+          "id": 279951,
+          "name": "Beñat Gerenabarrena",
           "position": "Midfield",
-          "dateOfBirth": "2004-03-08",
+          "dateOfBirth": "2003-03-29",
           "nationality": "Spain"
         },
         {
@@ -59843,17 +59836,10 @@
           "nationality": "Spain"
         },
         {
-          "id": 189820,
-          "name": "Urko Izeta",
+          "id": 185137,
+          "name": "Álvaro Djaló",
           "position": "Offence",
-          "dateOfBirth": "1999-09-29",
-          "nationality": "Spain"
-        },
-        {
-          "id": 231471,
-          "name": "Endika Buján",
-          "position": "Offence",
-          "dateOfBirth": "2003-01-16",
+          "dateOfBirth": "1999-08-16",
           "nationality": "Spain"
         },
         {
@@ -59861,55 +59847,6 @@
           "name": "Sannadi",
           "position": "Offence",
           "dateOfBirth": "2001-02-01",
-          "nationality": "Spain"
-        },
-        {
-          "id": 287080,
-          "name": "Adrián Pérez",
-          "position": "Offence",
-          "dateOfBirth": "2006-10-25",
-          "nationality": "Spain"
-        },
-        {
-          "id": 289113,
-          "name": "Asier Hierro",
-          "position": "Offence",
-          "dateOfBirth": "2005-05-06",
-          "nationality": "Spain"
-        },
-        {
-          "id": 289717,
-          "name": "Éder García",
-          "position": "Offence",
-          "dateOfBirth": "2004-01-04",
-          "nationality": "Spain"
-        },
-        {
-          "id": 291751,
-          "name": "Elijah Gift",
-          "position": "Offence",
-          "dateOfBirth": "2006-06-11",
-          "nationality": "Spain"
-        },
-        {
-          "id": 96868,
-          "name": "Mikel Vesga",
-          "position": "Defensive Midfield",
-          "dateOfBirth": "1993-04-08",
-          "nationality": "Spain"
-        },
-        {
-          "id": 32581,
-          "name": "Iñigo Lekue",
-          "position": "Right-Back",
-          "dateOfBirth": "1993-05-04",
-          "nationality": "Spain"
-        },
-        {
-          "id": 202335,
-          "name": "Unai Gomez",
-          "position": "Attacking Midfield",
-          "dateOfBirth": "2003-05-25",
           "nationality": "Spain"
         }
       ]
@@ -59953,56 +59890,21 @@
         }
       },
       "lastUpdated": "2026-07-04T11:58:34Z",
-      "_profileCompetitionCode": "CL",
+      "_profileCompetitionCode": "PD",
       "_profileFetchedAt": "2026-08-09 10:46 UTC",
       "squad": [
-        {
-          "id": 120,
-          "name": "Jan Oblak",
-          "position": "Goalkeeper",
-          "dateOfBirth": "1993-01-07",
-          "nationality": "Slovenia"
-        },
-        {
-          "id": 46554,
-          "name": "Juan Musso",
-          "position": "Goalkeeper",
-          "dateOfBirth": "1994-05-06",
-          "nationality": "Argentina"
-        },
-        {
-          "id": 203506,
-          "name": "Mario de Luis",
-          "position": "Goalkeeper",
-          "dateOfBirth": "2002-05-06",
-          "nationality": "Spain"
-        },
-        {
-          "id": 279062,
-          "name": "Salvi Esquivel",
-          "position": "Goalkeeper",
-          "dateOfBirth": "2005-09-30",
-          "nationality": "Spain"
-        },
-        {
-          "id": 293698,
-          "name": "Álvaro Moreno",
-          "position": "Goalkeeper",
-          "dateOfBirth": "2006-06-05",
-          "nationality": "Spain"
-        },
-        {
-          "id": 63,
-          "name": "Clément Lenglet",
-          "position": "Defence",
-          "dateOfBirth": "1995-06-17",
-          "nationality": "France"
-        },
         {
           "id": 70,
           "name": "Marcos Llorente",
           "position": "Defence",
           "dateOfBirth": "1995-01-30",
+          "nationality": "Spain"
+        },
+        {
+          "id": 16739,
+          "name": "Alejandro Grimaldo",
+          "position": "Defence",
+          "dateOfBirth": "1995-09-20",
           "nationality": "Spain"
         },
         {
@@ -60020,221 +59922,11 @@
           "nationality": "Spain"
         },
         {
-          "id": 176745,
-          "name": "Marc Pubill",
-          "position": "Defence",
-          "dateOfBirth": "2003-06-20",
-          "nationality": "Spain"
-        },
-        {
-          "id": 213277,
-          "name": "José Giménez",
-          "position": "Defence",
-          "dateOfBirth": "1995-01-20",
-          "nationality": "Uruguay"
-        },
-        {
-          "id": 261186,
-          "name": "Aleksa Puric",
-          "position": "Defence",
-          "dateOfBirth": "2003-07-07",
-          "nationality": "Serbia"
-        },
-        {
-          "id": 270792,
-          "name": "Gerónimo Spina",
-          "position": "Defence",
-          "dateOfBirth": "2005-02-09",
-          "nationality": "Argentina"
-        },
-        {
-          "id": 289895,
-          "name": "Daniel Martínez",
-          "position": "Defence",
-          "dateOfBirth": "2004-05-05",
-          "nationality": "Spain"
-        },
-        {
-          "id": 291147,
-          "name": "Julio Díaz",
-          "position": "Defence",
-          "dateOfBirth": "2005-01-10",
-          "nationality": "Spain"
-        },
-        {
-          "id": 79953,
-          "name": "Thiago Almada",
-          "position": "Midfield",
-          "dateOfBirth": "2001-04-26",
-          "nationality": "Argentina"
-        },
-        {
-          "id": 123265,
-          "name": "Johnny",
-          "position": "Midfield",
-          "dateOfBirth": "2001-09-20",
-          "nationality": "USA"
-        },
-        {
-          "id": 170442,
-          "name": "Obed Vargas",
-          "position": "Midfield",
-          "dateOfBirth": "2005-08-05",
-          "nationality": "Mexico"
-        },
-        {
-          "id": 171955,
-          "name": "Javier Serrano",
-          "position": "Midfield",
-          "dateOfBirth": "2003-01-16",
-          "nationality": "Spain"
-        },
-        {
-          "id": 177509,
-          "name": "Pablo Barrios",
-          "position": "Midfield",
-          "dateOfBirth": "2003-06-15",
-          "nationality": "Spain"
-        },
-        {
-          "id": 189617,
-          "name": "Rodrigo Mendoza",
-          "position": "Midfield",
-          "dateOfBirth": "2005-03-15",
-          "nationality": "Spain"
-        },
-        {
-          "id": 213278,
-          "name": "Álex Baena",
-          "position": "Midfield",
-          "dateOfBirth": "2001-07-20",
-          "nationality": "Spain"
-        },
-        {
-          "id": 279061,
-          "name": "Alejandro Monserrate",
-          "position": "Midfield",
-          "dateOfBirth": "2006-01-28",
-          "nationality": "Spain"
-        },
-        {
-          "id": 279065,
-          "name": "Taufik",
-          "position": "Midfield",
-          "dateOfBirth": "2008-01-20",
-          "nationality": "Ghana"
-        },
-        {
-          "id": 294508,
-          "name": "Javi Morcillo",
-          "position": "Midfield",
-          "dateOfBirth": "2006-03-15",
-          "nationality": "Spain"
-        },
-        {
-          "id": 8167,
-          "name": "Alexander Sørloth",
-          "position": "Offence",
-          "dateOfBirth": "1995-12-05",
-          "nationality": "Norway"
-        },
-        {
           "id": 9554,
           "name": "Ademola Lookman",
           "position": "Offence",
           "dateOfBirth": "1997-10-20",
           "nationality": "Nigeria"
-        },
-        {
-          "id": 45680,
-          "name": "Nicolás González",
-          "position": "Offence",
-          "dateOfBirth": "1998-04-06",
-          "nationality": "Argentina"
-        },
-        {
-          "id": 98571,
-          "name": "Julián Álvarez",
-          "position": "Offence",
-          "dateOfBirth": "2000-01-31",
-          "nationality": "Argentina"
-        },
-        {
-          "id": 171964,
-          "name": "Giuliano Simeone",
-          "position": "Offence",
-          "dateOfBirth": "2002-12-18",
-          "nationality": "Argentina"
-        },
-        {
-          "id": 290429,
-          "name": "Iker Luque",
-          "position": "Offence",
-          "dateOfBirth": "2005-06-05",
-          "nationality": "Spain"
-        },
-        {
-          "id": 291335,
-          "name": "Sergio Sánchez",
-          "position": "Offence",
-          "dateOfBirth": "2007-03-20",
-          "nationality": "Spain"
-        },
-        {
-          "id": 294736,
-          "name": "Miguel Cubo",
-          "position": "Offence",
-          "dateOfBirth": "2008-02-08",
-          "nationality": "Spain"
-        },
-        {
-          "id": 151241,
-          "name": "Matteo Ruggeri",
-          "position": "Left Midfield",
-          "dateOfBirth": "2002-07-11",
-          "nationality": "Italy"
-        },
-        {
-          "id": 15542,
-          "name": "Dávid Hancko",
-          "position": "Centre-Back",
-          "dateOfBirth": "1997-12-13",
-          "nationality": "Slovakia"
-        },
-        {
-          "id": 114,
-          "name": "Antoine Griezmann",
-          "position": "Centre-Forward",
-          "dateOfBirth": "1991-03-21",
-          "nationality": "France"
-        },
-        {
-          "id": 112,
-          "name": "Koke",
-          "position": "Central Midfield",
-          "dateOfBirth": "1992-01-08",
-          "nationality": "Spain"
-        },
-        {
-          "id": 244719,
-          "name": "Rayane Belaid",
-          "position": "Left Winger",
-          "dateOfBirth": "2005-11-02",
-          "nationality": "Spain"
-        },
-        {
-          "id": 221562,
-          "name": "Javier Boñar",
-          "position": "Right-Back",
-          "dateOfBirth": "2005-06-03",
-          "nationality": "Spain"
-        },
-        {
-          "id": 206337,
-          "name": "Ilias Kostis",
-          "position": "Centre-Back",
-          "dateOfBirth": "2003-02-27",
-          "nationality": "Cyprus"
         }
       ]
     },
@@ -60277,7 +59969,7 @@
         }
       },
       "lastUpdated": "2024-07-29T17:09:22Z",
-      "_profileCompetitionCode": "CL",
+      "_profileCompetitionCode": "PD",
       "_profileFetchedAt": "2026-08-09 10:46 UTC",
       "squad": [
         {
@@ -60295,25 +59987,11 @@
           "nationality": "Spain"
         },
         {
-          "id": 217424,
-          "name": "Diego Kochen",
+          "id": 242551,
+          "name": "Áron Yaakobishvili",
           "position": "Goalkeeper",
-          "dateOfBirth": "2006-03-19",
-          "nationality": "USA"
-        },
-        {
-          "id": 286824,
-          "name": "Eder Aller",
-          "position": "Goalkeeper",
-          "dateOfBirth": "2007-04-04",
-          "nationality": "Spain"
-        },
-        {
-          "id": 2000,
-          "name": "João Cancelo",
-          "position": "Defence",
-          "dateOfBirth": "1994-05-27",
-          "nationality": "Portugal"
+          "dateOfBirth": "2006-03-06",
+          "nationality": "Hungary"
         },
         {
           "id": 3455,
@@ -60355,6 +60033,13 @@
           "name": "Pau Cubarsí",
           "position": "Defence",
           "dateOfBirth": "2007-01-22",
+          "nationality": "Spain"
+        },
+        {
+          "id": 227023,
+          "name": "Héctor Fort",
+          "position": "Defence",
+          "dateOfBirth": "2006-08-02",
           "nationality": "Spain"
         },
         {
@@ -60435,13 +60120,6 @@
           "nationality": "Spain"
         },
         {
-          "id": 270320,
-          "name": "Guille Fernández",
-          "position": "Midfield",
-          "dateOfBirth": "2008-06-18",
-          "nationality": "Spain"
-        },
-        {
           "id": 270450,
           "name": "Toni Fernández",
           "position": "Midfield",
@@ -60456,10 +60134,17 @@
           "nationality": "Spain"
         },
         {
-          "id": 3331,
-          "name": "Marcus Rashford",
+          "id": 298638,
+          "name": "Brian Fariñas",
+          "position": "Midfield",
+          "dateOfBirth": "2006-02-09",
+          "nationality": "Spain"
+        },
+        {
+          "id": 7848,
+          "name": "Anthony Gordon",
           "position": "Offence",
-          "dateOfBirth": "1997-10-31",
+          "dateOfBirth": "2001-02-24",
           "nationality": "England"
         },
         {
@@ -60477,6 +60162,20 @@
           "nationality": "Brazil"
         },
         {
+          "id": 82515,
+          "name": "Karim Adeyemi",
+          "position": "Offence",
+          "dateOfBirth": "2002-01-18",
+          "nationality": "Germany"
+        },
+        {
+          "id": 184723,
+          "name": "Roony Bardghji",
+          "position": "Offence",
+          "dateOfBirth": "2005-11-15",
+          "nationality": "Sweden"
+        },
+        {
           "id": 202283,
           "name": "Lamine Yamal",
           "position": "Offence",
@@ -60484,32 +60183,11 @@
           "nationality": "Spain"
         },
         {
-          "id": 205534,
-          "name": "Roony Bardagji",
+          "id": 298634,
+          "name": "Jesse Bisiwu",
           "position": "Offence",
-          "dateOfBirth": "2005-11-15",
-          "nationality": "Sweden"
-        },
-        {
-          "id": 207017,
-          "name": "Dani Rodríguez",
-          "position": "Offence",
-          "dateOfBirth": "2005-08-09",
-          "nationality": "Spain"
-        },
-        {
-          "id": 287866,
-          "name": "Juan Hernández",
-          "position": "Offence",
-          "dateOfBirth": "2007-07-21",
-          "nationality": "Spain"
-        },
-        {
-          "id": 371,
-          "name": "Robert Lewandowski",
-          "position": "Centre-Forward",
-          "dateOfBirth": "1988-08-21",
-          "nationality": "Poland"
+          "dateOfBirth": "2008-01-22",
+          "nationality": "Belgium"
         }
       ]
     },
@@ -60553,7 +60231,7 @@
       },
       "lastUpdated": "2024-07-29T17:10:02Z",
       "_profileCompetitionCode": "PD",
-      "_profileFetchedAt": "2026-08-09 10:45 UTC",
+      "_profileFetchedAt": "2026-08-10 03:00 UTC",
       "squad": [
         {
           "id": 2788,
@@ -61033,7 +60711,7 @@
       },
       "lastUpdated": "2022-02-24T07:42:28Z",
       "_profileCompetitionCode": "PD",
-      "_profileFetchedAt": "2026-08-09 10:45 UTC",
+      "_profileFetchedAt": "2026-08-10 03:00 UTC",
       "squad": [
         {
           "id": 23810,
@@ -62763,7 +62441,7 @@
         }
       },
       "lastUpdated": "2022-02-19T08:59:31Z",
-      "_profileCompetitionCode": "CL",
+      "_profileCompetitionCode": "PD",
       "_profileFetchedAt": "2026-08-09 10:46 UTC",
       "squad": [
         {
@@ -62781,41 +62459,6 @@
           "nationality": "Ukraine"
         },
         {
-          "id": 188407,
-          "name": "Sergio Mestre",
-          "position": "Goalkeeper",
-          "dateOfBirth": "2005-02-13",
-          "nationality": "Spain"
-        },
-        {
-          "id": 206826,
-          "name": "Fran Gonzalez",
-          "position": "Goalkeeper",
-          "dateOfBirth": "2005-06-24",
-          "nationality": "Spain"
-        },
-        {
-          "id": 287049,
-          "name": "Javi Navarro",
-          "position": "Goalkeeper",
-          "dateOfBirth": "2007-01-25",
-          "nationality": "Spain"
-        },
-        {
-          "id": 295679,
-          "name": "Álvaro González",
-          "position": "Goalkeeper",
-          "dateOfBirth": "2007-04-09",
-          "nationality": "Spain"
-        },
-        {
-          "id": 349,
-          "name": "David Alaba",
-          "position": "Defence",
-          "dateOfBirth": "1992-06-24",
-          "nationality": "Austria"
-        },
-        {
           "id": 1337,
           "name": "Éder Militão",
           "position": "Defence",
@@ -62828,6 +62471,13 @@
           "position": "Defence",
           "dateOfBirth": "1993-03-03",
           "nationality": "Germany"
+        },
+        {
+          "id": 7417,
+          "name": "Denzel Dumfries",
+          "position": "Defence",
+          "dateOfBirth": "1996-04-18",
+          "nationality": "Netherlands"
         },
         {
           "id": 7867,
@@ -62844,6 +62494,20 @@
           "nationality": "France"
         },
         {
+          "id": 9542,
+          "name": "Ibrahima Konaté",
+          "position": "Defence",
+          "dateOfBirth": "1999-05-25",
+          "nationality": "France"
+        },
+        {
+          "id": 15863,
+          "name": "Cucurella",
+          "position": "Defence",
+          "dateOfBirth": "1998-07-22",
+          "nationality": "Spain"
+        },
+        {
           "id": 182020,
           "name": "Álvaro Carreras",
           "position": "Defence",
@@ -62855,13 +62519,6 @@
           "name": "Dean Huijsen",
           "position": "Defence",
           "dateOfBirth": "2005-04-14",
-          "nationality": "Spain"
-        },
-        {
-          "id": 213266,
-          "name": "Fran García",
-          "position": "Defence",
-          "dateOfBirth": "1999-08-14",
           "nationality": "Spain"
         },
         {
@@ -62879,53 +62536,18 @@
           "nationality": "Spain"
         },
         {
-          "id": 273000,
-          "name": "Diego Aguado",
-          "position": "Defence",
-          "dateOfBirth": "2007-02-07",
-          "nationality": "Spain"
-        },
-        {
-          "id": 276963,
-          "name": "Víctor Valdepeñas",
-          "position": "Defence",
-          "dateOfBirth": "2006-10-20",
-          "nationality": "Spain"
-        },
-        {
-          "id": 279092,
-          "name": "Jesús Fortea",
-          "position": "Defence",
-          "dateOfBirth": "2007-03-26",
-          "nationality": "Spain"
-        },
-        {
-          "id": 289856,
-          "name": "Joan Martínez",
-          "position": "Defence",
-          "dateOfBirth": "2007-08-20",
-          "nationality": "Spain"
-        },
-        {
-          "id": 293490,
-          "name": "Lamini Fati",
-          "position": "Defence",
-          "dateOfBirth": "2006-04-18",
-          "nationality": "Spain"
-        },
-        {
-          "id": 295678,
-          "name": "Manu Serrano",
-          "position": "Defence",
-          "dateOfBirth": "2004-03-20",
-          "nationality": "Spain"
-        },
-        {
           "id": 96,
           "name": "Federico Valverde",
           "position": "Midfield",
           "dateOfBirth": "1998-07-22",
           "nationality": "Uruguay"
+        },
+        {
+          "id": 3254,
+          "name": "Bernardo Silva",
+          "position": "Midfield",
+          "dateOfBirth": "1994-08-10",
+          "nationality": "Portugal"
         },
         {
           "id": 8514,
@@ -62956,38 +62578,10 @@
           "nationality": "Turkey"
         },
         {
-          "id": 250304,
-          "name": "Franco Mastantuono",
-          "position": "Midfield",
-          "dateOfBirth": "2007-08-14",
-          "nationality": "Argentina"
-        },
-        {
           "id": 283110,
           "name": "Thiago Pitarch",
           "position": "Midfield",
           "dateOfBirth": "2007-08-03",
-          "nationality": "Spain"
-        },
-        {
-          "id": 289908,
-          "name": "Jorge Cestero",
-          "position": "Midfield",
-          "dateOfBirth": "2006-03-24",
-          "nationality": "Spain"
-        },
-        {
-          "id": 290848,
-          "name": "César Palacios",
-          "position": "Midfield",
-          "dateOfBirth": "2004-11-11",
-          "nationality": "Spain"
-        },
-        {
-          "id": 290974,
-          "name": "Dani Meso",
-          "position": "Midfield",
-          "dateOfBirth": "2005-09-03",
           "nationality": "Spain"
         },
         {
@@ -63026,46 +62620,25 @@
           "nationality": "Morocco"
         },
         {
-          "id": 217658,
-          "name": "Gonzalo García",
+          "id": 188487,
+          "name": "Endrick",
           "position": "Offence",
-          "dateOfBirth": "2004-03-24",
-          "nationality": "Spain"
+          "dateOfBirth": "2006-07-21",
+          "nationality": "Brazil"
         },
         {
-          "id": 263282,
-          "name": "Álvaro Leiva",
+          "id": 247061,
+          "name": "Carlos Espí",
           "position": "Offence",
-          "dateOfBirth": "2004-12-28",
+          "dateOfBirth": "2005-07-24",
           "nationality": "Spain"
         },
         {
-          "id": 273058,
-          "name": "Daniel Yáñez",
+          "id": 277484,
+          "name": "Yan Diomandé",
           "position": "Offence",
-          "dateOfBirth": "2007-03-28",
-          "nationality": "Spain"
-        },
-        {
-          "id": 274728,
-          "name": "Pol Fortuny",
-          "position": "Offence",
-          "dateOfBirth": "2005-03-11",
-          "nationality": "Spain"
-        },
-        {
-          "id": 3194,
-          "name": "Dani Carvajal",
-          "position": "Right-Back",
-          "dateOfBirth": "1992-01-11",
-          "nationality": "Spain"
-        },
-        {
-          "id": 68,
-          "name": "Dani Ceballos",
-          "position": "Central Midfield",
-          "dateOfBirth": "1996-08-07",
-          "nationality": "Spain"
+          "dateOfBirth": "2006-11-14",
+          "nationality": "Ivory Coast"
         }
       ]
     },
@@ -63109,7 +62682,7 @@
       },
       "lastUpdated": "2024-07-29T17:10:27Z",
       "_profileCompetitionCode": "PD",
-      "_profileFetchedAt": "2026-08-09 10:45 UTC",
+      "_profileFetchedAt": "2026-08-10 03:00 UTC",
       "squad": [
         {
           "id": 32413,
@@ -63505,7 +63078,7 @@
       },
       "lastUpdated": "2024-07-29T17:09:57Z",
       "_profileCompetitionCode": "PD",
-      "_profileFetchedAt": "2026-08-09 10:45 UTC",
+      "_profileFetchedAt": "2026-08-10 03:00 UTC",
       "squad": [
         {
           "id": 42871,
@@ -63935,7 +63508,7 @@
       },
       "lastUpdated": "2024-07-29T17:10:18Z",
       "_profileCompetitionCode": "PD",
-      "_profileFetchedAt": "2026-08-09 10:45 UTC",
+      "_profileFetchedAt": "2026-08-10 03:00 UTC",
       "squad": [
         {
           "id": 33137,
@@ -64153,36 +63726,22 @@
         }
       },
       "lastUpdated": "2022-02-22T18:26:04Z",
-      "_profileCompetitionCode": "CL",
+      "_profileCompetitionCode": "PD",
       "_profileFetchedAt": "2026-08-09 10:46 UTC",
       "squad": [
         {
-          "id": 146023,
-          "name": "Arnau Tenas",
+          "id": 9533,
+          "name": "Péter Gulácsi",
           "position": "Goalkeeper",
-          "dateOfBirth": "2001-05-30",
-          "nationality": "Spain"
+          "dateOfBirth": "1990-05-06",
+          "nationality": "Hungary"
         },
         {
-          "id": 150546,
-          "name": "Diego Conde",
-          "position": "Goalkeeper",
-          "dateOfBirth": "1998-10-28",
-          "nationality": "Spain"
-        },
-        {
-          "id": 178718,
-          "name": "Luiz Junior",
+          "id": 150899,
+          "name": "Luiz Lúcio Reis Júnior",
           "position": "Goalkeeper",
           "dateOfBirth": "2001-01-14",
           "nationality": "Brazil"
-        },
-        {
-          "id": 188765,
-          "name": "Ruben Gomez",
-          "position": "Goalkeeper",
-          "dateOfBirth": "2002-01-24",
-          "nationality": "Spain"
         },
         {
           "id": 814,
@@ -64220,6 +63779,13 @@
           "nationality": "Spain"
         },
         {
+          "id": 186564,
+          "name": "Carlos Romero",
+          "position": "Defence",
+          "dateOfBirth": "2001-10-29",
+          "nationality": "Spain"
+        },
+        {
           "id": 212858,
           "name": "Santiago Mouriño",
           "position": "Defence",
@@ -64234,39 +63800,11 @@
           "nationality": "Spain"
         },
         {
-          "id": 229014,
-          "name": "Sierra Arnal",
-          "position": "Defence",
-          "dateOfBirth": "2003-03-17",
-          "nationality": "Spain"
-        },
-        {
           "id": 244860,
           "name": "Willy Kambwala",
           "position": "Defence",
           "dateOfBirth": "2004-08-25",
           "nationality": "DR Congo"
-        },
-        {
-          "id": 249095,
-          "name": "Dani Budesca",
-          "position": "Defence",
-          "dateOfBirth": "2006-10-11",
-          "nationality": "Spain"
-        },
-        {
-          "id": 272229,
-          "name": "Valou",
-          "position": "Defence",
-          "dateOfBirth": "2005-12-22",
-          "nationality": "Ivory Coast"
-        },
-        {
-          "id": 110,
-          "name": "Thomas Partey",
-          "position": "Midfield",
-          "dateOfBirth": "1993-06-13",
-          "nationality": "Ghana"
         },
         {
           "id": 633,
@@ -64276,8 +63814,8 @@
           "nationality": "Senegal"
         },
         {
-          "id": 213263,
-          "name": "Santi Comesaña",
+          "id": 32114,
+          "name": "Santiago Comesaña",
           "position": "Midfield",
           "dateOfBirth": "1996-10-05",
           "nationality": "Spain"
@@ -64288,13 +63826,6 @@
           "position": "Midfield",
           "dateOfBirth": "2005-05-14",
           "nationality": "Senegal"
-        },
-        {
-          "id": 285597,
-          "name": "Hugo López",
-          "position": "Midfield",
-          "dateOfBirth": null,
-          "nationality": "Spain"
         },
         {
           "id": 289770,
@@ -64316,13 +63847,6 @@
           "position": "Offence",
           "dateOfBirth": "1995-05-29",
           "nationality": "Ivory Coast"
-        },
-        {
-          "id": 32324,
-          "name": "Alfonso González",
-          "position": "Offence",
-          "dateOfBirth": "1999-05-04",
-          "nationality": "Spain"
         },
         {
           "id": 32719,
@@ -64353,6 +63877,13 @@
           "nationality": "Spain"
         },
         {
+          "id": 176202,
+          "name": "Ilias Akhomach",
+          "position": "Offence",
+          "dateOfBirth": "2004-04-16",
+          "nationality": "Morocco"
+        },
+        {
           "id": 177826,
           "name": "Tani Oluwaseyi",
           "position": "Offence",
@@ -64360,46 +63891,11 @@
           "nationality": "Canada"
         },
         {
-          "id": 286659,
-          "name": "Mahamoud Barry",
+          "id": 193621,
+          "name": "Thiago Fernandez",
           "position": "Offence",
-          "dateOfBirth": "2006-06-11",
-          "nationality": "Mali"
-        },
-        {
-          "id": 290388,
-          "name": "Joselillo",
-          "position": "Offence",
-          "dateOfBirth": "2007-02-25",
-          "nationality": "Spain"
-        },
-        {
-          "id": 176758,
-          "name": "Rafa Marin",
-          "position": "Centre-Back",
-          "dateOfBirth": "2002-05-19",
-          "nationality": "Spain"
-        },
-        {
-          "id": 3198,
-          "name": "Dani Parejo",
-          "position": "Central Midfield",
-          "dateOfBirth": "1989-04-16",
-          "nationality": "Spain"
-        },
-        {
-          "id": 267,
-          "name": "Alfonso Pedraza",
-          "position": "Left-Back",
-          "dateOfBirth": "1996-04-09",
-          "nationality": "Spain"
-        },
-        {
-          "id": 252919,
-          "name": "Pau Cabanes",
-          "position": "Centre-Forward",
-          "dateOfBirth": "2005-02-17",
-          "nationality": "Spain"
+          "dateOfBirth": "2004-04-03",
+          "nationality": "Argentina"
         }
       ]
     },
@@ -67045,7 +66541,7 @@
   ],
   "profileSync": {
     "matchCompetitionCode": "WC",
-    "profileCompetitionProcessed": "PL",
+    "profileCompetitionProcessed": "PD",
     "profileCompetitionTeamCount": 20,
     "profileCompetitionSquads": 20,
     "profileCompetitionCodes": [
@@ -67060,7 +66556,7 @@
       "CL",
       "ELC"
     ],
-    "nextCompetitionIndex": 2,
+    "nextCompetitionIndex": 3,
     "teamCount": 214,
     "profilesWithSquad": 214,
     "profilesPending": 0,
