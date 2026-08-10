@@ -33,10 +33,14 @@ jobs:
           API_TOKEN: ${{ secrets.API_TOKEN }}
         run: python update.py
 
-      - name: Commit changes
+      - name: Commit only real data changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add live-results.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto update Football Fun data"
+          if git diff --staged --quiet -- live-results.json; then
+            echo "No football data changes to commit."
+            exit 0
+          fi
+          git commit -m "Auto update Football Fun data"
           git push
