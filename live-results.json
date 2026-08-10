@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-10 21:05 UTC",
-  "lastUpdate": "2026-08-10 21:05 UTC",
+  "generatedAt": "2026-08-10 22:02 UTC",
+  "lastUpdate": "2026-08-10 22:02 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -174063,11 +174063,11 @@
       },
       "id": 567257,
       "utcDate": "2026-08-10T19:15:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-10T23:05:03Z",
+      "lastUpdated": "2026-08-10T23:11:27Z",
       "homeTeam": {
         "id": 5530,
         "name": "CD Santa Clara",
@@ -219179,74 +219179,7 @@
       ]
     }
   ],
-  "live": [
-    {
-      "area": {
-        "id": 2187,
-        "name": "Portugal",
-        "code": "POR",
-        "flag": "https://crests.football-data.org/765.svg"
-      },
-      "competition": {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      },
-      "season": {
-        "id": 2526,
-        "startDate": "2026-08-08",
-        "endDate": "2027-05-16",
-        "currentMatchday": 1,
-        "winner": null
-      },
-      "id": 567257,
-      "utcDate": "2026-08-10T19:15:00Z",
-      "status": "IN_PLAY",
-      "matchday": 1,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-10T23:05:03Z",
-      "homeTeam": {
-        "id": 5530,
-        "name": "CD Santa Clara",
-        "shortName": "Santa Clara",
-        "tla": "CD ",
-        "crest": "https://crests.football-data.org/5530.png"
-      },
-      "awayTeam": {
-        "id": 5529,
-        "name": "CD Nacional",
-        "shortName": "CD Nacional",
-        "tla": "CDN",
-        "crest": "https://crests.football-data.org/5529.png"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 2,
-          "away": 2
-        },
-        "halfTime": {
-          "home": 2,
-          "away": 2
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 220533,
-          "name": "Hélder Carvalho",
-          "type": "REFEREE",
-          "nationality": "Portugal"
-        }
-      ]
-    }
-  ],
+  "live": [],
   "finished": [
     {
       "area": {
@@ -239805,6 +239738,72 @@
         {
           "id": 98928,
           "name": "David Silva",
+          "type": "REFEREE",
+          "nationality": "Portugal"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "competition": {
+        "id": 2017,
+        "name": "Primeira Liga",
+        "code": "PPL",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/PPL.png"
+      },
+      "season": {
+        "id": 2526,
+        "startDate": "2026-08-08",
+        "endDate": "2027-05-16",
+        "currentMatchday": 1,
+        "winner": null
+      },
+      "id": 567257,
+      "utcDate": "2026-08-10T19:15:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-10T23:11:27Z",
+      "homeTeam": {
+        "id": 5530,
+        "name": "CD Santa Clara",
+        "shortName": "Santa Clara",
+        "tla": "CD ",
+        "crest": "https://crests.football-data.org/5530.png"
+      },
+      "awayTeam": {
+        "id": 5529,
+        "name": "CD Nacional",
+        "shortName": "CD Nacional",
+        "tla": "CDN",
+        "crest": "https://crests.football-data.org/5529.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 2
+        },
+        "halfTime": {
+          "home": 2,
+          "away": 2
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 220533,
+          "name": "Hélder Carvalho",
           "type": "REFEREE",
           "nationality": "Portugal"
         }
@@ -495772,62 +495771,62 @@
     "CL": {
       "status": "connected",
       "matchCount": 189,
-      "updatedAt": "2026-08-10 21:02 UTC"
+      "updatedAt": "2026-08-10 21:59 UTC"
     },
     "PL": {
       "status": "connected",
       "matchCount": 380,
-      "updatedAt": "2026-08-10 21:03 UTC"
+      "updatedAt": "2026-08-10 21:59 UTC"
     },
     "ELC": {
       "status": "connected",
       "matchCount": 552,
-      "updatedAt": "2026-08-10 21:03 UTC"
+      "updatedAt": "2026-08-10 21:59 UTC"
     },
     "PD": {
       "status": "connected",
       "matchCount": 380,
-      "updatedAt": "2026-08-10 21:03 UTC"
+      "updatedAt": "2026-08-10 22:00 UTC"
     },
     "BL1": {
       "status": "connected",
       "matchCount": 306,
-      "updatedAt": "2026-08-10 21:04 UTC"
+      "updatedAt": "2026-08-10 22:00 UTC"
     },
     "SA": {
       "status": "connected",
       "matchCount": 380,
-      "updatedAt": "2026-08-10 21:04 UTC"
+      "updatedAt": "2026-08-10 22:00 UTC"
     },
     "FL1": {
       "status": "connected",
       "matchCount": 306,
-      "updatedAt": "2026-08-10 21:04 UTC"
+      "updatedAt": "2026-08-10 22:01 UTC"
     },
     "DED": {
       "status": "connected",
       "matchCount": 306,
-      "updatedAt": "2026-08-10 21:04 UTC"
+      "updatedAt": "2026-08-10 22:01 UTC"
     },
     "PPL": {
       "status": "connected",
       "matchCount": 306,
-      "updatedAt": "2026-08-10 21:05 UTC"
+      "updatedAt": "2026-08-10 22:01 UTC"
     },
     "BSA": {
       "status": "connected",
       "matchCount": 380,
-      "updatedAt": "2026-08-10 21:05 UTC"
+      "updatedAt": "2026-08-10 22:01 UTC"
     },
     "WC": {
       "status": "connected",
       "matchCount": 104,
-      "updatedAt": "2026-08-10 21:05 UTC"
+      "updatedAt": "2026-08-10 22:02 UTC"
     },
     "EC": {
       "status": "connected",
       "matchCount": 51,
-      "updatedAt": "2026-08-10 21:05 UTC"
+      "updatedAt": "2026-08-10 22:02 UTC"
     }
   },
   "competitionCodes": [
