@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-10 22:33 UTC",
-  "lastUpdate": "2026-08-10 22:33 UTC",
+  "generatedAt": "2026-08-10 23:41 UTC",
+  "lastUpdate": "2026-08-10 23:41 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -39609,7 +39609,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-11T00:20:14Z",
+      "lastUpdated": "2026-08-11T01:32:02Z",
       "homeTeam": {
         "id": 5527,
         "name": "Académico de Viseu FC",
@@ -39668,7 +39668,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-11T00:20:14Z",
+      "lastUpdated": "2026-08-11T01:32:02Z",
       "homeTeam": {
         "id": 263,
         "name": "Deportivo Alavés",
@@ -39904,7 +39904,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-11T00:20:14Z",
+      "lastUpdated": "2026-08-11T01:32:03Z",
       "homeTeam": {
         "id": 559,
         "name": "Sevilla FC",
@@ -40435,7 +40435,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-11T00:20:14Z",
+      "lastUpdated": "2026-08-11T01:32:03Z",
       "homeTeam": {
         "id": 5529,
         "name": "CD Nacional",
@@ -40612,7 +40612,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-11T00:20:14Z",
+      "lastUpdated": "2026-08-11T01:32:03Z",
       "homeTeam": {
         "id": 5335,
         "name": "Real Racing Club de Santander",
@@ -40671,7 +40671,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-11T00:20:14Z",
+      "lastUpdated": "2026-08-11T01:32:04Z",
       "homeTeam": {
         "id": 80,
         "name": "RCD Espanyol de Barcelona",
@@ -40907,7 +40907,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-11T00:20:14Z",
+      "lastUpdated": "2026-08-11T01:32:04Z",
       "homeTeam": {
         "id": 558,
         "name": "RC Celta de Vigo",
@@ -40966,7 +40966,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-11T00:20:14Z",
+      "lastUpdated": "2026-08-11T01:32:04Z",
       "homeTeam": {
         "id": 5531,
         "name": "FC Famalicão",
@@ -41261,7 +41261,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-10T07:45:12Z",
+      "lastUpdated": "2026-08-11T01:32:04Z",
       "homeTeam": {
         "id": 715,
         "name": "Cardiff City FC",
@@ -41320,7 +41320,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-11T00:20:14Z",
+      "lastUpdated": "2026-08-11T01:32:04Z",
       "homeTeam": {
         "id": 560,
         "name": "RC Deportivo La Coruña",
@@ -41379,7 +41379,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-11T00:20:14Z",
+      "lastUpdated": "2026-08-11T01:32:04Z",
       "homeTeam": {
         "id": 6618,
         "name": "Casa Pia AC",
@@ -41438,7 +41438,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-11T00:20:14Z",
+      "lastUpdated": "2026-08-11T01:32:04Z",
       "homeTeam": {
         "id": 6684,
         "name": "SC Internacional",
@@ -258478,7 +258478,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-11T00:20:14Z",
+      "lastUpdated": "2026-08-11T01:32:02Z",
       "homeTeam": {
         "id": 5527,
         "name": "Académico de Viseu FC",
@@ -258537,7 +258537,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-11T00:20:14Z",
+      "lastUpdated": "2026-08-11T01:32:02Z",
       "homeTeam": {
         "id": 263,
         "name": "Deportivo Alavés",
@@ -258773,7 +258773,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-11T00:20:14Z",
+      "lastUpdated": "2026-08-11T01:32:03Z",
       "homeTeam": {
         "id": 559,
         "name": "Sevilla FC",
@@ -259304,7 +259304,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-11T00:20:14Z",
+      "lastUpdated": "2026-08-11T01:32:03Z",
       "homeTeam": {
         "id": 5529,
         "name": "CD Nacional",
@@ -259481,7 +259481,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-11T00:20:14Z",
+      "lastUpdated": "2026-08-11T01:32:03Z",
       "homeTeam": {
         "id": 5335,
         "name": "Real Racing Club de Santander",
@@ -259540,7 +259540,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-11T00:20:14Z",
+      "lastUpdated": "2026-08-11T01:32:04Z",
       "homeTeam": {
         "id": 80,
         "name": "RCD Espanyol de Barcelona",
@@ -259776,7 +259776,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-11T00:20:14Z",
+      "lastUpdated": "2026-08-11T01:32:04Z",
       "homeTeam": {
         "id": 558,
         "name": "RC Celta de Vigo",
@@ -259835,7 +259835,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-11T00:20:14Z",
+      "lastUpdated": "2026-08-11T01:32:04Z",
       "homeTeam": {
         "id": 5531,
         "name": "FC Famalicão",
@@ -260130,7 +260130,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-10T07:45:12Z",
+      "lastUpdated": "2026-08-11T01:32:04Z",
       "homeTeam": {
         "id": 715,
         "name": "Cardiff City FC",
@@ -260189,7 +260189,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-11T00:20:14Z",
+      "lastUpdated": "2026-08-11T01:32:04Z",
       "homeTeam": {
         "id": 560,
         "name": "RC Deportivo La Coruña",
@@ -260248,7 +260248,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-11T00:20:14Z",
+      "lastUpdated": "2026-08-11T01:32:04Z",
       "homeTeam": {
         "id": 6618,
         "name": "Casa Pia AC",
@@ -260307,7 +260307,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-11T00:20:14Z",
+      "lastUpdated": "2026-08-11T01:32:04Z",
       "homeTeam": {
         "id": 6684,
         "name": "SC Internacional",
@@ -495793,7 +495793,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-08-10 22:31 UTC"
+      "lastSuccessfulUpdate": "2026-08-10 23:39 UTC"
     },
     "PD": {
       "status": "connected",
@@ -495802,7 +495802,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-10 22:31 UTC"
+      "lastSuccessfulUpdate": "2026-08-10 23:39 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -495847,7 +495847,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-10 22:32 UTC"
+      "lastSuccessfulUpdate": "2026-08-10 23:41 UTC"
     },
     "BSA": {
       "status": "connected",
@@ -495856,7 +495856,7 @@
       "seasonId": 2474,
       "seasonStart": "2026-01-28",
       "seasonEnd": "2026-12-02",
-      "lastSuccessfulUpdate": "2026-08-10 22:33 UTC"
+      "lastSuccessfulUpdate": "2026-08-10 23:41 UTC"
     },
     "WC": {
       "status": "connected",
