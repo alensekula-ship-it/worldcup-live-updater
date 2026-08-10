@@ -1,4 +1,4 @@
-name: Update World Cup Data
+name: Update Football Fun Data
 
 on:
   schedule:
@@ -8,10 +8,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: football-data-updater
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 10
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -22,20 +26,17 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Run updater
         env:
           API_TOKEN: ${{ secrets.API_TOKEN }}
-        run: |
-          python update.py
+        run: python update.py
 
       - name: Commit changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-
-          git add .
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto update live data"
+          git add live-results.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto update Football Fun data"
           git push
