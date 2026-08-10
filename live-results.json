@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-10 16:12 UTC",
-  "lastUpdate": "2026-08-10 16:12 UTC",
+  "generatedAt": "2026-08-10 17:13 UTC",
+  "lastUpdate": "2026-08-10 17:13 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -495757,62 +495757,62 @@
     "CL": {
       "status": "connected",
       "matchCount": 189,
-      "updatedAt": "2026-08-10 16:09 UTC"
+      "updatedAt": "2026-08-10 17:09 UTC"
     },
     "PL": {
       "status": "connected",
       "matchCount": 380,
-      "updatedAt": "2026-08-10 16:10 UTC"
+      "updatedAt": "2026-08-10 17:10 UTC"
     },
     "ELC": {
       "status": "connected",
       "matchCount": 552,
-      "updatedAt": "2026-08-10 16:10 UTC"
+      "updatedAt": "2026-08-10 17:10 UTC"
     },
     "PD": {
       "status": "connected",
       "matchCount": 380,
-      "updatedAt": "2026-08-10 16:10 UTC"
+      "updatedAt": "2026-08-10 17:10 UTC"
     },
     "BL1": {
       "status": "connected",
       "matchCount": 306,
-      "updatedAt": "2026-08-10 16:10 UTC"
+      "updatedAt": "2026-08-10 17:11 UTC"
     },
     "SA": {
       "status": "connected",
       "matchCount": 380,
-      "updatedAt": "2026-08-10 16:11 UTC"
+      "updatedAt": "2026-08-10 17:11 UTC"
     },
     "FL1": {
       "status": "connected",
       "matchCount": 306,
-      "updatedAt": "2026-08-10 16:11 UTC"
+      "updatedAt": "2026-08-10 17:11 UTC"
     },
     "DED": {
       "status": "connected",
       "matchCount": 306,
-      "updatedAt": "2026-08-10 16:11 UTC"
+      "updatedAt": "2026-08-10 17:12 UTC"
     },
     "PPL": {
       "status": "connected",
       "matchCount": 306,
-      "updatedAt": "2026-08-10 16:11 UTC"
+      "updatedAt": "2026-08-10 17:12 UTC"
     },
     "BSA": {
       "status": "connected",
       "matchCount": 380,
-      "updatedAt": "2026-08-10 16:12 UTC"
+      "updatedAt": "2026-08-10 17:12 UTC"
     },
     "WC": {
       "status": "connected",
       "matchCount": 104,
-      "updatedAt": "2026-08-10 16:12 UTC"
+      "updatedAt": "2026-08-10 17:12 UTC"
     },
     "EC": {
       "status": "connected",
       "matchCount": 51,
-      "updatedAt": "2026-08-10 16:12 UTC"
+      "updatedAt": "2026-08-10 17:13 UTC"
     }
   },
   "competitionCodes": [
