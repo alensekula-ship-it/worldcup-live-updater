@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-11 20:24 UTC",
-  "lastUpdate": "2026-08-11 20:24 UTC",
+  "generatedAt": "2026-08-11 20:55 UTC",
+  "lastUpdate": "2026-08-11 20:55 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -38120,6 +38120,10 @@
           "home": 0,
           "away": 2
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -38161,6 +38165,10 @@
           "home": 0,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -38202,6 +38210,10 @@
           "home": 3,
           "away": 2
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -38243,6 +38255,10 @@
           "home": 2,
           "away": 2
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -38284,6 +38300,10 @@
           "home": 0,
           "away": 2
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -38325,6 +38345,10 @@
           "home": 2,
           "away": 1
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -38602,6 +38626,10 @@
           "home": 1,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -38643,6 +38671,10 @@
           "home": 1,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -38684,6 +38716,10 @@
           "home": 1,
           "away": 4
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -38725,6 +38761,10 @@
           "home": 2,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -38766,6 +38806,10 @@
           "home": 2,
           "away": 2
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -38806,6 +38850,10 @@
           "home": 1,
           "away": 1
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -38847,6 +38895,10 @@
           "home": 5,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -38888,6 +38940,10 @@
           "home": 1,
           "away": 1
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -39290,6 +39346,10 @@
           "home": 2,
           "away": 1
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -39331,6 +39391,10 @@
           "home": 1,
           "away": 2
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -39372,6 +39436,10 @@
           "home": 1,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -39413,6 +39481,10 @@
           "home": 1,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -39454,6 +39526,10 @@
           "home": 0,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -39495,6 +39571,10 @@
           "home": 2,
           "away": 1
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -39535,6 +39615,10 @@
           "home": 3,
           "away": 3
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -39576,6 +39660,10 @@
           "home": 5,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -39617,6 +39705,10 @@
           "home": 2,
           "away": 1
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -39658,6 +39750,10 @@
           "home": 2,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -41498,6 +41594,10 @@
           "home": 0,
           "away": 1
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -41539,6 +41639,10 @@
           "home": 3,
           "away": 2
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -41580,6 +41684,10 @@
           "home": 4,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -41621,6 +41729,10 @@
           "home": 1,
           "away": 2
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -41662,6 +41774,10 @@
           "home": 2,
           "away": 1
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -41703,6 +41819,10 @@
           "home": 0,
           "away": 2
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -41744,6 +41864,10 @@
           "home": 2,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -41785,6 +41909,10 @@
           "home": 2,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -41826,6 +41954,10 @@
           "home": 0,
           "away": 1
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -41840,7 +41972,7 @@
       "competitionName": "UEFA Champions League",
       "utcDate": "2026-08-11T19:00Z",
       "date": "2026-08-11T19:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "QUALIFICATION_ROUND_2",
       "roundName": "2. pretkolo • Uzvrat",
       "group": "",
@@ -41860,13 +41992,17 @@
       "away": "Sparta Prague",
       "dataProvider": "ESPN UEFA Champions League Qualifying",
       "venue": "Groupama Stadium",
-      "homeGoals": 2,
+      "homeGoals": 3,
       "awayGoals": 0,
       "score": {
         "fullTime": {
-          "home": 2,
+          "home": 3,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -222292,49 +222428,7 @@
       "referees": []
     }
   ],
-  "live": [
-    {
-      "id": 1501898000,
-      "externalId": "espn-ucl-401898000",
-      "competition": {
-        "name": "UEFA Champions League",
-        "code": "CL",
-        "type": "CUP"
-      },
-      "competitionCode": "CL",
-      "competitionName": "UEFA Champions League",
-      "utcDate": "2026-08-11T19:00Z",
-      "date": "2026-08-11T19:00Z",
-      "status": "IN_PLAY",
-      "stage": "QUALIFICATION_ROUND_2",
-      "roundName": "2. pretkolo • Uzvrat",
-      "group": "",
-      "homeTeam": {
-        "name": "Lyon",
-        "shortName": "Lyon",
-        "tla": "LYON",
-        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
-      },
-      "awayTeam": {
-        "name": "Sparta Prague",
-        "shortName": "Sparta",
-        "tla": "SPP",
-        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/433.png"
-      },
-      "home": "Lyon",
-      "away": "Sparta Prague",
-      "dataProvider": "ESPN UEFA Champions League Qualifying",
-      "venue": "Groupama Stadium",
-      "homeGoals": 2,
-      "awayGoals": 0,
-      "score": {
-        "fullTime": {
-          "home": 2,
-          "away": 0
-        }
-      }
-    }
-  ],
+  "live": [],
   "finished": [
     {
       "area": {
@@ -260378,6 +260472,10 @@
           "home": 0,
           "away": 2
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -260419,6 +260517,10 @@
           "home": 0,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -260460,6 +260562,10 @@
           "home": 3,
           "away": 2
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -260501,6 +260607,10 @@
           "home": 2,
           "away": 2
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -260542,6 +260652,10 @@
           "home": 0,
           "away": 2
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -260583,6 +260697,10 @@
           "home": 2,
           "away": 1
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -260624,6 +260742,10 @@
           "home": 1,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -260665,6 +260787,10 @@
           "home": 1,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -260706,6 +260832,10 @@
           "home": 1,
           "away": 4
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -260747,6 +260877,10 @@
           "home": 2,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -260788,6 +260922,10 @@
           "home": 2,
           "away": 2
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -260828,6 +260966,10 @@
           "home": 1,
           "away": 1
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -260869,6 +261011,10 @@
           "home": 5,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -260910,6 +261056,10 @@
           "home": 1,
           "away": 1
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -261312,6 +261462,10 @@
           "home": 2,
           "away": 1
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -261353,6 +261507,10 @@
           "home": 1,
           "away": 2
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -261394,6 +261552,10 @@
           "home": 1,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -261435,6 +261597,10 @@
           "home": 1,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -261476,6 +261642,10 @@
           "home": 0,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -261517,6 +261687,10 @@
           "home": 2,
           "away": 1
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -261557,6 +261731,10 @@
           "home": 3,
           "away": 3
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -261598,6 +261776,10 @@
           "home": 5,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -261639,6 +261821,10 @@
           "home": 2,
           "away": 1
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -261680,6 +261866,10 @@
           "home": 2,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -263520,6 +263710,10 @@
           "home": 0,
           "away": 1
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -263561,6 +263755,10 @@
           "home": 3,
           "away": 2
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -263602,6 +263800,10 @@
           "home": 4,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -263643,6 +263845,10 @@
           "home": 1,
           "away": 2
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -263684,6 +263890,10 @@
           "home": 2,
           "away": 1
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -263725,6 +263935,10 @@
           "home": 0,
           "away": 2
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -263766,6 +263980,10 @@
           "home": 2,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -263807,6 +264025,10 @@
           "home": 2,
           "away": 0
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     },
     {
@@ -263848,6 +264070,55 @@
           "home": 0,
           "away": 1
         }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      }
+    },
+    {
+      "id": 1501898000,
+      "externalId": "espn-ucl-401898000",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-11T19:00Z",
+      "date": "2026-08-11T19:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Lyon",
+        "shortName": "Lyon",
+        "tla": "LYON",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
+      },
+      "awayTeam": {
+        "name": "Sparta Prague",
+        "shortName": "Sparta",
+        "tla": "SPP",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/433.png"
+      },
+      "home": "Lyon",
+      "away": "Sparta Prague",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Groupama Stadium",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 3,
+          "away": 0
+        }
+      },
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
       }
     }
   ],
@@ -502002,9 +502273,9 @@
       "seasonId": 2454,
       "seasonStart": "2025-09-16",
       "seasonEnd": "2026-05-30",
-      "lastSuccessfulUpdate": "2026-08-11 20:24 UTC",
+      "lastSuccessfulUpdate": "2026-08-11 20:55 UTC",
       "qualifyingProvider": "ESPN UEFA Champions League Qualifying",
-      "qualifyingMatchCount": 76
+      "qualifyingMatchCount": 34
     },
     "PL": {
       "status": "connected",
