@@ -15,8 +15,9 @@ if not API_TOKEN:
 BASE = "https://api.football-data.org/v4"
 OUT = Path("live-results.json")
 COMPETITIONS = ["CL", "PL", "ELC", "PD", "BL1", "SA", "FL1", "DED", "PPL", "BSA", "WC", "EC"]
-STANDINGS_CODES = {"CL", "PL", "ELC", "PD", "BL1", "SA", "FL1", "DED", "PPL", "BSA"}
-REQUEST_SPACING_SECONDS = 8
+STANDINGS_CODES = ["CL", "PL", "ELC", "PD", "BL1", "SA", "FL1", "DED", "PPL", "BSA"]
+REQUEST_SPACING_SECONDS = 6.5
+STANDINGS_PER_RUN = 2
 MAX_ATTEMPTS = 3
 HEADERS = {"X-Auth-Token": API_TOKEN}
 SESSION = requests.Session()
@@ -69,25 +70,16 @@ def api_get(path):
 
 
 
-def espn_get_ucl_qualifiers():
-    """Fetch the official ESPN scoreboard feed dedicated to UCL qualifying.
-
-    football-data.org exposes UEFA Champions League on the free plan, but its
-    current CL resource may omit the separate qualifying competition.  The
-    dedicated ESPN qualifier feed fills only that gap and is normalized into
-    the exact same central match schema before Android ever sees the payload.
-    """
-    now = datetime.now(timezone.utc)
-    date_from = (now - timedelta(days=35)).strftime("%Y%m%d")
-    date_to = (now + timedelta(days=55)).strftime("%Y%m%d")
-    params = {"dates": f"{date_from}-{date_to}", "limit": 1000}
+def espn_request(params, label):
     last_error = None
     for attempt in range(1, MAX_ATTEMPTS + 1):
         try:
             response = SESSION.get(ESPN_UCL_QUALIFIERS, params=params, timeout=(10, 25))
-            print("ESPN UCL qualifiers", response.status_code, f"attempt {attempt}/{MAX_ATTEMPTS}")
+            print(label, response.status_code, f"attempt {attempt}/{MAX_ATTEMPTS}")
             if response.status_code == 200:
-                return response.json()
+                payload = response.json()
+                print(label, "events:", len(payload.get("events") or []))
+                return payload
             last_error = RuntimeError(f"HTTP {response.status_code}: {response.text[:200]}")
             if response.status_code == 429 or 500 <= response.status_code < 600:
                 if attempt < MAX_ATTEMPTS:
@@ -99,9 +91,43 @@ def espn_get_ucl_qualifiers():
             if attempt < MAX_ATTEMPTS:
                 time.sleep(min(12, 3 * attempt))
                 continue
-    print("ESPN qualifier request failed:", str(last_error)[:300])
+    print(label, "failed:", str(last_error)[:300])
     return None
 
+
+def espn_get_ucl_qualifiers():
+    """Fetch UCL qualifying in small scoreboard windows and merge event IDs.
+
+    ESPN's site scoreboard is reliable for the dedicated `uefa.champions_qual`
+    league, but a single very wide date filter may legally return an empty event
+    list.  Small windows plus the default scoreboard remove that ambiguity.
+    """
+    now = datetime.now(timezone.utc)
+    requests_to_make = [({}, "ESPN UCL qualifiers default")]
+    windows = [(-14, 7), (8, 28), (29, 55)]
+    for before, after in windows:
+        start = (now + timedelta(days=before)).strftime("%Y%m%d")
+        end = (now + timedelta(days=after)).strftime("%Y%m%d")
+        requests_to_make.append(({"dates": f"{start}-{end}", "limit": 1000}, f"ESPN UCL qualifiers {start}-{end}"))
+
+    merged = {}
+    any_success = False
+    for params, label in requests_to_make:
+        payload = espn_request(params, label)
+        if payload is None:
+            continue
+        any_success = True
+        for event in payload.get("events") or []:
+            if not isinstance(event, dict):
+                continue
+            event_id = str(event.get("id") or "").strip()
+            if not event_id:
+                event_id = hashlib.sha256(canonical(event).encode("utf-8")).hexdigest()[:20]
+            merged[event_id] = event
+    if not any_success:
+        return None
+    print("ESPN UCL qualifiers unique events:", len(merged))
+    return {"events": list(merged.values())}
 
 def espn_team(competitor):
     team = competitor.get("team") or {}
@@ -130,7 +156,7 @@ def qualifier_stage(event, competition):
     def collect(obj):
         if not isinstance(obj, dict):
             return
-        for key in ("name", "shortName", "displayName", "description", "headline", "slug", "abbreviation"):
+        for key in ("name", "shortName", "displayName", "description", "headline", "slug", "abbreviation", "text", "detail"):
             value = str(obj.get(key) or "").strip()
             if value:
                 chunks.append(value)
@@ -200,6 +226,15 @@ def espn_score(competitor):
         return None
 
 
+def ucl_season_for_date(utc_date):
+    try:
+        dt = datetime.fromisoformat(str(utc_date).replace("Z", "+00:00"))
+        start_year = dt.year if dt.month >= 7 else dt.year - 1
+        return {"startDate": f"{start_year}-07-01", "endDate": f"{start_year + 1}-06-30"}
+    except Exception:
+        return {}
+
+
 def normalize_espn_ucl(scoreboard):
     rows = []
     for event in (scoreboard or {}).get("events") or []:
@@ -242,6 +277,7 @@ def normalize_espn_ucl(scoreboard):
             "home": home_name,
             "away": away_name,
             "dataProvider": "ESPN UEFA Champions League Qualifying",
+            "season": ucl_season_for_date(utc_date),
         }
         venue = competition.get("venue") or {}
         if isinstance(venue, dict) and venue.get("fullName"):
@@ -380,6 +416,10 @@ def main():
     sources = copy.deepcopy(root.get("sources") or {})
     successful_requests = 0
     request_number = 0
+    rotation = int(datetime.now(timezone.utc).timestamp() // (15 * 60))
+    standing_start = (rotation * STANDINGS_PER_RUN) % len(STANDINGS_CODES)
+    selected_standings = {STANDINGS_CODES[(standing_start + i) % len(STANDINGS_CODES)] for i in range(STANDINGS_PER_RUN)}
+    print("Standings selected this run:", sorted(selected_standings))
 
     for code in COMPETITIONS:
         if request_number:
@@ -427,7 +467,7 @@ def main():
         else:
             print(f"{code}: keeping previously persisted match data unchanged")
 
-        if code in STANDINGS_CODES:
+        if code in selected_standings:
             time.sleep(REQUEST_SPACING_SECONDS)
             standing_data = api_get(f"/competitions/{code}/standings")
             request_number += 1
