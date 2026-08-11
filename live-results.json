@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-11 19:10 UTC",
-  "lastUpdate": "2026-08-11 19:10 UTC",
+  "generatedAt": "2026-08-11 20:24 UTC",
+  "lastUpdate": "2026-08-11 20:24 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -34391,6 +34391,416 @@
       ]
     },
     {
+      "id": 1501877823,
+      "externalId": "espn-ucl-401877823",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-07T16:00Z",
+      "date": "2026-07-07T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Lincoln Red Imps",
+        "shortName": "Red Imps",
+        "tla": "LRI",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/17856.png"
+      },
+      "awayTeam": {
+        "name": "Inter D'Escaldes",
+        "shortName": "Inter D'Escaldes",
+        "tla": "IDE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20703.png"
+      },
+      "home": "Lincoln Red Imps",
+      "away": "Inter D'Escaldes",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Europa Point Stadium",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 3,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501877829,
+      "externalId": "espn-ucl-401877829",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-07T16:00Z",
+      "date": "2026-07-07T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Sabah FK",
+        "shortName": "Sabah",
+        "tla": "SAB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png"
+      },
+      "awayTeam": {
+        "name": "The New Saints",
+        "shortName": "The New Saints",
+        "tla": "TNS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/576.png"
+      },
+      "home": "Sabah FK",
+      "away": "The New Saints",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Bank Respublika Stadium",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501877831,
+      "externalId": "espn-ucl-401877831",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-07T16:00Z",
+      "date": "2026-07-07T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Kauno Zalgiris",
+        "shortName": "Kauno Zalgiris",
+        "tla": "ZAL",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20028.png"
+      },
+      "awayTeam": {
+        "name": "Drita Gjilan",
+        "shortName": "Drita Gjilan",
+        "tla": "DRI",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/19243.png"
+      },
+      "home": "Kauno Zalgiris",
+      "away": "Drita Gjilan",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "S. Darius and S. Gireno Stadium",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501877833,
+      "externalId": "espn-ucl-401877833",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-07T16:00Z",
+      "date": "2026-07-07T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Ararat-Armenia",
+        "shortName": "Ararat",
+        "tla": "ARA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png"
+      },
+      "awayTeam": {
+        "name": "Riga FC",
+        "shortName": "Riga FC",
+        "tla": "RIG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/19246.png"
+      },
+      "home": "Ararat-Armenia",
+      "away": "Riga FC",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Abovyan City Stadium",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501877832,
+      "externalId": "espn-ucl-401877832",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-07T17:00Z",
+      "date": "2026-07-07T17:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Vardar",
+        "shortName": "Vardar",
+        "tla": "VAR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/560.png"
+      },
+      "awayTeam": {
+        "name": "KuPS Kuopio",
+        "shortName": "KuPS Kuopio",
+        "tla": "KUPS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8169.png"
+      },
+      "home": "Vardar",
+      "away": "KuPS Kuopio",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Toše Proeski Arena",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501877826,
+      "externalId": "espn-ucl-401877826",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-07T17:30Z",
+      "date": "2026-07-07T17:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Floriana FC",
+        "shortName": "Floriana",
+        "tla": "FLO",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/7857.png"
+      },
+      "awayTeam": {
+        "name": "Shamrock Rovers",
+        "shortName": "Shamrock",
+        "tla": "SHR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2564.png"
+      },
+      "home": "Floriana FC",
+      "away": "Shamrock Rovers",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "MFA Centenary Stadium",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501877828,
+      "externalId": "espn-ucl-401877828",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-07T18:30Z",
+      "date": "2026-07-07T18:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Borac Banja Luka",
+        "shortName": "Banja Luka",
+        "tla": "BBL",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20710.png"
+      },
+      "awayTeam": {
+        "name": "Levski Sofia",
+        "shortName": "Levski Sofia",
+        "tla": "LEVS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
+      },
+      "home": "Borac Banja Luka",
+      "away": "Levski Sofia",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Gradski Stadion Banja Luka",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501877834,
+      "externalId": "espn-ucl-401877834",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-07T18:30Z",
+      "date": "2026-07-07T18:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Tre Fiori",
+        "shortName": "Tre Fiori",
+        "tla": "TREF",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8591.png"
+      },
+      "awayTeam": {
+        "name": "Larne",
+        "shortName": "Larne",
+        "tla": "LAR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20039.png"
+      },
+      "home": "Tre Fiori",
+      "away": "Larne",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "San Marino Stadium",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501877978,
+      "externalId": "espn-ucl-401877978",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-07T18:45Z",
+      "date": "2026-07-07T18:45Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "KI Klaksvik",
+        "shortName": "KI Klaksvik",
+        "tla": "KLA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2547.png"
+      },
+      "awayTeam": {
+        "name": "FC Atert Bissen",
+        "shortName": "Atert",
+        "tla": "ATB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/131796.png"
+      },
+      "home": "KI Klaksvik",
+      "away": "FC Atert Bissen",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Djúpumyrar",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501877827,
+      "externalId": "espn-ucl-401877827",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-07T19:00Z",
+      "date": "2026-07-07T19:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Vikingur Reykjavik",
+        "shortName": "Vikingur",
+        "tla": "VIK",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8249.png"
+      },
+      "awayTeam": {
+        "name": "Györi ETO FC",
+        "shortName": "Györi ETO",
+        "tla": "GYR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/12367.png"
+      },
+      "home": "Vikingur Reykjavik",
+      "away": "Györi ETO FC",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Vikingsvöllur",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
       "area": {
         "id": 2267,
         "name": "World",
@@ -34467,6 +34877,170 @@
           "nationality": null
         }
       ]
+    },
+    {
+      "id": 1501877824,
+      "externalId": "espn-ucl-401877824",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-08T15:00Z",
+      "date": "2026-07-08T15:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Kairat Almaty",
+        "shortName": "Kairat Almaty",
+        "tla": "KAI",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2528.png"
+      },
+      "awayTeam": {
+        "name": "FK Sutjeska",
+        "shortName": "FK Sutjeska",
+        "tla": "SUT",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8281.png"
+      },
+      "home": "Kairat Almaty",
+      "away": "FK Sutjeska",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Almaty Ortalyk Stadium",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501877825,
+      "externalId": "espn-ucl-401877825",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-08T16:00Z",
+      "date": "2026-07-08T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Flora",
+        "shortName": "Flora",
+        "tla": "FLO",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/12146.png"
+      },
+      "awayTeam": {
+        "name": "Iberia 1999",
+        "shortName": "Iberia 1999",
+        "tla": "IBE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20025.png"
+      },
+      "home": "Flora",
+      "away": "Iberia 1999",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "A. Le Coq Arena",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 3
+        }
+      }
+    },
+    {
+      "id": 1501877830,
+      "externalId": "espn-ucl-401877830",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-08T17:00Z",
+      "date": "2026-07-08T17:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Petrocub",
+        "shortName": "Petrocub",
+        "tla": "PET",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/19250.png"
+      },
+      "awayTeam": {
+        "name": "Egnatia",
+        "shortName": "Egnatia",
+        "tla": "EGN",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21943.png"
+      },
+      "home": "Petrocub",
+      "away": "Egnatia",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Stadionul Zimbru",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501877979,
+      "externalId": "espn-ucl-401877979",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-08T17:00Z",
+      "date": "2026-07-08T17:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "ML Vitebsk",
+        "shortName": "ML Vitebsk",
+        "tla": "MLV",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/131794.png"
+      },
+      "awayTeam": {
+        "name": "CSU Craiova",
+        "shortName": "CSU Craiova",
+        "tla": "UCRA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8089.png"
+      },
+      "home": "ML Vitebsk",
+      "away": "CSU Craiova",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Mezokovesdi Varosi Stadion",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 4
+        }
+      }
     },
     {
       "area": {
@@ -34749,6 +35323,333 @@
       ]
     },
     {
+      "id": 1501877820,
+      "externalId": "espn-ucl-401877820",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-14T15:00Z",
+      "date": "2026-07-14T15:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "KuPS Kuopio",
+        "shortName": "KuPS Kuopio",
+        "tla": "KUPS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8169.png"
+      },
+      "awayTeam": {
+        "name": "Vardar",
+        "shortName": "Vardar",
+        "tla": "VAR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/560.png"
+      },
+      "home": "KuPS Kuopio",
+      "away": "Vardar",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Vare Areena TN",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 3
+        }
+      }
+    },
+    {
+      "id": 1501877811,
+      "externalId": "espn-ucl-401877811",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-14T16:00Z",
+      "date": "2026-07-14T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Inter D'Escaldes",
+        "shortName": "Inter D'Escaldes",
+        "tla": "IDE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20703.png"
+      },
+      "awayTeam": {
+        "name": "Lincoln Red Imps",
+        "shortName": "Red Imps",
+        "tla": "LRI",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/17856.png"
+      },
+      "home": "Inter D'Escaldes",
+      "away": "Lincoln Red Imps",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Estadi Nacional d'Andorra",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501877813,
+      "externalId": "espn-ucl-401877813",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-14T16:00Z",
+      "date": "2026-07-14T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Iberia 1999",
+        "shortName": "Iberia 1999",
+        "tla": "IBE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20025.png"
+      },
+      "awayTeam": {
+        "name": "Flora",
+        "shortName": "Flora",
+        "tla": "FLO",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/12146.png"
+      },
+      "home": "Iberia 1999",
+      "away": "Flora",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Mikheil Meskhi Stadioni",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501877815,
+      "externalId": "espn-ucl-401877815",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-14T17:00Z",
+      "date": "2026-07-14T17:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Györi ETO FC",
+        "shortName": "Györi ETO",
+        "tla": "GYR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/12367.png"
+      },
+      "awayTeam": {
+        "name": "Vikingur Reykjavik",
+        "shortName": "Vikingur",
+        "tla": "VIK",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8249.png"
+      },
+      "home": "Györi ETO FC",
+      "away": "Vikingur Reykjavik",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501877821,
+      "externalId": "espn-ucl-401877821",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-14T17:00Z",
+      "date": "2026-07-14T17:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Riga FC",
+        "shortName": "Riga FC",
+        "tla": "RIG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/19246.png"
+      },
+      "awayTeam": {
+        "name": "Ararat-Armenia",
+        "shortName": "Ararat",
+        "tla": "ARA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png"
+      },
+      "home": "Riga FC",
+      "away": "Ararat-Armenia",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Skonto Stadions",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 3,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501877816,
+      "externalId": "espn-ucl-401877816",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-14T17:30Z",
+      "date": "2026-07-14T17:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Levski Sofia",
+        "shortName": "Levski Sofia",
+        "tla": "LEVS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
+      },
+      "awayTeam": {
+        "name": "Borac Banja Luka",
+        "shortName": "Banja Luka",
+        "tla": "BBL",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20710.png"
+      },
+      "home": "Levski Sofia",
+      "away": "Borac Banja Luka",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Georgi Asparuhov Stadium",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 4,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501877817,
+      "externalId": "espn-ucl-401877817",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-14T17:30Z",
+      "date": "2026-07-14T17:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "The New Saints",
+        "shortName": "The New Saints",
+        "tla": "TNS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/576.png"
+      },
+      "awayTeam": {
+        "name": "Sabah FK",
+        "shortName": "Sabah",
+        "tla": "SAB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png"
+      },
+      "home": "The New Saints",
+      "away": "Sabah FK",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Park Hall",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501877819,
+      "externalId": "espn-ucl-401877819",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-14T18:00Z",
+      "date": "2026-07-14T18:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Drita Gjilan",
+        "shortName": "Drita Gjilan",
+        "tla": "DRI",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/19243.png"
+      },
+      "awayTeam": {
+        "name": "Kauno Zalgiris",
+        "shortName": "Kauno Zalgiris",
+        "tla": "ZAL",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20028.png"
+      },
+      "home": "Drita Gjilan",
+      "away": "Kauno Zalgiris",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Stadiumi Fadil Vokrri",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 3
+        }
+      }
+    },
+    {
       "area": {
         "id": 2267,
         "name": "World",
@@ -34815,6 +35716,170 @@
       ]
     },
     {
+      "id": 1501877814,
+      "externalId": "espn-ucl-401877814",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-14T19:00Z",
+      "date": "2026-07-14T19:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Shamrock Rovers",
+        "shortName": "Shamrock",
+        "tla": "SHR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2564.png"
+      },
+      "awayTeam": {
+        "name": "Floriana FC",
+        "shortName": "Floriana",
+        "tla": "FLO",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/7857.png"
+      },
+      "home": "Shamrock Rovers",
+      "away": "Floriana FC",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Tallaght Stadium",
+      "homeGoals": 5,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 5,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501877822,
+      "externalId": "espn-ucl-401877822",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-14T19:00Z",
+      "date": "2026-07-14T19:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Larne",
+        "shortName": "Larne",
+        "tla": "LAR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20039.png"
+      },
+      "awayTeam": {
+        "name": "Tre Fiori",
+        "shortName": "Tre Fiori",
+        "tla": "TREF",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8591.png"
+      },
+      "home": "Larne",
+      "away": "Tre Fiori",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Inver Park",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501877976,
+      "externalId": "espn-ucl-401877976",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-15T17:30Z",
+      "date": "2026-07-15T17:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "CSU Craiova",
+        "shortName": "CSU Craiova",
+        "tla": "UCRA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8089.png"
+      },
+      "awayTeam": {
+        "name": "ML Vitebsk",
+        "shortName": "ML Vitebsk",
+        "tla": "MLV",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/131794.png"
+      },
+      "home": "CSU Craiova",
+      "away": "ML Vitebsk",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Stadionul Ion Oblemenco",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501877977,
+      "externalId": "espn-ucl-401877977",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-15T18:15Z",
+      "date": "2026-07-15T18:15Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "FC Atert Bissen",
+        "shortName": "Atert",
+        "tla": "ATB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/131796.png"
+      },
+      "awayTeam": {
+        "name": "KI Klaksvik",
+        "shortName": "KI Klaksvik",
+        "tla": "KLA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2547.png"
+      },
+      "home": "FC Atert Bissen",
+      "away": "KI Klaksvik",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Stade de Luxembourg",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 2
+        }
+      }
+    },
+    {
       "area": {
         "id": 2267,
         "name": "World",
@@ -34879,6 +35944,88 @@
           "nationality": "United States"
         }
       ]
+    },
+    {
+      "id": 1501877812,
+      "externalId": "espn-ucl-401877812",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-15T19:00Z",
+      "date": "2026-07-15T19:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "FK Sutjeska",
+        "shortName": "FK Sutjeska",
+        "tla": "SUT",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8281.png"
+      },
+      "awayTeam": {
+        "name": "Kairat Almaty",
+        "shortName": "Kairat Almaty",
+        "tla": "KAI",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2528.png"
+      },
+      "home": "FK Sutjeska",
+      "away": "Kairat Almaty",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Gradski Niksica",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501877818,
+      "externalId": "espn-ucl-401877818",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-15T19:00Z",
+      "date": "2026-07-15T19:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Egnatia",
+        "shortName": "Egnatia",
+        "tla": "EGN",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21943.png"
+      },
+      "awayTeam": {
+        "name": "Petrocub",
+        "shortName": "Petrocub",
+        "tla": "PET",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/19250.png"
+      },
+      "home": "Egnatia",
+      "away": "Petrocub",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Arena Egnatia",
+      "homeGoals": 6,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 6,
+          "away": 1
+        }
+      }
     },
     {
       "area": {
@@ -35323,6 +36470,457 @@
       ]
     },
     {
+      "id": 1501891563,
+      "externalId": "espn-ucl-401891563",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-21T16:00Z",
+      "date": "2026-07-21T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Iberia 1999",
+        "shortName": "Iberia 1999",
+        "tla": "IBE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20025.png"
+      },
+      "awayTeam": {
+        "name": "Slovan Bratislava",
+        "shortName": "S Bratislava",
+        "tla": "SLB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png"
+      },
+      "home": "Iberia 1999",
+      "away": "Slovan Bratislava",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Mikheil Meskhi Stadioni",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501891564,
+      "externalId": "espn-ucl-401891564",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-21T16:00Z",
+      "date": "2026-07-21T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Mjällby AIF",
+        "shortName": "Mjällby",
+        "tla": "MJA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20301.png"
+      },
+      "awayTeam": {
+        "name": "Lincoln Red Imps",
+        "shortName": "Red Imps",
+        "tla": "LRI",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/17856.png"
+      },
+      "home": "Mjällby AIF",
+      "away": "Lincoln Red Imps",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Strandvallen",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 3,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501891587,
+      "externalId": "espn-ucl-401891587",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-21T16:00Z",
+      "date": "2026-07-21T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Sabah FK",
+        "shortName": "Sabah",
+        "tla": "SAB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png"
+      },
+      "awayTeam": {
+        "name": "KuPS Kuopio",
+        "shortName": "KuPS Kuopio",
+        "tla": "KUPS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8169.png"
+      },
+      "home": "Sabah FK",
+      "away": "KuPS Kuopio",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Bank Respublika Stadium",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501891670,
+      "externalId": "espn-ucl-401891670",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-21T16:00Z",
+      "date": "2026-07-21T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Ararat-Armenia",
+        "shortName": "Ararat",
+        "tla": "ARA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png"
+      },
+      "awayTeam": {
+        "name": "Shamrock Rovers",
+        "shortName": "Shamrock",
+        "tla": "SHR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2564.png"
+      },
+      "home": "Ararat-Armenia",
+      "away": "Shamrock Rovers",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Vazgen Sargsyan Republican Stadium",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501877837,
+      "externalId": "espn-ucl-401877837",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-21T17:00Z",
+      "date": "2026-07-21T17:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "AGF",
+        "shortName": "AGF",
+        "tla": "AGF",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/7853.png"
+      },
+      "awayTeam": {
+        "name": "Lech Poznan",
+        "shortName": "Lech Poznan",
+        "tla": "LECH",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2990.png"
+      },
+      "home": "AGF",
+      "away": "Lech Poznan",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Cepheus Park Randers",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 4
+        }
+      }
+    },
+    {
+      "id": 1501877768,
+      "externalId": "espn-ucl-401877768",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-21T18:00Z",
+      "date": "2026-07-21T18:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Fenerbahce",
+        "shortName": "Fenerbahce",
+        "tla": "FEN",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png"
+      },
+      "awayTeam": {
+        "name": "Gornik Zabrze",
+        "shortName": "Gornik Zabrz",
+        "tla": "GOR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8180.png"
+      },
+      "home": "Fenerbahce",
+      "away": "Gornik Zabrze",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Ulker Stadyumu",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501877769,
+      "externalId": "espn-ucl-401877769",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-21T18:00Z",
+      "date": "2026-07-21T18:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "FC Thun",
+        "shortName": "FC Thun",
+        "tla": "THUN",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3024.png"
+      },
+      "awayTeam": {
+        "name": "Dinamo Zagreb",
+        "shortName": "Dinamo Zagreb",
+        "tla": "DZG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png"
+      },
+      "home": "FC Thun",
+      "away": "Dinamo Zagreb",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Stockhorn Arena",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501877836,
+      "externalId": "espn-ucl-401877836",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-21T18:30Z",
+      "date": "2026-07-21T18:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "SK Sturm Graz",
+        "shortName": "Sturm Graz",
+        "tla": "STG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3746.png"
+      },
+      "awayTeam": {
+        "name": "Heart of Midlothian",
+        "shortName": "Hearts",
+        "tla": "HOM",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/262.png"
+      },
+      "home": "SK Sturm Graz",
+      "away": "Heart of Midlothian",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Merkur Arena",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 4,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501891845,
+      "externalId": "espn-ucl-401891845",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-21T18:45Z",
+      "date": "2026-07-21T18:45Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "KI Klaksvik",
+        "shortName": "KI Klaksvik",
+        "tla": "KLA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2547.png"
+      },
+      "awayTeam": {
+        "name": "Kauno Zalgiris",
+        "shortName": "Kauno Zalgiris",
+        "tla": "ZAL",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20028.png"
+      },
+      "home": "KI Klaksvik",
+      "away": "Kauno Zalgiris",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Djúpumyrar",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501891588,
+      "externalId": "espn-ucl-401891588",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-21T19:00Z",
+      "date": "2026-07-21T19:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Vikingur Reykjavik",
+        "shortName": "Vikingur",
+        "tla": "VIK",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8249.png"
+      },
+      "awayTeam": {
+        "name": "Hapoel Be'er",
+        "shortName": "Hapoel Be'er",
+        "tla": "HBE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
+      },
+      "home": "Vikingur Reykjavik",
+      "away": "Hapoel Be'er",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Vikingsvöllur",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501891687,
+      "externalId": "espn-ucl-401891687",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-21T19:00Z",
+      "date": "2026-07-21T19:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Larne",
+        "shortName": "Larne",
+        "tla": "LAR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20039.png"
+      },
+      "awayTeam": {
+        "name": "Red Star Belgrade",
+        "shortName": "Red Star",
+        "tla": "RSB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2290.png"
+      },
+      "home": "Larne",
+      "away": "Red Star Belgrade",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Inver Park",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 4
+        }
+      }
+    },
+    {
       "area": {
         "id": 2032,
         "name": "Brazil",
@@ -35380,6 +36978,129 @@
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
+    },
+    {
+      "id": 1501891884,
+      "externalId": "espn-ucl-401891884",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-22T17:00Z",
+      "date": "2026-07-22T17:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Omonia Nicosia",
+        "shortName": "Omonia",
+        "tla": "OMON",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/617.png"
+      },
+      "awayTeam": {
+        "name": "Kairat Almaty",
+        "shortName": "Kairat Almaty",
+        "tla": "KAI",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2528.png"
+      },
+      "home": "Omonia Nicosia",
+      "away": "Kairat Almaty",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "GSP Stadium",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501891788,
+      "externalId": "espn-ucl-401891788",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-22T17:30Z",
+      "date": "2026-07-22T17:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Levski Sofia",
+        "shortName": "Levski Sofia",
+        "tla": "LEVS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
+      },
+      "awayTeam": {
+        "name": "CSU Craiova",
+        "shortName": "CSU Craiova",
+        "tla": "UCRA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8089.png"
+      },
+      "home": "Levski Sofia",
+      "away": "CSU Craiova",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Georgi Asparuhov Stadium",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501891883,
+      "externalId": "espn-ucl-401891883",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-22T19:00Z",
+      "date": "2026-07-22T19:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Egnatia",
+        "shortName": "Egnatia",
+        "tla": "EGN",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21943.png"
+      },
+      "awayTeam": {
+        "name": "NK Celje",
+        "shortName": "NK Celje",
+        "tla": "NKC",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png"
+      },
+      "home": "Egnatia",
+      "away": "NK Celje",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Arena Egnatia",
+      "homeGoals": 3,
+      "awayGoals": 3,
+      "score": {
+        "fullTime": {
+          "home": 3,
+          "away": 3
+        }
+      }
     },
     {
       "area": {
@@ -36361,6 +38082,252 @@
       "referees": []
     },
     {
+      "id": 1501891534,
+      "externalId": "espn-ucl-401891534",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-28T15:00Z",
+      "date": "2026-07-28T15:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "KuPS Kuopio",
+        "shortName": "KuPS Kuopio",
+        "tla": "KUPS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8169.png"
+      },
+      "awayTeam": {
+        "name": "Sabah FK",
+        "shortName": "Sabah",
+        "tla": "SAB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png"
+      },
+      "home": "KuPS Kuopio",
+      "away": "Sabah FK",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Vare Areena TN",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501891562,
+      "externalId": "espn-ucl-401891562",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-28T16:00Z",
+      "date": "2026-07-28T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Lincoln Red Imps",
+        "shortName": "Red Imps",
+        "tla": "LRI",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/17856.png"
+      },
+      "awayTeam": {
+        "name": "Mjällby AIF",
+        "shortName": "Mjällby",
+        "tla": "MJA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20301.png"
+      },
+      "home": "Lincoln Red Imps",
+      "away": "Mjällby AIF",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Europa Point Stadium",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501877835,
+      "externalId": "espn-ucl-401877835",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-28T18:00Z",
+      "date": "2026-07-28T18:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Dinamo Zagreb",
+        "shortName": "Dinamo Zagreb",
+        "tla": "DZG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png"
+      },
+      "awayTeam": {
+        "name": "FC Thun",
+        "shortName": "FC Thun",
+        "tla": "THUN",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3024.png"
+      },
+      "home": "Dinamo Zagreb",
+      "away": "FC Thun",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Maksimir Stadium",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 3,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501891861,
+      "externalId": "espn-ucl-401891861",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-28T18:15Z",
+      "date": "2026-07-28T18:15Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "NK Celje",
+        "shortName": "NK Celje",
+        "tla": "NKC",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png"
+      },
+      "awayTeam": {
+        "name": "Egnatia",
+        "shortName": "Egnatia",
+        "tla": "EGN",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21943.png"
+      },
+      "home": "NK Celje",
+      "away": "Egnatia",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Stadion Z'dezele",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501877765,
+      "externalId": "espn-ucl-401877765",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-28T18:45Z",
+      "date": "2026-07-28T18:45Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Heart of Midlothian",
+        "shortName": "Hearts",
+        "tla": "HOM",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/262.png"
+      },
+      "awayTeam": {
+        "name": "SK Sturm Graz",
+        "shortName": "Sturm Graz",
+        "tla": "STG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3746.png"
+      },
+      "home": "Heart of Midlothian",
+      "away": "SK Sturm Graz",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Tynecastle Park",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501891668,
+      "externalId": "espn-ucl-401891668",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-28T19:00Z",
+      "date": "2026-07-28T19:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Shamrock Rovers",
+        "shortName": "Shamrock",
+        "tla": "SHR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2564.png"
+      },
+      "awayTeam": {
+        "name": "Ararat-Armenia",
+        "shortName": "Ararat",
+        "tla": "ARA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png"
+      },
+      "home": "Shamrock Rovers",
+      "away": "Ararat-Armenia",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Tallaght Stadium",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        }
+      }
+    },
+    {
       "area": {
         "id": 2032,
         "name": "Brazil",
@@ -36595,6 +38562,333 @@
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
+    },
+    {
+      "id": 1501891862,
+      "externalId": "espn-ucl-401891862",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-29T15:00Z",
+      "date": "2026-07-29T15:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Kairat Almaty",
+        "shortName": "Kairat Almaty",
+        "tla": "KAI",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2528.png"
+      },
+      "awayTeam": {
+        "name": "Omonia Nicosia",
+        "shortName": "Omonia",
+        "tla": "OMON",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/617.png"
+      },
+      "home": "Kairat Almaty",
+      "away": "Omonia Nicosia",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Almaty Ortalyk Stadium",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501891844,
+      "externalId": "espn-ucl-401891844",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-29T16:00Z",
+      "date": "2026-07-29T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Kauno Zalgiris",
+        "shortName": "Kauno Zalgiris",
+        "tla": "ZAL",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20028.png"
+      },
+      "awayTeam": {
+        "name": "KI Klaksvik",
+        "shortName": "KI Klaksvik",
+        "tla": "KLA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2547.png"
+      },
+      "home": "Kauno Zalgiris",
+      "away": "KI Klaksvik",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Jonavos centrinis stadionas",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501877766,
+      "externalId": "espn-ucl-401877766",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-29T17:00Z",
+      "date": "2026-07-29T17:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Lech Poznan",
+        "shortName": "Lech Poznan",
+        "tla": "LECH",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2990.png"
+      },
+      "awayTeam": {
+        "name": "AGF",
+        "shortName": "AGF",
+        "tla": "AGF",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/7853.png"
+      },
+      "home": "Lech Poznan",
+      "away": "AGF",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Municipal Stadium-Poznan",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 4
+        }
+      }
+    },
+    {
+      "id": 1501891533,
+      "externalId": "espn-ucl-401891533",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-29T17:30Z",
+      "date": "2026-07-29T17:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Hapoel Be'er",
+        "shortName": "Hapoel Be'er",
+        "tla": "HBE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
+      },
+      "awayTeam": {
+        "name": "Vikingur Reykjavik",
+        "shortName": "Vikingur",
+        "tla": "VIK",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8249.png"
+      },
+      "home": "Hapoel Be'er",
+      "away": "Vikingur Reykjavik",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Szombathelyi Haladás Stadion",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501891787,
+      "externalId": "espn-ucl-401891787",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-29T17:30Z",
+      "date": "2026-07-29T17:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "CSU Craiova",
+        "shortName": "CSU Craiova",
+        "tla": "UCRA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8089.png"
+      },
+      "awayTeam": {
+        "name": "Levski Sofia",
+        "shortName": "Levski Sofia",
+        "tla": "LEVS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
+      },
+      "home": "CSU Craiova",
+      "away": "Levski Sofia",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Stadionul Ion Oblemenco",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501877767,
+      "externalId": "espn-ucl-401877767",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-29T18:00Z",
+      "date": "2026-07-29T18:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Gornik Zabrze",
+        "shortName": "Gornik Zabrz",
+        "tla": "GOR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8180.png"
+      },
+      "awayTeam": {
+        "name": "Fenerbahce",
+        "shortName": "Fenerbahce",
+        "tla": "FEN",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png"
+      },
+      "home": "Gornik Zabrze",
+      "away": "Fenerbahce",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501891667,
+      "externalId": "espn-ucl-401891667",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-29T18:00Z",
+      "date": "2026-07-29T18:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Red Star Belgrade",
+        "shortName": "Red Star",
+        "tla": "RSB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2290.png"
+      },
+      "awayTeam": {
+        "name": "Larne",
+        "shortName": "Larne",
+        "tla": "LAR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20039.png"
+      },
+      "home": "Red Star Belgrade",
+      "away": "Larne",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Rajko Mitic Stadium",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 5,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501891561,
+      "externalId": "espn-ucl-401891561",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-29T18:15Z",
+      "date": "2026-07-29T18:15Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Slovan Bratislava",
+        "shortName": "S Bratislava",
+        "tla": "SLB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png"
+      },
+      "awayTeam": {
+        "name": "Iberia 1999",
+        "shortName": "Iberia 1999",
+        "tla": "IBE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20025.png"
+      },
+      "home": "Slovan Bratislava",
+      "away": "Iberia 1999",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Národny Futbalovy Stadión",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 1
+        }
+      }
     },
     {
       "area": {
@@ -36956,6 +39250,415 @@
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
+    },
+    {
+      "id": 1501902564,
+      "externalId": "espn-ucl-401902564",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-04T16:00Z",
+      "date": "2026-08-04T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Ararat-Armenia",
+        "shortName": "Ararat",
+        "tla": "ARA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png"
+      },
+      "awayTeam": {
+        "name": "NK Celje",
+        "shortName": "NK Celje",
+        "tla": "NKC",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png"
+      },
+      "home": "Ararat-Armenia",
+      "away": "NK Celje",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Vazgen Sargsyan Republican Stadium",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501902705,
+      "externalId": "espn-ucl-401902705",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-04T16:00Z",
+      "date": "2026-08-04T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Mjällby AIF",
+        "shortName": "Mjällby",
+        "tla": "MJA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20301.png"
+      },
+      "awayTeam": {
+        "name": "Slovan Bratislava",
+        "shortName": "S Bratislava",
+        "tla": "SLB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png"
+      },
+      "home": "Mjällby AIF",
+      "away": "Slovan Bratislava",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Strandvallen",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501902701,
+      "externalId": "espn-ucl-401902701",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-04T17:30Z",
+      "date": "2026-08-04T17:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Levski Sofia",
+        "shortName": "Levski Sofia",
+        "tla": "LEVS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
+      },
+      "awayTeam": {
+        "name": "Kairat Almaty",
+        "shortName": "Kairat Almaty",
+        "tla": "KAI",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2528.png"
+      },
+      "home": "Levski Sofia",
+      "away": "Kairat Almaty",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Georgi Asparuhov Stadium",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501902702,
+      "externalId": "espn-ucl-401902702",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-04T17:30Z",
+      "date": "2026-08-04T17:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Hapoel Be'er",
+        "shortName": "Hapoel Be'er",
+        "tla": "HBE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
+      },
+      "awayTeam": {
+        "name": "Red Star Belgrade",
+        "shortName": "Red Star",
+        "tla": "RSB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2290.png"
+      },
+      "home": "Hapoel Be'er",
+      "away": "Red Star Belgrade",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Szombathelyi Haladás Stadion",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501898019,
+      "externalId": "espn-ucl-401898019",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-04T18:00Z",
+      "date": "2026-08-04T18:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Olympiacos",
+        "shortName": "Olympiacos",
+        "tla": "OLY",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png"
+      },
+      "awayTeam": {
+        "name": "NEC Nijmegen",
+        "shortName": "NEC",
+        "tla": "NEC",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
+      },
+      "home": "Olympiacos",
+      "away": "NEC Nijmegen",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Georgios Karaiskakis Stadium",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501898023,
+      "externalId": "espn-ucl-401898023",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-04T18:00Z",
+      "date": "2026-08-04T18:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Sparta Prague",
+        "shortName": "Sparta",
+        "tla": "SPP",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/433.png"
+      },
+      "awayTeam": {
+        "name": "Lyon",
+        "shortName": "Lyon",
+        "tla": "LYON",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
+      },
+      "home": "Sparta Prague",
+      "away": "Lyon",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Generali Arena",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501898024,
+      "externalId": "espn-ucl-401898024",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-04T18:00Z",
+      "date": "2026-08-04T18:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Union St.-Gilloise",
+        "shortName": "Union SG",
+        "tla": "USG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/5807.png"
+      },
+      "awayTeam": {
+        "name": "Bodo/Glimt",
+        "shortName": "Bodo/Glimt",
+        "tla": "BODO",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png"
+      },
+      "home": "Union St.-Gilloise",
+      "away": "Bodo/Glimt",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "homeGoals": 3,
+      "awayGoals": 3,
+      "score": {
+        "fullTime": {
+          "home": 3,
+          "away": 3
+        }
+      }
+    },
+    {
+      "id": 1501902668,
+      "externalId": "espn-ucl-401902668",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-04T18:00Z",
+      "date": "2026-08-04T18:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Dinamo Zagreb",
+        "shortName": "Dinamo Zagreb",
+        "tla": "DZG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png"
+      },
+      "awayTeam": {
+        "name": "Kauno Zalgiris",
+        "shortName": "Kauno Zalgiris",
+        "tla": "ZAL",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20028.png"
+      },
+      "home": "Dinamo Zagreb",
+      "away": "Kauno Zalgiris",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Maksimir Stadium",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 5,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501902678,
+      "externalId": "espn-ucl-401902678",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-05T17:10Z",
+      "date": "2026-08-05T17:10Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "AGF",
+        "shortName": "AGF",
+        "tla": "AGF",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/7853.png"
+      },
+      "awayTeam": {
+        "name": "Sabah FK",
+        "shortName": "Sabah",
+        "tla": "SAB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png"
+      },
+      "home": "AGF",
+      "away": "Sabah FK",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Cepheus Park Randers",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501902674,
+      "externalId": "espn-ucl-401902674",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-05T18:00Z",
+      "date": "2026-08-05T18:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Fenerbahce",
+        "shortName": "Fenerbahce",
+        "tla": "FEN",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png"
+      },
+      "awayTeam": {
+        "name": "SK Sturm Graz",
+        "shortName": "Sturm Graz",
+        "tla": "STG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3746.png"
+      },
+      "home": "Fenerbahce",
+      "away": "SK Sturm Graz",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Ulker Stadyumu",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        }
+      }
     },
     {
       "area": {
@@ -38755,6 +41458,416 @@
           "nationality": "Portugal"
         }
       ]
+    },
+    {
+      "id": 1501902671,
+      "externalId": "espn-ucl-401902671",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-11T15:00Z",
+      "date": "2026-08-11T15:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Kairat Almaty",
+        "shortName": "Kairat Almaty",
+        "tla": "KAI",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2528.png"
+      },
+      "awayTeam": {
+        "name": "Levski Sofia",
+        "shortName": "Levski Sofia",
+        "tla": "LEVS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
+      },
+      "home": "Kairat Almaty",
+      "away": "Levski Sofia",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Turkistan Arena",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501898018,
+      "externalId": "espn-ucl-401898018",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-11T16:00Z",
+      "date": "2026-08-11T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Bodo/Glimt",
+        "shortName": "Bodo/Glimt",
+        "tla": "BODO",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png"
+      },
+      "awayTeam": {
+        "name": "Union St.-Gilloise",
+        "shortName": "Union SG",
+        "tla": "USG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/5807.png"
+      },
+      "home": "Bodo/Glimt",
+      "away": "Union St.-Gilloise",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Aspmyra Stadion",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 3,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501902676,
+      "externalId": "espn-ucl-401902676",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-11T16:00Z",
+      "date": "2026-08-11T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Sabah FK",
+        "shortName": "Sabah",
+        "tla": "SAB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png"
+      },
+      "awayTeam": {
+        "name": "AGF",
+        "shortName": "AGF",
+        "tla": "AGF",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/7853.png"
+      },
+      "home": "Sabah FK",
+      "away": "AGF",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Bank Respublika Stadium",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 4,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501902666,
+      "externalId": "espn-ucl-401902666",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-11T17:00Z",
+      "date": "2026-08-11T17:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Kauno Zalgiris",
+        "shortName": "Kauno Zalgiris",
+        "tla": "ZAL",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20028.png"
+      },
+      "awayTeam": {
+        "name": "Dinamo Zagreb",
+        "shortName": "Dinamo Zagreb",
+        "tla": "DZG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png"
+      },
+      "home": "Kauno Zalgiris",
+      "away": "Dinamo Zagreb",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "S. Darius and S. Gireno Stadium",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501898002,
+      "externalId": "espn-ucl-401898002",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-11T17:30Z",
+      "date": "2026-08-11T17:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "NEC Nijmegen",
+        "shortName": "NEC",
+        "tla": "NEC",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
+      },
+      "awayTeam": {
+        "name": "Olympiacos",
+        "shortName": "Olympiacos",
+        "tla": "OLY",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png"
+      },
+      "home": "NEC Nijmegen",
+      "away": "Olympiacos",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Goffertstadion",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501902670,
+      "externalId": "espn-ucl-401902670",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-11T18:00Z",
+      "date": "2026-08-11T18:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Red Star Belgrade",
+        "shortName": "Red Star",
+        "tla": "RSB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2290.png"
+      },
+      "awayTeam": {
+        "name": "Hapoel Be'er",
+        "shortName": "Hapoel Be'er",
+        "tla": "HBE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
+      },
+      "home": "Red Star Belgrade",
+      "away": "Hapoel Be'er",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Rajko Mitic Stadium",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501902563,
+      "externalId": "espn-ucl-401902563",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-11T18:15Z",
+      "date": "2026-08-11T18:15Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "NK Celje",
+        "shortName": "NK Celje",
+        "tla": "NKC",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png"
+      },
+      "awayTeam": {
+        "name": "Ararat-Armenia",
+        "shortName": "Ararat",
+        "tla": "ARA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png"
+      },
+      "home": "NK Celje",
+      "away": "Ararat-Armenia",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Stadion Z'dezele",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501902677,
+      "externalId": "espn-ucl-401902677",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-11T18:15Z",
+      "date": "2026-08-11T18:15Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Slovan Bratislava",
+        "shortName": "S Bratislava",
+        "tla": "SLB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png"
+      },
+      "awayTeam": {
+        "name": "Mjällby AIF",
+        "shortName": "Mjällby",
+        "tla": "MJA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20301.png"
+      },
+      "home": "Slovan Bratislava",
+      "away": "Mjällby AIF",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Národny Futbalovy Stadión",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501902700,
+      "externalId": "espn-ucl-401902700",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-11T18:30Z",
+      "date": "2026-08-11T18:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "SK Sturm Graz",
+        "shortName": "Sturm Graz",
+        "tla": "STG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3746.png"
+      },
+      "awayTeam": {
+        "name": "Fenerbahce",
+        "shortName": "Fenerbahce",
+        "tla": "FEN",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png"
+      },
+      "home": "SK Sturm Graz",
+      "away": "Fenerbahce",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Merkur Arena",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501898000,
+      "externalId": "espn-ucl-401898000",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-11T19:00Z",
+      "date": "2026-08-11T19:00Z",
+      "status": "IN_PLAY",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Lyon",
+        "shortName": "Lyon",
+        "tla": "LYON",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
+      },
+      "awayTeam": {
+        "name": "Sparta Prague",
+        "shortName": "Sparta",
+        "tla": "SPP",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/433.png"
+      },
+      "home": "Lyon",
+      "away": "Sparta Prague",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Groupama Stadium",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        }
+      }
     },
     {
       "area": {
@@ -219179,7 +222292,49 @@
       "referees": []
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "id": 1501898000,
+      "externalId": "espn-ucl-401898000",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-11T19:00Z",
+      "date": "2026-08-11T19:00Z",
+      "status": "IN_PLAY",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Lyon",
+        "shortName": "Lyon",
+        "tla": "LYON",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
+      },
+      "awayTeam": {
+        "name": "Sparta Prague",
+        "shortName": "Sparta",
+        "tla": "SPP",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/433.png"
+      },
+      "home": "Lyon",
+      "away": "Sparta Prague",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Groupama Stadium",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        }
+      }
+    }
+  ],
   "finished": [
     {
       "area": {
@@ -253494,6 +256649,416 @@
       ]
     },
     {
+      "id": 1501877823,
+      "externalId": "espn-ucl-401877823",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-07T16:00Z",
+      "date": "2026-07-07T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Lincoln Red Imps",
+        "shortName": "Red Imps",
+        "tla": "LRI",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/17856.png"
+      },
+      "awayTeam": {
+        "name": "Inter D'Escaldes",
+        "shortName": "Inter D'Escaldes",
+        "tla": "IDE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20703.png"
+      },
+      "home": "Lincoln Red Imps",
+      "away": "Inter D'Escaldes",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Europa Point Stadium",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 3,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501877829,
+      "externalId": "espn-ucl-401877829",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-07T16:00Z",
+      "date": "2026-07-07T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Sabah FK",
+        "shortName": "Sabah",
+        "tla": "SAB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png"
+      },
+      "awayTeam": {
+        "name": "The New Saints",
+        "shortName": "The New Saints",
+        "tla": "TNS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/576.png"
+      },
+      "home": "Sabah FK",
+      "away": "The New Saints",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Bank Respublika Stadium",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501877831,
+      "externalId": "espn-ucl-401877831",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-07T16:00Z",
+      "date": "2026-07-07T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Kauno Zalgiris",
+        "shortName": "Kauno Zalgiris",
+        "tla": "ZAL",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20028.png"
+      },
+      "awayTeam": {
+        "name": "Drita Gjilan",
+        "shortName": "Drita Gjilan",
+        "tla": "DRI",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/19243.png"
+      },
+      "home": "Kauno Zalgiris",
+      "away": "Drita Gjilan",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "S. Darius and S. Gireno Stadium",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501877833,
+      "externalId": "espn-ucl-401877833",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-07T16:00Z",
+      "date": "2026-07-07T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Ararat-Armenia",
+        "shortName": "Ararat",
+        "tla": "ARA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png"
+      },
+      "awayTeam": {
+        "name": "Riga FC",
+        "shortName": "Riga FC",
+        "tla": "RIG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/19246.png"
+      },
+      "home": "Ararat-Armenia",
+      "away": "Riga FC",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Abovyan City Stadium",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501877832,
+      "externalId": "espn-ucl-401877832",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-07T17:00Z",
+      "date": "2026-07-07T17:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Vardar",
+        "shortName": "Vardar",
+        "tla": "VAR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/560.png"
+      },
+      "awayTeam": {
+        "name": "KuPS Kuopio",
+        "shortName": "KuPS Kuopio",
+        "tla": "KUPS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8169.png"
+      },
+      "home": "Vardar",
+      "away": "KuPS Kuopio",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Toše Proeski Arena",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501877826,
+      "externalId": "espn-ucl-401877826",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-07T17:30Z",
+      "date": "2026-07-07T17:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Floriana FC",
+        "shortName": "Floriana",
+        "tla": "FLO",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/7857.png"
+      },
+      "awayTeam": {
+        "name": "Shamrock Rovers",
+        "shortName": "Shamrock",
+        "tla": "SHR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2564.png"
+      },
+      "home": "Floriana FC",
+      "away": "Shamrock Rovers",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "MFA Centenary Stadium",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501877828,
+      "externalId": "espn-ucl-401877828",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-07T18:30Z",
+      "date": "2026-07-07T18:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Borac Banja Luka",
+        "shortName": "Banja Luka",
+        "tla": "BBL",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20710.png"
+      },
+      "awayTeam": {
+        "name": "Levski Sofia",
+        "shortName": "Levski Sofia",
+        "tla": "LEVS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
+      },
+      "home": "Borac Banja Luka",
+      "away": "Levski Sofia",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Gradski Stadion Banja Luka",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501877834,
+      "externalId": "espn-ucl-401877834",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-07T18:30Z",
+      "date": "2026-07-07T18:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Tre Fiori",
+        "shortName": "Tre Fiori",
+        "tla": "TREF",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8591.png"
+      },
+      "awayTeam": {
+        "name": "Larne",
+        "shortName": "Larne",
+        "tla": "LAR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20039.png"
+      },
+      "home": "Tre Fiori",
+      "away": "Larne",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "San Marino Stadium",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501877978,
+      "externalId": "espn-ucl-401877978",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-07T18:45Z",
+      "date": "2026-07-07T18:45Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "KI Klaksvik",
+        "shortName": "KI Klaksvik",
+        "tla": "KLA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2547.png"
+      },
+      "awayTeam": {
+        "name": "FC Atert Bissen",
+        "shortName": "Atert",
+        "tla": "ATB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/131796.png"
+      },
+      "home": "KI Klaksvik",
+      "away": "FC Atert Bissen",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Djúpumyrar",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501877827,
+      "externalId": "espn-ucl-401877827",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-07T19:00Z",
+      "date": "2026-07-07T19:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Vikingur Reykjavik",
+        "shortName": "Vikingur",
+        "tla": "VIK",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8249.png"
+      },
+      "awayTeam": {
+        "name": "Györi ETO FC",
+        "shortName": "Györi ETO",
+        "tla": "GYR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/12367.png"
+      },
+      "home": "Vikingur Reykjavik",
+      "away": "Györi ETO FC",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Vikingsvöllur",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
       "area": {
         "id": 2267,
         "name": "World",
@@ -253570,6 +257135,170 @@
           "nationality": null
         }
       ]
+    },
+    {
+      "id": 1501877824,
+      "externalId": "espn-ucl-401877824",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-08T15:00Z",
+      "date": "2026-07-08T15:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Kairat Almaty",
+        "shortName": "Kairat Almaty",
+        "tla": "KAI",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2528.png"
+      },
+      "awayTeam": {
+        "name": "FK Sutjeska",
+        "shortName": "FK Sutjeska",
+        "tla": "SUT",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8281.png"
+      },
+      "home": "Kairat Almaty",
+      "away": "FK Sutjeska",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Almaty Ortalyk Stadium",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501877825,
+      "externalId": "espn-ucl-401877825",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-08T16:00Z",
+      "date": "2026-07-08T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Flora",
+        "shortName": "Flora",
+        "tla": "FLO",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/12146.png"
+      },
+      "awayTeam": {
+        "name": "Iberia 1999",
+        "shortName": "Iberia 1999",
+        "tla": "IBE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20025.png"
+      },
+      "home": "Flora",
+      "away": "Iberia 1999",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "A. Le Coq Arena",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 3
+        }
+      }
+    },
+    {
+      "id": 1501877830,
+      "externalId": "espn-ucl-401877830",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-08T17:00Z",
+      "date": "2026-07-08T17:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Petrocub",
+        "shortName": "Petrocub",
+        "tla": "PET",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/19250.png"
+      },
+      "awayTeam": {
+        "name": "Egnatia",
+        "shortName": "Egnatia",
+        "tla": "EGN",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21943.png"
+      },
+      "home": "Petrocub",
+      "away": "Egnatia",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Stadionul Zimbru",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501877979,
+      "externalId": "espn-ucl-401877979",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-08T17:00Z",
+      "date": "2026-07-08T17:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "ML Vitebsk",
+        "shortName": "ML Vitebsk",
+        "tla": "MLV",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/131794.png"
+      },
+      "awayTeam": {
+        "name": "CSU Craiova",
+        "shortName": "CSU Craiova",
+        "tla": "UCRA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8089.png"
+      },
+      "home": "ML Vitebsk",
+      "away": "CSU Craiova",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Mezokovesdi Varosi Stadion",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 4
+        }
+      }
     },
     {
       "area": {
@@ -253852,6 +257581,333 @@
       ]
     },
     {
+      "id": 1501877820,
+      "externalId": "espn-ucl-401877820",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-14T15:00Z",
+      "date": "2026-07-14T15:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "KuPS Kuopio",
+        "shortName": "KuPS Kuopio",
+        "tla": "KUPS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8169.png"
+      },
+      "awayTeam": {
+        "name": "Vardar",
+        "shortName": "Vardar",
+        "tla": "VAR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/560.png"
+      },
+      "home": "KuPS Kuopio",
+      "away": "Vardar",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Vare Areena TN",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 3
+        }
+      }
+    },
+    {
+      "id": 1501877811,
+      "externalId": "espn-ucl-401877811",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-14T16:00Z",
+      "date": "2026-07-14T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Inter D'Escaldes",
+        "shortName": "Inter D'Escaldes",
+        "tla": "IDE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20703.png"
+      },
+      "awayTeam": {
+        "name": "Lincoln Red Imps",
+        "shortName": "Red Imps",
+        "tla": "LRI",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/17856.png"
+      },
+      "home": "Inter D'Escaldes",
+      "away": "Lincoln Red Imps",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Estadi Nacional d'Andorra",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501877813,
+      "externalId": "espn-ucl-401877813",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-14T16:00Z",
+      "date": "2026-07-14T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Iberia 1999",
+        "shortName": "Iberia 1999",
+        "tla": "IBE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20025.png"
+      },
+      "awayTeam": {
+        "name": "Flora",
+        "shortName": "Flora",
+        "tla": "FLO",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/12146.png"
+      },
+      "home": "Iberia 1999",
+      "away": "Flora",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Mikheil Meskhi Stadioni",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501877815,
+      "externalId": "espn-ucl-401877815",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-14T17:00Z",
+      "date": "2026-07-14T17:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Györi ETO FC",
+        "shortName": "Györi ETO",
+        "tla": "GYR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/12367.png"
+      },
+      "awayTeam": {
+        "name": "Vikingur Reykjavik",
+        "shortName": "Vikingur",
+        "tla": "VIK",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8249.png"
+      },
+      "home": "Györi ETO FC",
+      "away": "Vikingur Reykjavik",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501877821,
+      "externalId": "espn-ucl-401877821",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-14T17:00Z",
+      "date": "2026-07-14T17:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Riga FC",
+        "shortName": "Riga FC",
+        "tla": "RIG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/19246.png"
+      },
+      "awayTeam": {
+        "name": "Ararat-Armenia",
+        "shortName": "Ararat",
+        "tla": "ARA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png"
+      },
+      "home": "Riga FC",
+      "away": "Ararat-Armenia",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Skonto Stadions",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 3,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501877816,
+      "externalId": "espn-ucl-401877816",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-14T17:30Z",
+      "date": "2026-07-14T17:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Levski Sofia",
+        "shortName": "Levski Sofia",
+        "tla": "LEVS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
+      },
+      "awayTeam": {
+        "name": "Borac Banja Luka",
+        "shortName": "Banja Luka",
+        "tla": "BBL",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20710.png"
+      },
+      "home": "Levski Sofia",
+      "away": "Borac Banja Luka",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Georgi Asparuhov Stadium",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 4,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501877817,
+      "externalId": "espn-ucl-401877817",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-14T17:30Z",
+      "date": "2026-07-14T17:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "The New Saints",
+        "shortName": "The New Saints",
+        "tla": "TNS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/576.png"
+      },
+      "awayTeam": {
+        "name": "Sabah FK",
+        "shortName": "Sabah",
+        "tla": "SAB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png"
+      },
+      "home": "The New Saints",
+      "away": "Sabah FK",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Park Hall",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501877819,
+      "externalId": "espn-ucl-401877819",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-14T18:00Z",
+      "date": "2026-07-14T18:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Drita Gjilan",
+        "shortName": "Drita Gjilan",
+        "tla": "DRI",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/19243.png"
+      },
+      "awayTeam": {
+        "name": "Kauno Zalgiris",
+        "shortName": "Kauno Zalgiris",
+        "tla": "ZAL",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20028.png"
+      },
+      "home": "Drita Gjilan",
+      "away": "Kauno Zalgiris",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Stadiumi Fadil Vokrri",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 3
+        }
+      }
+    },
+    {
       "area": {
         "id": 2267,
         "name": "World",
@@ -253918,6 +257974,170 @@
       ]
     },
     {
+      "id": 1501877814,
+      "externalId": "espn-ucl-401877814",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-14T19:00Z",
+      "date": "2026-07-14T19:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Shamrock Rovers",
+        "shortName": "Shamrock",
+        "tla": "SHR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2564.png"
+      },
+      "awayTeam": {
+        "name": "Floriana FC",
+        "shortName": "Floriana",
+        "tla": "FLO",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/7857.png"
+      },
+      "home": "Shamrock Rovers",
+      "away": "Floriana FC",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Tallaght Stadium",
+      "homeGoals": 5,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 5,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501877822,
+      "externalId": "espn-ucl-401877822",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-14T19:00Z",
+      "date": "2026-07-14T19:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Larne",
+        "shortName": "Larne",
+        "tla": "LAR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20039.png"
+      },
+      "awayTeam": {
+        "name": "Tre Fiori",
+        "shortName": "Tre Fiori",
+        "tla": "TREF",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8591.png"
+      },
+      "home": "Larne",
+      "away": "Tre Fiori",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Inver Park",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501877976,
+      "externalId": "espn-ucl-401877976",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-15T17:30Z",
+      "date": "2026-07-15T17:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "CSU Craiova",
+        "shortName": "CSU Craiova",
+        "tla": "UCRA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8089.png"
+      },
+      "awayTeam": {
+        "name": "ML Vitebsk",
+        "shortName": "ML Vitebsk",
+        "tla": "MLV",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/131794.png"
+      },
+      "home": "CSU Craiova",
+      "away": "ML Vitebsk",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Stadionul Ion Oblemenco",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501877977,
+      "externalId": "espn-ucl-401877977",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-15T18:15Z",
+      "date": "2026-07-15T18:15Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "FC Atert Bissen",
+        "shortName": "Atert",
+        "tla": "ATB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/131796.png"
+      },
+      "awayTeam": {
+        "name": "KI Klaksvik",
+        "shortName": "KI Klaksvik",
+        "tla": "KLA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2547.png"
+      },
+      "home": "FC Atert Bissen",
+      "away": "KI Klaksvik",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Stade de Luxembourg",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 2
+        }
+      }
+    },
+    {
       "area": {
         "id": 2267,
         "name": "World",
@@ -253982,6 +258202,88 @@
           "nationality": "United States"
         }
       ]
+    },
+    {
+      "id": 1501877812,
+      "externalId": "espn-ucl-401877812",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-15T19:00Z",
+      "date": "2026-07-15T19:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "FK Sutjeska",
+        "shortName": "FK Sutjeska",
+        "tla": "SUT",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8281.png"
+      },
+      "awayTeam": {
+        "name": "Kairat Almaty",
+        "shortName": "Kairat Almaty",
+        "tla": "KAI",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2528.png"
+      },
+      "home": "FK Sutjeska",
+      "away": "Kairat Almaty",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Gradski Niksica",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501877818,
+      "externalId": "espn-ucl-401877818",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-15T19:00Z",
+      "date": "2026-07-15T19:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Egnatia",
+        "shortName": "Egnatia",
+        "tla": "EGN",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21943.png"
+      },
+      "awayTeam": {
+        "name": "Petrocub",
+        "shortName": "Petrocub",
+        "tla": "PET",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/19250.png"
+      },
+      "home": "Egnatia",
+      "away": "Petrocub",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Arena Egnatia",
+      "homeGoals": 6,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 6,
+          "away": 1
+        }
+      }
     },
     {
       "area": {
@@ -254426,6 +258728,457 @@
       ]
     },
     {
+      "id": 1501891563,
+      "externalId": "espn-ucl-401891563",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-21T16:00Z",
+      "date": "2026-07-21T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Iberia 1999",
+        "shortName": "Iberia 1999",
+        "tla": "IBE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20025.png"
+      },
+      "awayTeam": {
+        "name": "Slovan Bratislava",
+        "shortName": "S Bratislava",
+        "tla": "SLB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png"
+      },
+      "home": "Iberia 1999",
+      "away": "Slovan Bratislava",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Mikheil Meskhi Stadioni",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501891564,
+      "externalId": "espn-ucl-401891564",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-21T16:00Z",
+      "date": "2026-07-21T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Mjällby AIF",
+        "shortName": "Mjällby",
+        "tla": "MJA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20301.png"
+      },
+      "awayTeam": {
+        "name": "Lincoln Red Imps",
+        "shortName": "Red Imps",
+        "tla": "LRI",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/17856.png"
+      },
+      "home": "Mjällby AIF",
+      "away": "Lincoln Red Imps",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Strandvallen",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 3,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501891587,
+      "externalId": "espn-ucl-401891587",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-21T16:00Z",
+      "date": "2026-07-21T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Sabah FK",
+        "shortName": "Sabah",
+        "tla": "SAB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png"
+      },
+      "awayTeam": {
+        "name": "KuPS Kuopio",
+        "shortName": "KuPS Kuopio",
+        "tla": "KUPS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8169.png"
+      },
+      "home": "Sabah FK",
+      "away": "KuPS Kuopio",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Bank Respublika Stadium",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501891670,
+      "externalId": "espn-ucl-401891670",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-21T16:00Z",
+      "date": "2026-07-21T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Ararat-Armenia",
+        "shortName": "Ararat",
+        "tla": "ARA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png"
+      },
+      "awayTeam": {
+        "name": "Shamrock Rovers",
+        "shortName": "Shamrock",
+        "tla": "SHR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2564.png"
+      },
+      "home": "Ararat-Armenia",
+      "away": "Shamrock Rovers",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Vazgen Sargsyan Republican Stadium",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501877837,
+      "externalId": "espn-ucl-401877837",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-21T17:00Z",
+      "date": "2026-07-21T17:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "AGF",
+        "shortName": "AGF",
+        "tla": "AGF",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/7853.png"
+      },
+      "awayTeam": {
+        "name": "Lech Poznan",
+        "shortName": "Lech Poznan",
+        "tla": "LECH",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2990.png"
+      },
+      "home": "AGF",
+      "away": "Lech Poznan",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Cepheus Park Randers",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 4
+        }
+      }
+    },
+    {
+      "id": 1501877768,
+      "externalId": "espn-ucl-401877768",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-21T18:00Z",
+      "date": "2026-07-21T18:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Fenerbahce",
+        "shortName": "Fenerbahce",
+        "tla": "FEN",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png"
+      },
+      "awayTeam": {
+        "name": "Gornik Zabrze",
+        "shortName": "Gornik Zabrz",
+        "tla": "GOR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8180.png"
+      },
+      "home": "Fenerbahce",
+      "away": "Gornik Zabrze",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Ulker Stadyumu",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501877769,
+      "externalId": "espn-ucl-401877769",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-21T18:00Z",
+      "date": "2026-07-21T18:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "FC Thun",
+        "shortName": "FC Thun",
+        "tla": "THUN",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3024.png"
+      },
+      "awayTeam": {
+        "name": "Dinamo Zagreb",
+        "shortName": "Dinamo Zagreb",
+        "tla": "DZG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png"
+      },
+      "home": "FC Thun",
+      "away": "Dinamo Zagreb",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Stockhorn Arena",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501877836,
+      "externalId": "espn-ucl-401877836",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-21T18:30Z",
+      "date": "2026-07-21T18:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "SK Sturm Graz",
+        "shortName": "Sturm Graz",
+        "tla": "STG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3746.png"
+      },
+      "awayTeam": {
+        "name": "Heart of Midlothian",
+        "shortName": "Hearts",
+        "tla": "HOM",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/262.png"
+      },
+      "home": "SK Sturm Graz",
+      "away": "Heart of Midlothian",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Merkur Arena",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 4,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501891845,
+      "externalId": "espn-ucl-401891845",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-21T18:45Z",
+      "date": "2026-07-21T18:45Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "KI Klaksvik",
+        "shortName": "KI Klaksvik",
+        "tla": "KLA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2547.png"
+      },
+      "awayTeam": {
+        "name": "Kauno Zalgiris",
+        "shortName": "Kauno Zalgiris",
+        "tla": "ZAL",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20028.png"
+      },
+      "home": "KI Klaksvik",
+      "away": "Kauno Zalgiris",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Djúpumyrar",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501891588,
+      "externalId": "espn-ucl-401891588",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-21T19:00Z",
+      "date": "2026-07-21T19:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Vikingur Reykjavik",
+        "shortName": "Vikingur",
+        "tla": "VIK",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8249.png"
+      },
+      "awayTeam": {
+        "name": "Hapoel Be'er",
+        "shortName": "Hapoel Be'er",
+        "tla": "HBE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
+      },
+      "home": "Vikingur Reykjavik",
+      "away": "Hapoel Be'er",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Vikingsvöllur",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501891687,
+      "externalId": "espn-ucl-401891687",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-21T19:00Z",
+      "date": "2026-07-21T19:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Larne",
+        "shortName": "Larne",
+        "tla": "LAR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20039.png"
+      },
+      "awayTeam": {
+        "name": "Red Star Belgrade",
+        "shortName": "Red Star",
+        "tla": "RSB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2290.png"
+      },
+      "home": "Larne",
+      "away": "Red Star Belgrade",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Inver Park",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 4
+        }
+      }
+    },
+    {
       "area": {
         "id": 2032,
         "name": "Brazil",
@@ -254483,6 +259236,129 @@
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
+    },
+    {
+      "id": 1501891884,
+      "externalId": "espn-ucl-401891884",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-22T17:00Z",
+      "date": "2026-07-22T17:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Omonia Nicosia",
+        "shortName": "Omonia",
+        "tla": "OMON",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/617.png"
+      },
+      "awayTeam": {
+        "name": "Kairat Almaty",
+        "shortName": "Kairat Almaty",
+        "tla": "KAI",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2528.png"
+      },
+      "home": "Omonia Nicosia",
+      "away": "Kairat Almaty",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "GSP Stadium",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501891788,
+      "externalId": "espn-ucl-401891788",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-22T17:30Z",
+      "date": "2026-07-22T17:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Levski Sofia",
+        "shortName": "Levski Sofia",
+        "tla": "LEVS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
+      },
+      "awayTeam": {
+        "name": "CSU Craiova",
+        "shortName": "CSU Craiova",
+        "tla": "UCRA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8089.png"
+      },
+      "home": "Levski Sofia",
+      "away": "CSU Craiova",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Georgi Asparuhov Stadium",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501891883,
+      "externalId": "espn-ucl-401891883",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-22T19:00Z",
+      "date": "2026-07-22T19:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Egnatia",
+        "shortName": "Egnatia",
+        "tla": "EGN",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21943.png"
+      },
+      "awayTeam": {
+        "name": "NK Celje",
+        "shortName": "NK Celje",
+        "tla": "NKC",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png"
+      },
+      "home": "Egnatia",
+      "away": "NK Celje",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Arena Egnatia",
+      "homeGoals": 3,
+      "awayGoals": 3,
+      "score": {
+        "fullTime": {
+          "home": 3,
+          "away": 3
+        }
+      }
     },
     {
       "area": {
@@ -255464,6 +260340,579 @@
       "referees": []
     },
     {
+      "id": 1501891534,
+      "externalId": "espn-ucl-401891534",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-28T15:00Z",
+      "date": "2026-07-28T15:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "KuPS Kuopio",
+        "shortName": "KuPS Kuopio",
+        "tla": "KUPS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8169.png"
+      },
+      "awayTeam": {
+        "name": "Sabah FK",
+        "shortName": "Sabah",
+        "tla": "SAB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png"
+      },
+      "home": "KuPS Kuopio",
+      "away": "Sabah FK",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Vare Areena TN",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501891562,
+      "externalId": "espn-ucl-401891562",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-28T16:00Z",
+      "date": "2026-07-28T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Lincoln Red Imps",
+        "shortName": "Red Imps",
+        "tla": "LRI",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/17856.png"
+      },
+      "awayTeam": {
+        "name": "Mjällby AIF",
+        "shortName": "Mjällby",
+        "tla": "MJA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20301.png"
+      },
+      "home": "Lincoln Red Imps",
+      "away": "Mjällby AIF",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Europa Point Stadium",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501877835,
+      "externalId": "espn-ucl-401877835",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-28T18:00Z",
+      "date": "2026-07-28T18:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Dinamo Zagreb",
+        "shortName": "Dinamo Zagreb",
+        "tla": "DZG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png"
+      },
+      "awayTeam": {
+        "name": "FC Thun",
+        "shortName": "FC Thun",
+        "tla": "THUN",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3024.png"
+      },
+      "home": "Dinamo Zagreb",
+      "away": "FC Thun",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Maksimir Stadium",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 3,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501891861,
+      "externalId": "espn-ucl-401891861",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-28T18:15Z",
+      "date": "2026-07-28T18:15Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "NK Celje",
+        "shortName": "NK Celje",
+        "tla": "NKC",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png"
+      },
+      "awayTeam": {
+        "name": "Egnatia",
+        "shortName": "Egnatia",
+        "tla": "EGN",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21943.png"
+      },
+      "home": "NK Celje",
+      "away": "Egnatia",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Stadion Z'dezele",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501877765,
+      "externalId": "espn-ucl-401877765",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-28T18:45Z",
+      "date": "2026-07-28T18:45Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Heart of Midlothian",
+        "shortName": "Hearts",
+        "tla": "HOM",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/262.png"
+      },
+      "awayTeam": {
+        "name": "SK Sturm Graz",
+        "shortName": "Sturm Graz",
+        "tla": "STG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3746.png"
+      },
+      "home": "Heart of Midlothian",
+      "away": "SK Sturm Graz",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Tynecastle Park",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501891668,
+      "externalId": "espn-ucl-401891668",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-28T19:00Z",
+      "date": "2026-07-28T19:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Shamrock Rovers",
+        "shortName": "Shamrock",
+        "tla": "SHR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2564.png"
+      },
+      "awayTeam": {
+        "name": "Ararat-Armenia",
+        "shortName": "Ararat",
+        "tla": "ARA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png"
+      },
+      "home": "Shamrock Rovers",
+      "away": "Ararat-Armenia",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Tallaght Stadium",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501891862,
+      "externalId": "espn-ucl-401891862",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-29T15:00Z",
+      "date": "2026-07-29T15:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Kairat Almaty",
+        "shortName": "Kairat Almaty",
+        "tla": "KAI",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2528.png"
+      },
+      "awayTeam": {
+        "name": "Omonia Nicosia",
+        "shortName": "Omonia",
+        "tla": "OMON",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/617.png"
+      },
+      "home": "Kairat Almaty",
+      "away": "Omonia Nicosia",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Almaty Ortalyk Stadium",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501891844,
+      "externalId": "espn-ucl-401891844",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-29T16:00Z",
+      "date": "2026-07-29T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Kauno Zalgiris",
+        "shortName": "Kauno Zalgiris",
+        "tla": "ZAL",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20028.png"
+      },
+      "awayTeam": {
+        "name": "KI Klaksvik",
+        "shortName": "KI Klaksvik",
+        "tla": "KLA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2547.png"
+      },
+      "home": "Kauno Zalgiris",
+      "away": "KI Klaksvik",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Jonavos centrinis stadionas",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501877766,
+      "externalId": "espn-ucl-401877766",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-29T17:00Z",
+      "date": "2026-07-29T17:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Lech Poznan",
+        "shortName": "Lech Poznan",
+        "tla": "LECH",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2990.png"
+      },
+      "awayTeam": {
+        "name": "AGF",
+        "shortName": "AGF",
+        "tla": "AGF",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/7853.png"
+      },
+      "home": "Lech Poznan",
+      "away": "AGF",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Municipal Stadium-Poznan",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 4
+        }
+      }
+    },
+    {
+      "id": 1501891533,
+      "externalId": "espn-ucl-401891533",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-29T17:30Z",
+      "date": "2026-07-29T17:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Hapoel Be'er",
+        "shortName": "Hapoel Be'er",
+        "tla": "HBE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
+      },
+      "awayTeam": {
+        "name": "Vikingur Reykjavik",
+        "shortName": "Vikingur",
+        "tla": "VIK",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8249.png"
+      },
+      "home": "Hapoel Be'er",
+      "away": "Vikingur Reykjavik",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Szombathelyi Haladás Stadion",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501891787,
+      "externalId": "espn-ucl-401891787",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-29T17:30Z",
+      "date": "2026-07-29T17:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "CSU Craiova",
+        "shortName": "CSU Craiova",
+        "tla": "UCRA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8089.png"
+      },
+      "awayTeam": {
+        "name": "Levski Sofia",
+        "shortName": "Levski Sofia",
+        "tla": "LEVS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
+      },
+      "home": "CSU Craiova",
+      "away": "Levski Sofia",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Stadionul Ion Oblemenco",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501877767,
+      "externalId": "espn-ucl-401877767",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-29T18:00Z",
+      "date": "2026-07-29T18:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Gornik Zabrze",
+        "shortName": "Gornik Zabrz",
+        "tla": "GOR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/8180.png"
+      },
+      "awayTeam": {
+        "name": "Fenerbahce",
+        "shortName": "Fenerbahce",
+        "tla": "FEN",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png"
+      },
+      "home": "Gornik Zabrze",
+      "away": "Fenerbahce",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501891667,
+      "externalId": "espn-ucl-401891667",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-29T18:00Z",
+      "date": "2026-07-29T18:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Red Star Belgrade",
+        "shortName": "Red Star",
+        "tla": "RSB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2290.png"
+      },
+      "awayTeam": {
+        "name": "Larne",
+        "shortName": "Larne",
+        "tla": "LAR",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20039.png"
+      },
+      "home": "Red Star Belgrade",
+      "away": "Larne",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Rajko Mitic Stadium",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 5,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501891561,
+      "externalId": "espn-ucl-401891561",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-07-29T18:15Z",
+      "date": "2026-07-29T18:15Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Slovan Bratislava",
+        "shortName": "S Bratislava",
+        "tla": "SLB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png"
+      },
+      "awayTeam": {
+        "name": "Iberia 1999",
+        "shortName": "Iberia 1999",
+        "tla": "IBE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20025.png"
+      },
+      "home": "Slovan Bratislava",
+      "away": "Iberia 1999",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Národny Futbalovy Stadión",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 1
+        }
+      }
+    },
+    {
       "area": {
         "id": 2032,
         "name": "Brazil",
@@ -255823,6 +261272,415 @@
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
+    },
+    {
+      "id": 1501902564,
+      "externalId": "espn-ucl-401902564",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-04T16:00Z",
+      "date": "2026-08-04T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Ararat-Armenia",
+        "shortName": "Ararat",
+        "tla": "ARA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png"
+      },
+      "awayTeam": {
+        "name": "NK Celje",
+        "shortName": "NK Celje",
+        "tla": "NKC",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png"
+      },
+      "home": "Ararat-Armenia",
+      "away": "NK Celje",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Vazgen Sargsyan Republican Stadium",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501902705,
+      "externalId": "espn-ucl-401902705",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-04T16:00Z",
+      "date": "2026-08-04T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Mjällby AIF",
+        "shortName": "Mjällby",
+        "tla": "MJA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20301.png"
+      },
+      "awayTeam": {
+        "name": "Slovan Bratislava",
+        "shortName": "S Bratislava",
+        "tla": "SLB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png"
+      },
+      "home": "Mjällby AIF",
+      "away": "Slovan Bratislava",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Strandvallen",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501902701,
+      "externalId": "espn-ucl-401902701",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-04T17:30Z",
+      "date": "2026-08-04T17:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Levski Sofia",
+        "shortName": "Levski Sofia",
+        "tla": "LEVS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
+      },
+      "awayTeam": {
+        "name": "Kairat Almaty",
+        "shortName": "Kairat Almaty",
+        "tla": "KAI",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2528.png"
+      },
+      "home": "Levski Sofia",
+      "away": "Kairat Almaty",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Georgi Asparuhov Stadium",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501902702,
+      "externalId": "espn-ucl-401902702",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-04T17:30Z",
+      "date": "2026-08-04T17:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Hapoel Be'er",
+        "shortName": "Hapoel Be'er",
+        "tla": "HBE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
+      },
+      "awayTeam": {
+        "name": "Red Star Belgrade",
+        "shortName": "Red Star",
+        "tla": "RSB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2290.png"
+      },
+      "home": "Hapoel Be'er",
+      "away": "Red Star Belgrade",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Szombathelyi Haladás Stadion",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501898019,
+      "externalId": "espn-ucl-401898019",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-04T18:00Z",
+      "date": "2026-08-04T18:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Olympiacos",
+        "shortName": "Olympiacos",
+        "tla": "OLY",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png"
+      },
+      "awayTeam": {
+        "name": "NEC Nijmegen",
+        "shortName": "NEC",
+        "tla": "NEC",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
+      },
+      "home": "Olympiacos",
+      "away": "NEC Nijmegen",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Georgios Karaiskakis Stadium",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501898023,
+      "externalId": "espn-ucl-401898023",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-04T18:00Z",
+      "date": "2026-08-04T18:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Sparta Prague",
+        "shortName": "Sparta",
+        "tla": "SPP",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/433.png"
+      },
+      "awayTeam": {
+        "name": "Lyon",
+        "shortName": "Lyon",
+        "tla": "LYON",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
+      },
+      "home": "Sparta Prague",
+      "away": "Lyon",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Generali Arena",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501898024,
+      "externalId": "espn-ucl-401898024",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-04T18:00Z",
+      "date": "2026-08-04T18:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Union St.-Gilloise",
+        "shortName": "Union SG",
+        "tla": "USG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/5807.png"
+      },
+      "awayTeam": {
+        "name": "Bodo/Glimt",
+        "shortName": "Bodo/Glimt",
+        "tla": "BODO",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png"
+      },
+      "home": "Union St.-Gilloise",
+      "away": "Bodo/Glimt",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "homeGoals": 3,
+      "awayGoals": 3,
+      "score": {
+        "fullTime": {
+          "home": 3,
+          "away": 3
+        }
+      }
+    },
+    {
+      "id": 1501902668,
+      "externalId": "espn-ucl-401902668",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-04T18:00Z",
+      "date": "2026-08-04T18:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Dinamo Zagreb",
+        "shortName": "Dinamo Zagreb",
+        "tla": "DZG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png"
+      },
+      "awayTeam": {
+        "name": "Kauno Zalgiris",
+        "shortName": "Kauno Zalgiris",
+        "tla": "ZAL",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20028.png"
+      },
+      "home": "Dinamo Zagreb",
+      "away": "Kauno Zalgiris",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Maksimir Stadium",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 5,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501902678,
+      "externalId": "espn-ucl-401902678",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-05T17:10Z",
+      "date": "2026-08-05T17:10Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "AGF",
+        "shortName": "AGF",
+        "tla": "AGF",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/7853.png"
+      },
+      "awayTeam": {
+        "name": "Sabah FK",
+        "shortName": "Sabah",
+        "tla": "SAB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png"
+      },
+      "home": "AGF",
+      "away": "Sabah FK",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Cepheus Park Randers",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501902674,
+      "externalId": "espn-ucl-401902674",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-05T18:00Z",
+      "date": "2026-08-05T18:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_1",
+      "roundName": "1. pretkolo • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Fenerbahce",
+        "shortName": "Fenerbahce",
+        "tla": "FEN",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png"
+      },
+      "awayTeam": {
+        "name": "SK Sturm Graz",
+        "shortName": "Sturm Graz",
+        "tla": "STG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3746.png"
+      },
+      "home": "Fenerbahce",
+      "away": "SK Sturm Graz",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Ulker Stadyumu",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        }
+      }
     },
     {
       "area": {
@@ -257622,6 +263480,375 @@
           "nationality": "Portugal"
         }
       ]
+    },
+    {
+      "id": 1501902671,
+      "externalId": "espn-ucl-401902671",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-11T15:00Z",
+      "date": "2026-08-11T15:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Kairat Almaty",
+        "shortName": "Kairat Almaty",
+        "tla": "KAI",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2528.png"
+      },
+      "awayTeam": {
+        "name": "Levski Sofia",
+        "shortName": "Levski Sofia",
+        "tla": "LEVS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
+      },
+      "home": "Kairat Almaty",
+      "away": "Levski Sofia",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Turkistan Arena",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501898018,
+      "externalId": "espn-ucl-401898018",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-11T16:00Z",
+      "date": "2026-08-11T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Bodo/Glimt",
+        "shortName": "Bodo/Glimt",
+        "tla": "BODO",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png"
+      },
+      "awayTeam": {
+        "name": "Union St.-Gilloise",
+        "shortName": "Union SG",
+        "tla": "USG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/5807.png"
+      },
+      "home": "Bodo/Glimt",
+      "away": "Union St.-Gilloise",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Aspmyra Stadion",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 3,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501902676,
+      "externalId": "espn-ucl-401902676",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-11T16:00Z",
+      "date": "2026-08-11T16:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Sabah FK",
+        "shortName": "Sabah",
+        "tla": "SAB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png"
+      },
+      "awayTeam": {
+        "name": "AGF",
+        "shortName": "AGF",
+        "tla": "AGF",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/7853.png"
+      },
+      "home": "Sabah FK",
+      "away": "AGF",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Bank Respublika Stadium",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 4,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501902666,
+      "externalId": "espn-ucl-401902666",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-11T17:00Z",
+      "date": "2026-08-11T17:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Kauno Zalgiris",
+        "shortName": "Kauno Zalgiris",
+        "tla": "ZAL",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20028.png"
+      },
+      "awayTeam": {
+        "name": "Dinamo Zagreb",
+        "shortName": "Dinamo Zagreb",
+        "tla": "DZG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png"
+      },
+      "home": "Kauno Zalgiris",
+      "away": "Dinamo Zagreb",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "S. Darius and S. Gireno Stadium",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501898002,
+      "externalId": "espn-ucl-401898002",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-11T17:30Z",
+      "date": "2026-08-11T17:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "NEC Nijmegen",
+        "shortName": "NEC",
+        "tla": "NEC",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
+      },
+      "awayTeam": {
+        "name": "Olympiacos",
+        "shortName": "Olympiacos",
+        "tla": "OLY",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png"
+      },
+      "home": "NEC Nijmegen",
+      "away": "Olympiacos",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Goffertstadion",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501902670,
+      "externalId": "espn-ucl-401902670",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-11T18:00Z",
+      "date": "2026-08-11T18:00Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Red Star Belgrade",
+        "shortName": "Red Star",
+        "tla": "RSB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2290.png"
+      },
+      "awayTeam": {
+        "name": "Hapoel Be'er",
+        "shortName": "Hapoel Be'er",
+        "tla": "HBE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
+      },
+      "home": "Red Star Belgrade",
+      "away": "Hapoel Be'er",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Rajko Mitic Stadium",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501902563,
+      "externalId": "espn-ucl-401902563",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-11T18:15Z",
+      "date": "2026-08-11T18:15Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "NK Celje",
+        "shortName": "NK Celje",
+        "tla": "NKC",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png"
+      },
+      "awayTeam": {
+        "name": "Ararat-Armenia",
+        "shortName": "Ararat",
+        "tla": "ARA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png"
+      },
+      "home": "NK Celje",
+      "away": "Ararat-Armenia",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Stadion Z'dezele",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501902677,
+      "externalId": "espn-ucl-401902677",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-11T18:15Z",
+      "date": "2026-08-11T18:15Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Slovan Bratislava",
+        "shortName": "S Bratislava",
+        "tla": "SLB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png"
+      },
+      "awayTeam": {
+        "name": "Mjällby AIF",
+        "shortName": "Mjällby",
+        "tla": "MJA",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20301.png"
+      },
+      "home": "Slovan Bratislava",
+      "away": "Mjällby AIF",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Národny Futbalovy Stadión",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501902700,
+      "externalId": "espn-ucl-401902700",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-11T18:30Z",
+      "date": "2026-08-11T18:30Z",
+      "status": "FINISHED",
+      "stage": "QUALIFICATION_ROUND_2",
+      "roundName": "2. pretkolo • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "SK Sturm Graz",
+        "shortName": "Sturm Graz",
+        "tla": "STG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3746.png"
+      },
+      "awayTeam": {
+        "name": "Fenerbahce",
+        "shortName": "Fenerbahce",
+        "tla": "FEN",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png"
+      },
+      "home": "SK Sturm Graz",
+      "away": "Fenerbahce",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "venue": "Merkur Arena",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 1
+        }
+      }
     }
   ],
   "upcoming": [
@@ -495775,7 +502002,9 @@
       "seasonId": 2454,
       "seasonStart": "2025-09-16",
       "seasonEnd": "2026-05-30",
-      "lastSuccessfulUpdate": "2026-08-10 22:30 UTC"
+      "lastSuccessfulUpdate": "2026-08-11 20:24 UTC",
+      "qualifyingProvider": "ESPN UEFA Champions League Qualifying",
+      "qualifyingMatchCount": 76
     },
     "PL": {
       "status": "connected",
