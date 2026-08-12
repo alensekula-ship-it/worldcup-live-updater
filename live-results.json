@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-12 18:39 UTC",
-  "lastUpdate": "2026-08-12 18:39 UTC",
+  "generatedAt": "2026-08-12 20:42 UTC",
+  "lastUpdate": "2026-08-12 20:42 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -44720,6 +44720,117 @@
       "referees": []
     },
     {
+      "id": 1501909156,
+      "externalId": "espn-ucl-401909156",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-18T19:00Z",
+      "date": "2026-08-18T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Levski Sofia",
+        "shortName": "Levski Sofia",
+        "tla": "LEVS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
+      },
+      "awayTeam": {
+        "name": "AEK Athens",
+        "shortName": "AEK Athens",
+        "tla": "AEK",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png"
+      },
+      "home": "Levski Sofia",
+      "away": "AEK Athens",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Vasil Levski National Stadium"
+    },
+    {
+      "id": 1501909158,
+      "externalId": "espn-ucl-401909158",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-18T19:00Z",
+      "date": "2026-08-18T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Dinamo Zagreb",
+        "shortName": "Dinamo Zagreb",
+        "tla": "DZG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png"
+      },
+      "awayTeam": {
+        "name": "Viking FK",
+        "shortName": "Viking FK",
+        "tla": "VIK",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png"
+      },
+      "home": "Dinamo Zagreb",
+      "away": "Viking FK",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Maksimir Stadium"
+    },
+    {
+      "id": 1501909204,
+      "externalId": "espn-ucl-401909204",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-18T19:00Z",
+      "date": "2026-08-18T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Fenerbahce",
+        "shortName": "Fenerbahce",
+        "tla": "FEN",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png"
+      },
+      "awayTeam": {
+        "name": "Lyon",
+        "shortName": "Lyon",
+        "tla": "LYON",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
+      },
+      "home": "Fenerbahce",
+      "away": "Lyon",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Ulker Stadyumu"
+    },
+    {
       "area": {
         "id": 2224,
         "name": "Spain",
@@ -44777,6 +44888,154 @@
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
+    },
+    {
+      "id": 1501903528,
+      "externalId": "espn-ucl-401903528",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-19T19:00Z",
+      "date": "2026-08-19T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Celtic",
+        "shortName": "Celtic",
+        "tla": "CEL",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png"
+      },
+      "awayTeam": {
+        "name": "LASK Linz",
+        "shortName": "LASK Linz",
+        "tla": "LAS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png"
+      },
+      "home": "Celtic",
+      "away": "LASK Linz",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Celtic Park"
+    },
+    {
+      "id": 1501909193,
+      "externalId": "espn-ucl-401909193",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-19T19:00Z",
+      "date": "2026-08-19T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Hapoel Be'er",
+        "shortName": "Hapoel Be'er",
+        "tla": "HBE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
+      },
+      "awayTeam": {
+        "name": "Sabah FK",
+        "shortName": "Sabah",
+        "tla": "SAB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png"
+      },
+      "home": "Hapoel Be'er",
+      "away": "Sabah FK",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Giulesti Stadium"
+    },
+    {
+      "id": 1501909195,
+      "externalId": "espn-ucl-401909195",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-19T19:00Z",
+      "date": "2026-08-19T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Slovan Bratislava",
+        "shortName": "S Bratislava",
+        "tla": "SLB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png"
+      },
+      "awayTeam": {
+        "name": "NK Celje",
+        "shortName": "NK Celje",
+        "tla": "NKC",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png"
+      },
+      "home": "Slovan Bratislava",
+      "away": "NK Celje",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Národny Futbalovy Stadión"
+    },
+    {
+      "id": 1501909197,
+      "externalId": "espn-ucl-401909197",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-19T19:00Z",
+      "date": "2026-08-19T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "NEC Nijmegen",
+        "shortName": "NEC",
+        "tla": "NEC",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
+      },
+      "awayTeam": {
+        "name": "Bodo/Glimt",
+        "shortName": "Bodo/Glimt",
+        "tla": "BODO",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png"
+      },
+      "home": "NEC Nijmegen",
+      "away": "Bodo/Glimt",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Goffertstadion"
     },
     {
       "area": {
@@ -49204,6 +49463,43 @@
       "referees": []
     },
     {
+      "id": 1501909192,
+      "externalId": "espn-ucl-401909192",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-25T16:45Z",
+      "date": "2026-08-25T16:45Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Sabah FK",
+        "shortName": "Sabah",
+        "tla": "SAB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png"
+      },
+      "awayTeam": {
+        "name": "Hapoel Be'er",
+        "shortName": "Hapoel Be'er",
+        "tla": "HBE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
+      },
+      "home": "Sabah FK",
+      "away": "Hapoel Be'er",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Tofiq Bahramov Republican Stadium"
+    },
+    {
       "area": {
         "id": 2224,
         "name": "Spain",
@@ -49263,6 +49559,80 @@
       "referees": []
     },
     {
+      "id": 1501903707,
+      "externalId": "espn-ucl-401903707",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-25T19:00Z",
+      "date": "2026-08-25T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "LASK Linz",
+        "shortName": "LASK Linz",
+        "tla": "LAS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png"
+      },
+      "awayTeam": {
+        "name": "Celtic",
+        "shortName": "Celtic",
+        "tla": "CEL",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png"
+      },
+      "home": "LASK Linz",
+      "away": "Celtic",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Innviertel Arena"
+    },
+    {
+      "id": 1501909196,
+      "externalId": "espn-ucl-401909196",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-25T19:00Z",
+      "date": "2026-08-25T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Bodo/Glimt",
+        "shortName": "Bodo/Glimt",
+        "tla": "BODO",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png"
+      },
+      "awayTeam": {
+        "name": "NEC Nijmegen",
+        "shortName": "NEC",
+        "tla": "NEC",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
+      },
+      "home": "Bodo/Glimt",
+      "away": "NEC Nijmegen",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Aspmyra Stadion"
+    },
+    {
       "area": {
         "id": 2224,
         "name": "Spain",
@@ -49320,6 +49690,154 @@
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
+    },
+    {
+      "id": 1501909157,
+      "externalId": "espn-ucl-401909157",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-26T19:00Z",
+      "date": "2026-08-26T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Viking FK",
+        "shortName": "Viking FK",
+        "tla": "VIK",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png"
+      },
+      "awayTeam": {
+        "name": "Dinamo Zagreb",
+        "shortName": "Dinamo Zagreb",
+        "tla": "DZG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png"
+      },
+      "home": "Viking FK",
+      "away": "Dinamo Zagreb",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Viking Stadion"
+    },
+    {
+      "id": 1501909181,
+      "externalId": "espn-ucl-401909181",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-26T19:00Z",
+      "date": "2026-08-26T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "AEK Athens",
+        "shortName": "AEK Athens",
+        "tla": "AEK",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png"
+      },
+      "awayTeam": {
+        "name": "Levski Sofia",
+        "shortName": "Levski Sofia",
+        "tla": "LEVS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
+      },
+      "home": "AEK Athens",
+      "away": "Levski Sofia",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "OPAP Arena"
+    },
+    {
+      "id": 1501909194,
+      "externalId": "espn-ucl-401909194",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-26T19:00Z",
+      "date": "2026-08-26T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "NK Celje",
+        "shortName": "NK Celje",
+        "tla": "NKC",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png"
+      },
+      "awayTeam": {
+        "name": "Slovan Bratislava",
+        "shortName": "S Bratislava",
+        "tla": "SLB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png"
+      },
+      "home": "NK Celje",
+      "away": "Slovan Bratislava",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Stadion Z'dezele"
+    },
+    {
+      "id": 1501909203,
+      "externalId": "espn-ucl-401909203",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-26T19:00Z",
+      "date": "2026-08-26T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Lyon",
+        "shortName": "Lyon",
+        "tla": "LYON",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
+      },
+      "awayTeam": {
+        "name": "Fenerbahce",
+        "shortName": "Fenerbahce",
+        "tla": "FEN",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png"
+      },
+      "home": "Lyon",
+      "away": "Fenerbahce",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Groupama Stadium"
     },
     {
       "area": {
@@ -266838,6 +267356,117 @@
       "referees": []
     },
     {
+      "id": 1501909156,
+      "externalId": "espn-ucl-401909156",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-18T19:00Z",
+      "date": "2026-08-18T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Levski Sofia",
+        "shortName": "Levski Sofia",
+        "tla": "LEVS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
+      },
+      "awayTeam": {
+        "name": "AEK Athens",
+        "shortName": "AEK Athens",
+        "tla": "AEK",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png"
+      },
+      "home": "Levski Sofia",
+      "away": "AEK Athens",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Vasil Levski National Stadium"
+    },
+    {
+      "id": 1501909158,
+      "externalId": "espn-ucl-401909158",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-18T19:00Z",
+      "date": "2026-08-18T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Dinamo Zagreb",
+        "shortName": "Dinamo Zagreb",
+        "tla": "DZG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png"
+      },
+      "awayTeam": {
+        "name": "Viking FK",
+        "shortName": "Viking FK",
+        "tla": "VIK",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png"
+      },
+      "home": "Dinamo Zagreb",
+      "away": "Viking FK",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Maksimir Stadium"
+    },
+    {
+      "id": 1501909204,
+      "externalId": "espn-ucl-401909204",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-18T19:00Z",
+      "date": "2026-08-18T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Fenerbahce",
+        "shortName": "Fenerbahce",
+        "tla": "FEN",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png"
+      },
+      "awayTeam": {
+        "name": "Lyon",
+        "shortName": "Lyon",
+        "tla": "LYON",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
+      },
+      "home": "Fenerbahce",
+      "away": "Lyon",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Ulker Stadyumu"
+    },
+    {
       "area": {
         "id": 2224,
         "name": "Spain",
@@ -266895,6 +267524,154 @@
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
+    },
+    {
+      "id": 1501903528,
+      "externalId": "espn-ucl-401903528",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-19T19:00Z",
+      "date": "2026-08-19T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Celtic",
+        "shortName": "Celtic",
+        "tla": "CEL",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png"
+      },
+      "awayTeam": {
+        "name": "LASK Linz",
+        "shortName": "LASK Linz",
+        "tla": "LAS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png"
+      },
+      "home": "Celtic",
+      "away": "LASK Linz",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Celtic Park"
+    },
+    {
+      "id": 1501909193,
+      "externalId": "espn-ucl-401909193",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-19T19:00Z",
+      "date": "2026-08-19T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Hapoel Be'er",
+        "shortName": "Hapoel Be'er",
+        "tla": "HBE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
+      },
+      "awayTeam": {
+        "name": "Sabah FK",
+        "shortName": "Sabah",
+        "tla": "SAB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png"
+      },
+      "home": "Hapoel Be'er",
+      "away": "Sabah FK",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Giulesti Stadium"
+    },
+    {
+      "id": 1501909195,
+      "externalId": "espn-ucl-401909195",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-19T19:00Z",
+      "date": "2026-08-19T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Slovan Bratislava",
+        "shortName": "S Bratislava",
+        "tla": "SLB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png"
+      },
+      "awayTeam": {
+        "name": "NK Celje",
+        "shortName": "NK Celje",
+        "tla": "NKC",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png"
+      },
+      "home": "Slovan Bratislava",
+      "away": "NK Celje",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Národny Futbalovy Stadión"
+    },
+    {
+      "id": 1501909197,
+      "externalId": "espn-ucl-401909197",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-19T19:00Z",
+      "date": "2026-08-19T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "NEC Nijmegen",
+        "shortName": "NEC",
+        "tla": "NEC",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
+      },
+      "awayTeam": {
+        "name": "Bodo/Glimt",
+        "shortName": "Bodo/Glimt",
+        "tla": "BODO",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png"
+      },
+      "home": "NEC Nijmegen",
+      "away": "Bodo/Glimt",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Goffertstadion"
     },
     {
       "area": {
@@ -271263,6 +272040,43 @@
       "referees": []
     },
     {
+      "id": 1501909192,
+      "externalId": "espn-ucl-401909192",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-25T16:45Z",
+      "date": "2026-08-25T16:45Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Sabah FK",
+        "shortName": "Sabah",
+        "tla": "SAB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png"
+      },
+      "awayTeam": {
+        "name": "Hapoel Be'er",
+        "shortName": "Hapoel Be'er",
+        "tla": "HBE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
+      },
+      "home": "Sabah FK",
+      "away": "Hapoel Be'er",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Tofiq Bahramov Republican Stadium"
+    },
+    {
       "area": {
         "id": 2224,
         "name": "Spain",
@@ -271322,6 +272136,80 @@
       "referees": []
     },
     {
+      "id": 1501903707,
+      "externalId": "espn-ucl-401903707",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-25T19:00Z",
+      "date": "2026-08-25T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "LASK Linz",
+        "shortName": "LASK Linz",
+        "tla": "LAS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png"
+      },
+      "awayTeam": {
+        "name": "Celtic",
+        "shortName": "Celtic",
+        "tla": "CEL",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png"
+      },
+      "home": "LASK Linz",
+      "away": "Celtic",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Innviertel Arena"
+    },
+    {
+      "id": 1501909196,
+      "externalId": "espn-ucl-401909196",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-25T19:00Z",
+      "date": "2026-08-25T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Bodo/Glimt",
+        "shortName": "Bodo/Glimt",
+        "tla": "BODO",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png"
+      },
+      "awayTeam": {
+        "name": "NEC Nijmegen",
+        "shortName": "NEC",
+        "tla": "NEC",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
+      },
+      "home": "Bodo/Glimt",
+      "away": "NEC Nijmegen",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Aspmyra Stadion"
+    },
+    {
       "area": {
         "id": 2224,
         "name": "Spain",
@@ -271379,6 +272267,154 @@
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
+    },
+    {
+      "id": 1501909157,
+      "externalId": "espn-ucl-401909157",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-26T19:00Z",
+      "date": "2026-08-26T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Viking FK",
+        "shortName": "Viking FK",
+        "tla": "VIK",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png"
+      },
+      "awayTeam": {
+        "name": "Dinamo Zagreb",
+        "shortName": "Dinamo Zagreb",
+        "tla": "DZG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png"
+      },
+      "home": "Viking FK",
+      "away": "Dinamo Zagreb",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Viking Stadion"
+    },
+    {
+      "id": 1501909181,
+      "externalId": "espn-ucl-401909181",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-26T19:00Z",
+      "date": "2026-08-26T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "AEK Athens",
+        "shortName": "AEK Athens",
+        "tla": "AEK",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png"
+      },
+      "awayTeam": {
+        "name": "Levski Sofia",
+        "shortName": "Levski Sofia",
+        "tla": "LEVS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
+      },
+      "home": "AEK Athens",
+      "away": "Levski Sofia",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "OPAP Arena"
+    },
+    {
+      "id": 1501909194,
+      "externalId": "espn-ucl-401909194",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-26T19:00Z",
+      "date": "2026-08-26T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "NK Celje",
+        "shortName": "NK Celje",
+        "tla": "NKC",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png"
+      },
+      "awayTeam": {
+        "name": "Slovan Bratislava",
+        "shortName": "S Bratislava",
+        "tla": "SLB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png"
+      },
+      "home": "NK Celje",
+      "away": "Slovan Bratislava",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Stadion Z'dezele"
+    },
+    {
+      "id": 1501909203,
+      "externalId": "espn-ucl-401909203",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-26T19:00Z",
+      "date": "2026-08-26T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Lyon",
+        "shortName": "Lyon",
+        "tla": "LYON",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
+      },
+      "awayTeam": {
+        "name": "Fenerbahce",
+        "shortName": "Fenerbahce",
+        "tla": "FEN",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png"
+      },
+      "home": "Lyon",
+      "away": "Fenerbahce",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Groupama Stadium"
     },
     {
       "area": {
@@ -502214,9 +503250,9 @@
       "seasonId": 2454,
       "seasonStart": "2025-09-16",
       "seasonEnd": "2026-05-30",
-      "lastSuccessfulUpdate": "2026-08-11 20:55 UTC",
+      "lastSuccessfulUpdate": "2026-08-12 20:42 UTC",
       "qualifyingProvider": "ESPN UEFA Champions League Qualifying",
-      "qualifyingMatchCount": 28
+      "qualifyingMatchCount": 42
     },
     "PL": {
       "status": "connected",
