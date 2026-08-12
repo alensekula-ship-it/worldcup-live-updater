@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-11 23:04 UTC",
-  "lastUpdate": "2026-08-11 23:04 UTC",
+  "generatedAt": "2026-08-12 00:01 UTC",
+  "lastUpdate": "2026-08-12 00:01 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -502275,7 +502275,7 @@
       "seasonEnd": "2026-05-30",
       "lastSuccessfulUpdate": "2026-08-11 20:55 UTC",
       "qualifyingProvider": "ESPN UEFA Champions League Qualifying",
-      "qualifyingMatchCount": 34
+      "qualifyingMatchCount": 28
     },
     "PL": {
       "status": "connected",
