@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-13 23:03 UTC",
-  "lastUpdate": "2026-08-13 23:03 UTC",
+  "generatedAt": "2026-08-13 23:59 UTC",
+  "lastUpdate": "2026-08-13 23:59 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -45064,7 +45064,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-14T00:20:19Z",
+      "lastUpdated": "2026-08-14T01:32:05Z",
       "homeTeam": {
         "id": 87,
         "name": "Rayo Vallecano de Madrid",
@@ -267700,7 +267700,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-14T00:20:19Z",
+      "lastUpdated": "2026-08-14T01:32:05Z",
       "homeTeam": {
         "id": 87,
         "name": "Rayo Vallecano de Madrid",
@@ -503279,7 +503279,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-13 23:02 UTC"
+      "lastSuccessfulUpdate": "2026-08-13 23:58 UTC"
     },
     "BL1": {
       "status": "connected",
