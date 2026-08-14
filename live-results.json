@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-14 16:52 UTC",
-  "lastUpdate": "2026-08-14 16:52 UTC",
+  "generatedAt": "2026-08-14 17:53 UTC",
+  "lastUpdate": "2026-08-14 17:53 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -42032,7 +42032,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-14T15:20:24Z",
+      "lastUpdated": "2026-08-14T19:33:52Z",
       "homeTeam": {
         "id": 1912,
         "name": "Telstar 1963",
@@ -42187,7 +42187,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 98928,
+          "name": "David Silva",
+          "type": "REFEREE",
+          "nationality": "Portugal"
+        }
+      ]
     },
     {
       "area": {
@@ -264675,7 +264682,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-14T15:20:24Z",
+      "lastUpdated": "2026-08-14T19:33:52Z",
       "homeTeam": {
         "id": 1912,
         "name": "Telstar 1963",
@@ -264830,7 +264837,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 98928,
+          "name": "David Silva",
+          "type": "REFEREE",
+          "nationality": "Portugal"
+        }
+      ]
     },
     {
       "area": {
@@ -503329,7 +503343,7 @@
       "seasonId": 2493,
       "seasonStart": "2026-08-07",
       "seasonEnd": "2027-05-23",
-      "lastSuccessfulUpdate": "2026-08-14 16:51 UTC"
+      "lastSuccessfulUpdate": "2026-08-14 17:52 UTC"
     },
     "PPL": {
       "status": "connected",
@@ -503338,7 +503352,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-14 13:53 UTC"
+      "lastSuccessfulUpdate": "2026-08-14 17:52 UTC"
     },
     "BSA": {
       "status": "connected",
