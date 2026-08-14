@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-14 20:30 UTC",
-  "lastUpdate": "2026-08-14 20:30 UTC",
+  "generatedAt": "2026-08-14 20:59 UTC",
+  "lastUpdate": "2026-08-14 20:59 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -42094,11 +42094,11 @@
       },
       "id": 561761,
       "utcDate": "2026-08-14T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-14T22:29:00Z",
+      "lastUpdated": "2026-08-14T22:54:15Z",
       "homeTeam": {
         "id": 76,
         "name": "Wolverhampton Wanderers FC",
@@ -42114,10 +42114,10 @@
         "crest": "https://crests.football-data.org/59.png"
       },
       "score": {
-        "winner": "AWAY_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 2,
           "away": 2
         },
         "halfTime": {
@@ -42157,7 +42157,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-14T22:29:51Z",
+      "lastUpdated": "2026-08-14T22:59:11Z",
       "homeTeam": {
         "id": 498,
         "name": "Sporting Clube de Portugal",
@@ -42177,7 +42177,7 @@
         "duration": "REGULAR",
         "fullTime": {
           "home": 3,
-          "away": 0
+          "away": 2
         },
         "halfTime": {
           "home": 3,
@@ -222963,65 +222963,6 @@
   "live": [
     {
       "area": {
-        "id": 2072,
-        "name": "England",
-        "code": "ENG",
-        "flag": "https://crests.football-data.org/770.svg"
-      },
-      "competition": {
-        "id": 2016,
-        "name": "Championship",
-        "code": "ELC",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ELC.png"
-      },
-      "season": {
-        "id": 2509,
-        "startDate": "2026-08-14",
-        "endDate": "2027-05-01",
-        "currentMatchday": 1,
-        "winner": null
-      },
-      "id": 561761,
-      "utcDate": "2026-08-14T19:00:00Z",
-      "status": "IN_PLAY",
-      "matchday": 1,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-14T22:29:00Z",
-      "homeTeam": {
-        "id": 76,
-        "name": "Wolverhampton Wanderers FC",
-        "shortName": "Wolverhampton",
-        "tla": "WOL",
-        "crest": "https://crests.football-data.org/76.png"
-      },
-      "awayTeam": {
-        "id": 59,
-        "name": "Blackburn Rovers FC",
-        "shortName": "Blackburn",
-        "tla": "BLA",
-        "crest": "https://crests.football-data.org/59.png"
-      },
-      "score": {
-        "winner": "AWAY_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 2
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 1
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
-    {
-      "area": {
         "id": 2187,
         "name": "Portugal",
         "code": "POR",
@@ -223047,7 +222988,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-14T22:29:51Z",
+      "lastUpdated": "2026-08-14T22:59:11Z",
       "homeTeam": {
         "id": 498,
         "name": "Sporting Clube de Portugal",
@@ -223067,7 +223008,7 @@
         "duration": "REGULAR",
         "fullTime": {
           "home": 3,
-          "away": 0
+          "away": 2
         },
         "halfTime": {
           "home": 3,
@@ -264844,6 +264785,65 @@
           "nationality": "Netherlands"
         }
       ]
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "competition": {
+        "id": 2016,
+        "name": "Championship",
+        "code": "ELC",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ELC.png"
+      },
+      "season": {
+        "id": 2509,
+        "startDate": "2026-08-14",
+        "endDate": "2027-05-01",
+        "currentMatchday": 1,
+        "winner": null
+      },
+      "id": 561761,
+      "utcDate": "2026-08-14T19:00:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-14T22:54:15Z",
+      "homeTeam": {
+        "id": 76,
+        "name": "Wolverhampton Wanderers FC",
+        "shortName": "Wolverhampton",
+        "tla": "WOL",
+        "crest": "https://crests.football-data.org/76.png"
+      },
+      "awayTeam": {
+        "id": 59,
+        "name": "Blackburn Rovers FC",
+        "shortName": "Blackburn",
+        "tla": "BLA",
+        "crest": "https://crests.football-data.org/59.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 2
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": []
     }
   ],
   "upcoming": [
@@ -503299,7 +503299,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-08-14 20:29 UTC"
+      "lastSuccessfulUpdate": "2026-08-14 20:58 UTC"
     },
     "PD": {
       "status": "connected",
@@ -503353,7 +503353,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-14 20:30 UTC"
+      "lastSuccessfulUpdate": "2026-08-14 20:59 UTC"
     },
     "BSA": {
       "status": "connected",
