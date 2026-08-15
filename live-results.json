@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-15 12:35 UTC",
-  "lastUpdate": "2026-08-15 12:35 UTC",
+  "generatedAt": "2026-08-15 13:19 UTC",
+  "lastUpdate": "2026-08-15 13:19 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -42223,7 +42223,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T14:34:07Z",
+      "lastUpdated": "2026-08-15T15:17:20Z",
       "homeTeam": {
         "id": 60,
         "name": "Bolton Wanderers FC",
@@ -42243,7 +42243,7 @@
         "duration": "REGULAR",
         "fullTime": {
           "home": 2,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": 2,
@@ -42421,7 +42421,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-10T07:45:12Z",
+      "lastUpdated": "2026-08-15T15:13:04Z",
       "homeTeam": {
         "id": 343,
         "name": "Middlesbrough FC",
@@ -42487,7 +42487,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-10T07:45:12Z",
+      "lastUpdated": "2026-08-15T15:08:15Z",
       "homeTeam": {
         "id": 70,
         "name": "Stoke City FC",
@@ -42619,7 +42619,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-10T07:45:12Z",
+      "lastUpdated": "2026-08-15T15:08:15Z",
       "homeTeam": {
         "id": 325,
         "name": "Portsmouth FC",
@@ -223044,7 +223044,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T14:34:07Z",
+      "lastUpdated": "2026-08-15T15:17:20Z",
       "homeTeam": {
         "id": 60,
         "name": "Bolton Wanderers FC",
@@ -223064,7 +223064,7 @@
         "duration": "REGULAR",
         "fullTime": {
           "home": 2,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": 2,
@@ -265128,7 +265128,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-10T07:45:12Z",
+      "lastUpdated": "2026-08-15T15:13:04Z",
       "homeTeam": {
         "id": 343,
         "name": "Middlesbrough FC",
@@ -265194,7 +265194,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-10T07:45:12Z",
+      "lastUpdated": "2026-08-15T15:08:15Z",
       "homeTeam": {
         "id": 70,
         "name": "Stoke City FC",
@@ -265326,7 +265326,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-10T07:45:12Z",
+      "lastUpdated": "2026-08-15T15:08:15Z",
       "homeTeam": {
         "id": 325,
         "name": "Portsmouth FC",
@@ -503411,7 +503411,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-08-15 12:34 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 13:17 UTC"
     },
     "PD": {
       "status": "connected",
