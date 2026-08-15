@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-15 19:35 UTC",
-  "lastUpdate": "2026-08-15 19:35 UTC",
+  "generatedAt": "2026-08-15 19:56 UTC",
+  "lastUpdate": "2026-08-15 19:56 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -43070,11 +43070,11 @@
       },
       "id": 558226,
       "utcDate": "2026-08-15T18:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T21:34:23Z",
+      "lastUpdated": "2026-08-15T21:53:03Z",
       "homeTeam": {
         "id": 670,
         "name": "SBV Excelsior",
@@ -43136,11 +43136,11 @@
       },
       "id": 558227,
       "utcDate": "2026-08-15T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T21:34:23Z",
+      "lastUpdated": "2026-08-15T21:55:43Z",
       "homeTeam": {
         "id": 1920,
         "name": "Fortuna Sittard",
@@ -43163,8 +43163,8 @@
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         }
       },
       "odds": {
@@ -43206,7 +43206,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T21:34:55Z",
+      "lastUpdated": "2026-08-15T21:56:15Z",
       "homeTeam": {
         "id": 1765,
         "name": "Fluminense FC",
@@ -43222,11 +43222,11 @@
         "crest": "https://crests.football-data.org/1769.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": null,
@@ -43265,7 +43265,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T21:33:51Z",
+      "lastUpdated": "2026-08-15T21:55:11Z",
       "homeTeam": {
         "id": 559,
         "name": "Sevilla FC",
@@ -43281,11 +43281,11 @@
         "crest": "https://crests.football-data.org/87.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": null,
@@ -43331,7 +43331,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T21:34:23Z",
+      "lastUpdated": "2026-08-15T21:56:15Z",
       "homeTeam": {
         "id": 496,
         "name": "Rio Ave FC",
@@ -43347,11 +43347,11 @@
         "crest": "https://crests.football-data.org/503.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": null,
@@ -223094,79 +223094,13 @@
         "currentMatchday": 2,
         "winner": null
       },
-      "id": 558226,
-      "utcDate": "2026-08-15T18:00:00Z",
-      "status": "IN_PLAY",
-      "matchday": 2,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-15T21:34:23Z",
-      "homeTeam": {
-        "id": 670,
-        "name": "SBV Excelsior",
-        "shortName": "Excelsior",
-        "tla": "EXC",
-        "crest": "https://crests.football-data.org/670.png"
-      },
-      "awayTeam": {
-        "id": 674,
-        "name": "PSV",
-        "shortName": "PSV",
-        "tla": "PSV",
-        "crest": "https://crests.football-data.org/674.png"
-      },
-      "score": {
-        "winner": "AWAY_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 2
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 1
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 80090,
-          "name": "Marc Nagtegaal",
-          "type": "REFEREE",
-          "nationality": "Netherlands"
-        }
-      ]
-    },
-    {
-      "area": {
-        "id": 2163,
-        "name": "Netherlands",
-        "code": "NLD",
-        "flag": "https://crests.football-data.org/8601.svg"
-      },
-      "competition": {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      },
-      "season": {
-        "id": 2493,
-        "startDate": "2026-08-07",
-        "endDate": "2027-05-23",
-        "currentMatchday": 2,
-        "winner": null
-      },
       "id": 558227,
       "utcDate": "2026-08-15T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T21:34:23Z",
+      "lastUpdated": "2026-08-15T21:55:43Z",
       "homeTeam": {
         "id": 1920,
         "name": "Fortuna Sittard",
@@ -223189,8 +223123,8 @@
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         }
       },
       "odds": {
@@ -223232,7 +223166,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T21:34:55Z",
+      "lastUpdated": "2026-08-15T21:56:15Z",
       "homeTeam": {
         "id": 1765,
         "name": "Fluminense FC",
@@ -223248,11 +223182,11 @@
         "crest": "https://crests.football-data.org/1769.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": null,
@@ -223291,7 +223225,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T21:33:51Z",
+      "lastUpdated": "2026-08-15T21:55:11Z",
       "homeTeam": {
         "id": 559,
         "name": "Sevilla FC",
@@ -223307,11 +223241,11 @@
         "crest": "https://crests.football-data.org/87.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": null,
@@ -223357,7 +223291,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T21:34:23Z",
+      "lastUpdated": "2026-08-15T21:56:15Z",
       "homeTeam": {
         "id": 496,
         "name": "Rio Ave FC",
@@ -223373,11 +223307,11 @@
         "crest": "https://crests.football-data.org/503.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": null,
@@ -266128,6 +266062,72 @@
           "name": "Manuel Orellana Cid",
           "type": "REFEREE",
           "nationality": "Spain"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 2493,
+        "startDate": "2026-08-07",
+        "endDate": "2027-05-23",
+        "currentMatchday": 2,
+        "winner": null
+      },
+      "id": 558226,
+      "utcDate": "2026-08-15T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-15T21:53:03Z",
+      "homeTeam": {
+        "id": 670,
+        "name": "SBV Excelsior",
+        "shortName": "Excelsior",
+        "tla": "EXC",
+        "crest": "https://crests.football-data.org/670.png"
+      },
+      "awayTeam": {
+        "id": 674,
+        "name": "PSV",
+        "shortName": "PSV",
+        "tla": "PSV",
+        "crest": "https://crests.football-data.org/674.png"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 1,
+          "away": 2
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 80090,
+          "name": "Marc Nagtegaal",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
         }
       ]
     }
@@ -502737,6 +502737,25 @@
             {
               "position": 1,
               "team": {
+                "id": 503,
+                "name": "FC Porto",
+                "shortName": "Porto",
+                "tla": "FCP",
+                "crest": "https://crests.football-data.org/503.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 2,
+              "draw": 0,
+              "lost": 0,
+              "points": 6,
+              "goalsFor": 3,
+              "goalsAgainst": 0,
+              "goalDifference": 3
+            },
+            {
+              "position": 2,
+              "team": {
                 "id": 498,
                 "name": "Sporting Clube de Portugal",
                 "shortName": "Sporting CP",
@@ -502754,7 +502773,7 @@
               "goalDifference": 1
             },
             {
-              "position": 2,
+              "position": 3,
               "team": {
                 "id": 5530,
                 "name": "CD Santa Clara",
@@ -502771,25 +502790,6 @@
               "goalsFor": 3,
               "goalsAgainst": 2,
               "goalDifference": 1
-            },
-            {
-              "position": 3,
-              "team": {
-                "id": 503,
-                "name": "FC Porto",
-                "shortName": "Porto",
-                "tla": "FCP",
-                "crest": "https://crests.football-data.org/503.png"
-              },
-              "playedGames": 1,
-              "form": null,
-              "won": 1,
-              "draw": 0,
-              "lost": 0,
-              "points": 3,
-              "goalsFor": 2,
-              "goalsAgainst": 0,
-              "goalDifference": 2
             },
             {
               "position": 4,
@@ -503039,26 +503039,7 @@
               "goalDifference": -1
             },
             {
-              "position": 16,
-              "team": {
-                "id": 496,
-                "name": "Rio Ave FC",
-                "shortName": "Rio Ave",
-                "tla": "RIO",
-                "crest": "https://crests.football-data.org/496.png"
-              },
-              "playedGames": 1,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 1,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 1,
-              "goalDifference": -1
-            },
-            {
-              "position": 18,
+              "position": 17,
               "team": {
                 "id": 5543,
                 "name": "Vitória SC",
@@ -503074,6 +503055,25 @@
               "points": 0,
               "goalsFor": 2,
               "goalsAgainst": 4,
+              "goalDifference": -2
+            },
+            {
+              "position": 18,
+              "team": {
+                "id": 496,
+                "name": "Rio Ave FC",
+                "shortName": "Rio Ave",
+                "tla": "RIO",
+                "crest": "https://crests.football-data.org/496.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 2,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 2,
               "goalDifference": -2
             }
           ]
@@ -503119,15 +503119,15 @@
                 "tla": "PAL",
                 "crest": "https://crests.football-data.org/1769.png"
               },
-              "playedGames": 22,
+              "playedGames": 23,
               "form": null,
-              "won": 14,
+              "won": 15,
               "draw": 6,
               "lost": 2,
-              "points": 48,
-              "goalsFor": 38,
+              "points": 51,
+              "goalsFor": 39,
               "goalsAgainst": 16,
-              "goalDifference": 22
+              "goalDifference": 23
             },
             {
               "position": 2,
@@ -503176,15 +503176,15 @@
                 "tla": "FLU",
                 "crest": "https://crests.football-data.org/1765.png"
               },
-              "playedGames": 22,
+              "playedGames": 23,
               "form": null,
               "won": 9,
               "draw": 8,
-              "lost": 5,
+              "lost": 6,
               "points": 35,
               "goalsFor": 31,
-              "goalsAgainst": 26,
-              "goalDifference": 5
+              "goalsAgainst": 27,
+              "goalDifference": 4
             },
             {
               "position": 5,
@@ -503532,7 +503532,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-15 19:34 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 19:55 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -503568,7 +503568,7 @@
       "seasonId": 2493,
       "seasonStart": "2026-08-07",
       "seasonEnd": "2027-05-23",
-      "lastSuccessfulUpdate": "2026-08-15 19:34 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 19:56 UTC"
     },
     "PPL": {
       "status": "connected",
@@ -503577,7 +503577,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-15 19:34 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 19:56 UTC"
     },
     "BSA": {
       "status": "connected",
@@ -503586,7 +503586,7 @@
       "seasonId": 2474,
       "seasonStart": "2026-01-28",
       "seasonEnd": "2026-12-02",
-      "lastSuccessfulUpdate": "2026-08-15 19:34 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 19:56 UTC"
     },
     "WC": {
       "status": "connected",
