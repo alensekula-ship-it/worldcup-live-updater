@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-15 09:41 UTC",
-  "lastUpdate": "2026-08-15 09:41 UTC",
+  "generatedAt": "2026-08-15 10:31 UTC",
+  "lastUpdate": "2026-08-15 10:31 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -500965,8 +500965,103 @@
         {
           "stage": "REGULAR_SEASON",
           "type": "TOTAL",
-          "group": null,
+          "group": "Matchday",
           "table": [
+            {
+              "position": 1,
+              "team": {
+                "id": 1,
+                "name": "1. FC Köln",
+                "shortName": "1. FC Köln",
+                "tla": "KOE",
+                "crest": "https://crests.football-data.org/1.png"
+              },
+              "playedGames": 0,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 1,
+              "team": {
+                "id": 28,
+                "name": "1. FC Union Berlin",
+                "shortName": "Union Berlin",
+                "tla": "UNB",
+                "crest": "https://crests.football-data.org/28.png"
+              },
+              "playedGames": 0,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 1,
+              "team": {
+                "id": 15,
+                "name": "1. FSV Mainz 05",
+                "shortName": "Mainz",
+                "tla": "M05",
+                "crest": "https://crests.football-data.org/15.png"
+              },
+              "playedGames": 0,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 1,
+              "team": {
+                "id": 2,
+                "name": "TSG 1899 Hoffenheim",
+                "shortName": "Hoffenheim",
+                "tla": "TSG",
+                "crest": "https://crests.football-data.org/2.png"
+              },
+              "playedGames": 0,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 1,
+              "team": {
+                "id": 3,
+                "name": "Bayer 04 Leverkusen",
+                "shortName": "Leverkusen",
+                "tla": "B04",
+                "crest": "https://crests.football-data.org/3.png"
+              },
+              "playedGames": 0,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
             {
               "position": 1,
               "team": {
@@ -500976,208 +501071,18 @@
                 "tla": "FCB",
                 "crest": "https://crests.football-data.org/5.png"
               },
-              "playedGames": 34,
+              "playedGames": 0,
               "form": null,
-              "won": 28,
-              "draw": 5,
-              "lost": 1,
-              "points": 89,
-              "goalsFor": 122,
-              "goalsAgainst": 36,
-              "goalDifference": 86
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
             },
             {
-              "position": 2,
-              "team": {
-                "id": 4,
-                "name": "Borussia Dortmund",
-                "shortName": "Dortmund",
-                "tla": "BVB",
-                "crest": "https://crests.football-data.org/4.png"
-              },
-              "playedGames": 34,
-              "form": null,
-              "won": 22,
-              "draw": 7,
-              "lost": 5,
-              "points": 73,
-              "goalsFor": 70,
-              "goalsAgainst": 34,
-              "goalDifference": 36
-            },
-            {
-              "position": 3,
-              "team": {
-                "id": 721,
-                "name": "RB Leipzig",
-                "shortName": "RB Leipzig",
-                "tla": "RBL",
-                "crest": "https://crests.football-data.org/721.png"
-              },
-              "playedGames": 34,
-              "form": null,
-              "won": 20,
-              "draw": 5,
-              "lost": 9,
-              "points": 65,
-              "goalsFor": 66,
-              "goalsAgainst": 47,
-              "goalDifference": 19
-            },
-            {
-              "position": 4,
-              "team": {
-                "id": 10,
-                "name": "VfB Stuttgart",
-                "shortName": "Stuttgart",
-                "tla": "VFB",
-                "crest": "https://crests.football-data.org/10.png"
-              },
-              "playedGames": 34,
-              "form": null,
-              "won": 18,
-              "draw": 8,
-              "lost": 8,
-              "points": 62,
-              "goalsFor": 71,
-              "goalsAgainst": 49,
-              "goalDifference": 22
-            },
-            {
-              "position": 5,
-              "team": {
-                "id": 2,
-                "name": "TSG 1899 Hoffenheim",
-                "shortName": "Hoffenheim",
-                "tla": "TSG",
-                "crest": "https://crests.football-data.org/2.png"
-              },
-              "playedGames": 34,
-              "form": null,
-              "won": 18,
-              "draw": 7,
-              "lost": 9,
-              "points": 61,
-              "goalsFor": 65,
-              "goalsAgainst": 52,
-              "goalDifference": 13
-            },
-            {
-              "position": 6,
-              "team": {
-                "id": 3,
-                "name": "Bayer 04 Leverkusen",
-                "shortName": "Leverkusen",
-                "tla": "B04",
-                "crest": "https://crests.football-data.org/3.png"
-              },
-              "playedGames": 34,
-              "form": null,
-              "won": 17,
-              "draw": 8,
-              "lost": 9,
-              "points": 59,
-              "goalsFor": 68,
-              "goalsAgainst": 47,
-              "goalDifference": 21
-            },
-            {
-              "position": 7,
-              "team": {
-                "id": 17,
-                "name": "SC Freiburg",
-                "shortName": "Freiburg",
-                "tla": "SCF",
-                "crest": "https://crests.football-data.org/17.png"
-              },
-              "playedGames": 34,
-              "form": null,
-              "won": 13,
-              "draw": 8,
-              "lost": 13,
-              "points": 47,
-              "goalsFor": 51,
-              "goalsAgainst": 57,
-              "goalDifference": -6
-            },
-            {
-              "position": 8,
-              "team": {
-                "id": 19,
-                "name": "Eintracht Frankfurt",
-                "shortName": "Frankfurt",
-                "tla": "SGE",
-                "crest": "https://crests.football-data.org/19.png"
-              },
-              "playedGames": 34,
-              "form": null,
-              "won": 11,
-              "draw": 11,
-              "lost": 12,
-              "points": 44,
-              "goalsFor": 61,
-              "goalsAgainst": 65,
-              "goalDifference": -4
-            },
-            {
-              "position": 9,
-              "team": {
-                "id": 16,
-                "name": "FC Augsburg",
-                "shortName": "Augsburg",
-                "tla": "FCA",
-                "crest": "https://crests.football-data.org/16.png"
-              },
-              "playedGames": 34,
-              "form": null,
-              "won": 12,
-              "draw": 7,
-              "lost": 15,
-              "points": 43,
-              "goalsFor": 45,
-              "goalsAgainst": 61,
-              "goalDifference": -16
-            },
-            {
-              "position": 10,
-              "team": {
-                "id": 15,
-                "name": "1. FSV Mainz 05",
-                "shortName": "Mainz",
-                "tla": "M05",
-                "crest": "https://crests.football-data.org/15.png"
-              },
-              "playedGames": 34,
-              "form": null,
-              "won": 10,
-              "draw": 10,
-              "lost": 14,
-              "points": 40,
-              "goalsFor": 44,
-              "goalsAgainst": 53,
-              "goalDifference": -9
-            },
-            {
-              "position": 11,
-              "team": {
-                "id": 28,
-                "name": "1. FC Union Berlin",
-                "shortName": "Union Berlin",
-                "tla": "UNB",
-                "crest": "https://crests.football-data.org/28.png"
-              },
-              "playedGames": 34,
-              "form": null,
-              "won": 10,
-              "draw": 9,
-              "lost": 15,
-              "points": 39,
-              "goalsFor": 44,
-              "goalsAgainst": 58,
-              "goalDifference": -14
-            },
-            {
-              "position": 12,
+              "position": 1,
               "team": {
                 "id": 18,
                 "name": "Borussia Mönchengladbach",
@@ -501185,18 +501090,94 @@
                 "tla": "BMG",
                 "crest": "https://crests.football-data.org/18.png"
               },
-              "playedGames": 34,
+              "playedGames": 0,
               "form": null,
-              "won": 9,
-              "draw": 11,
-              "lost": 14,
-              "points": 38,
-              "goalsFor": 42,
-              "goalsAgainst": 53,
-              "goalDifference": -11
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
             },
             {
-              "position": 13,
+              "position": 1,
+              "team": {
+                "id": 4,
+                "name": "Borussia Dortmund",
+                "shortName": "Dortmund",
+                "tla": "BVB",
+                "crest": "https://crests.football-data.org/4.png"
+              },
+              "playedGames": 0,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 1,
+              "team": {
+                "id": 19,
+                "name": "Eintracht Frankfurt",
+                "shortName": "Frankfurt",
+                "tla": "SGE",
+                "crest": "https://crests.football-data.org/19.png"
+              },
+              "playedGames": 0,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 1,
+              "team": {
+                "id": 16,
+                "name": "FC Augsburg",
+                "shortName": "Augsburg",
+                "tla": "FCA",
+                "crest": "https://crests.football-data.org/16.png"
+              },
+              "playedGames": 0,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 1,
+              "team": {
+                "id": 6,
+                "name": "FC Schalke 04",
+                "shortName": "Schalke",
+                "tla": "S04",
+                "crest": "https://crests.football-data.org/6.png"
+              },
+              "playedGames": 0,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 1,
               "team": {
                 "id": 7,
                 "name": "Hamburger SV",
@@ -501204,37 +501185,113 @@
                 "tla": "HSV",
                 "crest": "https://crests.football-data.org/7.png"
               },
-              "playedGames": 34,
+              "playedGames": 0,
               "form": null,
-              "won": 9,
-              "draw": 11,
-              "lost": 14,
-              "points": 38,
-              "goalsFor": 40,
-              "goalsAgainst": 54,
-              "goalDifference": -14
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
             },
             {
-              "position": 14,
+              "position": 1,
               "team": {
-                "id": 1,
-                "name": "1. FC Köln",
-                "shortName": "1. FC Köln",
-                "tla": "KOE",
-                "crest": "https://crests.football-data.org/1.png"
+                "id": 721,
+                "name": "RB Leipzig",
+                "shortName": "RB Leipzig",
+                "tla": "RBL",
+                "crest": "https://crests.football-data.org/721.png"
               },
-              "playedGames": 34,
+              "playedGames": 0,
               "form": null,
-              "won": 7,
-              "draw": 11,
-              "lost": 16,
-              "points": 32,
-              "goalsFor": 49,
-              "goalsAgainst": 63,
-              "goalDifference": -14
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
             },
             {
-              "position": 15,
+              "position": 1,
+              "team": {
+                "id": 17,
+                "name": "SC Freiburg",
+                "shortName": "Freiburg",
+                "tla": "SCF",
+                "crest": "https://crests.football-data.org/17.png"
+              },
+              "playedGames": 0,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 1,
+              "team": {
+                "id": 29,
+                "name": "SC Paderborn 07",
+                "shortName": "SC Paderborn",
+                "tla": "SCP",
+                "crest": "https://crests.football-data.org/29.png"
+              },
+              "playedGames": 0,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 1,
+              "team": {
+                "id": 719,
+                "name": "SV 07 Elversberg",
+                "shortName": "Elversberg",
+                "tla": "ELV",
+                "crest": "https://crests.football-data.org/719.png"
+              },
+              "playedGames": 0,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 1,
+              "team": {
+                "id": 10,
+                "name": "VfB Stuttgart",
+                "shortName": "Stuttgart",
+                "tla": "VFB",
+                "crest": "https://crests.football-data.org/10.png"
+              },
+              "playedGames": 0,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 1,
               "team": {
                 "id": 12,
                 "name": "SV Werder Bremen",
@@ -501242,72 +501299,15 @@
                 "tla": "SVW",
                 "crest": "https://crests.football-data.org/12.png"
               },
-              "playedGames": 34,
+              "playedGames": 0,
               "form": null,
-              "won": 8,
-              "draw": 8,
-              "lost": 18,
-              "points": 32,
-              "goalsFor": 37,
-              "goalsAgainst": 60,
-              "goalDifference": -23
-            },
-            {
-              "position": 16,
-              "team": {
-                "id": 11,
-                "name": "VfL Wolfsburg",
-                "shortName": "Wolfsburg",
-                "tla": "WOB",
-                "crest": "https://crests.football-data.org/11.png"
-              },
-              "playedGames": 34,
-              "form": null,
-              "won": 7,
-              "draw": 8,
-              "lost": 19,
-              "points": 29,
-              "goalsFor": 45,
-              "goalsAgainst": 69,
-              "goalDifference": -24
-            },
-            {
-              "position": 17,
-              "team": {
-                "id": 44,
-                "name": "1. FC Heidenheim 1846",
-                "shortName": "Heidenheim",
-                "tla": "HEI",
-                "crest": "https://crests.football-data.org/44.png"
-              },
-              "playedGames": 34,
-              "form": null,
-              "won": 6,
-              "draw": 8,
-              "lost": 20,
-              "points": 26,
-              "goalsFor": 41,
-              "goalsAgainst": 72,
-              "goalDifference": -31
-            },
-            {
-              "position": 18,
-              "team": {
-                "id": 20,
-                "name": "FC St. Pauli 1910",
-                "shortName": "St. Pauli",
-                "tla": "STP",
-                "crest": "https://crests.football-data.org/20.png"
-              },
-              "playedGames": 34,
-              "form": null,
-              "won": 6,
-              "draw": 8,
-              "lost": 20,
-              "points": 26,
-              "goalsFor": 29,
-              "goalsAgainst": 60,
-              "goalDifference": -31
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
             }
           ]
         }
@@ -501341,46 +501341,8 @@
         {
           "stage": "REGULAR_SEASON",
           "type": "TOTAL",
-          "group": null,
+          "group": "Matchday",
           "table": [
-            {
-              "position": 1,
-              "team": {
-                "id": 5911,
-                "name": "AC Monza",
-                "shortName": "Monza",
-                "tla": "MON",
-                "crest": "https://crests.football-data.org/5911.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 1,
-              "team": {
-                "id": 586,
-                "name": "Torino FC",
-                "shortName": "Torino",
-                "tla": "TOR",
-                "crest": "https://crests.football-data.org/586.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
             {
               "position": 1,
               "team": {
@@ -501403,11 +501365,11 @@
             {
               "position": 1,
               "team": {
-                "id": 115,
-                "name": "Udinese Calcio",
-                "shortName": "Udinese",
-                "tla": "UDI",
-                "crest": "https://crests.football-data.org/115.png"
+                "id": 5911,
+                "name": "AC Monza",
+                "shortName": "Monza",
+                "tla": "MON",
+                "crest": "https://crests.football-data.org/5911.png"
               },
               "playedGames": 0,
               "form": null,
@@ -501422,11 +501384,11 @@
             {
               "position": 1,
               "team": {
-                "id": 7397,
-                "name": "Como 1907",
-                "shortName": "Como 1907",
-                "tla": "COM",
-                "crest": "https://crests.football-data.org/7397.png"
+                "id": 99,
+                "name": "ACF Fiorentina",
+                "shortName": "Fiorentina",
+                "tla": "FIO",
+                "crest": "https://crests.football-data.org/99.png"
               },
               "playedGames": 0,
               "form": null,
@@ -501441,11 +501403,30 @@
             {
               "position": 1,
               "team": {
-                "id": 107,
-                "name": "Genoa CFC",
-                "shortName": "Genoa",
-                "tla": "GEN",
-                "crest": "https://crests.football-data.org/107.png"
+                "id": 100,
+                "name": "AS Roma",
+                "shortName": "Roma",
+                "tla": "ROM",
+                "crest": "https://crests.football-data.org/100.png"
+              },
+              "playedGames": 0,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 1,
+              "team": {
+                "id": 102,
+                "name": "Atalanta BC",
+                "shortName": "Atalanta",
+                "tla": "ATA",
+                "crest": "https://crests.football-data.org/102.png"
               },
               "playedGames": 0,
               "form": null,
@@ -501479,25 +501460,6 @@
             {
               "position": 1,
               "team": {
-                "id": 112,
-                "name": "Parma Calcio 1913",
-                "shortName": "Parma",
-                "tla": "PAR",
-                "crest": "https://crests.football-data.org/112.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 1,
-              "team": {
                 "id": 104,
                 "name": "Cagliari Calcio",
                 "shortName": "Cagliari",
@@ -501517,11 +501479,201 @@
             {
               "position": 1,
               "team": {
-                "id": 100,
-                "name": "AS Roma",
-                "shortName": "Roma",
-                "tla": "ROM",
-                "crest": "https://crests.football-data.org/100.png"
+                "id": 7397,
+                "name": "Como 1907",
+                "shortName": "Como 1907",
+                "tla": "COM",
+                "crest": "https://crests.football-data.org/7397.png"
+              },
+              "playedGames": 0,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 1,
+              "team": {
+                "id": 470,
+                "name": "Frosinone Calcio",
+                "shortName": "Frosinone",
+                "tla": "FRO",
+                "crest": "https://crests.football-data.org/470.png"
+              },
+              "playedGames": 0,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 1,
+              "team": {
+                "id": 107,
+                "name": "Genoa CFC",
+                "shortName": "Genoa",
+                "tla": "GEN",
+                "crest": "https://crests.football-data.org/107.png"
+              },
+              "playedGames": 0,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 1,
+              "team": {
+                "id": 108,
+                "name": "FC Internazionale Milano",
+                "shortName": "Inter",
+                "tla": "INT",
+                "crest": "https://crests.football-data.org/108.png"
+              },
+              "playedGames": 0,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 1,
+              "team": {
+                "id": 109,
+                "name": "Juventus FC",
+                "shortName": "Juventus",
+                "tla": "JUV",
+                "crest": "https://crests.football-data.org/109.png"
+              },
+              "playedGames": 0,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 1,
+              "team": {
+                "id": 110,
+                "name": "SS Lazio",
+                "shortName": "Lazio",
+                "tla": "LAZ",
+                "crest": "https://crests.football-data.org/110.png"
+              },
+              "playedGames": 0,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 1,
+              "team": {
+                "id": 112,
+                "name": "Parma Calcio 1913",
+                "shortName": "Parma",
+                "tla": "PAR",
+                "crest": "https://crests.football-data.org/112.png"
+              },
+              "playedGames": 0,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 1,
+              "team": {
+                "id": 471,
+                "name": "US Sassuolo Calcio",
+                "shortName": "Sassuolo",
+                "tla": "SAS",
+                "crest": "https://crests.football-data.org/471.png"
+              },
+              "playedGames": 0,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 1,
+              "team": {
+                "id": 113,
+                "name": "SSC Napoli",
+                "shortName": "Napoli",
+                "tla": "NAP",
+                "crest": "https://crests.football-data.org/113.png"
+              },
+              "playedGames": 0,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 1,
+              "team": {
+                "id": 586,
+                "name": "Torino FC",
+                "shortName": "Torino",
+                "tla": "TOR",
+                "crest": "https://crests.football-data.org/586.png"
+              },
+              "playedGames": 0,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 0,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 1,
+              "team": {
+                "id": 115,
+                "name": "Udinese Calcio",
+                "shortName": "Udinese",
+                "tla": "UDI",
+                "crest": "https://crests.football-data.org/115.png"
               },
               "playedGames": 0,
               "form": null,
@@ -501560,158 +501712,6 @@
                 "shortName": "Venezia FC",
                 "tla": "VEN",
                 "crest": "https://crests.football-data.org/454.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 1,
-              "team": {
-                "id": 471,
-                "name": "US Sassuolo Calcio",
-                "shortName": "Sassuolo",
-                "tla": "SAS",
-                "crest": "https://crests.football-data.org/471.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 1,
-              "team": {
-                "id": 108,
-                "name": "FC Internazionale Milano",
-                "shortName": "Inter",
-                "tla": "INT",
-                "crest": "https://crests.football-data.org/108.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 1,
-              "team": {
-                "id": 113,
-                "name": "SSC Napoli",
-                "shortName": "Napoli",
-                "tla": "NAP",
-                "crest": "https://crests.football-data.org/113.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 1,
-              "team": {
-                "id": 102,
-                "name": "Atalanta BC",
-                "shortName": "Atalanta",
-                "tla": "ATA",
-                "crest": "https://crests.football-data.org/102.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 1,
-              "team": {
-                "id": 109,
-                "name": "Juventus FC",
-                "shortName": "Juventus",
-                "tla": "JUV",
-                "crest": "https://crests.football-data.org/109.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 1,
-              "team": {
-                "id": 470,
-                "name": "Frosinone Calcio",
-                "shortName": "Frosinone",
-                "tla": "FRO",
-                "crest": "https://crests.football-data.org/470.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 1,
-              "team": {
-                "id": 110,
-                "name": "SS Lazio",
-                "shortName": "Lazio",
-                "tla": "LAZ",
-                "crest": "https://crests.football-data.org/110.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 1,
-              "team": {
-                "id": 99,
-                "name": "ACF Fiorentina",
-                "shortName": "Fiorentina",
-                "tla": "FIO",
-                "crest": "https://crests.football-data.org/99.png"
               },
               "playedGames": 0,
               "form": null,
@@ -503316,7 +503316,7 @@
       "seasonId": 2522,
       "seasonStart": "2026-08-28",
       "seasonEnd": "2027-05-22",
-      "lastSuccessfulUpdate": "2026-08-15 08:39 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 10:30 UTC"
     },
     "SA": {
       "status": "connected",
@@ -503325,7 +503325,7 @@
       "seasonId": 2494,
       "seasonStart": "2026-08-23",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-15 08:39 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 10:31 UTC"
     },
     "FL1": {
       "status": "connected",
