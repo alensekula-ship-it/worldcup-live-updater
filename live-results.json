@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-15 22:32 UTC",
-  "lastUpdate": "2026-08-15 22:32 UTC",
+  "generatedAt": "2026-08-15 23:00 UTC",
+  "lastUpdate": "2026-08-15 23:00 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -43393,11 +43393,11 @@
       },
       "id": 554960,
       "utcDate": "2026-08-15T21:30:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T00:31:59Z",
+      "lastUpdated": "2026-08-16T00:59:43Z",
       "homeTeam": {
         "id": 1768,
         "name": "CA Paranaense",
@@ -43413,11 +43413,11 @@
         "crest": "https://crests.football-data.org/4286.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": 0,
@@ -223096,11 +223096,11 @@
       },
       "id": 554960,
       "utcDate": "2026-08-15T21:30:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T00:31:59Z",
+      "lastUpdated": "2026-08-16T00:59:43Z",
       "homeTeam": {
         "id": 1768,
         "name": "CA Paranaense",
@@ -223116,11 +223116,11 @@
         "crest": "https://crests.football-data.org/4286.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": 0,
@@ -503586,7 +503586,7 @@
       "seasonId": 2474,
       "seasonStart": "2026-01-28",
       "seasonEnd": "2026-12-02",
-      "lastSuccessfulUpdate": "2026-08-15 22:32 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 22:59 UTC"
     },
     "WC": {
       "status": "connected",
