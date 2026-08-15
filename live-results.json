@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-15 11:27 UTC",
-  "lastUpdate": "2026-08-15 11:27 UTC",
+  "generatedAt": "2026-08-15 11:46 UTC",
+  "lastUpdate": "2026-08-15 11:46 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -42219,11 +42219,11 @@
       },
       "id": 561762,
       "utcDate": "2026-08-15T11:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T13:07:43Z",
+      "lastUpdated": "2026-08-15T13:45:35Z",
       "homeTeam": {
         "id": 60,
         "name": "Bolton Wanderers FC",
@@ -42239,11 +42239,11 @@
         "crest": "https://crests.football-data.org/1081.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -222967,7 +222967,74 @@
       "referees": []
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "competition": {
+        "id": 2016,
+        "name": "Championship",
+        "code": "ELC",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ELC.png"
+      },
+      "season": {
+        "id": 2509,
+        "startDate": "2026-08-14",
+        "endDate": "2027-05-01",
+        "currentMatchday": 1,
+        "winner": null
+      },
+      "id": 561762,
+      "utcDate": "2026-08-15T11:30:00Z",
+      "status": "IN_PLAY",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-15T13:45:35Z",
+      "homeTeam": {
+        "id": 60,
+        "name": "Bolton Wanderers FC",
+        "shortName": "Bolton",
+        "tla": "BOL",
+        "crest": "https://crests.football-data.org/60.png"
+      },
+      "awayTeam": {
+        "id": 1081,
+        "name": "Preston North End FC",
+        "shortName": "Preston NE",
+        "tla": "PNE",
+        "crest": "https://crests.football-data.org/1081.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 58025,
+          "name": "Adam Herczeg",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
+    }
+  ],
   "finished": [
     {
       "area": {
@@ -264853,72 +264920,6 @@
     }
   ],
   "upcoming": [
-    {
-      "area": {
-        "id": 2072,
-        "name": "England",
-        "code": "ENG",
-        "flag": "https://crests.football-data.org/770.svg"
-      },
-      "competition": {
-        "id": 2016,
-        "name": "Championship",
-        "code": "ELC",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ELC.png"
-      },
-      "season": {
-        "id": 2509,
-        "startDate": "2026-08-14",
-        "endDate": "2027-05-01",
-        "currentMatchday": 1,
-        "winner": null
-      },
-      "id": 561762,
-      "utcDate": "2026-08-15T11:30:00Z",
-      "status": "TIMED",
-      "matchday": 1,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-15T13:07:43Z",
-      "homeTeam": {
-        "id": 60,
-        "name": "Bolton Wanderers FC",
-        "shortName": "Bolton",
-        "tla": "BOL",
-        "crest": "https://crests.football-data.org/60.png"
-      },
-      "awayTeam": {
-        "id": 1081,
-        "name": "Preston North End FC",
-        "shortName": "Preston NE",
-        "tla": "PNE",
-        "crest": "https://crests.football-data.org/1081.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 58025,
-          "name": "Adam Herczeg",
-          "type": "REFEREE",
-          "nationality": "England"
-        }
-      ]
-    },
     {
       "area": {
         "id": 2072,
@@ -503312,7 +503313,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-08-15 11:26 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 11:45 UTC"
     },
     "PD": {
       "status": "connected",
