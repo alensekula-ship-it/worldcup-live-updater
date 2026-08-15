@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-15 18:41 UTC",
-  "lastUpdate": "2026-08-15 18:41 UTC",
+  "generatedAt": "2026-08-15 19:04 UTC",
+  "lastUpdate": "2026-08-15 19:04 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -42938,11 +42938,11 @@
       },
       "id": 567273,
       "utcDate": "2026-08-15T17:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T20:40:31Z",
+      "lastUpdated": "2026-08-15T20:58:07Z",
       "homeTeam": {
         "id": 5527,
         "name": "Académico de Viseu FC",
@@ -43008,7 +43008,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T20:39:59Z",
+      "lastUpdated": "2026-08-15T21:03:27Z",
       "homeTeam": {
         "id": 263,
         "name": "Deportivo Alavés",
@@ -43074,7 +43074,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T20:40:31Z",
+      "lastUpdated": "2026-08-15T21:03:59Z",
       "homeTeam": {
         "id": 670,
         "name": "SBV Excelsior",
@@ -43097,8 +43097,8 @@
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -43136,11 +43136,11 @@
       },
       "id": 558227,
       "utcDate": "2026-08-15T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T20:26:39Z",
+      "lastUpdated": "2026-08-15T21:03:59Z",
       "homeTeam": {
         "id": 1920,
         "name": "Fortuna Sittard",
@@ -43156,11 +43156,11 @@
         "crest": "https://crests.football-data.org/1909.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -43206,7 +43206,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T15:20:29Z",
+      "lastUpdated": "2026-08-15T21:00:15Z",
       "homeTeam": {
         "id": 1765,
         "name": "Fluminense FC",
@@ -223075,72 +223075,6 @@
   "live": [
     {
       "area": {
-        "id": 2187,
-        "name": "Portugal",
-        "code": "POR",
-        "flag": "https://crests.football-data.org/765.svg"
-      },
-      "competition": {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      },
-      "season": {
-        "id": 2526,
-        "startDate": "2026-08-08",
-        "endDate": "2027-05-16",
-        "currentMatchday": 2,
-        "winner": null
-      },
-      "id": 567273,
-      "utcDate": "2026-08-15T17:00:00Z",
-      "status": "IN_PLAY",
-      "matchday": 2,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-15T20:40:31Z",
-      "homeTeam": {
-        "id": 5527,
-        "name": "Académico de Viseu FC",
-        "shortName": "Acad. Viseu",
-        "tla": "ACV",
-        "crest": "https://crests.football-data.org/5527.png"
-      },
-      "awayTeam": {
-        "id": 5530,
-        "name": "CD Santa Clara",
-        "shortName": "Santa Clara",
-        "tla": "CD ",
-        "crest": "https://crests.football-data.org/5530.png"
-      },
-      "score": {
-        "winner": "AWAY_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 0,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 1
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 220577,
-          "name": "João Gonçalves",
-          "type": "REFEREE",
-          "nationality": "Portugal"
-        }
-      ]
-    },
-    {
-      "area": {
         "id": 2224,
         "name": "Spain",
         "code": "ESP",
@@ -223166,7 +223100,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T20:39:59Z",
+      "lastUpdated": "2026-08-15T21:03:27Z",
       "homeTeam": {
         "id": 263,
         "name": "Deportivo Alavés",
@@ -223232,7 +223166,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T20:40:31Z",
+      "lastUpdated": "2026-08-15T21:03:59Z",
       "homeTeam": {
         "id": 670,
         "name": "SBV Excelsior",
@@ -223255,8 +223189,8 @@
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -223266,6 +223200,72 @@
         {
           "id": 80090,
           "name": "Marc Nagtegaal",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 2493,
+        "startDate": "2026-08-07",
+        "endDate": "2027-05-23",
+        "currentMatchday": 2,
+        "winner": null
+      },
+      "id": 558227,
+      "utcDate": "2026-08-15T19:00:00Z",
+      "status": "IN_PLAY",
+      "matchday": 2,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-15T21:03:59Z",
+      "homeTeam": {
+        "id": 1920,
+        "name": "Fortuna Sittard",
+        "shortName": "Sittard",
+        "tla": "SIT",
+        "crest": "https://crests.football-data.org/1920.png"
+      },
+      "awayTeam": {
+        "id": 1909,
+        "name": "SC Cambuur-Leeuwarden",
+        "shortName": "Cambuur",
+        "tla": "CAM",
+        "crest": "https://crests.football-data.org/1909.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 56910,
+          "name": "Martin van den Kerkhof",
           "type": "REFEREE",
           "nationality": "Netherlands"
         }
@@ -265873,61 +265873,59 @@
           "nationality": "Netherlands"
         }
       ]
-    }
-  ],
-  "upcoming": [
+    },
     {
       "area": {
-        "id": 2163,
-        "name": "Netherlands",
-        "code": "NLD",
-        "flag": "https://crests.football-data.org/8601.svg"
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
       },
       "competition": {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
+        "id": 2017,
+        "name": "Primeira Liga",
+        "code": "PPL",
         "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
+        "emblem": "https://crests.football-data.org/PPL.png"
       },
       "season": {
-        "id": 2493,
-        "startDate": "2026-08-07",
-        "endDate": "2027-05-23",
+        "id": 2526,
+        "startDate": "2026-08-08",
+        "endDate": "2027-05-16",
         "currentMatchday": 2,
         "winner": null
       },
-      "id": 558227,
-      "utcDate": "2026-08-15T19:00:00Z",
-      "status": "TIMED",
+      "id": 567273,
+      "utcDate": "2026-08-15T17:00:00Z",
+      "status": "FINISHED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T20:26:39Z",
+      "lastUpdated": "2026-08-15T20:58:07Z",
       "homeTeam": {
-        "id": 1920,
-        "name": "Fortuna Sittard",
-        "shortName": "Sittard",
-        "tla": "SIT",
-        "crest": "https://crests.football-data.org/1920.png"
+        "id": 5527,
+        "name": "Académico de Viseu FC",
+        "shortName": "Acad. Viseu",
+        "tla": "ACV",
+        "crest": "https://crests.football-data.org/5527.png"
       },
       "awayTeam": {
-        "id": 1909,
-        "name": "SC Cambuur-Leeuwarden",
-        "shortName": "Cambuur",
-        "tla": "CAM",
-        "crest": "https://crests.football-data.org/1909.png"
+        "id": 5530,
+        "name": "CD Santa Clara",
+        "shortName": "Santa Clara",
+        "tla": "CD ",
+        "crest": "https://crests.football-data.org/5530.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -265935,13 +265933,15 @@
       },
       "referees": [
         {
-          "id": 56910,
-          "name": "Martin van den Kerkhof",
+          "id": 220577,
+          "name": "João Gonçalves",
           "type": "REFEREE",
-          "nationality": "Netherlands"
+          "nationality": "Portugal"
         }
       ]
-    },
+    }
+  ],
+  "upcoming": [
     {
       "area": {
         "id": 2032,
@@ -265969,7 +265969,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T15:20:29Z",
+      "lastUpdated": "2026-08-15T21:00:15Z",
       "homeTeam": {
         "id": 1765,
         "name": "Fluminense FC",
@@ -503532,7 +503532,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-15 18:40 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 19:03 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -503568,7 +503568,7 @@
       "seasonId": 2493,
       "seasonStart": "2026-08-07",
       "seasonEnd": "2027-05-23",
-      "lastSuccessfulUpdate": "2026-08-15 18:40 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 19:04 UTC"
     },
     "PPL": {
       "status": "connected",
@@ -503577,7 +503577,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-15 18:41 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 19:04 UTC"
     },
     "BSA": {
       "status": "connected",
@@ -503586,7 +503586,7 @@
       "seasonId": 2474,
       "seasonStart": "2026-01-28",
       "seasonEnd": "2026-12-02",
-      "lastSuccessfulUpdate": "2026-08-15 13:52 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 19:04 UTC"
     },
     "WC": {
       "status": "connected",
