@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-15 17:46 UTC",
-  "lastUpdate": "2026-08-15 17:46 UTC",
+  "generatedAt": "2026-08-15 18:01 UTC",
+  "lastUpdate": "2026-08-15 18:01 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -42810,7 +42810,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T19:45:03Z",
+      "lastUpdated": "2026-08-15T19:59:27Z",
       "homeTeam": {
         "id": 356,
         "name": "Sheffield United FC",
@@ -42872,11 +42872,11 @@
       },
       "id": 558225,
       "utcDate": "2026-08-15T16:45:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T19:45:36Z",
+      "lastUpdated": "2026-08-15T20:00:32Z",
       "homeTeam": {
         "id": 676,
         "name": "FC Utrecht",
@@ -42896,7 +42896,7 @@
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 1
+          "away": 3
         },
         "halfTime": {
           "home": 0,
@@ -42938,11 +42938,11 @@
       },
       "id": 567273,
       "utcDate": "2026-08-15T17:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T19:45:36Z",
+      "lastUpdated": "2026-08-15T20:00:32Z",
       "homeTeam": {
         "id": 5527,
         "name": "Académico de Viseu FC",
@@ -42965,8 +42965,8 @@
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -43001,7 +43001,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T19:45:03Z",
+      "lastUpdated": "2026-08-15T19:59:27Z",
       "homeTeam": {
         "id": 263,
         "name": "Deportivo Alavés",
@@ -43063,11 +43063,11 @@
       },
       "id": 558226,
       "utcDate": "2026-08-15T18:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T19:43:59Z",
+      "lastUpdated": "2026-08-15T20:00:32Z",
       "homeTeam": {
         "id": 670,
         "name": "SBV Excelsior",
@@ -43083,11 +43083,11 @@
         "crest": "https://crests.football-data.org/674.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -223086,7 +223086,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T19:45:03Z",
+      "lastUpdated": "2026-08-15T19:59:27Z",
       "homeTeam": {
         "id": 356,
         "name": "Sheffield United FC",
@@ -223148,11 +223148,11 @@
       },
       "id": 558225,
       "utcDate": "2026-08-15T16:45:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T19:45:36Z",
+      "lastUpdated": "2026-08-15T20:00:32Z",
       "homeTeam": {
         "id": 676,
         "name": "FC Utrecht",
@@ -223172,7 +223172,7 @@
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 1
+          "away": 3
         },
         "halfTime": {
           "home": 0,
@@ -223214,11 +223214,11 @@
       },
       "id": 567273,
       "utcDate": "2026-08-15T17:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T19:45:36Z",
+      "lastUpdated": "2026-08-15T20:00:32Z",
       "homeTeam": {
         "id": 5527,
         "name": "Académico de Viseu FC",
@@ -223241,8 +223241,8 @@
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -223277,7 +223277,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T19:45:03Z",
+      "lastUpdated": "2026-08-15T19:59:27Z",
       "homeTeam": {
         "id": 263,
         "name": "Deportivo Alavés",
@@ -223313,6 +223313,72 @@
           "name": "Manuel Orellana Cid",
           "type": "REFEREE",
           "nationality": "Spain"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 2493,
+        "startDate": "2026-08-07",
+        "endDate": "2027-05-23",
+        "currentMatchday": 2,
+        "winner": null
+      },
+      "id": 558226,
+      "utcDate": "2026-08-15T18:00:00Z",
+      "status": "IN_PLAY",
+      "matchday": 2,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-15T20:00:32Z",
+      "homeTeam": {
+        "id": 670,
+        "name": "SBV Excelsior",
+        "shortName": "Excelsior",
+        "tla": "EXC",
+        "crest": "https://crests.football-data.org/670.png"
+      },
+      "awayTeam": {
+        "id": 674,
+        "name": "PSV",
+        "shortName": "PSV",
+        "tla": "PSV",
+        "crest": "https://crests.football-data.org/674.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 80090,
+          "name": "Marc Nagtegaal",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
         }
       ]
     }
@@ -265789,72 +265855,6 @@
     }
   ],
   "upcoming": [
-    {
-      "area": {
-        "id": 2163,
-        "name": "Netherlands",
-        "code": "NLD",
-        "flag": "https://crests.football-data.org/8601.svg"
-      },
-      "competition": {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      },
-      "season": {
-        "id": 2493,
-        "startDate": "2026-08-07",
-        "endDate": "2027-05-23",
-        "currentMatchday": 2,
-        "winner": null
-      },
-      "id": 558226,
-      "utcDate": "2026-08-15T18:00:00Z",
-      "status": "TIMED",
-      "matchday": 2,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-15T19:43:59Z",
-      "homeTeam": {
-        "id": 670,
-        "name": "SBV Excelsior",
-        "shortName": "Excelsior",
-        "tla": "EXC",
-        "crest": "https://crests.football-data.org/670.png"
-      },
-      "awayTeam": {
-        "id": 674,
-        "name": "PSV",
-        "shortName": "PSV",
-        "tla": "PSV",
-        "crest": "https://crests.football-data.org/674.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 80090,
-          "name": "Marc Nagtegaal",
-          "type": "REFEREE",
-          "nationality": "Netherlands"
-        }
-      ]
-    },
     {
       "area": {
         "id": 2163,
@@ -500753,6 +500753,44 @@
             {
               "position": 1,
               "team": {
+                "id": 263,
+                "name": "Deportivo Alavés",
+                "shortName": "Alavés",
+                "tla": "ALA",
+                "crest": "https://crests.football-data.org/263.png"
+              },
+              "playedGames": 1,
+              "form": null,
+              "won": 0,
+              "draw": 1,
+              "lost": 0,
+              "points": 1,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 1,
+              "team": {
+                "id": 82,
+                "name": "Getafe CF",
+                "shortName": "Getafe",
+                "tla": "GET",
+                "crest": "https://crests.football-data.org/82.png"
+              },
+              "playedGames": 1,
+              "form": null,
+              "won": 0,
+              "draw": 1,
+              "lost": 0,
+              "points": 1,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 3,
+              "team": {
                 "id": 77,
                 "name": "Athletic Club",
                 "shortName": "Athletic",
@@ -500770,7 +500808,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 78,
                 "name": "Club Atlético de Madrid",
@@ -500789,7 +500827,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 79,
                 "name": "CA Osasuna",
@@ -500808,26 +500846,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
-              "team": {
-                "id": 263,
-                "name": "Deportivo Alavés",
-                "shortName": "Alavés",
-                "tla": "ALA",
-                "crest": "https://crests.football-data.org/263.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 560,
                 "name": "RC Deportivo La Coruña",
@@ -500846,7 +500865,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 285,
                 "name": "Elche CF",
@@ -500865,7 +500884,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 80,
                 "name": "RCD Espanyol de Barcelona",
@@ -500884,7 +500903,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 81,
                 "name": "FC Barcelona",
@@ -500903,26 +500922,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
-              "team": {
-                "id": 82,
-                "name": "Getafe CF",
-                "shortName": "Getafe",
-                "tla": "GET",
-                "crest": "https://crests.football-data.org/82.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 88,
                 "name": "Levante UD",
@@ -500941,7 +500941,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 84,
                 "name": "Málaga CF",
@@ -500960,7 +500960,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 5335,
                 "name": "Real Racing Club de Santander",
@@ -500979,7 +500979,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 87,
                 "name": "Rayo Vallecano de Madrid",
@@ -500998,7 +500998,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 558,
                 "name": "RC Celta de Vigo",
@@ -501017,7 +501017,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 90,
                 "name": "Real Betis Balompié",
@@ -501036,7 +501036,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 86,
                 "name": "Real Madrid CF",
@@ -501055,7 +501055,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 92,
                 "name": "Real Sociedad de Fútbol",
@@ -501074,7 +501074,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 559,
                 "name": "Sevilla FC",
@@ -501093,7 +501093,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 95,
                 "name": "Valencia CF",
@@ -501112,7 +501112,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 94,
                 "name": "Villarreal CF",
@@ -503495,7 +503495,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-08-15 17:45 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 17:59 UTC"
     },
     "PD": {
       "status": "connected",
@@ -503504,7 +503504,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-15 17:45 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 18:00 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -503540,7 +503540,7 @@
       "seasonId": 2493,
       "seasonStart": "2026-08-07",
       "seasonEnd": "2027-05-23",
-      "lastSuccessfulUpdate": "2026-08-15 17:46 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 18:00 UTC"
     },
     "PPL": {
       "status": "connected",
@@ -503549,7 +503549,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-15 17:46 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 18:00 UTC"
     },
     "BSA": {
       "status": "connected",
