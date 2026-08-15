@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-15 14:49 UTC",
-  "lastUpdate": "2026-08-15 14:49 UTC",
+  "generatedAt": "2026-08-15 15:19 UTC",
+  "lastUpdate": "2026-08-15 15:19 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -42285,11 +42285,11 @@
       },
       "id": 561763,
       "utcDate": "2026-08-15T14:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T16:48:31Z",
+      "lastUpdated": "2026-08-15T17:17:51Z",
       "homeTeam": {
         "id": 68,
         "name": "Norwich City FC",
@@ -42355,7 +42355,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T16:48:32Z",
+      "lastUpdated": "2026-08-15T17:17:51Z",
       "homeTeam": {
         "id": 387,
         "name": "Bristol City FC",
@@ -42375,11 +42375,11 @@
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 1
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -42421,7 +42421,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T16:48:32Z",
+      "lastUpdated": "2026-08-15T17:17:51Z",
       "homeTeam": {
         "id": 343,
         "name": "Middlesbrough FC",
@@ -42444,8 +42444,8 @@
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -42487,7 +42487,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T16:48:32Z",
+      "lastUpdated": "2026-08-15T17:17:51Z",
       "homeTeam": {
         "id": 70,
         "name": "Stoke City FC",
@@ -42510,8 +42510,8 @@
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         }
       },
       "odds": {
@@ -42553,7 +42553,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T16:48:31Z",
+      "lastUpdated": "2026-08-15T17:17:51Z",
       "homeTeam": {
         "id": 348,
         "name": "Charlton Athletic FC",
@@ -42576,8 +42576,8 @@
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -42619,7 +42619,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T16:48:32Z",
+      "lastUpdated": "2026-08-15T17:17:51Z",
       "homeTeam": {
         "id": 325,
         "name": "Portsmouth FC",
@@ -42642,8 +42642,8 @@
           "away": 3
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 3
         }
       },
       "odds": {
@@ -42685,7 +42685,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T16:49:04Z",
+      "lastUpdated": "2026-08-15T17:18:56Z",
       "homeTeam": {
         "id": 672,
         "name": "Willem II Tilburg",
@@ -42747,11 +42747,11 @@
       },
       "id": 567266,
       "utcDate": "2026-08-15T14:30:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T16:49:04Z",
+      "lastUpdated": "2026-08-15T17:18:56Z",
       "homeTeam": {
         "id": 7822,
         "name": "FC Alverca",
@@ -42774,8 +42774,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -223054,11 +223054,11 @@
       },
       "id": 561763,
       "utcDate": "2026-08-15T14:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T16:48:31Z",
+      "lastUpdated": "2026-08-15T17:17:51Z",
       "homeTeam": {
         "id": 68,
         "name": "Norwich City FC",
@@ -223124,7 +223124,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T16:48:32Z",
+      "lastUpdated": "2026-08-15T17:17:51Z",
       "homeTeam": {
         "id": 387,
         "name": "Bristol City FC",
@@ -223144,11 +223144,11 @@
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 1
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -223190,7 +223190,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T16:48:32Z",
+      "lastUpdated": "2026-08-15T17:17:51Z",
       "homeTeam": {
         "id": 343,
         "name": "Middlesbrough FC",
@@ -223213,8 +223213,8 @@
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -223256,7 +223256,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T16:48:32Z",
+      "lastUpdated": "2026-08-15T17:17:51Z",
       "homeTeam": {
         "id": 70,
         "name": "Stoke City FC",
@@ -223279,8 +223279,8 @@
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         }
       },
       "odds": {
@@ -223322,7 +223322,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T16:48:31Z",
+      "lastUpdated": "2026-08-15T17:17:51Z",
       "homeTeam": {
         "id": 348,
         "name": "Charlton Athletic FC",
@@ -223345,8 +223345,8 @@
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -223388,7 +223388,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T16:48:32Z",
+      "lastUpdated": "2026-08-15T17:17:51Z",
       "homeTeam": {
         "id": 325,
         "name": "Portsmouth FC",
@@ -223411,8 +223411,8 @@
           "away": 3
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 3
         }
       },
       "odds": {
@@ -223454,7 +223454,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T16:49:04Z",
+      "lastUpdated": "2026-08-15T17:18:56Z",
       "homeTeam": {
         "id": 672,
         "name": "Willem II Tilburg",
@@ -223516,11 +223516,11 @@
       },
       "id": 567266,
       "utcDate": "2026-08-15T14:30:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T16:49:04Z",
+      "lastUpdated": "2026-08-15T17:18:56Z",
       "homeTeam": {
         "id": 7822,
         "name": "FC Alverca",
@@ -223543,8 +223543,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -503439,7 +503439,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-08-15 14:48 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 15:18 UTC"
     },
     "PD": {
       "status": "connected",
@@ -503484,7 +503484,7 @@
       "seasonId": 2493,
       "seasonStart": "2026-08-07",
       "seasonEnd": "2027-05-23",
-      "lastSuccessfulUpdate": "2026-08-15 14:49 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 15:19 UTC"
     },
     "PPL": {
       "status": "connected",
@@ -503493,7 +503493,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-15 14:49 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 15:19 UTC"
     },
     "BSA": {
       "status": "connected",
