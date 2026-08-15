@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-15 16:23 UTC",
-  "lastUpdate": "2026-08-15 16:23 UTC",
+  "generatedAt": "2026-08-15 16:51 UTC",
+  "lastUpdate": "2026-08-15 16:51 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -42681,11 +42681,11 @@
       },
       "id": 558224,
       "utcDate": "2026-08-15T14:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T18:22:23Z",
+      "lastUpdated": "2026-08-15T18:26:08Z",
       "homeTeam": {
         "id": 672,
         "name": "Willem II Tilburg",
@@ -42747,11 +42747,11 @@
       },
       "id": 567266,
       "utcDate": "2026-08-15T14:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T18:22:23Z",
+      "lastUpdated": "2026-08-15T18:28:15Z",
       "homeTeam": {
         "id": 7822,
         "name": "FC Alverca",
@@ -42806,11 +42806,11 @@
       },
       "id": 561769,
       "utcDate": "2026-08-15T16:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T17:52:32Z",
+      "lastUpdated": "2026-08-15T18:50:08Z",
       "homeTeam": {
         "id": 356,
         "name": "Sheffield United FC",
@@ -42826,11 +42826,11 @@
         "crest": "https://crests.football-data.org/332.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -42872,11 +42872,11 @@
       },
       "id": 558225,
       "utcDate": "2026-08-15T16:45:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T18:04:15Z",
+      "lastUpdated": "2026-08-15T18:50:39Z",
       "homeTeam": {
         "id": 676,
         "name": "FC Utrecht",
@@ -42892,11 +42892,11 @@
         "crest": "https://crests.football-data.org/682.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -43001,7 +43001,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T15:20:29Z",
+      "lastUpdated": "2026-08-15T18:42:40Z",
       "homeTeam": {
         "id": 263,
         "name": "Deportivo Alavés",
@@ -223047,6 +223047,72 @@
   "live": [
     {
       "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "competition": {
+        "id": 2016,
+        "name": "Championship",
+        "code": "ELC",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ELC.png"
+      },
+      "season": {
+        "id": 2509,
+        "startDate": "2026-08-14",
+        "endDate": "2027-05-01",
+        "currentMatchday": 1,
+        "winner": null
+      },
+      "id": 561769,
+      "utcDate": "2026-08-15T16:30:00Z",
+      "status": "IN_PLAY",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-15T18:50:08Z",
+      "homeTeam": {
+        "id": 356,
+        "name": "Sheffield United FC",
+        "shortName": "Sheffield Utd",
+        "tla": "SHE",
+        "crest": "https://crests.football-data.org/356.png"
+      },
+      "awayTeam": {
+        "id": 332,
+        "name": "Birmingham City FC",
+        "shortName": "Birmingham",
+        "tla": "BIR",
+        "crest": "https://crests.football-data.org/332.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 9382,
+          "name": "Gavin Ward",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
+    },
+    {
+      "area": {
         "id": 2163,
         "name": "Netherlands",
         "code": "NLD",
@@ -223066,37 +223132,37 @@
         "currentMatchday": 2,
         "winner": null
       },
-      "id": 558224,
-      "utcDate": "2026-08-15T14:30:00Z",
+      "id": 558225,
+      "utcDate": "2026-08-15T16:45:00Z",
       "status": "IN_PLAY",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T18:22:23Z",
+      "lastUpdated": "2026-08-15T18:50:39Z",
       "homeTeam": {
-        "id": 672,
-        "name": "Willem II Tilburg",
-        "shortName": "Willem II",
-        "tla": "WII",
-        "crest": "https://crests.football-data.org/672.png"
+        "id": 676,
+        "name": "FC Utrecht",
+        "shortName": "Utrecht",
+        "tla": "UTR",
+        "crest": "https://crests.football-data.org/676.png"
       },
       "awayTeam": {
-        "id": 1915,
-        "name": "NEC",
-        "shortName": "NEC",
-        "tla": "NEC",
-        "crest": "https://crests.football-data.org/1915.png"
+        "id": 682,
+        "name": "AZ",
+        "shortName": "AZ",
+        "tla": "AZ",
+        "crest": "https://crests.football-data.org/682.png"
       },
       "score": {
-        "winner": "AWAY_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
-          "away": 4
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
-          "home": 0,
-          "away": 1
+          "home": null,
+          "away": null
         }
       },
       "odds": {
@@ -223104,71 +223170,12 @@
       },
       "referees": [
         {
-          "id": 43858,
-          "name": "Serdar Gözübüyük",
+          "id": 43899,
+          "name": "Danny Makkelie",
           "type": "REFEREE",
           "nationality": "Netherlands"
         }
       ]
-    },
-    {
-      "area": {
-        "id": 2187,
-        "name": "Portugal",
-        "code": "POR",
-        "flag": "https://crests.football-data.org/765.svg"
-      },
-      "competition": {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      },
-      "season": {
-        "id": 2526,
-        "startDate": "2026-08-08",
-        "endDate": "2027-05-16",
-        "currentMatchday": 2,
-        "winner": null
-      },
-      "id": 567266,
-      "utcDate": "2026-08-15T14:30:00Z",
-      "status": "IN_PLAY",
-      "matchday": 2,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-15T18:22:23Z",
-      "homeTeam": {
-        "id": 7822,
-        "name": "FC Alverca",
-        "shortName": "Alverca",
-        "tla": "ALV",
-        "crest": "https://crests.football-data.org/7822.png"
-      },
-      "awayTeam": {
-        "id": 9136,
-        "name": "CF Estrela da Amadora",
-        "shortName": "Amadora",
-        "tla": "AMA",
-        "crest": "https://crests.football-data.org/9136.png"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 2,
-          "away": 2
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 0
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
     }
   ],
   "finished": [
@@ -265515,74 +265522,6 @@
           "nationality": "England"
         }
       ]
-    }
-  ],
-  "upcoming": [
-    {
-      "area": {
-        "id": 2072,
-        "name": "England",
-        "code": "ENG",
-        "flag": "https://crests.football-data.org/770.svg"
-      },
-      "competition": {
-        "id": 2016,
-        "name": "Championship",
-        "code": "ELC",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ELC.png"
-      },
-      "season": {
-        "id": 2509,
-        "startDate": "2026-08-14",
-        "endDate": "2027-05-01",
-        "currentMatchday": 1,
-        "winner": null
-      },
-      "id": 561769,
-      "utcDate": "2026-08-15T16:30:00Z",
-      "status": "TIMED",
-      "matchday": 1,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-15T17:52:32Z",
-      "homeTeam": {
-        "id": 356,
-        "name": "Sheffield United FC",
-        "shortName": "Sheffield Utd",
-        "tla": "SHE",
-        "crest": "https://crests.football-data.org/356.png"
-      },
-      "awayTeam": {
-        "id": 332,
-        "name": "Birmingham City FC",
-        "shortName": "Birmingham",
-        "tla": "BIR",
-        "crest": "https://crests.football-data.org/332.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 9382,
-          "name": "Gavin Ward",
-          "type": "REFEREE",
-          "nationality": "England"
-        }
-      ]
     },
     {
       "area": {
@@ -265605,37 +265544,37 @@
         "currentMatchday": 2,
         "winner": null
       },
-      "id": 558225,
-      "utcDate": "2026-08-15T16:45:00Z",
-      "status": "TIMED",
+      "id": 558224,
+      "utcDate": "2026-08-15T14:30:00Z",
+      "status": "FINISHED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T18:04:15Z",
+      "lastUpdated": "2026-08-15T18:26:08Z",
       "homeTeam": {
-        "id": 676,
-        "name": "FC Utrecht",
-        "shortName": "Utrecht",
-        "tla": "UTR",
-        "crest": "https://crests.football-data.org/676.png"
+        "id": 672,
+        "name": "Willem II Tilburg",
+        "shortName": "Willem II",
+        "tla": "WII",
+        "crest": "https://crests.football-data.org/672.png"
       },
       "awayTeam": {
-        "id": 682,
-        "name": "AZ",
-        "shortName": "AZ",
-        "tla": "AZ",
-        "crest": "https://crests.football-data.org/682.png"
+        "id": 1915,
+        "name": "NEC",
+        "shortName": "NEC",
+        "tla": "NEC",
+        "crest": "https://crests.football-data.org/1915.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 4
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -265643,13 +265582,74 @@
       },
       "referees": [
         {
-          "id": 43899,
-          "name": "Danny Makkelie",
+          "id": 43858,
+          "name": "Serdar Gözübüyük",
           "type": "REFEREE",
           "nationality": "Netherlands"
         }
       ]
     },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "competition": {
+        "id": 2017,
+        "name": "Primeira Liga",
+        "code": "PPL",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/PPL.png"
+      },
+      "season": {
+        "id": 2526,
+        "startDate": "2026-08-08",
+        "endDate": "2027-05-16",
+        "currentMatchday": 2,
+        "winner": null
+      },
+      "id": 567266,
+      "utcDate": "2026-08-15T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-15T18:28:15Z",
+      "homeTeam": {
+        "id": 7822,
+        "name": "FC Alverca",
+        "shortName": "Alverca",
+        "tla": "ALV",
+        "crest": "https://crests.football-data.org/7822.png"
+      },
+      "awayTeam": {
+        "id": 9136,
+        "name": "CF Estrela da Amadora",
+        "shortName": "Amadora",
+        "tla": "AMA",
+        "crest": "https://crests.football-data.org/9136.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 2
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": []
+    }
+  ],
+  "upcoming": [
     {
       "area": {
         "id": 2187,
@@ -265736,7 +265736,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T15:20:29Z",
+      "lastUpdated": "2026-08-15T18:42:40Z",
       "homeTeam": {
         "id": 263,
         "name": "Deportivo Alavés",
@@ -503467,7 +503467,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-08-15 16:22 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 16:50 UTC"
     },
     "PD": {
       "status": "connected",
@@ -503476,7 +503476,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-15 15:45 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 16:50 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -503512,7 +503512,7 @@
       "seasonId": 2493,
       "seasonStart": "2026-08-07",
       "seasonEnd": "2027-05-23",
-      "lastSuccessfulUpdate": "2026-08-15 16:22 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 16:51 UTC"
     },
     "PPL": {
       "status": "connected",
@@ -503521,7 +503521,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-15 16:22 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 16:51 UTC"
     },
     "BSA": {
       "status": "connected",
