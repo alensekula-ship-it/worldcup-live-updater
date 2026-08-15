@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-15 16:51 UTC",
-  "lastUpdate": "2026-08-15 16:51 UTC",
+  "generatedAt": "2026-08-15 17:20 UTC",
+  "lastUpdate": "2026-08-15 17:20 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -42806,11 +42806,11 @@
       },
       "id": 561769,
       "utcDate": "2026-08-15T16:30:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T18:50:08Z",
+      "lastUpdated": "2026-08-15T19:18:55Z",
       "homeTeam": {
         "id": 356,
         "name": "Sheffield United FC",
@@ -42833,8 +42833,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -42876,7 +42876,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T18:50:39Z",
+      "lastUpdated": "2026-08-15T19:19:27Z",
       "homeTeam": {
         "id": 676,
         "name": "FC Utrecht",
@@ -42938,11 +42938,11 @@
       },
       "id": 567273,
       "utcDate": "2026-08-15T17:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T18:12:48Z",
+      "lastUpdated": "2026-08-15T19:19:27Z",
       "homeTeam": {
         "id": 5527,
         "name": "Académico de Viseu FC",
@@ -42958,11 +42958,11 @@
         "crest": "https://crests.football-data.org/5530.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "halfTime": {
           "home": null,
@@ -43001,7 +43001,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T18:42:40Z",
+      "lastUpdated": "2026-08-15T18:55:27Z",
       "homeTeam": {
         "id": 263,
         "name": "Deportivo Alavés",
@@ -43067,7 +43067,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T10:20:18Z",
+      "lastUpdated": "2026-08-15T19:05:04Z",
       "homeTeam": {
         "id": 670,
         "name": "SBV Excelsior",
@@ -43163,7 +43163,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 56910,
+          "name": "Martin van den Kerkhof",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
     },
     {
       "area": {
@@ -223068,11 +223075,11 @@
       },
       "id": 561769,
       "utcDate": "2026-08-15T16:30:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T18:50:08Z",
+      "lastUpdated": "2026-08-15T19:18:55Z",
       "homeTeam": {
         "id": 356,
         "name": "Sheffield United FC",
@@ -223095,8 +223102,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -223138,7 +223145,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T18:50:39Z",
+      "lastUpdated": "2026-08-15T19:19:27Z",
       "homeTeam": {
         "id": 676,
         "name": "FC Utrecht",
@@ -223176,6 +223183,65 @@
           "nationality": "Netherlands"
         }
       ]
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "competition": {
+        "id": 2017,
+        "name": "Primeira Liga",
+        "code": "PPL",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/PPL.png"
+      },
+      "season": {
+        "id": 2526,
+        "startDate": "2026-08-08",
+        "endDate": "2027-05-16",
+        "currentMatchday": 2,
+        "winner": null
+      },
+      "id": 567273,
+      "utcDate": "2026-08-15T17:00:00Z",
+      "status": "IN_PLAY",
+      "matchday": 2,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-15T19:19:27Z",
+      "homeTeam": {
+        "id": 5527,
+        "name": "Académico de Viseu FC",
+        "shortName": "Acad. Viseu",
+        "tla": "ACV",
+        "crest": "https://crests.football-data.org/5527.png"
+      },
+      "awayTeam": {
+        "id": 5530,
+        "name": "CD Santa Clara",
+        "shortName": "Santa Clara",
+        "tla": "CD ",
+        "crest": "https://crests.football-data.org/5530.png"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 1
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": []
     }
   ],
   "finished": [
@@ -265652,65 +265718,6 @@
   "upcoming": [
     {
       "area": {
-        "id": 2187,
-        "name": "Portugal",
-        "code": "POR",
-        "flag": "https://crests.football-data.org/765.svg"
-      },
-      "competition": {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      },
-      "season": {
-        "id": 2526,
-        "startDate": "2026-08-08",
-        "endDate": "2027-05-16",
-        "currentMatchday": 2,
-        "winner": null
-      },
-      "id": 567273,
-      "utcDate": "2026-08-15T17:00:00Z",
-      "status": "TIMED",
-      "matchday": 2,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-15T18:12:48Z",
-      "homeTeam": {
-        "id": 5527,
-        "name": "Académico de Viseu FC",
-        "shortName": "Acad. Viseu",
-        "tla": "ACV",
-        "crest": "https://crests.football-data.org/5527.png"
-      },
-      "awayTeam": {
-        "id": 5530,
-        "name": "CD Santa Clara",
-        "shortName": "Santa Clara",
-        "tla": "CD ",
-        "crest": "https://crests.football-data.org/5530.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
-    {
-      "area": {
         "id": 2224,
         "name": "Spain",
         "code": "ESP",
@@ -265736,7 +265743,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T18:42:40Z",
+      "lastUpdated": "2026-08-15T18:55:27Z",
       "homeTeam": {
         "id": 263,
         "name": "Deportivo Alavés",
@@ -265802,7 +265809,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T10:20:18Z",
+      "lastUpdated": "2026-08-15T19:05:04Z",
       "homeTeam": {
         "id": 670,
         "name": "SBV Excelsior",
@@ -265898,7 +265905,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 56910,
+          "name": "Martin van den Kerkhof",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
     },
     {
       "area": {
@@ -502788,8 +502802,8 @@
               "draw": 2,
               "lost": 0,
               "points": 2,
-              "goalsFor": 2,
-              "goalsAgainst": 2,
+              "goalsFor": 4,
+              "goalsAgainst": 4,
               "goalDifference": 0
             },
             {
@@ -502801,18 +502815,37 @@
                 "tla": "ACV",
                 "crest": "https://crests.football-data.org/5527.png"
               },
-              "playedGames": 1,
+              "playedGames": 2,
               "form": null,
               "won": 0,
-              "draw": 1,
+              "draw": 2,
               "lost": 0,
-              "points": 1,
+              "points": 2,
               "goalsFor": 2,
               "goalsAgainst": 2,
               "goalDifference": 0
             },
             {
               "position": 7,
+              "team": {
+                "id": 5530,
+                "name": "CD Santa Clara",
+                "shortName": "Santa Clara",
+                "tla": "CD ",
+                "crest": "https://crests.football-data.org/5530.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 0,
+              "draw": 2,
+              "lost": 0,
+              "points": 2,
+              "goalsFor": 2,
+              "goalsAgainst": 2,
+              "goalDifference": 0
+            },
+            {
+              "position": 9,
               "team": {
                 "id": 5529,
                 "name": "CD Nacional",
@@ -502831,26 +502864,7 @@
               "goalDifference": 0
             },
             {
-              "position": 7,
-              "team": {
-                "id": 5530,
-                "name": "CD Santa Clara",
-                "shortName": "Santa Clara",
-                "tla": "CD ",
-                "crest": "https://crests.football-data.org/5530.png"
-              },
-              "playedGames": 1,
-              "form": null,
-              "won": 0,
-              "draw": 1,
-              "lost": 0,
-              "points": 1,
-              "goalsFor": 2,
-              "goalsAgainst": 2,
-              "goalDifference": 0
-            },
-            {
-              "position": 7,
+              "position": 9,
               "team": {
                 "id": 583,
                 "name": "Moreirense FC",
@@ -502869,7 +502883,7 @@
               "goalDifference": 0
             },
             {
-              "position": 7,
+              "position": 9,
               "team": {
                 "id": 1903,
                 "name": "Sport Lisboa e Benfica",
@@ -502888,7 +502902,7 @@
               "goalDifference": 0
             },
             {
-              "position": 7,
+              "position": 9,
               "team": {
                 "id": 5613,
                 "name": "Sporting Clube de Braga",
@@ -502959,8 +502973,8 @@
               "draw": 1,
               "lost": 1,
               "points": 1,
-              "goalsFor": 0,
-              "goalsAgainst": 2,
+              "goalsFor": 2,
+              "goalsAgainst": 4,
               "goalDifference": -2
             },
             {
@@ -503467,7 +503481,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-08-15 16:50 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 17:19 UTC"
     },
     "PD": {
       "status": "connected",
@@ -503476,7 +503490,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-15 16:50 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 17:19 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -503512,7 +503526,7 @@
       "seasonId": 2493,
       "seasonStart": "2026-08-07",
       "seasonEnd": "2027-05-23",
-      "lastSuccessfulUpdate": "2026-08-15 16:51 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 17:19 UTC"
     },
     "PPL": {
       "status": "connected",
@@ -503521,7 +503535,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-15 16:51 UTC"
+      "lastSuccessfulUpdate": "2026-08-15 17:19 UTC"
     },
     "BSA": {
       "status": "connected",
