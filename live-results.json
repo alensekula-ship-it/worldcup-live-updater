@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-16 15:47 UTC",
-  "lastUpdate": "2026-08-16 15:47 UTC",
+  "generatedAt": "2026-08-16 16:23 UTC",
+  "lastUpdate": "2026-08-16 16:23 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -43775,11 +43775,11 @@
       },
       "id": 554962,
       "utcDate": "2026-08-16T14:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T17:47:11Z",
+      "lastUpdated": "2026-08-16T17:59:59Z",
       "homeTeam": {
         "id": 1772,
         "name": "Chapecoense AF",
@@ -43838,7 +43838,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T17:47:11Z",
+      "lastUpdated": "2026-08-16T18:23:27Z",
       "homeTeam": {
         "id": 5529,
         "name": "CD Nacional",
@@ -43854,10 +43854,10 @@
         "crest": "https://crests.football-data.org/582.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 0
         },
         "halfTime": {
@@ -43868,7 +43868,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 220513,
+          "name": "Bruno Costa",
+          "type": "REFEREE",
+          "nationality": "Portugal"
+        }
+      ]
     },
     {
       "area": {
@@ -43893,11 +43900,11 @@
       },
       "id": 558231,
       "utcDate": "2026-08-16T14:45:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T17:47:11Z",
+      "lastUpdated": "2026-08-16T18:22:55Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -43963,7 +43970,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T17:46:07Z",
+      "lastUpdated": "2026-08-16T18:22:23Z",
       "homeTeam": {
         "id": 328,
         "name": "Burnley FC",
@@ -43986,8 +43993,8 @@
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -44029,7 +44036,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T17:46:39Z",
+      "lastUpdated": "2026-08-16T18:22:23Z",
       "homeTeam": {
         "id": 5335,
         "name": "Real Racing Club de Santander",
@@ -44045,15 +44052,15 @@
         "crest": "https://crests.football-data.org/94.png"
       },
       "score": {
-        "winner": "HOME_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
           "home": 2,
-          "away": 0
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         }
       },
       "odds": {
@@ -44095,7 +44102,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T10:20:29Z",
+      "lastUpdated": "2026-08-16T18:16:31Z",
       "homeTeam": {
         "id": 80,
         "name": "RCD Espanyol de Barcelona",
@@ -44191,7 +44198,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 37207,
+          "name": "André Narciso",
+          "type": "REFEREE",
+          "nationality": "Portugal"
+        }
+      ]
     },
     {
       "area": {
@@ -223131,65 +223145,6 @@
   "live": [
     {
       "area": {
-        "id": 2032,
-        "name": "Brazil",
-        "code": "BRA",
-        "flag": "https://crests.football-data.org/764.svg"
-      },
-      "competition": {
-        "id": 2013,
-        "name": "Campeonato Brasileiro Série A",
-        "code": "BSA",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      "season": {
-        "id": 2474,
-        "startDate": "2026-01-28",
-        "endDate": "2026-12-02",
-        "currentMatchday": 23,
-        "winner": null
-      },
-      "id": 554962,
-      "utcDate": "2026-08-16T14:00:00Z",
-      "status": "IN_PLAY",
-      "matchday": 23,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-16T17:47:11Z",
-      "homeTeam": {
-        "id": 1772,
-        "name": "Chapecoense AF",
-        "shortName": "Chapecoense",
-        "tla": "CHA",
-        "crest": "https://crests.football-data.org/1772_large.png"
-      },
-      "awayTeam": {
-        "id": 1777,
-        "name": "EC Bahia",
-        "shortName": "Bahia",
-        "tla": "BAH",
-        "crest": "https://crests.football-data.org/1777.png"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 3,
-          "away": 3
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 2
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
-    {
-      "area": {
         "id": 2187,
         "name": "Portugal",
         "code": "POR",
@@ -223215,7 +223170,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T17:47:11Z",
+      "lastUpdated": "2026-08-16T18:23:27Z",
       "homeTeam": {
         "id": 5529,
         "name": "CD Nacional",
@@ -223231,10 +223186,10 @@
         "crest": "https://crests.football-data.org/582.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 0
         },
         "halfTime": {
@@ -223245,7 +223200,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 220513,
+          "name": "Bruno Costa",
+          "type": "REFEREE",
+          "nationality": "Portugal"
+        }
+      ]
     },
     {
       "area": {
@@ -223270,11 +223232,11 @@
       },
       "id": 558231,
       "utcDate": "2026-08-16T14:45:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T17:47:11Z",
+      "lastUpdated": "2026-08-16T18:22:55Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -223340,7 +223302,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T17:46:07Z",
+      "lastUpdated": "2026-08-16T18:22:23Z",
       "homeTeam": {
         "id": 328,
         "name": "Burnley FC",
@@ -223363,8 +223325,8 @@
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -223406,7 +223368,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T17:46:39Z",
+      "lastUpdated": "2026-08-16T18:22:23Z",
       "homeTeam": {
         "id": 5335,
         "name": "Real Racing Club de Santander",
@@ -223422,15 +223384,15 @@
         "crest": "https://crests.football-data.org/94.png"
       },
       "score": {
-        "winner": "HOME_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
           "home": 2,
-          "away": 0
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         }
       },
       "odds": {
@@ -266766,6 +266728,65 @@
           "nationality": "England"
         }
       ]
+    },
+    {
+      "area": {
+        "id": 2032,
+        "name": "Brazil",
+        "code": "BRA",
+        "flag": "https://crests.football-data.org/764.svg"
+      },
+      "competition": {
+        "id": 2013,
+        "name": "Campeonato Brasileiro Série A",
+        "code": "BSA",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/bsa.png"
+      },
+      "season": {
+        "id": 2474,
+        "startDate": "2026-01-28",
+        "endDate": "2026-12-02",
+        "currentMatchday": 23,
+        "winner": null
+      },
+      "id": 554962,
+      "utcDate": "2026-08-16T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-16T17:59:59Z",
+      "homeTeam": {
+        "id": 1772,
+        "name": "Chapecoense AF",
+        "shortName": "Chapecoense",
+        "tla": "CHA",
+        "crest": "https://crests.football-data.org/1772_large.png"
+      },
+      "awayTeam": {
+        "id": 1777,
+        "name": "EC Bahia",
+        "shortName": "Bahia",
+        "tla": "BAH",
+        "crest": "https://crests.football-data.org/1777.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 3,
+          "away": 3
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 2
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": []
     }
   ],
   "upcoming": [
@@ -266914,7 +266935,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T10:20:29Z",
+      "lastUpdated": "2026-08-16T18:16:31Z",
       "homeTeam": {
         "id": 80,
         "name": "RCD Espanyol de Barcelona",
@@ -267010,7 +267031,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 37207,
+          "name": "André Narciso",
+          "type": "REFEREE",
+          "nationality": "Portugal"
+        }
+      ]
     },
     {
       "area": {
@@ -500931,6 +500959,44 @@
             {
               "position": 3,
               "team": {
+                "id": 5335,
+                "name": "Real Racing Club de Santander",
+                "shortName": "Santander",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/5335.png"
+              },
+              "playedGames": 1,
+              "form": null,
+              "won": 0,
+              "draw": 1,
+              "lost": 0,
+              "points": 1,
+              "goalsFor": 2,
+              "goalsAgainst": 2,
+              "goalDifference": 0
+            },
+            {
+              "position": 3,
+              "team": {
+                "id": 94,
+                "name": "Villarreal CF",
+                "shortName": "Villarreal",
+                "tla": "VIL",
+                "crest": "https://crests.football-data.org/94.png"
+              },
+              "playedGames": 1,
+              "form": null,
+              "won": 0,
+              "draw": 1,
+              "lost": 0,
+              "points": 1,
+              "goalsFor": 2,
+              "goalsAgainst": 2,
+              "goalDifference": 0
+            },
+            {
+              "position": 5,
+              "team": {
                 "id": 77,
                 "name": "Athletic Club",
                 "shortName": "Athletic",
@@ -500948,7 +501014,7 @@
               "goalDifference": 0
             },
             {
-              "position": 3,
+              "position": 5,
               "team": {
                 "id": 78,
                 "name": "Club Atlético de Madrid",
@@ -500967,7 +501033,7 @@
               "goalDifference": 0
             },
             {
-              "position": 3,
+              "position": 5,
               "team": {
                 "id": 79,
                 "name": "CA Osasuna",
@@ -500986,7 +501052,7 @@
               "goalDifference": 0
             },
             {
-              "position": 3,
+              "position": 5,
               "team": {
                 "id": 560,
                 "name": "RC Deportivo La Coruña",
@@ -501005,7 +501071,7 @@
               "goalDifference": 0
             },
             {
-              "position": 3,
+              "position": 5,
               "team": {
                 "id": 285,
                 "name": "Elche CF",
@@ -501024,7 +501090,7 @@
               "goalDifference": 0
             },
             {
-              "position": 3,
+              "position": 5,
               "team": {
                 "id": 80,
                 "name": "RCD Espanyol de Barcelona",
@@ -501043,7 +501109,7 @@
               "goalDifference": 0
             },
             {
-              "position": 3,
+              "position": 5,
               "team": {
                 "id": 81,
                 "name": "FC Barcelona",
@@ -501062,7 +501128,7 @@
               "goalDifference": 0
             },
             {
-              "position": 3,
+              "position": 5,
               "team": {
                 "id": 88,
                 "name": "Levante UD",
@@ -501081,7 +501147,7 @@
               "goalDifference": 0
             },
             {
-              "position": 3,
+              "position": 5,
               "team": {
                 "id": 84,
                 "name": "Málaga CF",
@@ -501100,26 +501166,7 @@
               "goalDifference": 0
             },
             {
-              "position": 3,
-              "team": {
-                "id": 5335,
-                "name": "Real Racing Club de Santander",
-                "shortName": "Santander",
-                "tla": "SAN",
-                "crest": "https://crests.football-data.org/5335.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 3,
+              "position": 5,
               "team": {
                 "id": 558,
                 "name": "RC Celta de Vigo",
@@ -501138,7 +501185,7 @@
               "goalDifference": 0
             },
             {
-              "position": 3,
+              "position": 5,
               "team": {
                 "id": 90,
                 "name": "Real Betis Balompié",
@@ -501157,7 +501204,7 @@
               "goalDifference": 0
             },
             {
-              "position": 3,
+              "position": 5,
               "team": {
                 "id": 86,
                 "name": "Real Madrid CF",
@@ -501176,7 +501223,7 @@
               "goalDifference": 0
             },
             {
-              "position": 3,
+              "position": 5,
               "team": {
                 "id": 92,
                 "name": "Real Sociedad de Fútbol",
@@ -501195,32 +501242,13 @@
               "goalDifference": 0
             },
             {
-              "position": 3,
+              "position": 5,
               "team": {
                 "id": 95,
                 "name": "Valencia CF",
                 "shortName": "Valencia",
                 "tla": "VAL",
                 "crest": "https://crests.football-data.org/95.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 3,
-              "team": {
-                "id": 94,
-                "name": "Villarreal CF",
-                "shortName": "Villarreal",
-                "tla": "VIL",
-                "crest": "https://crests.football-data.org/94.png"
               },
               "playedGames": 0,
               "form": null,
@@ -503635,7 +503663,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-08-16 15:46 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 16:22 UTC"
     },
     "PD": {
       "status": "connected",
@@ -503644,7 +503672,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-16 15:46 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 16:22 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -503680,7 +503708,7 @@
       "seasonId": 2493,
       "seasonStart": "2026-08-07",
       "seasonEnd": "2027-05-23",
-      "lastSuccessfulUpdate": "2026-08-16 15:47 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 16:23 UTC"
     },
     "PPL": {
       "status": "connected",
@@ -503689,7 +503717,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-16 15:47 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 16:23 UTC"
     },
     "BSA": {
       "status": "connected",
@@ -503698,7 +503726,7 @@
       "seasonId": 2474,
       "seasonStart": "2026-01-28",
       "seasonEnd": "2026-12-02",
-      "lastSuccessfulUpdate": "2026-08-16 15:47 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 16:23 UTC"
     },
     "WC": {
       "status": "connected",
