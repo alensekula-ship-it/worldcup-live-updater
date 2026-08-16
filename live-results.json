@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-16 15:20 UTC",
-  "lastUpdate": "2026-08-16 15:20 UTC",
+  "generatedAt": "2026-08-16 15:47 UTC",
+  "lastUpdate": "2026-08-16 15:47 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -43779,7 +43779,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T17:20:31Z",
+      "lastUpdated": "2026-08-16T17:47:11Z",
       "homeTeam": {
         "id": 1772,
         "name": "Chapecoense AF",
@@ -43798,8 +43798,8 @@
         "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 2,
-          "away": 2
+          "home": 3,
+          "away": 3
         },
         "halfTime": {
           "home": 1,
@@ -43834,11 +43834,11 @@
       },
       "id": 567270,
       "utcDate": "2026-08-16T14:30:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T17:20:31Z",
+      "lastUpdated": "2026-08-16T17:47:11Z",
       "homeTeam": {
         "id": 5529,
         "name": "CD Nacional",
@@ -43893,11 +43893,11 @@
       },
       "id": 558231,
       "utcDate": "2026-08-16T14:45:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T17:19:59Z",
+      "lastUpdated": "2026-08-16T17:47:11Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -43917,11 +43917,11 @@
         "duration": "REGULAR",
         "fullTime": {
           "home": 2,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         }
       },
       "odds": {
@@ -43963,7 +43963,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T17:19:27Z",
+      "lastUpdated": "2026-08-16T17:46:07Z",
       "homeTeam": {
         "id": 328,
         "name": "Burnley FC",
@@ -44029,7 +44029,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T17:19:27Z",
+      "lastUpdated": "2026-08-16T17:46:39Z",
       "homeTeam": {
         "id": 5335,
         "name": "Real Racing Club de Santander",
@@ -44045,10 +44045,10 @@
         "crest": "https://crests.football-data.org/94.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 0
         },
         "halfTime": {
@@ -44456,7 +44456,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T15:33:02Z",
+      "lastUpdated": "2026-08-16T17:34:29Z",
       "homeTeam": {
         "id": 4364,
         "name": "Mirassol FC",
@@ -44515,7 +44515,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T15:33:02Z",
+      "lastUpdated": "2026-08-16T17:34:40Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -44574,7 +44574,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T15:33:02Z",
+      "lastUpdated": "2026-08-16T17:34:52Z",
       "homeTeam": {
         "id": 1779,
         "name": "SC Corinthians Paulista",
@@ -223156,7 +223156,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T17:20:31Z",
+      "lastUpdated": "2026-08-16T17:47:11Z",
       "homeTeam": {
         "id": 1772,
         "name": "Chapecoense AF",
@@ -223175,8 +223175,8 @@
         "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 2,
-          "away": 2
+          "home": 3,
+          "away": 3
         },
         "halfTime": {
           "home": 1,
@@ -223211,11 +223211,11 @@
       },
       "id": 567270,
       "utcDate": "2026-08-16T14:30:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T17:20:31Z",
+      "lastUpdated": "2026-08-16T17:47:11Z",
       "homeTeam": {
         "id": 5529,
         "name": "CD Nacional",
@@ -223270,11 +223270,11 @@
       },
       "id": 558231,
       "utcDate": "2026-08-16T14:45:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T17:19:59Z",
+      "lastUpdated": "2026-08-16T17:47:11Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -223294,11 +223294,11 @@
         "duration": "REGULAR",
         "fullTime": {
           "home": 2,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         }
       },
       "odds": {
@@ -223340,7 +223340,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T17:19:27Z",
+      "lastUpdated": "2026-08-16T17:46:07Z",
       "homeTeam": {
         "id": 328,
         "name": "Burnley FC",
@@ -223406,7 +223406,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T17:19:27Z",
+      "lastUpdated": "2026-08-16T17:46:39Z",
       "homeTeam": {
         "id": 5335,
         "name": "Real Racing Club de Santander",
@@ -223422,10 +223422,10 @@
         "crest": "https://crests.football-data.org/94.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 0
         },
         "halfTime": {
@@ -267275,7 +267275,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T15:33:02Z",
+      "lastUpdated": "2026-08-16T17:34:29Z",
       "homeTeam": {
         "id": 4364,
         "name": "Mirassol FC",
@@ -267334,7 +267334,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T15:33:02Z",
+      "lastUpdated": "2026-08-16T17:34:40Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -267393,7 +267393,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T15:33:02Z",
+      "lastUpdated": "2026-08-16T17:34:52Z",
       "homeTeam": {
         "id": 1779,
         "name": "SC Corinthians Paulista",
@@ -502988,18 +502988,37 @@
                 "tla": "CDN",
                 "crest": "https://crests.football-data.org/5529.png"
               },
-              "playedGames": 1,
+              "playedGames": 2,
               "form": null,
               "won": 0,
-              "draw": 1,
+              "draw": 2,
               "lost": 0,
-              "points": 1,
+              "points": 2,
               "goalsFor": 2,
               "goalsAgainst": 2,
               "goalDifference": 0
             },
             {
-              "position": 8,
+              "position": 9,
+              "team": {
+                "id": 582,
+                "name": "GD Estoril Praia",
+                "shortName": "Estoril Praia",
+                "tla": "EST",
+                "crest": "https://crests.football-data.org/582.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 0,
+              "draw": 2,
+              "lost": 0,
+              "points": 2,
+              "goalsFor": 1,
+              "goalsAgainst": 1,
+              "goalDifference": 0
+            },
+            {
+              "position": 10,
               "team": {
                 "id": 583,
                 "name": "Moreirense FC",
@@ -503018,7 +503037,7 @@
               "goalDifference": 0
             },
             {
-              "position": 8,
+              "position": 10,
               "team": {
                 "id": 1903,
                 "name": "Sport Lisboa e Benfica",
@@ -503037,7 +503056,7 @@
               "goalDifference": 0
             },
             {
-              "position": 8,
+              "position": 10,
               "team": {
                 "id": 5613,
                 "name": "Sporting Clube de Braga",
@@ -503056,32 +503075,13 @@
               "goalDifference": 0
             },
             {
-              "position": 12,
+              "position": 13,
               "team": {
                 "id": 5531,
                 "name": "FC Famalicão",
                 "shortName": "Famalicão",
                 "tla": "FAM",
                 "crest": "https://crests.football-data.org/5531.png"
-              },
-              "playedGames": 1,
-              "form": null,
-              "won": 0,
-              "draw": 1,
-              "lost": 0,
-              "points": 1,
-              "goalsFor": 1,
-              "goalsAgainst": 1,
-              "goalDifference": 0
-            },
-            {
-              "position": 12,
-              "team": {
-                "id": 582,
-                "name": "GD Estoril Praia",
-                "shortName": "Estoril Praia",
-                "tla": "EST",
-                "crest": "https://crests.football-data.org/582.png"
               },
               "playedGames": 1,
               "form": null,
@@ -503301,6 +503301,25 @@
             {
               "position": 5,
               "team": {
+                "id": 1777,
+                "name": "EC Bahia",
+                "shortName": "Bahia",
+                "tla": "BAH",
+                "crest": "https://crests.football-data.org/1777.png"
+              },
+              "playedGames": 23,
+              "form": null,
+              "won": 8,
+              "draw": 10,
+              "lost": 5,
+              "points": 34,
+              "goalsFor": 32,
+              "goalsAgainst": 28,
+              "goalDifference": 4
+            },
+            {
+              "position": 6,
+              "team": {
                 "id": 1771,
                 "name": "Cruzeiro EC",
                 "shortName": "Cruzeiro",
@@ -503316,25 +503335,6 @@
               "goalsFor": 30,
               "goalsAgainst": 31,
               "goalDifference": -1
-            },
-            {
-              "position": 6,
-              "team": {
-                "id": 1777,
-                "name": "EC Bahia",
-                "shortName": "Bahia",
-                "tla": "BAH",
-                "crest": "https://crests.football-data.org/1777.png"
-              },
-              "playedGames": 22,
-              "form": null,
-              "won": 8,
-              "draw": 9,
-              "lost": 5,
-              "points": 33,
-              "goalsFor": 29,
-              "goalsAgainst": 25,
-              "goalDifference": 4
             },
             {
               "position": 7,
@@ -503592,14 +503592,14 @@
                 "tla": "CHA",
                 "crest": "https://crests.football-data.org/1772_large.png"
               },
-              "playedGames": 21,
+              "playedGames": 22,
               "form": null,
               "won": 1,
-              "draw": 7,
+              "draw": 8,
               "lost": 13,
-              "points": 10,
-              "goalsFor": 20,
-              "goalsAgainst": 43,
+              "points": 11,
+              "goalsFor": 23,
+              "goalsAgainst": 46,
               "goalDifference": -23
             }
           ]
@@ -503635,7 +503635,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-08-16 15:19 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 15:46 UTC"
     },
     "PD": {
       "status": "connected",
@@ -503644,7 +503644,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-16 15:19 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 15:46 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -503680,7 +503680,7 @@
       "seasonId": 2493,
       "seasonStart": "2026-08-07",
       "seasonEnd": "2027-05-23",
-      "lastSuccessfulUpdate": "2026-08-16 15:20 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 15:47 UTC"
     },
     "PPL": {
       "status": "connected",
@@ -503689,7 +503689,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-16 15:20 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 15:47 UTC"
     },
     "BSA": {
       "status": "connected",
@@ -503698,7 +503698,7 @@
       "seasonId": 2474,
       "seasonStart": "2026-01-28",
       "seasonEnd": "2026-12-02",
-      "lastSuccessfulUpdate": "2026-08-16 15:20 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 15:47 UTC"
     },
     "WC": {
       "status": "connected",
