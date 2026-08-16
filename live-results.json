@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-16 14:22 UTC",
-  "lastUpdate": "2026-08-16 14:22 UTC",
+  "generatedAt": "2026-08-16 14:50 UTC",
+  "lastUpdate": "2026-08-16 14:50 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -43577,11 +43577,11 @@
       },
       "id": 558229,
       "utcDate": "2026-08-16T12:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T16:21:19Z",
+      "lastUpdated": "2026-08-16T16:23:59Z",
       "homeTeam": {
         "id": 675,
         "name": "Feyenoord Rotterdam",
@@ -43643,11 +43643,11 @@
       },
       "id": 558230,
       "utcDate": "2026-08-16T12:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T16:21:19Z",
+      "lastUpdated": "2026-08-16T16:23:59Z",
       "homeTeam": {
         "id": 666,
         "name": "FC Twente '65",
@@ -43709,11 +43709,11 @@
       },
       "id": 561770,
       "utcDate": "2026-08-16T12:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T16:20:47Z",
+      "lastUpdated": "2026-08-16T16:28:47Z",
       "homeTeam": {
         "id": 346,
         "name": "Watford FC",
@@ -43779,7 +43779,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T16:21:51Z",
+      "lastUpdated": "2026-08-16T16:49:35Z",
       "homeTeam": {
         "id": 1772,
         "name": "Chapecoense AF",
@@ -43795,11 +43795,11 @@
         "crest": "https://crests.football-data.org/1777.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 1,
-          "away": 1
+          "away": 2
         },
         "halfTime": {
           "home": null,
@@ -43834,11 +43834,11 @@
       },
       "id": 567270,
       "utcDate": "2026-08-16T14:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T15:42:23Z",
+      "lastUpdated": "2026-08-16T16:49:35Z",
       "homeTeam": {
         "id": 5529,
         "name": "CD Nacional",
@@ -43854,11 +43854,11 @@
         "crest": "https://crests.football-data.org/582.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -43893,11 +43893,11 @@
       },
       "id": 558231,
       "utcDate": "2026-08-16T14:45:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T15:50:23Z",
+      "lastUpdated": "2026-08-16T16:49:35Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -43913,11 +43913,11 @@
         "crest": "https://crests.football-data.org/673.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -43963,7 +43963,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T10:20:29Z",
+      "lastUpdated": "2026-08-16T16:23:59Z",
       "homeTeam": {
         "id": 328,
         "name": "Burnley FC",
@@ -44029,7 +44029,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T16:10:07Z",
+      "lastUpdated": "2026-08-16T16:22:55Z",
       "homeTeam": {
         "id": 5335,
         "name": "Real Racing Club de Santander",
@@ -223124,204 +223124,6 @@
   "live": [
     {
       "area": {
-        "id": 2163,
-        "name": "Netherlands",
-        "code": "NLD",
-        "flag": "https://crests.football-data.org/8601.svg"
-      },
-      "competition": {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      },
-      "season": {
-        "id": 2493,
-        "startDate": "2026-08-07",
-        "endDate": "2027-05-23",
-        "currentMatchday": 2,
-        "winner": null
-      },
-      "id": 558229,
-      "utcDate": "2026-08-16T12:30:00Z",
-      "status": "IN_PLAY",
-      "matchday": 2,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-16T16:21:19Z",
-      "homeTeam": {
-        "id": 675,
-        "name": "Feyenoord Rotterdam",
-        "shortName": "Feyenoord",
-        "tla": "FEY",
-        "crest": "https://crests.football-data.org/675.png"
-      },
-      "awayTeam": {
-        "id": 718,
-        "name": "Go Ahead Eagles",
-        "shortName": "Go Ahead",
-        "tla": "GOA",
-        "crest": "https://crests.football-data.org/718.png"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 2,
-          "away": 2
-        },
-        "halfTime": {
-          "home": 2,
-          "away": 0
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 17136,
-          "name": "Joey Kooij",
-          "type": "REFEREE",
-          "nationality": "Netherlands"
-        }
-      ]
-    },
-    {
-      "area": {
-        "id": 2163,
-        "name": "Netherlands",
-        "code": "NLD",
-        "flag": "https://crests.football-data.org/8601.svg"
-      },
-      "competition": {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      },
-      "season": {
-        "id": 2493,
-        "startDate": "2026-08-07",
-        "endDate": "2027-05-23",
-        "currentMatchday": 2,
-        "winner": null
-      },
-      "id": 558230,
-      "utcDate": "2026-08-16T12:30:00Z",
-      "status": "IN_PLAY",
-      "matchday": 2,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-16T16:21:19Z",
-      "homeTeam": {
-        "id": 666,
-        "name": "FC Twente '65",
-        "shortName": "Twente",
-        "tla": "TWE",
-        "crest": "https://crests.football-data.org/666.png"
-      },
-      "awayTeam": {
-        "id": 684,
-        "name": "PEC Zwolle",
-        "shortName": "Zwolle",
-        "tla": "ZWO",
-        "crest": "https://crests.football-data.org/684.png"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 3,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 1
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 9561,
-          "name": "Allard Lindhout",
-          "type": "REFEREE",
-          "nationality": "Netherlands"
-        }
-      ]
-    },
-    {
-      "area": {
-        "id": 2072,
-        "name": "England",
-        "code": "ENG",
-        "flag": "https://crests.football-data.org/770.svg"
-      },
-      "competition": {
-        "id": 2016,
-        "name": "Championship",
-        "code": "ELC",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ELC.png"
-      },
-      "season": {
-        "id": 2509,
-        "startDate": "2026-08-14",
-        "endDate": "2027-05-01",
-        "currentMatchday": 1,
-        "winner": null
-      },
-      "id": 561770,
-      "utcDate": "2026-08-16T12:30:00Z",
-      "status": "IN_PLAY",
-      "matchday": 1,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-16T16:20:47Z",
-      "homeTeam": {
-        "id": 346,
-        "name": "Watford FC",
-        "shortName": "Watford",
-        "tla": "WAT",
-        "crest": "https://crests.football-data.org/346.png"
-      },
-      "awayTeam": {
-        "id": 340,
-        "name": "Southampton FC",
-        "shortName": "Southampton",
-        "tla": "SOU",
-        "crest": "https://crests.football-data.org/340.png"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 2,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 2,
-          "away": 0
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 11626,
-          "name": "Matt Donohue",
-          "type": "REFEREE",
-          "nationality": "England"
-        }
-      ]
-    },
-    {
-      "area": {
         "id": 2032,
         "name": "Brazil",
         "code": "BRA",
@@ -223347,7 +223149,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T16:21:51Z",
+      "lastUpdated": "2026-08-16T16:49:35Z",
       "homeTeam": {
         "id": 1772,
         "name": "Chapecoense AF",
@@ -223363,11 +223165,11 @@
         "crest": "https://crests.football-data.org/1777.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 1,
-          "away": 1
+          "away": 2
         },
         "halfTime": {
           "home": null,
@@ -223378,6 +223180,131 @@
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "competition": {
+        "id": 2017,
+        "name": "Primeira Liga",
+        "code": "PPL",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/PPL.png"
+      },
+      "season": {
+        "id": 2526,
+        "startDate": "2026-08-08",
+        "endDate": "2027-05-16",
+        "currentMatchday": 2,
+        "winner": null
+      },
+      "id": 567270,
+      "utcDate": "2026-08-16T14:30:00Z",
+      "status": "IN_PLAY",
+      "matchday": 2,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-16T16:49:35Z",
+      "homeTeam": {
+        "id": 5529,
+        "name": "CD Nacional",
+        "shortName": "CD Nacional",
+        "tla": "CDN",
+        "crest": "https://crests.football-data.org/5529.png"
+      },
+      "awayTeam": {
+        "id": 582,
+        "name": "GD Estoril Praia",
+        "shortName": "Estoril Praia",
+        "tla": "EST",
+        "crest": "https://crests.football-data.org/582.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": []
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 2493,
+        "startDate": "2026-08-07",
+        "endDate": "2027-05-23",
+        "currentMatchday": 2,
+        "winner": null
+      },
+      "id": 558231,
+      "utcDate": "2026-08-16T14:45:00Z",
+      "status": "IN_PLAY",
+      "matchday": 2,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-16T16:49:35Z",
+      "homeTeam": {
+        "id": 678,
+        "name": "AFC Ajax",
+        "shortName": "Ajax",
+        "tla": "AJA",
+        "crest": "https://crests.football-data.org/678.png"
+      },
+      "awayTeam": {
+        "id": 673,
+        "name": "SC Heerenveen",
+        "shortName": "Heerenveen",
+        "tla": "HEE",
+        "crest": "https://crests.football-data.org/673.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 81350,
+          "name": "Alex Bos",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
     }
   ],
   "finished": [
@@ -266502,6 +266429,204 @@
           "nationality": "Netherlands"
         }
       ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 2493,
+        "startDate": "2026-08-07",
+        "endDate": "2027-05-23",
+        "currentMatchday": 2,
+        "winner": null
+      },
+      "id": 558229,
+      "utcDate": "2026-08-16T12:30:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-16T16:23:59Z",
+      "homeTeam": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "awayTeam": {
+        "id": 718,
+        "name": "Go Ahead Eagles",
+        "shortName": "Go Ahead",
+        "tla": "GOA",
+        "crest": "https://crests.football-data.org/718.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 2
+        },
+        "halfTime": {
+          "home": 2,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 17136,
+          "name": "Joey Kooij",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 2493,
+        "startDate": "2026-08-07",
+        "endDate": "2027-05-23",
+        "currentMatchday": 2,
+        "winner": null
+      },
+      "id": 558230,
+      "utcDate": "2026-08-16T12:30:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-16T16:23:59Z",
+      "homeTeam": {
+        "id": 666,
+        "name": "FC Twente '65",
+        "shortName": "Twente",
+        "tla": "TWE",
+        "crest": "https://crests.football-data.org/666.png"
+      },
+      "awayTeam": {
+        "id": 684,
+        "name": "PEC Zwolle",
+        "shortName": "Zwolle",
+        "tla": "ZWO",
+        "crest": "https://crests.football-data.org/684.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 3,
+          "away": 1
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 9561,
+          "name": "Allard Lindhout",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "competition": {
+        "id": 2016,
+        "name": "Championship",
+        "code": "ELC",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ELC.png"
+      },
+      "season": {
+        "id": 2509,
+        "startDate": "2026-08-14",
+        "endDate": "2027-05-01",
+        "currentMatchday": 1,
+        "winner": null
+      },
+      "id": 561770,
+      "utcDate": "2026-08-16T12:30:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-16T16:28:47Z",
+      "homeTeam": {
+        "id": 346,
+        "name": "Watford FC",
+        "shortName": "Watford",
+        "tla": "WAT",
+        "crest": "https://crests.football-data.org/346.png"
+      },
+      "awayTeam": {
+        "id": 340,
+        "name": "Southampton FC",
+        "shortName": "Southampton",
+        "tla": "SOU",
+        "crest": "https://crests.football-data.org/340.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        },
+        "halfTime": {
+          "home": 2,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 11626,
+          "name": "Matt Donohue",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     }
   ],
   "upcoming": [
@@ -266625,131 +266750,6 @@
     },
     {
       "area": {
-        "id": 2187,
-        "name": "Portugal",
-        "code": "POR",
-        "flag": "https://crests.football-data.org/765.svg"
-      },
-      "competition": {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      },
-      "season": {
-        "id": 2526,
-        "startDate": "2026-08-08",
-        "endDate": "2027-05-16",
-        "currentMatchday": 2,
-        "winner": null
-      },
-      "id": 567270,
-      "utcDate": "2026-08-16T14:30:00Z",
-      "status": "TIMED",
-      "matchday": 2,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-16T15:42:23Z",
-      "homeTeam": {
-        "id": 5529,
-        "name": "CD Nacional",
-        "shortName": "CD Nacional",
-        "tla": "CDN",
-        "crest": "https://crests.football-data.org/5529.png"
-      },
-      "awayTeam": {
-        "id": 582,
-        "name": "GD Estoril Praia",
-        "shortName": "Estoril Praia",
-        "tla": "EST",
-        "crest": "https://crests.football-data.org/582.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
-    {
-      "area": {
-        "id": 2163,
-        "name": "Netherlands",
-        "code": "NLD",
-        "flag": "https://crests.football-data.org/8601.svg"
-      },
-      "competition": {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      },
-      "season": {
-        "id": 2493,
-        "startDate": "2026-08-07",
-        "endDate": "2027-05-23",
-        "currentMatchday": 2,
-        "winner": null
-      },
-      "id": 558231,
-      "utcDate": "2026-08-16T14:45:00Z",
-      "status": "TIMED",
-      "matchday": 2,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-16T15:50:23Z",
-      "homeTeam": {
-        "id": 678,
-        "name": "AFC Ajax",
-        "shortName": "Ajax",
-        "tla": "AJA",
-        "crest": "https://crests.football-data.org/678.png"
-      },
-      "awayTeam": {
-        "id": 673,
-        "name": "SC Heerenveen",
-        "shortName": "Heerenveen",
-        "tla": "HEE",
-        "crest": "https://crests.football-data.org/673.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 81350,
-          "name": "Alex Bos",
-          "type": "REFEREE",
-          "nationality": "Netherlands"
-        }
-      ]
-    },
-    {
-      "area": {
         "id": 2072,
         "name": "England",
         "code": "ENG",
@@ -266775,7 +266775,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T10:20:29Z",
+      "lastUpdated": "2026-08-16T16:23:59Z",
       "homeTeam": {
         "id": 328,
         "name": "Burnley FC",
@@ -266841,7 +266841,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T16:10:07Z",
+      "lastUpdated": "2026-08-16T16:22:55Z",
       "homeTeam": {
         "id": 5335,
         "name": "Real Racing Club de Santander",
@@ -503621,7 +503621,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-08-16 14:20 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 14:49 UTC"
     },
     "PD": {
       "status": "connected",
@@ -503630,7 +503630,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-16 14:21 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 14:49 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -503666,7 +503666,7 @@
       "seasonId": 2493,
       "seasonStart": "2026-08-07",
       "seasonEnd": "2027-05-23",
-      "lastSuccessfulUpdate": "2026-08-16 14:21 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 14:49 UTC"
     },
     "PPL": {
       "status": "connected",
@@ -503675,7 +503675,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-16 13:53 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 14:49 UTC"
     },
     "BSA": {
       "status": "connected",
@@ -503684,7 +503684,7 @@
       "seasonId": 2474,
       "seasonStart": "2026-01-28",
       "seasonEnd": "2026-12-02",
-      "lastSuccessfulUpdate": "2026-08-16 14:22 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 14:49 UTC"
     },
     "WC": {
       "status": "connected",
