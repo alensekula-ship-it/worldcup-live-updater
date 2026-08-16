@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-16 11:28 UTC",
-  "lastUpdate": "2026-08-16 11:28 UTC",
+  "generatedAt": "2026-08-16 11:49 UTC",
+  "lastUpdate": "2026-08-16 11:49 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -43515,7 +43515,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T13:27:59Z",
+      "lastUpdated": "2026-08-16T13:48:15Z",
       "homeTeam": {
         "id": 680,
         "name": "ADO Den Haag",
@@ -43534,7 +43534,7 @@
         "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 3
         },
         "halfTime": {
@@ -43713,7 +43713,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T10:20:29Z",
+      "lastUpdated": "2026-08-16T13:35:59Z",
       "homeTeam": {
         "id": 346,
         "name": "Watford FC",
@@ -223128,7 +223128,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T13:27:59Z",
+      "lastUpdated": "2026-08-16T13:48:15Z",
       "homeTeam": {
         "id": 680,
         "name": "ADO Den Haag",
@@ -223147,7 +223147,7 @@
         "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 3
         },
         "halfTime": {
@@ -266504,7 +266504,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T10:20:29Z",
+      "lastUpdated": "2026-08-16T13:35:59Z",
       "homeTeam": {
         "id": 346,
         "name": "Watford FC",
@@ -502436,6 +502436,25 @@
             {
               "position": 2,
               "team": {
+                "id": 677,
+                "name": "FC Groningen",
+                "shortName": "Groningen",
+                "tla": "GRO",
+                "crest": "https://crests.football-data.org/677.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 2,
+              "draw": 0,
+              "lost": 0,
+              "points": 6,
+              "goalsFor": 5,
+              "goalsAgainst": 2,
+              "goalDifference": 3
+            },
+            {
+              "position": 3,
+              "team": {
                 "id": 1920,
                 "name": "Fortuna Sittard",
                 "shortName": "Sittard",
@@ -502453,7 +502472,7 @@
               "goalDifference": 2
             },
             {
-              "position": 3,
+              "position": 4,
               "team": {
                 "id": 674,
                 "name": "PSV",
@@ -502469,25 +502488,6 @@
               "points": 4,
               "goalsFor": 4,
               "goalsAgainst": 3,
-              "goalDifference": 1
-            },
-            {
-              "position": 4,
-              "team": {
-                "id": 677,
-                "name": "FC Groningen",
-                "shortName": "Groningen",
-                "tla": "GRO",
-                "crest": "https://crests.football-data.org/677.png"
-              },
-              "playedGames": 2,
-              "form": null,
-              "won": 1,
-              "draw": 1,
-              "lost": 0,
-              "points": 4,
-              "goalsFor": 2,
-              "goalsAgainst": 1,
               "goalDifference": 1
             },
             {
@@ -502645,25 +502645,6 @@
             {
               "position": 13,
               "team": {
-                "id": 680,
-                "name": "ADO Den Haag",
-                "shortName": "Den Haag",
-                "tla": "ADO",
-                "crest": "https://crests.football-data.org/680.png"
-              },
-              "playedGames": 2,
-              "form": null,
-              "won": 0,
-              "draw": 1,
-              "lost": 1,
-              "points": 1,
-              "goalsFor": 0,
-              "goalsAgainst": 2,
-              "goalDifference": -2
-            },
-            {
-              "position": 14,
-              "team": {
                 "id": 666,
                 "name": "FC Twente '65",
                 "shortName": "Twente",
@@ -502681,7 +502662,7 @@
               "goalDifference": -1
             },
             {
-              "position": 15,
+              "position": 14,
               "team": {
                 "id": 684,
                 "name": "PEC Zwolle",
@@ -502700,7 +502681,7 @@
               "goalDifference": -2
             },
             {
-              "position": 16,
+              "position": 15,
               "team": {
                 "id": 676,
                 "name": "FC Utrecht",
@@ -502716,6 +502697,25 @@
               "points": 0,
               "goalsFor": 2,
               "goalsAgainst": 6,
+              "goalDifference": -4
+            },
+            {
+              "position": 16,
+              "team": {
+                "id": 680,
+                "name": "ADO Den Haag",
+                "shortName": "Den Haag",
+                "tla": "ADO",
+                "crest": "https://crests.football-data.org/680.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 2,
+              "points": 0,
+              "goalsFor": 1,
+              "goalsAgainst": 5,
               "goalDifference": -4
             },
             {
@@ -503579,7 +503579,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-08-16 10:32 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 11:47 UTC"
     },
     "PD": {
       "status": "connected",
@@ -503624,7 +503624,7 @@
       "seasonId": 2493,
       "seasonStart": "2026-08-07",
       "seasonEnd": "2027-05-23",
-      "lastSuccessfulUpdate": "2026-08-16 11:28 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 11:48 UTC"
     },
     "PPL": {
       "status": "connected",
