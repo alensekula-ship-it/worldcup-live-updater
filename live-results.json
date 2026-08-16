@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-16 17:45 UTC",
-  "lastUpdate": "2026-08-16 17:45 UTC",
+  "generatedAt": "2026-08-16 17:59 UTC",
+  "lastUpdate": "2026-08-16 17:59 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -44157,11 +44157,11 @@
       },
       "id": 564632,
       "utcDate": "2026-08-16T17:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T19:44:31Z",
+      "lastUpdated": "2026-08-16T19:58:23Z",
       "homeTeam": {
         "id": 80,
         "name": "RCD Espanyol de Barcelona",
@@ -44184,8 +44184,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         }
       },
       "odds": {
@@ -44223,11 +44223,11 @@
       },
       "id": 567272,
       "utcDate": "2026-08-16T17:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T19:45:03Z",
+      "lastUpdated": "2026-08-16T19:59:27Z",
       "homeTeam": {
         "id": 712,
         "name": "FC Arouca",
@@ -44246,12 +44246,12 @@
         "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 2,
+          "home": 3,
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         }
       },
       "odds": {
@@ -223173,11 +223173,11 @@
       },
       "id": 564632,
       "utcDate": "2026-08-16T17:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T19:44:31Z",
+      "lastUpdated": "2026-08-16T19:58:23Z",
       "homeTeam": {
         "id": 80,
         "name": "RCD Espanyol de Barcelona",
@@ -223200,8 +223200,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         }
       },
       "odds": {
@@ -223239,11 +223239,11 @@
       },
       "id": 567272,
       "utcDate": "2026-08-16T17:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T19:45:03Z",
+      "lastUpdated": "2026-08-16T19:59:27Z",
       "homeTeam": {
         "id": 712,
         "name": "FC Arouca",
@@ -223262,12 +223262,12 @@
         "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 2,
+          "home": 3,
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         }
       },
       "odds": {
@@ -503627,7 +503627,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-16 17:44 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 17:58 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -503672,7 +503672,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-16 17:45 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 17:59 UTC"
     },
     "BSA": {
       "status": "connected",
