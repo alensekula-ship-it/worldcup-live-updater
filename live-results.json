@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-16 12:36 UTC",
-  "lastUpdate": "2026-08-16 12:36 UTC",
+  "generatedAt": "2026-08-16 13:20 UTC",
+  "lastUpdate": "2026-08-16 13:20 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -43577,11 +43577,11 @@
       },
       "id": 558229,
       "utcDate": "2026-08-16T12:30:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T14:35:43Z",
+      "lastUpdated": "2026-08-16T15:19:27Z",
       "homeTeam": {
         "id": 675,
         "name": "Feyenoord Rotterdam",
@@ -43597,15 +43597,15 @@
         "crest": "https://crests.football-data.org/718.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         }
       },
       "odds": {
@@ -43643,11 +43643,11 @@
       },
       "id": 558230,
       "utcDate": "2026-08-16T12:30:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T14:35:43Z",
+      "lastUpdated": "2026-08-16T15:19:27Z",
       "homeTeam": {
         "id": 666,
         "name": "FC Twente '65",
@@ -43666,12 +43666,12 @@
         "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
-          "away": 0
+          "home": 1,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         }
       },
       "odds": {
@@ -43713,7 +43713,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T14:34:40Z",
+      "lastUpdated": "2026-08-16T15:18:55Z",
       "homeTeam": {
         "id": 346,
         "name": "Watford FC",
@@ -43729,10 +43729,10 @@
         "crest": "https://crests.football-data.org/340.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 0
         },
         "halfTime": {
@@ -43927,7 +43927,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 81350,
+          "name": "Alex Bos",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
     },
     {
       "area": {
@@ -43986,7 +43993,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 14701,
+          "name": "Joshua Smith",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     },
     {
       "area": {
@@ -44045,7 +44059,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 214573,
+          "name": "Miguel Sesma Espinosa",
+          "type": "REFEREE",
+          "nationality": "Spain"
+        }
+      ]
     },
     {
       "area": {
@@ -223124,11 +223145,11 @@
       },
       "id": 558229,
       "utcDate": "2026-08-16T12:30:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T14:35:43Z",
+      "lastUpdated": "2026-08-16T15:19:27Z",
       "homeTeam": {
         "id": 675,
         "name": "Feyenoord Rotterdam",
@@ -223144,15 +223165,15 @@
         "crest": "https://crests.football-data.org/718.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         }
       },
       "odds": {
@@ -223190,11 +223211,11 @@
       },
       "id": 558230,
       "utcDate": "2026-08-16T12:30:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T14:35:43Z",
+      "lastUpdated": "2026-08-16T15:19:27Z",
       "homeTeam": {
         "id": 666,
         "name": "FC Twente '65",
@@ -223213,12 +223234,12 @@
         "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
-          "away": 0
+          "home": 1,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         }
       },
       "odds": {
@@ -223260,7 +223281,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T14:34:40Z",
+      "lastUpdated": "2026-08-16T15:18:55Z",
       "homeTeam": {
         "id": 346,
         "name": "Watford FC",
@@ -223276,10 +223297,10 @@
         "crest": "https://crests.football-data.org/340.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 0
         },
         "halfTime": {
@@ -266718,7 +266739,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 81350,
+          "name": "Alex Bos",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
     },
     {
       "area": {
@@ -266777,7 +266805,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 14701,
+          "name": "Joshua Smith",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     },
     {
       "area": {
@@ -266836,7 +266871,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 214573,
+          "name": "Miguel Sesma Espinosa",
+          "type": "REFEREE",
+          "nationality": "Spain"
+        }
+      ]
     },
     {
       "area": {
@@ -503579,7 +503621,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-08-16 12:35 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 13:19 UTC"
     },
     "PD": {
       "status": "connected",
@@ -503588,7 +503630,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-16 08:40 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 13:19 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -503624,7 +503666,7 @@
       "seasonId": 2493,
       "seasonStart": "2026-08-07",
       "seasonEnd": "2027-05-23",
-      "lastSuccessfulUpdate": "2026-08-16 12:36 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 13:19 UTC"
     },
     "PPL": {
       "status": "connected",
