@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-16 19:03 UTC",
-  "lastUpdate": "2026-08-16 19:03 UTC",
+  "generatedAt": "2026-08-16 19:34 UTC",
+  "lastUpdate": "2026-08-16 19:34 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -44407,11 +44407,11 @@
       },
       "id": 567269,
       "utcDate": "2026-08-16T19:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T10:20:29Z",
+      "lastUpdated": "2026-08-16T21:33:19Z",
       "homeTeam": {
         "id": 5531,
         "name": "FC Famalicão",
@@ -44427,11 +44427,11 @@
         "crest": "https://crests.football-data.org/5575.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -44473,11 +44473,11 @@
       },
       "id": 554966,
       "utcDate": "2026-08-16T21:30:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T17:34:29Z",
+      "lastUpdated": "2026-08-16T21:30:07Z",
       "homeTeam": {
         "id": 4364,
         "name": "Mirassol FC",
@@ -44532,11 +44532,11 @@
       },
       "id": 554969,
       "utcDate": "2026-08-16T21:30:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T17:34:40Z",
+      "lastUpdated": "2026-08-16T21:30:08Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -223149,7 +223149,74 @@
       "referees": []
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "competition": {
+        "id": 2017,
+        "name": "Primeira Liga",
+        "code": "PPL",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/PPL.png"
+      },
+      "season": {
+        "id": 2526,
+        "startDate": "2026-08-08",
+        "endDate": "2027-05-16",
+        "currentMatchday": 2,
+        "winner": null
+      },
+      "id": 567269,
+      "utcDate": "2026-08-16T19:30:00Z",
+      "status": "IN_PLAY",
+      "matchday": 2,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-16T21:33:19Z",
+      "homeTeam": {
+        "id": 5531,
+        "name": "FC Famalicão",
+        "shortName": "Famalicão",
+        "tla": "FAM",
+        "crest": "https://crests.football-data.org/5531.png"
+      },
+      "awayTeam": {
+        "id": 5575,
+        "name": "CS Marítimo",
+        "shortName": "Marítimo",
+        "tla": "CSM",
+        "crest": "https://crests.football-data.org/5575.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 40158,
+          "name": "Miguel Nogueira",
+          "type": "REFEREE",
+          "nationality": "Portugal"
+        }
+      ]
+    }
+  ],
   "finished": [
     {
       "area": {
@@ -267166,72 +267233,6 @@
     },
     {
       "area": {
-        "id": 2187,
-        "name": "Portugal",
-        "code": "POR",
-        "flag": "https://crests.football-data.org/765.svg"
-      },
-      "competition": {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      },
-      "season": {
-        "id": 2526,
-        "startDate": "2026-08-08",
-        "endDate": "2027-05-16",
-        "currentMatchday": 2,
-        "winner": null
-      },
-      "id": 567269,
-      "utcDate": "2026-08-16T19:30:00Z",
-      "status": "TIMED",
-      "matchday": 2,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-16T10:20:29Z",
-      "homeTeam": {
-        "id": 5531,
-        "name": "FC Famalicão",
-        "shortName": "Famalicão",
-        "tla": "FAM",
-        "crest": "https://crests.football-data.org/5531.png"
-      },
-      "awayTeam": {
-        "id": 5575,
-        "name": "CS Marítimo",
-        "shortName": "Marítimo",
-        "tla": "CSM",
-        "crest": "https://crests.football-data.org/5575.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 40158,
-          "name": "Miguel Nogueira",
-          "type": "REFEREE",
-          "nationality": "Portugal"
-        }
-      ]
-    },
-    {
-      "area": {
         "id": 2032,
         "name": "Brazil",
         "code": "BRA",
@@ -267253,11 +267254,11 @@
       },
       "id": 554966,
       "utcDate": "2026-08-16T21:30:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T17:34:29Z",
+      "lastUpdated": "2026-08-16T21:30:07Z",
       "homeTeam": {
         "id": 4364,
         "name": "Mirassol FC",
@@ -267312,11 +267313,11 @@
       },
       "id": 554969,
       "utcDate": "2026-08-16T21:30:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T17:34:40Z",
+      "lastUpdated": "2026-08-16T21:30:08Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -502831,6 +502832,25 @@
             {
               "position": 1,
               "team": {
+                "id": 712,
+                "name": "FC Arouca",
+                "shortName": "Arouca",
+                "tla": "FCA",
+                "crest": "https://crests.football-data.org/712.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 2,
+              "draw": 0,
+              "lost": 0,
+              "points": 6,
+              "goalsFor": 5,
+              "goalsAgainst": 0,
+              "goalDifference": 5
+            },
+            {
+              "position": 2,
+              "team": {
                 "id": 503,
                 "name": "FC Porto",
                 "shortName": "Porto",
@@ -502848,7 +502868,26 @@
               "goalDifference": 4
             },
             {
-              "position": 2,
+              "position": 3,
+              "team": {
+                "id": 5529,
+                "name": "CD Nacional",
+                "shortName": "CD Nacional",
+                "tla": "CDN",
+                "crest": "https://crests.football-data.org/5529.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 1,
+              "draw": 1,
+              "lost": 0,
+              "points": 4,
+              "goalsFor": 4,
+              "goalsAgainst": 2,
+              "goalDifference": 2
+            },
+            {
+              "position": 4,
               "team": {
                 "id": 498,
                 "name": "Sporting Clube de Portugal",
@@ -502867,7 +502906,7 @@
               "goalDifference": 1
             },
             {
-              "position": 3,
+              "position": 5,
               "team": {
                 "id": 5530,
                 "name": "CD Santa Clara",
@@ -502886,7 +502925,7 @@
               "goalDifference": 1
             },
             {
-              "position": 4,
+              "position": 6,
               "team": {
                 "id": 5575,
                 "name": "CS Marítimo",
@@ -502894,37 +502933,18 @@
                 "tla": "CSM",
                 "crest": "https://crests.football-data.org/5575.png"
               },
-              "playedGames": 1,
+              "playedGames": 2,
               "form": null,
               "won": 1,
-              "draw": 0,
+              "draw": 1,
               "lost": 0,
-              "points": 3,
+              "points": 4,
               "goalsFor": 1,
               "goalsAgainst": 0,
               "goalDifference": 1
             },
             {
-              "position": 4,
-              "team": {
-                "id": 712,
-                "name": "FC Arouca",
-                "shortName": "Arouca",
-                "tla": "FCA",
-                "crest": "https://crests.football-data.org/712.png"
-              },
-              "playedGames": 1,
-              "form": null,
-              "won": 1,
-              "draw": 0,
-              "lost": 0,
-              "points": 3,
-              "goalsFor": 1,
-              "goalsAgainst": 0,
-              "goalDifference": 1
-            },
-            {
-              "position": 4,
+              "position": 7,
               "team": {
                 "id": 5533,
                 "name": "Gil Vicente FC",
@@ -502943,7 +502963,7 @@
               "goalDifference": 1
             },
             {
-              "position": 7,
+              "position": 8,
               "team": {
                 "id": 9136,
                 "name": "CF Estrela da Amadora",
@@ -502962,32 +502982,13 @@
               "goalDifference": 0
             },
             {
-              "position": 8,
-              "team": {
-                "id": 5529,
-                "name": "CD Nacional",
-                "shortName": "CD Nacional",
-                "tla": "CDN",
-                "crest": "https://crests.football-data.org/5529.png"
-              },
-              "playedGames": 2,
-              "form": null,
-              "won": 0,
-              "draw": 2,
-              "lost": 0,
-              "points": 2,
-              "goalsFor": 2,
-              "goalsAgainst": 2,
-              "goalDifference": 0
-            },
-            {
               "position": 9,
               "team": {
-                "id": 582,
-                "name": "GD Estoril Praia",
-                "shortName": "Estoril Praia",
-                "tla": "EST",
-                "crest": "https://crests.football-data.org/582.png"
+                "id": 5531,
+                "name": "FC Famalicão",
+                "shortName": "Famalicão",
+                "tla": "FAM",
+                "crest": "https://crests.football-data.org/5531.png"
               },
               "playedGames": 2,
               "form": null,
@@ -502997,25 +502998,6 @@
               "points": 2,
               "goalsFor": 1,
               "goalsAgainst": 1,
-              "goalDifference": 0
-            },
-            {
-              "position": 10,
-              "team": {
-                "id": 583,
-                "name": "Moreirense FC",
-                "shortName": "Moreirense",
-                "tla": "MOR",
-                "crest": "https://crests.football-data.org/583.png"
-              },
-              "playedGames": 1,
-              "form": null,
-              "won": 0,
-              "draw": 1,
-              "lost": 0,
-              "points": 1,
-              "goalsFor": 2,
-              "goalsAgainst": 2,
               "goalDifference": 0
             },
             {
@@ -503057,26 +503039,7 @@
               "goalDifference": 0
             },
             {
-              "position": 13,
-              "team": {
-                "id": 5531,
-                "name": "FC Famalicão",
-                "shortName": "Famalicão",
-                "tla": "FAM",
-                "crest": "https://crests.football-data.org/5531.png"
-              },
-              "playedGames": 1,
-              "form": null,
-              "won": 0,
-              "draw": 1,
-              "lost": 0,
-              "points": 1,
-              "goalsFor": 1,
-              "goalsAgainst": 1,
-              "goalDifference": 0
-            },
-            {
-              "position": 14,
+              "position": 12,
               "team": {
                 "id": 5527,
                 "name": "Académico de Viseu FC",
@@ -503095,7 +503058,7 @@
               "goalDifference": -1
             },
             {
-              "position": 15,
+              "position": 13,
               "team": {
                 "id": 7822,
                 "name": "FC Alverca",
@@ -503112,6 +503075,44 @@
               "goalsFor": 2,
               "goalsAgainst": 4,
               "goalDifference": -2
+            },
+            {
+              "position": 14,
+              "team": {
+                "id": 582,
+                "name": "GD Estoril Praia",
+                "shortName": "Estoril Praia",
+                "tla": "EST",
+                "crest": "https://crests.football-data.org/582.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 0,
+              "draw": 1,
+              "lost": 1,
+              "points": 1,
+              "goalsFor": 1,
+              "goalsAgainst": 3,
+              "goalDifference": -2
+            },
+            {
+              "position": 15,
+              "team": {
+                "id": 583,
+                "name": "Moreirense FC",
+                "shortName": "Moreirense",
+                "tla": "MOR",
+                "crest": "https://crests.football-data.org/583.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 0,
+              "draw": 1,
+              "lost": 1,
+              "points": 1,
+              "goalsFor": 2,
+              "goalsAgainst": 6,
+              "goalDifference": -4
             },
             {
               "position": 16,
@@ -503340,6 +503341,25 @@
             {
               "position": 8,
               "team": {
+                "id": 1766,
+                "name": "CA Mineiro",
+                "shortName": "Mineiro",
+                "tla": "CAM",
+                "crest": "https://crests.football-data.org/1766.png"
+              },
+              "playedGames": 22,
+              "form": null,
+              "won": 9,
+              "draw": 5,
+              "lost": 8,
+              "points": 32,
+              "goalsFor": 28,
+              "goalsAgainst": 27,
+              "goalDifference": 1
+            },
+            {
+              "position": 9,
+              "team": {
                 "id": 1779,
                 "name": "SC Corinthians Paulista",
                 "shortName": "Corinthians",
@@ -503357,7 +503377,7 @@
               "goalDifference": 4
             },
             {
-              "position": 9,
+              "position": 10,
               "team": {
                 "id": 4241,
                 "name": "Coritiba FBC",
@@ -503376,7 +503396,7 @@
               "goalDifference": -2
             },
             {
-              "position": 10,
+              "position": 11,
               "team": {
                 "id": 1770,
                 "name": "Botafogo FR",
@@ -503393,25 +503413,6 @@
               "goalsFor": 35,
               "goalsAgainst": 33,
               "goalDifference": 2
-            },
-            {
-              "position": 11,
-              "team": {
-                "id": 1766,
-                "name": "CA Mineiro",
-                "shortName": "Mineiro",
-                "tla": "CAM",
-                "crest": "https://crests.football-data.org/1766.png"
-              },
-              "playedGames": 21,
-              "form": null,
-              "won": 8,
-              "draw": 5,
-              "lost": 8,
-              "points": 29,
-              "goalsFor": 27,
-              "goalsAgainst": 27,
-              "goalDifference": 0
             },
             {
               "position": 12,
@@ -503460,15 +503461,15 @@
                 "tla": "FBP",
                 "crest": "https://crests.football-data.org/1767.png"
               },
-              "playedGames": 21,
+              "playedGames": 22,
               "form": null,
               "won": 6,
               "draw": 7,
-              "lost": 8,
+              "lost": 9,
               "points": 25,
               "goalsFor": 24,
-              "goalsAgainst": 27,
-              "goalDifference": -3
+              "goalsAgainst": 28,
+              "goalDifference": -4
             },
             {
               "position": 15,
@@ -503517,12 +503518,12 @@
                 "tla": "SAN",
                 "crest": "https://crests.football-data.org/6685.png"
               },
-              "playedGames": 21,
+              "playedGames": 22,
               "form": null,
               "won": 5,
-              "draw": 7,
+              "draw": 8,
               "lost": 9,
-              "points": 22,
+              "points": 23,
               "goalsFor": 29,
               "goalsAgainst": 35,
               "goalDifference": -6
@@ -503536,12 +503537,12 @@
                 "tla": "VAS",
                 "crest": "https://crests.football-data.org/1780.png"
               },
-              "playedGames": 21,
+              "playedGames": 22,
               "form": null,
               "won": 5,
-              "draw": 7,
+              "draw": 8,
               "lost": 9,
-              "points": 22,
+              "points": 23,
               "goalsFor": 23,
               "goalsAgainst": 31,
               "goalDifference": -8
@@ -503671,7 +503672,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-16 19:03 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 19:33 UTC"
     },
     "BSA": {
       "status": "connected",
@@ -503680,7 +503681,7 @@
       "seasonId": 2474,
       "seasonStart": "2026-01-28",
       "seasonEnd": "2026-12-02",
-      "lastSuccessfulUpdate": "2026-08-16 16:23 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 19:34 UTC"
     },
     "WC": {
       "status": "connected",
