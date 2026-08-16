@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-16 08:41 UTC",
-  "lastUpdate": "2026-08-16 08:41 UTC",
+  "generatedAt": "2026-08-16 09:43 UTC",
+  "lastUpdate": "2026-08-16 09:43 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -43515,7 +43515,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T05:20:28Z",
+      "lastUpdated": "2026-08-16T11:24:47Z",
       "homeTeam": {
         "id": 680,
         "name": "ADO Den Haag",
@@ -266284,7 +266284,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T05:20:28Z",
+      "lastUpdated": "2026-08-16T11:24:47Z",
       "homeTeam": {
         "id": 680,
         "name": "ADO Den Haag",
@@ -502762,9 +502762,9 @@
               "draw": 0,
               "lost": 0,
               "points": 6,
-              "goalsFor": 3,
+              "goalsFor": 4,
               "goalsAgainst": 0,
-              "goalDifference": 3
+              "goalDifference": 4
             },
             {
               "position": 2,
@@ -503086,8 +503086,8 @@
               "lost": 2,
               "points": 0,
               "goalsFor": 0,
-              "goalsAgainst": 2,
-              "goalDifference": -2
+              "goalsAgainst": 3,
+              "goalDifference": -3
             }
           ]
         }
@@ -503134,13 +503134,13 @@
               },
               "playedGames": 23,
               "form": null,
-              "won": 15,
+              "won": 14,
               "draw": 6,
-              "lost": 2,
-              "points": 51,
-              "goalsFor": 39,
-              "goalsAgainst": 16,
-              "goalDifference": 23
+              "lost": 3,
+              "points": 48,
+              "goalsFor": 40,
+              "goalsAgainst": 19,
+              "goalDifference": 21
             },
             {
               "position": 2,
@@ -503170,14 +503170,14 @@
                 "tla": "CAP",
                 "crest": "https://crests.football-data.org/1768.png"
               },
-              "playedGames": 22,
+              "playedGames": 23,
               "form": null,
               "won": 12,
-              "draw": 4,
+              "draw": 5,
               "lost": 6,
-              "points": 40,
-              "goalsFor": 30,
-              "goalsAgainst": 19,
+              "points": 41,
+              "goalsFor": 31,
+              "goalsAgainst": 20,
               "goalDifference": 11
             },
             {
@@ -503191,13 +503191,13 @@
               },
               "playedGames": 23,
               "form": null,
-              "won": 9,
+              "won": 10,
               "draw": 8,
-              "lost": 6,
-              "points": 35,
-              "goalsFor": 31,
-              "goalsAgainst": 27,
-              "goalDifference": 4
+              "lost": 5,
+              "points": 38,
+              "goalsFor": 34,
+              "goalsAgainst": 28,
+              "goalDifference": 6
             },
             {
               "position": 5,
@@ -503240,6 +503240,25 @@
             {
               "position": 7,
               "team": {
+                "id": 4286,
+                "name": "RB Bragantino",
+                "shortName": "Bragantino",
+                "tla": "RBB",
+                "crest": "https://crests.football-data.org/4286.png"
+              },
+              "playedGames": 22,
+              "form": null,
+              "won": 9,
+              "draw": 5,
+              "lost": 8,
+              "points": 32,
+              "goalsFor": 27,
+              "goalsAgainst": 23,
+              "goalDifference": 4
+            },
+            {
+              "position": 8,
+              "team": {
                 "id": 1779,
                 "name": "SC Corinthians Paulista",
                 "shortName": "Corinthians",
@@ -503257,26 +503276,26 @@
               "goalDifference": 4
             },
             {
-              "position": 8,
+              "position": 9,
               "team": {
-                "id": 4286,
-                "name": "RB Bragantino",
-                "shortName": "Bragantino",
-                "tla": "RBB",
-                "crest": "https://crests.football-data.org/4286.png"
+                "id": 4241,
+                "name": "Coritiba FBC",
+                "shortName": "Coritiba",
+                "tla": "COR",
+                "crest": "https://crests.football-data.org/4241.png"
               },
-              "playedGames": 21,
+              "playedGames": 23,
               "form": null,
-              "won": 9,
-              "draw": 4,
+              "won": 8,
+              "draw": 7,
               "lost": 8,
               "points": 31,
-              "goalsFor": 26,
-              "goalsAgainst": 22,
-              "goalDifference": 4
+              "goalsFor": 28,
+              "goalsAgainst": 30,
+              "goalDifference": -2
             },
             {
-              "position": 9,
+              "position": 10,
               "team": {
                 "id": 1770,
                 "name": "Botafogo FR",
@@ -503293,25 +503312,6 @@
               "goalsFor": 35,
               "goalsAgainst": 33,
               "goalDifference": 2
-            },
-            {
-              "position": 10,
-              "team": {
-                "id": 4241,
-                "name": "Coritiba FBC",
-                "shortName": "Coritiba",
-                "tla": "COR",
-                "crest": "https://crests.football-data.org/4241.png"
-              },
-              "playedGames": 22,
-              "form": null,
-              "won": 8,
-              "draw": 6,
-              "lost": 8,
-              "points": 30,
-              "goalsFor": 27,
-              "goalsAgainst": 29,
-              "goalDifference": -2
             },
             {
               "position": 11,
@@ -503341,14 +503341,14 @@
                 "tla": "PAU",
                 "crest": "https://crests.football-data.org/1776.png"
               },
-              "playedGames": 21,
+              "playedGames": 22,
               "form": null,
               "won": 7,
-              "draw": 5,
+              "draw": 6,
               "lost": 9,
-              "points": 26,
-              "goalsFor": 26,
-              "goalsAgainst": 25,
+              "points": 27,
+              "goalsFor": 27,
+              "goalsAgainst": 26,
               "goalDifference": 1
             },
             {
@@ -503581,7 +503581,7 @@
       "seasonId": 2493,
       "seasonStart": "2026-08-07",
       "seasonEnd": "2027-05-23",
-      "lastSuccessfulUpdate": "2026-08-16 08:40 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 09:42 UTC"
     },
     "PPL": {
       "status": "connected",
@@ -503590,7 +503590,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-16 08:40 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 09:43 UTC"
     },
     "BSA": {
       "status": "connected",
@@ -503599,7 +503599,7 @@
       "seasonId": 2474,
       "seasonStart": "2026-01-28",
       "seasonEnd": "2026-12-02",
-      "lastSuccessfulUpdate": "2026-08-16 08:41 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 09:43 UTC"
     },
     "WC": {
       "status": "connected",
