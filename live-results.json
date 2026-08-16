@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-16 17:18 UTC",
-  "lastUpdate": "2026-08-16 17:18 UTC",
+  "generatedAt": "2026-08-16 17:45 UTC",
+  "lastUpdate": "2026-08-16 17:45 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -43490,6 +43490,65 @@
     },
     {
       "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "competition": {
+        "id": 2017,
+        "name": "Primeira Liga",
+        "code": "PPL",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/PPL.png"
+      },
+      "season": {
+        "id": 2526,
+        "startDate": "2026-08-08",
+        "endDate": "2027-05-16",
+        "currentMatchday": 2,
+        "winner": null
+      },
+      "id": 567271,
+      "utcDate": "2026-08-16T00:00:00Z",
+      "status": "POSTPONED",
+      "matchday": 2,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-16T19:30:08Z",
+      "homeTeam": {
+        "id": 5613,
+        "name": "Sporting Clube de Braga",
+        "shortName": "Braga",
+        "tla": "SCB",
+        "crest": "https://crests.football-data.org/5613.png"
+      },
+      "awayTeam": {
+        "id": 5533,
+        "name": "Gil Vicente FC",
+        "shortName": "Gil Vicente",
+        "tla": "GIL",
+        "crest": "https://crests.football-data.org/5533.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": []
+    },
+    {
+      "area": {
         "id": 2163,
         "name": "Netherlands",
         "code": "NLD",
@@ -44102,7 +44161,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T19:17:51Z",
+      "lastUpdated": "2026-08-16T19:44:31Z",
       "homeTeam": {
         "id": 80,
         "name": "RCD Espanyol de Barcelona",
@@ -44121,7 +44180,7 @@
         "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 2,
           "away": 0
         },
         "halfTime": {
@@ -44168,7 +44227,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T19:18:23Z",
+      "lastUpdated": "2026-08-16T19:45:03Z",
       "homeTeam": {
         "id": 712,
         "name": "FC Arouca",
@@ -44184,10 +44243,10 @@
         "crest": "https://crests.football-data.org/583.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 0
         },
         "halfTime": {
@@ -44382,66 +44441,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
-    },
-    {
-      "area": {
-        "id": 2187,
-        "name": "Portugal",
-        "code": "POR",
-        "flag": "https://crests.football-data.org/765.svg"
-      },
-      "competition": {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      },
-      "season": {
-        "id": 2526,
-        "startDate": "2026-08-08",
-        "endDate": "2027-05-16",
-        "currentMatchday": 2,
-        "winner": null
-      },
-      "id": 567271,
-      "utcDate": "2026-08-16T19:30:00Z",
-      "status": "TIMED",
-      "matchday": 2,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-16T10:20:29Z",
-      "homeTeam": {
-        "id": 5613,
-        "name": "Sporting Clube de Braga",
-        "shortName": "Braga",
-        "tla": "SCB",
-        "crest": "https://crests.football-data.org/5613.png"
-      },
-      "awayTeam": {
-        "id": 5533,
-        "name": "Gil Vicente FC",
-        "shortName": "Gil Vicente",
-        "tla": "GIL",
-        "crest": "https://crests.football-data.org/5533.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
+      "referees": [
+        {
+          "id": 40158,
+          "name": "Miguel Nogueira",
+          "type": "REFEREE",
+          "nationality": "Portugal"
         }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
+      ]
     },
     {
       "area": {
@@ -223170,7 +223177,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T19:17:51Z",
+      "lastUpdated": "2026-08-16T19:44:31Z",
       "homeTeam": {
         "id": 80,
         "name": "RCD Espanyol de Barcelona",
@@ -223189,7 +223196,7 @@
         "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 2,
           "away": 0
         },
         "halfTime": {
@@ -223236,7 +223243,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T19:18:23Z",
+      "lastUpdated": "2026-08-16T19:45:03Z",
       "homeTeam": {
         "id": 712,
         "name": "FC Arouca",
@@ -223252,10 +223259,10 @@
         "crest": "https://crests.football-data.org/583.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 0
         },
         "halfTime": {
@@ -267215,66 +267222,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
-    },
-    {
-      "area": {
-        "id": 2187,
-        "name": "Portugal",
-        "code": "POR",
-        "flag": "https://crests.football-data.org/765.svg"
-      },
-      "competition": {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      },
-      "season": {
-        "id": 2526,
-        "startDate": "2026-08-08",
-        "endDate": "2027-05-16",
-        "currentMatchday": 2,
-        "winner": null
-      },
-      "id": 567271,
-      "utcDate": "2026-08-16T19:30:00Z",
-      "status": "TIMED",
-      "matchday": 2,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-16T10:20:29Z",
-      "homeTeam": {
-        "id": 5613,
-        "name": "Sporting Clube de Braga",
-        "shortName": "Braga",
-        "tla": "SCB",
-        "crest": "https://crests.football-data.org/5613.png"
-      },
-      "awayTeam": {
-        "id": 5533,
-        "name": "Gil Vicente FC",
-        "shortName": "Gil Vicente",
-        "tla": "GIL",
-        "crest": "https://crests.football-data.org/5533.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
+      "referees": [
+        {
+          "id": 40158,
+          "name": "Miguel Nogueira",
+          "type": "REFEREE",
+          "nationality": "Portugal"
         }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
+      ]
     },
     {
       "area": {
@@ -500959,6 +500914,25 @@
             {
               "position": 3,
               "team": {
+                "id": 80,
+                "name": "RCD Espanyol de Barcelona",
+                "shortName": "Espanyol",
+                "tla": "ESP",
+                "crest": "https://crests.football-data.org/80.png"
+              },
+              "playedGames": 1,
+              "form": null,
+              "won": 1,
+              "draw": 0,
+              "lost": 0,
+              "points": 3,
+              "goalsFor": 1,
+              "goalsAgainst": 0,
+              "goalDifference": 1
+            },
+            {
+              "position": 4,
+              "team": {
                 "id": 5335,
                 "name": "Real Racing Club de Santander",
                 "shortName": "Santander",
@@ -500976,7 +500950,7 @@
               "goalDifference": 0
             },
             {
-              "position": 3,
+              "position": 4,
               "team": {
                 "id": 94,
                 "name": "Villarreal CF",
@@ -500995,7 +500969,7 @@
               "goalDifference": 0
             },
             {
-              "position": 5,
+              "position": 6,
               "team": {
                 "id": 77,
                 "name": "Athletic Club",
@@ -501014,7 +500988,7 @@
               "goalDifference": 0
             },
             {
-              "position": 5,
+              "position": 6,
               "team": {
                 "id": 78,
                 "name": "Club Atlético de Madrid",
@@ -501033,7 +501007,7 @@
               "goalDifference": 0
             },
             {
-              "position": 5,
+              "position": 6,
               "team": {
                 "id": 79,
                 "name": "CA Osasuna",
@@ -501052,7 +501026,7 @@
               "goalDifference": 0
             },
             {
-              "position": 5,
+              "position": 6,
               "team": {
                 "id": 560,
                 "name": "RC Deportivo La Coruña",
@@ -501071,7 +501045,7 @@
               "goalDifference": 0
             },
             {
-              "position": 5,
+              "position": 6,
               "team": {
                 "id": 285,
                 "name": "Elche CF",
@@ -501090,26 +501064,7 @@
               "goalDifference": 0
             },
             {
-              "position": 5,
-              "team": {
-                "id": 80,
-                "name": "RCD Espanyol de Barcelona",
-                "shortName": "Espanyol",
-                "tla": "ESP",
-                "crest": "https://crests.football-data.org/80.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 5,
+              "position": 6,
               "team": {
                 "id": 81,
                 "name": "FC Barcelona",
@@ -501128,26 +501083,7 @@
               "goalDifference": 0
             },
             {
-              "position": 5,
-              "team": {
-                "id": 88,
-                "name": "Levante UD",
-                "shortName": "Levante",
-                "tla": "LEV",
-                "crest": "https://crests.football-data.org/88.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 5,
+              "position": 6,
               "team": {
                 "id": 84,
                 "name": "Málaga CF",
@@ -501166,7 +501102,7 @@
               "goalDifference": 0
             },
             {
-              "position": 5,
+              "position": 6,
               "team": {
                 "id": 558,
                 "name": "RC Celta de Vigo",
@@ -501185,7 +501121,7 @@
               "goalDifference": 0
             },
             {
-              "position": 5,
+              "position": 6,
               "team": {
                 "id": 90,
                 "name": "Real Betis Balompié",
@@ -501204,7 +501140,7 @@
               "goalDifference": 0
             },
             {
-              "position": 5,
+              "position": 6,
               "team": {
                 "id": 86,
                 "name": "Real Madrid CF",
@@ -501223,7 +501159,7 @@
               "goalDifference": 0
             },
             {
-              "position": 5,
+              "position": 6,
               "team": {
                 "id": 92,
                 "name": "Real Sociedad de Fútbol",
@@ -501242,7 +501178,7 @@
               "goalDifference": 0
             },
             {
-              "position": 5,
+              "position": 6,
               "team": {
                 "id": 95,
                 "name": "Valencia CF",
@@ -501261,7 +501197,7 @@
               "goalDifference": 0
             },
             {
-              "position": 19,
+              "position": 18,
               "team": {
                 "id": 87,
                 "name": "Rayo Vallecano de Madrid",
@@ -501277,6 +501213,25 @@
               "points": 0,
               "goalsFor": 1,
               "goalsAgainst": 2,
+              "goalDifference": -1
+            },
+            {
+              "position": 19,
+              "team": {
+                "id": 88,
+                "name": "Levante UD",
+                "shortName": "Levante",
+                "tla": "LEV",
+                "crest": "https://crests.football-data.org/88.png"
+              },
+              "playedGames": 1,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 1,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 1,
               "goalDifference": -1
             },
             {
@@ -503672,7 +503627,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-16 17:18 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 17:44 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -503717,7 +503672,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-16 17:18 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 17:45 UTC"
     },
     "BSA": {
       "status": "connected",
