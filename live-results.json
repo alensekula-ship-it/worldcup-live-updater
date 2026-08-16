@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-16 16:51 UTC",
-  "lastUpdate": "2026-08-16 16:51 UTC",
+  "generatedAt": "2026-08-16 17:18 UTC",
+  "lastUpdate": "2026-08-16 17:18 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -43966,11 +43966,11 @@
       },
       "id": 561771,
       "utcDate": "2026-08-16T15:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T18:50:07Z",
+      "lastUpdated": "2026-08-16T18:57:03Z",
       "homeTeam": {
         "id": 328,
         "name": "Burnley FC",
@@ -43986,10 +43986,10 @@
         "crest": "https://crests.football-data.org/563.png"
       },
       "score": {
-        "winner": "AWAY_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 2,
           "away": 2
         },
         "halfTime": {
@@ -44032,11 +44032,11 @@
       },
       "id": 564629,
       "utcDate": "2026-08-16T15:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T18:50:07Z",
+      "lastUpdated": "2026-08-16T18:58:39Z",
       "homeTeam": {
         "id": 5335,
         "name": "Real Racing Club de Santander",
@@ -44098,11 +44098,11 @@
       },
       "id": 564632,
       "utcDate": "2026-08-16T17:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T18:16:31Z",
+      "lastUpdated": "2026-08-16T19:17:51Z",
       "homeTeam": {
         "id": 80,
         "name": "RCD Espanyol de Barcelona",
@@ -44118,11 +44118,11 @@
         "crest": "https://crests.football-data.org/88.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -44164,11 +44164,11 @@
       },
       "id": 567272,
       "utcDate": "2026-08-16T17:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T18:35:43Z",
+      "lastUpdated": "2026-08-16T19:18:23Z",
       "homeTeam": {
         "id": 712,
         "name": "FC Arouca",
@@ -44184,11 +44184,11 @@
         "crest": "https://crests.football-data.org/583.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -223145,72 +223145,6 @@
   "live": [
     {
       "area": {
-        "id": 2072,
-        "name": "England",
-        "code": "ENG",
-        "flag": "https://crests.football-data.org/770.svg"
-      },
-      "competition": {
-        "id": 2016,
-        "name": "Championship",
-        "code": "ELC",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ELC.png"
-      },
-      "season": {
-        "id": 2509,
-        "startDate": "2026-08-14",
-        "endDate": "2027-05-01",
-        "currentMatchday": 1,
-        "winner": null
-      },
-      "id": 561771,
-      "utcDate": "2026-08-16T15:00:00Z",
-      "status": "IN_PLAY",
-      "matchday": 1,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-16T18:50:07Z",
-      "homeTeam": {
-        "id": 328,
-        "name": "Burnley FC",
-        "shortName": "Burnley",
-        "tla": "BUR",
-        "crest": "https://crests.football-data.org/328.png"
-      },
-      "awayTeam": {
-        "id": 563,
-        "name": "West Ham United FC",
-        "shortName": "West Ham",
-        "tla": "WHU",
-        "crest": "https://crests.football-data.org/563.png"
-      },
-      "score": {
-        "winner": "AWAY_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 2
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 1
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 14701,
-          "name": "Joshua Smith",
-          "type": "REFEREE",
-          "nationality": "England"
-        }
-      ]
-    },
-    {
-      "area": {
         "id": 2224,
         "name": "Spain",
         "code": "ESP",
@@ -223230,37 +223164,37 @@
         "currentMatchday": 1,
         "winner": null
       },
-      "id": 564629,
-      "utcDate": "2026-08-16T15:00:00Z",
+      "id": 564632,
+      "utcDate": "2026-08-16T17:00:00Z",
       "status": "IN_PLAY",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T18:50:07Z",
+      "lastUpdated": "2026-08-16T19:17:51Z",
       "homeTeam": {
-        "id": 5335,
-        "name": "Real Racing Club de Santander",
-        "shortName": "Santander",
-        "tla": "SAN",
-        "crest": "https://crests.football-data.org/5335.png"
+        "id": 80,
+        "name": "RCD Espanyol de Barcelona",
+        "shortName": "Espanyol",
+        "tla": "ESP",
+        "crest": "https://crests.football-data.org/80.png"
       },
       "awayTeam": {
-        "id": 94,
-        "name": "Villarreal CF",
-        "shortName": "Villarreal",
-        "tla": "VIL",
-        "crest": "https://crests.football-data.org/94.png"
+        "id": 88,
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "tla": "LEV",
+        "crest": "https://crests.football-data.org/88.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 2,
-          "away": 2
+          "home": 1,
+          "away": 0
         },
         "halfTime": {
-          "home": 2,
-          "away": 2
+          "home": null,
+          "away": null
         }
       },
       "odds": {
@@ -223268,10 +223202,76 @@
       },
       "referees": [
         {
-          "id": 214573,
-          "name": "Miguel Sesma Espinosa",
+          "id": 265471,
+          "name": "Carlos Muñiz Muñoz",
           "type": "REFEREE",
           "nationality": "Spain"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "competition": {
+        "id": 2017,
+        "name": "Primeira Liga",
+        "code": "PPL",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/PPL.png"
+      },
+      "season": {
+        "id": 2526,
+        "startDate": "2026-08-08",
+        "endDate": "2027-05-16",
+        "currentMatchday": 2,
+        "winner": null
+      },
+      "id": 567272,
+      "utcDate": "2026-08-16T17:00:00Z",
+      "status": "IN_PLAY",
+      "matchday": 2,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-16T19:18:23Z",
+      "homeTeam": {
+        "id": 712,
+        "name": "FC Arouca",
+        "shortName": "Arouca",
+        "tla": "FCA",
+        "crest": "https://crests.football-data.org/712.png"
+      },
+      "awayTeam": {
+        "id": 583,
+        "name": "Moreirense FC",
+        "shortName": "Moreirense",
+        "tla": "MOR",
+        "crest": "https://crests.football-data.org/583.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 37207,
+          "name": "André Narciso",
+          "type": "REFEREE",
+          "nationality": "Portugal"
         }
       ]
     }
@@ -266787,6 +266787,138 @@
           "nationality": "Netherlands"
         }
       ]
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "competition": {
+        "id": 2016,
+        "name": "Championship",
+        "code": "ELC",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ELC.png"
+      },
+      "season": {
+        "id": 2509,
+        "startDate": "2026-08-14",
+        "endDate": "2027-05-01",
+        "currentMatchday": 1,
+        "winner": null
+      },
+      "id": 561771,
+      "utcDate": "2026-08-16T15:00:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-16T18:57:03Z",
+      "homeTeam": {
+        "id": 328,
+        "name": "Burnley FC",
+        "shortName": "Burnley",
+        "tla": "BUR",
+        "crest": "https://crests.football-data.org/328.png"
+      },
+      "awayTeam": {
+        "id": 563,
+        "name": "West Ham United FC",
+        "shortName": "West Ham",
+        "tla": "WHU",
+        "crest": "https://crests.football-data.org/563.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 2
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 14701,
+          "name": "Joshua Smith",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2224,
+        "name": "Spain",
+        "code": "ESP",
+        "flag": "https://crests.football-data.org/760.svg"
+      },
+      "competition": {
+        "id": 2014,
+        "name": "Primera Division",
+        "code": "PD",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/laliga.png"
+      },
+      "season": {
+        "id": 2518,
+        "startDate": "2026-08-16",
+        "endDate": "2027-05-30",
+        "currentMatchday": 1,
+        "winner": null
+      },
+      "id": 564629,
+      "utcDate": "2026-08-16T15:00:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-16T18:58:39Z",
+      "homeTeam": {
+        "id": 5335,
+        "name": "Real Racing Club de Santander",
+        "shortName": "Santander",
+        "tla": "SAN",
+        "crest": "https://crests.football-data.org/5335.png"
+      },
+      "awayTeam": {
+        "id": 94,
+        "name": "Villarreal CF",
+        "shortName": "Villarreal",
+        "tla": "VIL",
+        "crest": "https://crests.football-data.org/94.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 2
+        },
+        "halfTime": {
+          "home": 2,
+          "away": 2
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 214573,
+          "name": "Miguel Sesma Espinosa",
+          "type": "REFEREE",
+          "nationality": "Spain"
+        }
+      ]
     }
   ],
   "upcoming": [
@@ -266907,138 +267039,6 @@
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
-    },
-    {
-      "area": {
-        "id": 2224,
-        "name": "Spain",
-        "code": "ESP",
-        "flag": "https://crests.football-data.org/760.svg"
-      },
-      "competition": {
-        "id": 2014,
-        "name": "Primera Division",
-        "code": "PD",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/laliga.png"
-      },
-      "season": {
-        "id": 2518,
-        "startDate": "2026-08-16",
-        "endDate": "2027-05-30",
-        "currentMatchday": 1,
-        "winner": null
-      },
-      "id": 564632,
-      "utcDate": "2026-08-16T17:00:00Z",
-      "status": "TIMED",
-      "matchday": 1,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-16T18:16:31Z",
-      "homeTeam": {
-        "id": 80,
-        "name": "RCD Espanyol de Barcelona",
-        "shortName": "Espanyol",
-        "tla": "ESP",
-        "crest": "https://crests.football-data.org/80.png"
-      },
-      "awayTeam": {
-        "id": 88,
-        "name": "Levante UD",
-        "shortName": "Levante",
-        "tla": "LEV",
-        "crest": "https://crests.football-data.org/88.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 265471,
-          "name": "Carlos Muñiz Muñoz",
-          "type": "REFEREE",
-          "nationality": "Spain"
-        }
-      ]
-    },
-    {
-      "area": {
-        "id": 2187,
-        "name": "Portugal",
-        "code": "POR",
-        "flag": "https://crests.football-data.org/765.svg"
-      },
-      "competition": {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      },
-      "season": {
-        "id": 2526,
-        "startDate": "2026-08-08",
-        "endDate": "2027-05-16",
-        "currentMatchday": 2,
-        "winner": null
-      },
-      "id": 567272,
-      "utcDate": "2026-08-16T17:00:00Z",
-      "status": "TIMED",
-      "matchday": 2,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-16T18:35:43Z",
-      "homeTeam": {
-        "id": 712,
-        "name": "FC Arouca",
-        "shortName": "Arouca",
-        "tla": "FCA",
-        "crest": "https://crests.football-data.org/712.png"
-      },
-      "awayTeam": {
-        "id": 583,
-        "name": "Moreirense FC",
-        "shortName": "Moreirense",
-        "tla": "MOR",
-        "crest": "https://crests.football-data.org/583.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 37207,
-          "name": "André Narciso",
-          "type": "REFEREE",
-          "nationality": "Portugal"
-        }
-      ]
     },
     {
       "area": {
@@ -503663,7 +503663,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-08-16 16:50 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 17:17 UTC"
     },
     "PD": {
       "status": "connected",
@@ -503672,7 +503672,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-16 16:50 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 17:18 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -503717,7 +503717,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-16 16:51 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 17:18 UTC"
     },
     "BSA": {
       "status": "connected",
