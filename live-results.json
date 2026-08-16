@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-16 10:33 UTC",
-  "lastUpdate": "2026-08-16 10:33 UTC",
+  "generatedAt": "2026-08-16 11:00 UTC",
+  "lastUpdate": "2026-08-16 11:00 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -43515,7 +43515,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T12:32:31Z",
+      "lastUpdated": "2026-08-16T12:59:43Z",
       "homeTeam": {
         "id": 680,
         "name": "ADO Den Haag",
@@ -43535,7 +43535,7 @@
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 1
+          "away": 2
         },
         "halfTime": {
           "home": null,
@@ -223128,7 +223128,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T12:32:31Z",
+      "lastUpdated": "2026-08-16T12:59:43Z",
       "homeTeam": {
         "id": 680,
         "name": "ADO Den Haag",
@@ -223148,7 +223148,7 @@
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 1
+          "away": 2
         },
         "halfTime": {
           "home": null,
@@ -503624,7 +503624,7 @@
       "seasonId": 2493,
       "seasonStart": "2026-08-07",
       "seasonEnd": "2027-05-23",
-      "lastSuccessfulUpdate": "2026-08-16 10:33 UTC"
+      "lastSuccessfulUpdate": "2026-08-16 10:59 UTC"
     },
     "PPL": {
       "status": "connected",
