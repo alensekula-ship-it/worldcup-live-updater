@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-17 21:25 UTC",
-  "lastUpdate": "2026-08-17 21:25 UTC",
+  "generatedAt": "2026-08-17 21:51 UTC",
+  "lastUpdate": "2026-08-17 21:51 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -502930,6 +502930,25 @@
             {
               "position": 4,
               "team": {
+                "id": 1903,
+                "name": "Sport Lisboa e Benfica",
+                "shortName": "SL Benfica",
+                "tla": "BEN",
+                "crest": "https://crests.football-data.org/1903.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 1,
+              "draw": 1,
+              "lost": 0,
+              "points": 4,
+              "goalsFor": 9,
+              "goalsAgainst": 2,
+              "goalDifference": 7
+            },
+            {
+              "position": 5,
+              "team": {
                 "id": 5529,
                 "name": "CD Nacional",
                 "shortName": "CD Nacional",
@@ -502947,7 +502966,7 @@
               "goalDifference": 2
             },
             {
-              "position": 5,
+              "position": 6,
               "team": {
                 "id": 498,
                 "name": "Sporting Clube de Portugal",
@@ -502966,7 +502985,7 @@
               "goalDifference": 1
             },
             {
-              "position": 6,
+              "position": 7,
               "team": {
                 "id": 5530,
                 "name": "CD Santa Clara",
@@ -502985,7 +503004,7 @@
               "goalDifference": 1
             },
             {
-              "position": 7,
+              "position": 8,
               "team": {
                 "id": 5533,
                 "name": "Gil Vicente FC",
@@ -503004,7 +503023,7 @@
               "goalDifference": 1
             },
             {
-              "position": 8,
+              "position": 9,
               "team": {
                 "id": 9136,
                 "name": "CF Estrela da Amadora",
@@ -503023,26 +503042,7 @@
               "goalDifference": 0
             },
             {
-              "position": 9,
-              "team": {
-                "id": 1903,
-                "name": "Sport Lisboa e Benfica",
-                "shortName": "SL Benfica",
-                "tla": "BEN",
-                "crest": "https://crests.football-data.org/1903.png"
-              },
-              "playedGames": 1,
-              "form": null,
-              "won": 0,
-              "draw": 1,
-              "lost": 0,
-              "points": 1,
-              "goalsFor": 2,
-              "goalsAgainst": 2,
-              "goalDifference": 0
-            },
-            {
-              "position": 9,
+              "position": 10,
               "team": {
                 "id": 5613,
                 "name": "Sporting Clube de Braga",
@@ -503158,25 +503158,6 @@
             {
               "position": 16,
               "team": {
-                "id": 6618,
-                "name": "Casa Pia AC",
-                "shortName": "Casa Pia",
-                "tla": "CAS",
-                "crest": "https://crests.football-data.org/6618.png"
-              },
-              "playedGames": 1,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 1,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 1,
-              "goalDifference": -1
-            },
-            {
-              "position": 17,
-              "team": {
                 "id": 5543,
                 "name": "Vitória SC",
                 "shortName": "Vitória SC",
@@ -503194,7 +503175,7 @@
               "goalDifference": -2
             },
             {
-              "position": 18,
+              "position": 17,
               "team": {
                 "id": 496,
                 "name": "Rio Ave FC",
@@ -503211,6 +503192,25 @@
               "goalsFor": 0,
               "goalsAgainst": 3,
               "goalDifference": -3
+            },
+            {
+              "position": 18,
+              "team": {
+                "id": 6618,
+                "name": "Casa Pia AC",
+                "shortName": "Casa Pia",
+                "tla": "CAS",
+                "crest": "https://crests.football-data.org/6618.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 2,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 8,
+              "goalDifference": -8
             }
           ]
         }
@@ -503713,7 +503713,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-17 21:25 UTC"
+      "lastSuccessfulUpdate": "2026-08-17 21:51 UTC"
     },
     "BSA": {
       "status": "connected",
