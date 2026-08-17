@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-17 18:39 UTC",
-  "lastUpdate": "2026-08-17 18:39 UTC",
+  "generatedAt": "2026-08-17 19:17 UTC",
+  "lastUpdate": "2026-08-17 19:17 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -44650,11 +44650,11 @@
       },
       "id": 561772,
       "utcDate": "2026-08-17T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-17T20:28:47Z",
+      "lastUpdated": "2026-08-17T21:15:43Z",
       "homeTeam": {
         "id": 715,
         "name": "Cardiff City FC",
@@ -44670,11 +44670,11 @@
         "crest": "https://crests.football-data.org/404.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "halfTime": {
           "home": null,
@@ -44716,11 +44716,11 @@
       },
       "id": 564635,
       "utcDate": "2026-08-17T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-17T20:28:47Z",
+      "lastUpdated": "2026-08-17T21:15:43Z",
       "homeTeam": {
         "id": 560,
         "name": "RC Deportivo La Coruña",
@@ -44736,11 +44736,11 @@
         "crest": "https://crests.football-data.org/285.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -44782,11 +44782,11 @@
       },
       "id": 567267,
       "utcDate": "2026-08-17T19:15:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-17T20:38:55Z",
+      "lastUpdated": "2026-08-17T21:16:15Z",
       "homeTeam": {
         "id": 6618,
         "name": "Casa Pia AC",
@@ -44802,11 +44802,11 @@
         "crest": "https://crests.football-data.org/1903.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -44816,7 +44816,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 38806,
+          "name": "João Pinheiro",
+          "type": "REFEREE",
+          "nationality": "Portugal"
+        }
+      ]
     },
     {
       "area": {
@@ -223163,7 +223170,206 @@
       "referees": []
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "competition": {
+        "id": 2016,
+        "name": "Championship",
+        "code": "ELC",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ELC.png"
+      },
+      "season": {
+        "id": 2509,
+        "startDate": "2026-08-14",
+        "endDate": "2027-05-01",
+        "currentMatchday": 1,
+        "winner": null
+      },
+      "id": 561772,
+      "utcDate": "2026-08-17T19:00:00Z",
+      "status": "IN_PLAY",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-17T21:15:43Z",
+      "homeTeam": {
+        "id": 715,
+        "name": "Cardiff City FC",
+        "shortName": "Cardiff",
+        "tla": "CAR",
+        "crest": "https://crests.football-data.org/715.png"
+      },
+      "awayTeam": {
+        "id": 404,
+        "name": "Wrexham AFC",
+        "shortName": "Wrexham",
+        "tla": "WRE",
+        "crest": "https://crests.football-data.org/404.png"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 1
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 113767,
+          "name": "Andrew Kitchen",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2224,
+        "name": "Spain",
+        "code": "ESP",
+        "flag": "https://crests.football-data.org/760.svg"
+      },
+      "competition": {
+        "id": 2014,
+        "name": "Primera Division",
+        "code": "PD",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/laliga.png"
+      },
+      "season": {
+        "id": 2518,
+        "startDate": "2026-08-16",
+        "endDate": "2027-05-30",
+        "currentMatchday": 1,
+        "winner": null
+      },
+      "id": 564635,
+      "utcDate": "2026-08-17T19:00:00Z",
+      "status": "IN_PLAY",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-17T21:15:43Z",
+      "homeTeam": {
+        "id": 560,
+        "name": "RC Deportivo La Coruña",
+        "shortName": "Deportivo",
+        "tla": "DEP",
+        "crest": "https://crests.football-data.org/560.png"
+      },
+      "awayTeam": {
+        "id": 285,
+        "name": "Elche CF",
+        "shortName": "Elche",
+        "tla": "ELC",
+        "crest": "https://crests.football-data.org/285.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 214213,
+          "name": "Francisco Hernández Maeso",
+          "type": "REFEREE",
+          "nationality": "Spain"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "competition": {
+        "id": 2017,
+        "name": "Primeira Liga",
+        "code": "PPL",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/PPL.png"
+      },
+      "season": {
+        "id": 2526,
+        "startDate": "2026-08-08",
+        "endDate": "2027-05-16",
+        "currentMatchday": 2,
+        "winner": null
+      },
+      "id": 567267,
+      "utcDate": "2026-08-17T19:15:00Z",
+      "status": "IN_PLAY",
+      "matchday": 2,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-17T21:16:15Z",
+      "homeTeam": {
+        "id": 6618,
+        "name": "Casa Pia AC",
+        "shortName": "Casa Pia",
+        "tla": "CAS",
+        "crest": "https://crests.football-data.org/6618.png"
+      },
+      "awayTeam": {
+        "id": 1903,
+        "name": "Sport Lisboa e Benfica",
+        "shortName": "SL Benfica",
+        "tla": "BEN",
+        "crest": "https://crests.football-data.org/1903.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 38806,
+          "name": "João Pinheiro",
+          "type": "REFEREE",
+          "nationality": "Portugal"
+        }
+      ]
+    }
+  ],
   "finished": [
     {
       "area": {
@@ -267421,197 +267627,6 @@
     }
   ],
   "upcoming": [
-    {
-      "area": {
-        "id": 2072,
-        "name": "England",
-        "code": "ENG",
-        "flag": "https://crests.football-data.org/770.svg"
-      },
-      "competition": {
-        "id": 2016,
-        "name": "Championship",
-        "code": "ELC",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ELC.png"
-      },
-      "season": {
-        "id": 2509,
-        "startDate": "2026-08-14",
-        "endDate": "2027-05-01",
-        "currentMatchday": 1,
-        "winner": null
-      },
-      "id": 561772,
-      "utcDate": "2026-08-17T19:00:00Z",
-      "status": "TIMED",
-      "matchday": 1,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-17T20:28:47Z",
-      "homeTeam": {
-        "id": 715,
-        "name": "Cardiff City FC",
-        "shortName": "Cardiff",
-        "tla": "CAR",
-        "crest": "https://crests.football-data.org/715.png"
-      },
-      "awayTeam": {
-        "id": 404,
-        "name": "Wrexham AFC",
-        "shortName": "Wrexham",
-        "tla": "WRE",
-        "crest": "https://crests.football-data.org/404.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 113767,
-          "name": "Andrew Kitchen",
-          "type": "REFEREE",
-          "nationality": "England"
-        }
-      ]
-    },
-    {
-      "area": {
-        "id": 2224,
-        "name": "Spain",
-        "code": "ESP",
-        "flag": "https://crests.football-data.org/760.svg"
-      },
-      "competition": {
-        "id": 2014,
-        "name": "Primera Division",
-        "code": "PD",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/laliga.png"
-      },
-      "season": {
-        "id": 2518,
-        "startDate": "2026-08-16",
-        "endDate": "2027-05-30",
-        "currentMatchday": 1,
-        "winner": null
-      },
-      "id": 564635,
-      "utcDate": "2026-08-17T19:00:00Z",
-      "status": "TIMED",
-      "matchday": 1,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-17T20:28:47Z",
-      "homeTeam": {
-        "id": 560,
-        "name": "RC Deportivo La Coruña",
-        "shortName": "Deportivo",
-        "tla": "DEP",
-        "crest": "https://crests.football-data.org/560.png"
-      },
-      "awayTeam": {
-        "id": 285,
-        "name": "Elche CF",
-        "shortName": "Elche",
-        "tla": "ELC",
-        "crest": "https://crests.football-data.org/285.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 214213,
-          "name": "Francisco Hernández Maeso",
-          "type": "REFEREE",
-          "nationality": "Spain"
-        }
-      ]
-    },
-    {
-      "area": {
-        "id": 2187,
-        "name": "Portugal",
-        "code": "POR",
-        "flag": "https://crests.football-data.org/765.svg"
-      },
-      "competition": {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      },
-      "season": {
-        "id": 2526,
-        "startDate": "2026-08-08",
-        "endDate": "2027-05-16",
-        "currentMatchday": 2,
-        "winner": null
-      },
-      "id": 567267,
-      "utcDate": "2026-08-17T19:15:00Z",
-      "status": "TIMED",
-      "matchday": 2,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-17T20:38:55Z",
-      "homeTeam": {
-        "id": 6618,
-        "name": "Casa Pia AC",
-        "shortName": "Casa Pia",
-        "tla": "CAS",
-        "crest": "https://crests.football-data.org/6618.png"
-      },
-      "awayTeam": {
-        "id": 1903,
-        "name": "Sport Lisboa e Benfica",
-        "shortName": "SL Benfica",
-        "tla": "BEN",
-        "crest": "https://crests.football-data.org/1903.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
     {
       "area": {
         "id": 2032,
@@ -503645,7 +503660,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-08-17 18:38 UTC"
+      "lastSuccessfulUpdate": "2026-08-17 19:15 UTC"
     },
     "PD": {
       "status": "connected",
@@ -503654,7 +503669,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-17 18:38 UTC"
+      "lastSuccessfulUpdate": "2026-08-17 19:16 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -503699,7 +503714,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-17 18:39 UTC"
+      "lastSuccessfulUpdate": "2026-08-17 19:16 UTC"
     },
     "BSA": {
       "status": "connected",
