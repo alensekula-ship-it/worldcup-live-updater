@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-17 20:25 UTC",
-  "lastUpdate": "2026-08-17 20:25 UTC",
+  "generatedAt": "2026-08-17 20:55 UTC",
+  "lastUpdate": "2026-08-17 20:55 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -44654,7 +44654,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-17T22:24:31Z",
+      "lastUpdated": "2026-08-17T22:54:23Z",
       "homeTeam": {
         "id": 715,
         "name": "Cardiff City FC",
@@ -44720,7 +44720,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-17T22:24:31Z",
+      "lastUpdated": "2026-08-17T22:54:23Z",
       "homeTeam": {
         "id": 560,
         "name": "RC Deportivo La Coruña",
@@ -44736,11 +44736,11 @@
         "crest": "https://crests.football-data.org/285.png"
       },
       "score": {
-        "winner": "HOME_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
           "home": 1,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": 1,
@@ -44786,7 +44786,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-17T22:25:03Z",
+      "lastUpdated": "2026-08-17T22:55:27Z",
       "homeTeam": {
         "id": 6618,
         "name": "Casa Pia AC",
@@ -44806,7 +44806,7 @@
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 4
+          "away": 7
         },
         "halfTime": {
           "home": 0,
@@ -223198,7 +223198,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-17T22:24:31Z",
+      "lastUpdated": "2026-08-17T22:54:23Z",
       "homeTeam": {
         "id": 715,
         "name": "Cardiff City FC",
@@ -223264,7 +223264,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-17T22:24:31Z",
+      "lastUpdated": "2026-08-17T22:54:23Z",
       "homeTeam": {
         "id": 560,
         "name": "RC Deportivo La Coruña",
@@ -223280,11 +223280,11 @@
         "crest": "https://crests.football-data.org/285.png"
       },
       "score": {
-        "winner": "HOME_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
           "home": 1,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": 1,
@@ -223330,7 +223330,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-17T22:25:03Z",
+      "lastUpdated": "2026-08-17T22:55:27Z",
       "homeTeam": {
         "id": 6618,
         "name": "Casa Pia AC",
@@ -223350,7 +223350,7 @@
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 4
+          "away": 7
         },
         "halfTime": {
           "home": 0,
@@ -503660,7 +503660,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-08-17 20:24 UTC"
+      "lastSuccessfulUpdate": "2026-08-17 20:54 UTC"
     },
     "PD": {
       "status": "connected",
@@ -503669,7 +503669,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-17 20:24 UTC"
+      "lastSuccessfulUpdate": "2026-08-17 20:54 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -503714,7 +503714,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-17 20:25 UTC"
+      "lastSuccessfulUpdate": "2026-08-17 20:55 UTC"
     },
     "BSA": {
       "status": "connected",
