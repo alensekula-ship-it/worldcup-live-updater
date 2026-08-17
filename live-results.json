@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-17 19:17 UTC",
-  "lastUpdate": "2026-08-17 19:17 UTC",
+  "generatedAt": "2026-08-17 19:52 UTC",
+  "lastUpdate": "2026-08-17 19:52 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -44650,11 +44650,11 @@
       },
       "id": 561772,
       "utcDate": "2026-08-17T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-17T21:15:43Z",
+      "lastUpdated": "2026-08-17T21:51:27Z",
       "homeTeam": {
         "id": 715,
         "name": "Cardiff City FC",
@@ -44677,8 +44677,8 @@
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -44716,11 +44716,11 @@
       },
       "id": 564635,
       "utcDate": "2026-08-17T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-17T21:15:43Z",
+      "lastUpdated": "2026-08-17T21:51:27Z",
       "homeTeam": {
         "id": 560,
         "name": "RC Deportivo La Coruña",
@@ -44736,15 +44736,15 @@
         "crest": "https://crests.football-data.org/285.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
@@ -44786,7 +44786,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-17T21:16:15Z",
+      "lastUpdated": "2026-08-17T21:51:59Z",
       "homeTeam": {
         "id": 6618,
         "name": "Casa Pia AC",
@@ -44802,11 +44802,11 @@
         "crest": "https://crests.football-data.org/1903.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 2
         },
         "halfTime": {
           "home": null,
@@ -223194,11 +223194,11 @@
       },
       "id": 561772,
       "utcDate": "2026-08-17T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-17T21:15:43Z",
+      "lastUpdated": "2026-08-17T21:51:27Z",
       "homeTeam": {
         "id": 715,
         "name": "Cardiff City FC",
@@ -223221,8 +223221,8 @@
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -223260,11 +223260,11 @@
       },
       "id": 564635,
       "utcDate": "2026-08-17T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-17T21:15:43Z",
+      "lastUpdated": "2026-08-17T21:51:27Z",
       "homeTeam": {
         "id": 560,
         "name": "RC Deportivo La Coruña",
@@ -223280,15 +223280,15 @@
         "crest": "https://crests.football-data.org/285.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
@@ -223330,7 +223330,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-17T21:16:15Z",
+      "lastUpdated": "2026-08-17T21:51:59Z",
       "homeTeam": {
         "id": 6618,
         "name": "Casa Pia AC",
@@ -223346,11 +223346,11 @@
         "crest": "https://crests.football-data.org/1903.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 2
         },
         "halfTime": {
           "home": null,
@@ -500975,6 +500975,25 @@
             {
               "position": 4,
               "team": {
+                "id": 560,
+                "name": "RC Deportivo La Coruña",
+                "shortName": "Deportivo",
+                "tla": "DEP",
+                "crest": "https://crests.football-data.org/560.png"
+              },
+              "playedGames": 1,
+              "form": null,
+              "won": 1,
+              "draw": 0,
+              "lost": 0,
+              "points": 3,
+              "goalsFor": 1,
+              "goalsAgainst": 0,
+              "goalDifference": 1
+            },
+            {
+              "position": 5,
+              "team": {
                 "id": 5335,
                 "name": "Real Racing Club de Santander",
                 "shortName": "Santander",
@@ -500992,7 +501011,7 @@
               "goalDifference": 0
             },
             {
-              "position": 4,
+              "position": 5,
               "team": {
                 "id": 94,
                 "name": "Villarreal CF",
@@ -501011,7 +501030,7 @@
               "goalDifference": 0
             },
             {
-              "position": 6,
+              "position": 7,
               "team": {
                 "id": 77,
                 "name": "Athletic Club",
@@ -501030,7 +501049,7 @@
               "goalDifference": 0
             },
             {
-              "position": 6,
+              "position": 7,
               "team": {
                 "id": 78,
                 "name": "Club Atlético de Madrid",
@@ -501049,7 +501068,7 @@
               "goalDifference": 0
             },
             {
-              "position": 6,
+              "position": 7,
               "team": {
                 "id": 79,
                 "name": "CA Osasuna",
@@ -501068,45 +501087,7 @@
               "goalDifference": 0
             },
             {
-              "position": 6,
-              "team": {
-                "id": 560,
-                "name": "RC Deportivo La Coruña",
-                "shortName": "Deportivo",
-                "tla": "DEP",
-                "crest": "https://crests.football-data.org/560.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 6,
-              "team": {
-                "id": 285,
-                "name": "Elche CF",
-                "shortName": "Elche",
-                "tla": "ELC",
-                "crest": "https://crests.football-data.org/285.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 6,
+              "position": 7,
               "team": {
                 "id": 81,
                 "name": "FC Barcelona",
@@ -501125,7 +501106,7 @@
               "goalDifference": 0
             },
             {
-              "position": 6,
+              "position": 7,
               "team": {
                 "id": 84,
                 "name": "Málaga CF",
@@ -501144,7 +501125,7 @@
               "goalDifference": 0
             },
             {
-              "position": 6,
+              "position": 7,
               "team": {
                 "id": 558,
                 "name": "RC Celta de Vigo",
@@ -501163,7 +501144,7 @@
               "goalDifference": 0
             },
             {
-              "position": 6,
+              "position": 7,
               "team": {
                 "id": 90,
                 "name": "Real Betis Balompié",
@@ -501182,7 +501163,7 @@
               "goalDifference": 0
             },
             {
-              "position": 6,
+              "position": 7,
               "team": {
                 "id": 86,
                 "name": "Real Madrid CF",
@@ -501201,7 +501182,7 @@
               "goalDifference": 0
             },
             {
-              "position": 6,
+              "position": 7,
               "team": {
                 "id": 92,
                 "name": "Real Sociedad de Fútbol",
@@ -501220,7 +501201,7 @@
               "goalDifference": 0
             },
             {
-              "position": 6,
+              "position": 7,
               "team": {
                 "id": 95,
                 "name": "Valencia CF",
@@ -501239,7 +501220,7 @@
               "goalDifference": 0
             },
             {
-              "position": 18,
+              "position": 17,
               "team": {
                 "id": 87,
                 "name": "Rayo Vallecano de Madrid",
@@ -501255,6 +501236,25 @@
               "points": 0,
               "goalsFor": 1,
               "goalsAgainst": 2,
+              "goalDifference": -1
+            },
+            {
+              "position": 18,
+              "team": {
+                "id": 285,
+                "name": "Elche CF",
+                "shortName": "Elche",
+                "tla": "ELC",
+                "crest": "https://crests.football-data.org/285.png"
+              },
+              "playedGames": 1,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 1,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 1,
               "goalDifference": -1
             },
             {
@@ -503660,7 +503660,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-08-17 19:15 UTC"
+      "lastSuccessfulUpdate": "2026-08-17 19:51 UTC"
     },
     "PD": {
       "status": "connected",
@@ -503669,7 +503669,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-17 19:16 UTC"
+      "lastSuccessfulUpdate": "2026-08-17 19:51 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -503714,7 +503714,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-17 19:16 UTC"
+      "lastSuccessfulUpdate": "2026-08-17 19:52 UTC"
     },
     "BSA": {
       "status": "connected",
