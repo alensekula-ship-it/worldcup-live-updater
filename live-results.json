@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-18 03:24 UTC",
-  "lastUpdate": "2026-08-18 03:24 UTC",
+  "generatedAt": "2026-08-18 04:08 UTC",
+  "lastUpdate": "2026-08-18 04:08 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -503534,6 +503534,25 @@
             {
               "position": 16,
               "team": {
+                "id": 6684,
+                "name": "SC Internacional",
+                "shortName": "Internacional",
+                "tla": "SCI",
+                "crest": "https://crests.football-data.org/6684.png"
+              },
+              "playedGames": 23,
+              "form": null,
+              "won": 5,
+              "draw": 9,
+              "lost": 9,
+              "points": 24,
+              "goalsFor": 24,
+              "goalsAgainst": 28,
+              "goalDifference": -4
+            },
+            {
+              "position": 17,
+              "team": {
                 "id": 4364,
                 "name": "Mirassol FC",
                 "shortName": "Mirassol",
@@ -503551,25 +503570,6 @@
               "goalDifference": -10
             },
             {
-              "position": 17,
-              "team": {
-                "id": 6684,
-                "name": "SC Internacional",
-                "shortName": "Internacional",
-                "tla": "SCI",
-                "crest": "https://crests.football-data.org/6684.png"
-              },
-              "playedGames": 22,
-              "form": null,
-              "won": 5,
-              "draw": 8,
-              "lost": 9,
-              "points": 23,
-              "goalsFor": 23,
-              "goalsAgainst": 27,
-              "goalDifference": -4
-            },
-            {
               "position": 18,
               "team": {
                 "id": 4287,
@@ -503578,14 +503578,14 @@
                 "tla": "CRE",
                 "crest": "https://crests.football-data.org/4287.png"
               },
-              "playedGames": 22,
+              "playedGames": 23,
               "form": null,
               "won": 5,
-              "draw": 7,
+              "draw": 8,
               "lost": 10,
-              "points": 22,
-              "goalsFor": 26,
-              "goalsAgainst": 36,
+              "points": 23,
+              "goalsFor": 27,
+              "goalsAgainst": 37,
               "goalDifference": -10
             },
             {
@@ -503722,7 +503722,7 @@
       "seasonId": 2474,
       "seasonStart": "2026-01-28",
       "seasonEnd": "2026-12-02",
-      "lastSuccessfulUpdate": "2026-08-18 03:24 UTC"
+      "lastSuccessfulUpdate": "2026-08-18 04:08 UTC"
     },
     "WC": {
       "status": "connected",
