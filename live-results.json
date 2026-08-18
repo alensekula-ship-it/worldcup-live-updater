@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-18 19:52 UTC",
-  "lastUpdate": "2026-08-18 19:52 UTC",
+  "generatedAt": "2026-08-18 20:22 UTC",
+  "lastUpdate": "2026-08-18 20:22 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -44966,11 +44966,11 @@
       },
       "venue": "Maksimir Stadium",
       "homeGoals": 2,
-      "awayGoals": 1,
+      "awayGoals": 2,
       "score": {
         "fullTime": {
           "home": 2,
-          "away": 1
+          "away": 2
         }
       }
     },
@@ -45011,11 +45011,11 @@
       },
       "venue": "Ulker Stadyumu",
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "score": {
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         }
       }
     },
@@ -223277,11 +223277,11 @@
       },
       "venue": "Maksimir Stadium",
       "homeGoals": 2,
-      "awayGoals": 1,
+      "awayGoals": 2,
       "score": {
         "fullTime": {
           "home": 2,
-          "away": 1
+          "away": 2
         }
       }
     },
@@ -223322,11 +223322,11 @@
       },
       "venue": "Ulker Stadyumu",
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "score": {
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         }
       }
     }
@@ -503688,7 +503688,7 @@
       "seasonId": 2454,
       "seasonStart": "2025-09-16",
       "seasonEnd": "2026-05-30",
-      "lastSuccessfulUpdate": "2026-08-18 19:51 UTC",
+      "lastSuccessfulUpdate": "2026-08-18 20:22 UTC",
       "qualifyingProvider": "ESPN UEFA Champions League Qualifying",
       "qualifyingMatchCount": 34
     },
