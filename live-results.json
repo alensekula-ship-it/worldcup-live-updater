@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-18 20:22 UTC",
-  "lastUpdate": "2026-08-18 20:22 UTC",
+  "generatedAt": "2026-08-18 20:51 UTC",
+  "lastUpdate": "2026-08-18 20:51 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -44896,7 +44896,7 @@
       "competitionName": "UEFA Champions League",
       "utcDate": "2026-08-18T19:00Z",
       "date": "2026-08-18T19:00Z",
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "stage": "PLAYOFFS",
       "roundName": "Play-off • Prva utakmica",
       "group": "",
@@ -44941,7 +44941,7 @@
       "competitionName": "UEFA Champions League",
       "utcDate": "2026-08-18T19:00Z",
       "date": "2026-08-18T19:00Z",
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "stage": "PLAYOFFS",
       "roundName": "Play-off • Prva utakmica",
       "group": "",
@@ -44986,7 +44986,7 @@
       "competitionName": "UEFA Champions League",
       "utcDate": "2026-08-18T19:00Z",
       "date": "2026-08-18T19:00Z",
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "stage": "PLAYOFFS",
       "roundName": "Play-off • Prva utakmica",
       "group": "",
@@ -223194,143 +223194,7 @@
       "referees": []
     }
   ],
-  "live": [
-    {
-      "id": 1501909156,
-      "externalId": "espn-ucl-401909156",
-      "competition": {
-        "name": "UEFA Champions League",
-        "code": "CL",
-        "type": "CUP"
-      },
-      "competitionCode": "CL",
-      "competitionName": "UEFA Champions League",
-      "utcDate": "2026-08-18T19:00Z",
-      "date": "2026-08-18T19:00Z",
-      "status": "IN_PLAY",
-      "stage": "PLAYOFFS",
-      "roundName": "Play-off • Prva utakmica",
-      "group": "",
-      "homeTeam": {
-        "name": "Levski Sofia",
-        "shortName": "Levski Sofia",
-        "tla": "LEVS",
-        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
-      },
-      "awayTeam": {
-        "name": "AEK Athens",
-        "shortName": "AEK Athens",
-        "tla": "AEK",
-        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png"
-      },
-      "home": "Levski Sofia",
-      "away": "AEK Athens",
-      "dataProvider": "ESPN UEFA Champions League Qualifying",
-      "season": {
-        "startDate": "2026-07-01",
-        "endDate": "2027-06-30"
-      },
-      "venue": "Vasil Levski National Stadium",
-      "homeGoals": 0,
-      "awayGoals": 0,
-      "score": {
-        "fullTime": {
-          "home": 0,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 1501909158,
-      "externalId": "espn-ucl-401909158",
-      "competition": {
-        "name": "UEFA Champions League",
-        "code": "CL",
-        "type": "CUP"
-      },
-      "competitionCode": "CL",
-      "competitionName": "UEFA Champions League",
-      "utcDate": "2026-08-18T19:00Z",
-      "date": "2026-08-18T19:00Z",
-      "status": "IN_PLAY",
-      "stage": "PLAYOFFS",
-      "roundName": "Play-off • Prva utakmica",
-      "group": "",
-      "homeTeam": {
-        "name": "Dinamo Zagreb",
-        "shortName": "Dinamo Zagreb",
-        "tla": "DZG",
-        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png"
-      },
-      "awayTeam": {
-        "name": "Viking FK",
-        "shortName": "Viking FK",
-        "tla": "VIK",
-        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png"
-      },
-      "home": "Dinamo Zagreb",
-      "away": "Viking FK",
-      "dataProvider": "ESPN UEFA Champions League Qualifying",
-      "season": {
-        "startDate": "2026-07-01",
-        "endDate": "2027-06-30"
-      },
-      "venue": "Maksimir Stadium",
-      "homeGoals": 2,
-      "awayGoals": 2,
-      "score": {
-        "fullTime": {
-          "home": 2,
-          "away": 2
-        }
-      }
-    },
-    {
-      "id": 1501909204,
-      "externalId": "espn-ucl-401909204",
-      "competition": {
-        "name": "UEFA Champions League",
-        "code": "CL",
-        "type": "CUP"
-      },
-      "competitionCode": "CL",
-      "competitionName": "UEFA Champions League",
-      "utcDate": "2026-08-18T19:00Z",
-      "date": "2026-08-18T19:00Z",
-      "status": "IN_PLAY",
-      "stage": "PLAYOFFS",
-      "roundName": "Play-off • Prva utakmica",
-      "group": "",
-      "homeTeam": {
-        "name": "Fenerbahce",
-        "shortName": "Fenerbahce",
-        "tla": "FEN",
-        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png"
-      },
-      "awayTeam": {
-        "name": "Lyon",
-        "shortName": "Lyon",
-        "tla": "LYON",
-        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
-      },
-      "home": "Fenerbahce",
-      "away": "Lyon",
-      "dataProvider": "ESPN UEFA Champions League Qualifying",
-      "season": {
-        "startDate": "2026-07-01",
-        "endDate": "2027-06-30"
-      },
-      "venue": "Ulker Stadyumu",
-      "homeGoals": 0,
-      "awayGoals": 1,
-      "score": {
-        "fullTime": {
-          "home": 0,
-          "away": 1
-        }
-      }
-    }
-  ],
+  "live": [],
   "finished": [
     {
       "area": {
@@ -267845,6 +267709,141 @@
     }
   ],
   "upcoming": [
+    {
+      "id": 1501909156,
+      "externalId": "espn-ucl-401909156",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-18T19:00Z",
+      "date": "2026-08-18T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Levski Sofia",
+        "shortName": "Levski Sofia",
+        "tla": "LEVS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
+      },
+      "awayTeam": {
+        "name": "AEK Athens",
+        "shortName": "AEK Athens",
+        "tla": "AEK",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png"
+      },
+      "home": "Levski Sofia",
+      "away": "AEK Athens",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Vasil Levski National Stadium",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501909158,
+      "externalId": "espn-ucl-401909158",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-18T19:00Z",
+      "date": "2026-08-18T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Dinamo Zagreb",
+        "shortName": "Dinamo Zagreb",
+        "tla": "DZG",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png"
+      },
+      "awayTeam": {
+        "name": "Viking FK",
+        "shortName": "Viking FK",
+        "tla": "VIK",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png"
+      },
+      "home": "Dinamo Zagreb",
+      "away": "Viking FK",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Maksimir Stadium",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 2
+        }
+      }
+    },
+    {
+      "id": 1501909204,
+      "externalId": "espn-ucl-401909204",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-18T19:00Z",
+      "date": "2026-08-18T19:00Z",
+      "status": "SCHEDULED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Fenerbahce",
+        "shortName": "Fenerbahce",
+        "tla": "FEN",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png"
+      },
+      "awayTeam": {
+        "name": "Lyon",
+        "shortName": "Lyon",
+        "tla": "LYON",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
+      },
+      "home": "Fenerbahce",
+      "away": "Lyon",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Ulker Stadyumu",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 1
+        }
+      }
+    },
     {
       "area": {
         "id": 2224,
@@ -503688,7 +503687,7 @@
       "seasonId": 2454,
       "seasonStart": "2025-09-16",
       "seasonEnd": "2026-05-30",
-      "lastSuccessfulUpdate": "2026-08-18 20:22 UTC",
+      "lastSuccessfulUpdate": "2026-08-18 20:51 UTC",
       "qualifyingProvider": "ESPN UEFA Champions League Qualifying",
       "qualifyingMatchCount": 34
     },
