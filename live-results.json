@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-19 13:32 UTC",
-  "lastUpdate": "2026-08-19 13:32 UTC",
+  "generatedAt": "2026-08-19 17:32 UTC",
+  "lastUpdate": "2026-08-19 17:32 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -45076,7 +45076,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 206205,
+          "name": "Adrián Cordero Vega",
+          "type": "REFEREE",
+          "nationality": "Spain"
+        }
+      ]
     },
     {
       "id": 1501903528,
@@ -267901,7 +267908,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 206205,
+          "name": "Adrián Cordero Vega",
+          "type": "REFEREE",
+          "nationality": "Spain"
+        }
+      ]
     },
     {
       "id": 1501903528,
@@ -503716,7 +503730,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-19 13:31 UTC"
+      "lastSuccessfulUpdate": "2026-08-19 17:31 UTC"
     },
     "BL1": {
       "status": "connected",
