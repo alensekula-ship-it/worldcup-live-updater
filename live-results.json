@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-19 20:31 UTC",
-  "lastUpdate": "2026-08-19 20:31 UTC",
+  "generatedAt": "2026-08-19 20:55 UTC",
+  "lastUpdate": "2026-08-19 20:55 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -45046,7 +45046,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-19T22:29:51Z",
+      "lastUpdated": "2026-08-19T22:54:23Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -45062,10 +45062,10 @@
         "crest": "https://crests.football-data.org/84.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 0
         },
         "halfTime": {
@@ -45121,11 +45121,11 @@
         "endDate": "2027-06-30"
       },
       "venue": "Celtic Park",
-      "homeGoals": 2,
+      "homeGoals": 3,
       "awayGoals": 0,
       "score": {
         "fullTime": {
-          "home": 2,
+          "home": 3,
           "away": 0
         }
       }
@@ -45257,11 +45257,11 @@
       },
       "venue": "Goffertstadion",
       "homeGoals": 0,
-      "awayGoals": 2,
+      "awayGoals": 3,
       "score": {
         "fullTime": {
           "home": 0,
-          "away": 2
+          "away": 3
         }
       }
     },
@@ -223261,7 +223261,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-19T22:29:51Z",
+      "lastUpdated": "2026-08-19T22:54:23Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -223277,10 +223277,10 @@
         "crest": "https://crests.football-data.org/84.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 0
         },
         "halfTime": {
@@ -223336,11 +223336,11 @@
         "endDate": "2027-06-30"
       },
       "venue": "Celtic Park",
-      "homeGoals": 2,
+      "homeGoals": 3,
       "awayGoals": 0,
       "score": {
         "fullTime": {
-          "home": 2,
+          "home": 3,
           "away": 0
         }
       }
@@ -223472,11 +223472,11 @@
       },
       "venue": "Goffertstadion",
       "homeGoals": 0,
-      "awayGoals": 2,
+      "awayGoals": 3,
       "score": {
         "fullTime": {
           "home": 0,
-          "away": 2
+          "away": 3
         }
       }
     }
@@ -503766,7 +503766,7 @@
       "seasonId": 2454,
       "seasonStart": "2025-09-16",
       "seasonEnd": "2026-05-30",
-      "lastSuccessfulUpdate": "2026-08-19 20:31 UTC",
+      "lastSuccessfulUpdate": "2026-08-19 20:55 UTC",
       "qualifyingProvider": "ESPN UEFA Champions League Qualifying",
       "qualifyingMatchCount": 26
     },
@@ -503795,7 +503795,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-19 20:30 UTC"
+      "lastSuccessfulUpdate": "2026-08-19 20:54 UTC"
     },
     "BL1": {
       "status": "connected",
