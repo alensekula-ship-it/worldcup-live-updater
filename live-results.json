@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-19 19:24 UTC",
-  "lastUpdate": "2026-08-19 19:24 UTC",
+  "generatedAt": "2026-08-19 19:51 UTC",
+  "lastUpdate": "2026-08-19 19:51 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -45046,7 +45046,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-19T21:23:11Z",
+      "lastUpdated": "2026-08-19T21:49:51Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -223229,7 +223229,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-19T21:23:11Z",
+      "lastUpdated": "2026-08-19T21:49:51Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -503731,7 +503731,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-19 19:23 UTC"
+      "lastSuccessfulUpdate": "2026-08-19 19:49 UTC"
     },
     "BL1": {
       "status": "connected",
