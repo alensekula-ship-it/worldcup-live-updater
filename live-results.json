@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-19 20:55 UTC",
-  "lastUpdate": "2026-08-19 20:55 UTC",
+  "generatedAt": "2026-08-19 21:24 UTC",
+  "lastUpdate": "2026-08-19 21:24 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -45042,11 +45042,11 @@
       },
       "id": 564628,
       "utcDate": "2026-08-19T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-19T22:54:23Z",
+      "lastUpdated": "2026-08-19T23:06:07Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -45097,7 +45097,7 @@
       "competitionName": "UEFA Champions League",
       "utcDate": "2026-08-19T19:00Z",
       "date": "2026-08-19T19:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "PLAYOFFS",
       "roundName": "Play-off • Prva utakmica",
       "group": "",
@@ -45142,7 +45142,7 @@
       "competitionName": "UEFA Champions League",
       "utcDate": "2026-08-19T19:00Z",
       "date": "2026-08-19T19:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "PLAYOFFS",
       "roundName": "Play-off • Prva utakmica",
       "group": "",
@@ -45166,11 +45166,11 @@
         "endDate": "2027-06-30"
       },
       "venue": "Giulesti Stadium",
-      "homeGoals": 1,
+      "homeGoals": 2,
       "awayGoals": 1,
       "score": {
         "fullTime": {
-          "home": 1,
+          "home": 2,
           "away": 1
         }
       }
@@ -45187,7 +45187,7 @@
       "competitionName": "UEFA Champions League",
       "utcDate": "2026-08-19T19:00Z",
       "date": "2026-08-19T19:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "PLAYOFFS",
       "roundName": "Play-off • Prva utakmica",
       "group": "",
@@ -45232,7 +45232,7 @@
       "competitionName": "UEFA Champions League",
       "utcDate": "2026-08-19T19:00Z",
       "date": "2026-08-19T19:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "PLAYOFFS",
       "roundName": "Play-off • Prva utakmica",
       "group": "",
@@ -45256,11 +45256,11 @@
         "endDate": "2027-06-30"
       },
       "venue": "Goffertstadion",
-      "homeGoals": 0,
+      "homeGoals": 1,
       "awayGoals": 3,
       "score": {
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 3
         }
       }
@@ -223233,254 +223233,7 @@
       "referees": []
     }
   ],
-  "live": [
-    {
-      "area": {
-        "id": 2224,
-        "name": "Spain",
-        "code": "ESP",
-        "flag": "https://crests.football-data.org/760.svg"
-      },
-      "competition": {
-        "id": 2014,
-        "name": "Primera Division",
-        "code": "PD",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/laliga.png"
-      },
-      "season": {
-        "id": 2518,
-        "startDate": "2026-08-16",
-        "endDate": "2027-05-30",
-        "currentMatchday": 2,
-        "winner": null
-      },
-      "id": 564628,
-      "utcDate": "2026-08-19T19:00:00Z",
-      "status": "IN_PLAY",
-      "matchday": 1,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-19T22:54:23Z",
-      "homeTeam": {
-        "id": 78,
-        "name": "Club Atlético de Madrid",
-        "shortName": "Atleti",
-        "tla": "ATL",
-        "crest": "https://crests.football-data.org/78.png"
-      },
-      "awayTeam": {
-        "id": 84,
-        "name": "Málaga CF",
-        "shortName": "Málaga",
-        "tla": "MAL",
-        "crest": "https://crests.football-data.org/84.png"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 2,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 0
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 206205,
-          "name": "Adrián Cordero Vega",
-          "type": "REFEREE",
-          "nationality": "Spain"
-        }
-      ]
-    },
-    {
-      "id": 1501903528,
-      "externalId": "espn-ucl-401903528",
-      "competition": {
-        "name": "UEFA Champions League",
-        "code": "CL",
-        "type": "CUP"
-      },
-      "competitionCode": "CL",
-      "competitionName": "UEFA Champions League",
-      "utcDate": "2026-08-19T19:00Z",
-      "date": "2026-08-19T19:00Z",
-      "status": "IN_PLAY",
-      "stage": "PLAYOFFS",
-      "roundName": "Play-off • Prva utakmica",
-      "group": "",
-      "homeTeam": {
-        "name": "Celtic",
-        "shortName": "Celtic",
-        "tla": "CEL",
-        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png"
-      },
-      "awayTeam": {
-        "name": "LASK Linz",
-        "shortName": "LASK Linz",
-        "tla": "LAS",
-        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png"
-      },
-      "home": "Celtic",
-      "away": "LASK Linz",
-      "dataProvider": "ESPN UEFA Champions League Qualifying",
-      "season": {
-        "startDate": "2026-07-01",
-        "endDate": "2027-06-30"
-      },
-      "venue": "Celtic Park",
-      "homeGoals": 3,
-      "awayGoals": 0,
-      "score": {
-        "fullTime": {
-          "home": 3,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 1501909193,
-      "externalId": "espn-ucl-401909193",
-      "competition": {
-        "name": "UEFA Champions League",
-        "code": "CL",
-        "type": "CUP"
-      },
-      "competitionCode": "CL",
-      "competitionName": "UEFA Champions League",
-      "utcDate": "2026-08-19T19:00Z",
-      "date": "2026-08-19T19:00Z",
-      "status": "IN_PLAY",
-      "stage": "PLAYOFFS",
-      "roundName": "Play-off • Prva utakmica",
-      "group": "",
-      "homeTeam": {
-        "name": "Hapoel Be'er",
-        "shortName": "Hapoel Be'er",
-        "tla": "HBE",
-        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
-      },
-      "awayTeam": {
-        "name": "Sabah FK",
-        "shortName": "Sabah",
-        "tla": "SAB",
-        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png"
-      },
-      "home": "Hapoel Be'er",
-      "away": "Sabah FK",
-      "dataProvider": "ESPN UEFA Champions League Qualifying",
-      "season": {
-        "startDate": "2026-07-01",
-        "endDate": "2027-06-30"
-      },
-      "venue": "Giulesti Stadium",
-      "homeGoals": 1,
-      "awayGoals": 1,
-      "score": {
-        "fullTime": {
-          "home": 1,
-          "away": 1
-        }
-      }
-    },
-    {
-      "id": 1501909195,
-      "externalId": "espn-ucl-401909195",
-      "competition": {
-        "name": "UEFA Champions League",
-        "code": "CL",
-        "type": "CUP"
-      },
-      "competitionCode": "CL",
-      "competitionName": "UEFA Champions League",
-      "utcDate": "2026-08-19T19:00Z",
-      "date": "2026-08-19T19:00Z",
-      "status": "IN_PLAY",
-      "stage": "PLAYOFFS",
-      "roundName": "Play-off • Prva utakmica",
-      "group": "",
-      "homeTeam": {
-        "name": "Slovan Bratislava",
-        "shortName": "S Bratislava",
-        "tla": "SLB",
-        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png"
-      },
-      "awayTeam": {
-        "name": "NK Celje",
-        "shortName": "NK Celje",
-        "tla": "NKC",
-        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png"
-      },
-      "home": "Slovan Bratislava",
-      "away": "NK Celje",
-      "dataProvider": "ESPN UEFA Champions League Qualifying",
-      "season": {
-        "startDate": "2026-07-01",
-        "endDate": "2027-06-30"
-      },
-      "venue": "Národny Futbalovy Stadión",
-      "homeGoals": 1,
-      "awayGoals": 1,
-      "score": {
-        "fullTime": {
-          "home": 1,
-          "away": 1
-        }
-      }
-    },
-    {
-      "id": 1501909197,
-      "externalId": "espn-ucl-401909197",
-      "competition": {
-        "name": "UEFA Champions League",
-        "code": "CL",
-        "type": "CUP"
-      },
-      "competitionCode": "CL",
-      "competitionName": "UEFA Champions League",
-      "utcDate": "2026-08-19T19:00Z",
-      "date": "2026-08-19T19:00Z",
-      "status": "IN_PLAY",
-      "stage": "PLAYOFFS",
-      "roundName": "Play-off • Prva utakmica",
-      "group": "",
-      "homeTeam": {
-        "name": "NEC Nijmegen",
-        "shortName": "NEC",
-        "tla": "NEC",
-        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
-      },
-      "awayTeam": {
-        "name": "Bodo/Glimt",
-        "shortName": "Bodo/Glimt",
-        "tla": "BODO",
-        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png"
-      },
-      "home": "NEC Nijmegen",
-      "away": "Bodo/Glimt",
-      "dataProvider": "ESPN UEFA Champions League Qualifying",
-      "season": {
-        "startDate": "2026-07-01",
-        "endDate": "2027-06-30"
-      },
-      "venue": "Goffertstadion",
-      "homeGoals": 0,
-      "awayGoals": 3,
-      "score": {
-        "fullTime": {
-          "home": 0,
-          "away": 3
-        }
-      }
-    }
-  ],
+  "live": [],
   "finished": [
     {
       "area": {
@@ -268125,6 +267878,252 @@
         "fullTime": {
           "home": 1,
           "away": 1
+        }
+      }
+    },
+    {
+      "area": {
+        "id": 2224,
+        "name": "Spain",
+        "code": "ESP",
+        "flag": "https://crests.football-data.org/760.svg"
+      },
+      "competition": {
+        "id": 2014,
+        "name": "Primera Division",
+        "code": "PD",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/laliga.png"
+      },
+      "season": {
+        "id": 2518,
+        "startDate": "2026-08-16",
+        "endDate": "2027-05-30",
+        "currentMatchday": 2,
+        "winner": null
+      },
+      "id": 564628,
+      "utcDate": "2026-08-19T19:00:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-19T23:06:07Z",
+      "homeTeam": {
+        "id": 78,
+        "name": "Club Atlético de Madrid",
+        "shortName": "Atleti",
+        "tla": "ATL",
+        "crest": "https://crests.football-data.org/78.png"
+      },
+      "awayTeam": {
+        "id": 84,
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "tla": "MAL",
+        "crest": "https://crests.football-data.org/84.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 206205,
+          "name": "Adrián Cordero Vega",
+          "type": "REFEREE",
+          "nationality": "Spain"
+        }
+      ]
+    },
+    {
+      "id": 1501903528,
+      "externalId": "espn-ucl-401903528",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-19T19:00Z",
+      "date": "2026-08-19T19:00Z",
+      "status": "FINISHED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Celtic",
+        "shortName": "Celtic",
+        "tla": "CEL",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png"
+      },
+      "awayTeam": {
+        "name": "LASK Linz",
+        "shortName": "LASK Linz",
+        "tla": "LAS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png"
+      },
+      "home": "Celtic",
+      "away": "LASK Linz",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Celtic Park",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 3,
+          "away": 0
+        }
+      }
+    },
+    {
+      "id": 1501909193,
+      "externalId": "espn-ucl-401909193",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-19T19:00Z",
+      "date": "2026-08-19T19:00Z",
+      "status": "FINISHED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Hapoel Be'er",
+        "shortName": "Hapoel Be'er",
+        "tla": "HBE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
+      },
+      "awayTeam": {
+        "name": "Sabah FK",
+        "shortName": "Sabah",
+        "tla": "SAB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png"
+      },
+      "home": "Hapoel Be'er",
+      "away": "Sabah FK",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Giulesti Stadium",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501909195,
+      "externalId": "espn-ucl-401909195",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-19T19:00Z",
+      "date": "2026-08-19T19:00Z",
+      "status": "FINISHED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "Slovan Bratislava",
+        "shortName": "S Bratislava",
+        "tla": "SLB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png"
+      },
+      "awayTeam": {
+        "name": "NK Celje",
+        "shortName": "NK Celje",
+        "tla": "NKC",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png"
+      },
+      "home": "Slovan Bratislava",
+      "away": "NK Celje",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Národny Futbalovy Stadión",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501909197,
+      "externalId": "espn-ucl-401909197",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-19T19:00Z",
+      "date": "2026-08-19T19:00Z",
+      "status": "FINISHED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Prva utakmica",
+      "group": "",
+      "homeTeam": {
+        "name": "NEC Nijmegen",
+        "shortName": "NEC",
+        "tla": "NEC",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
+      },
+      "awayTeam": {
+        "name": "Bodo/Glimt",
+        "shortName": "Bodo/Glimt",
+        "tla": "BODO",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png"
+      },
+      "home": "NEC Nijmegen",
+      "away": "Bodo/Glimt",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Goffertstadion",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 3
         }
       }
     }
@@ -503766,7 +503765,7 @@
       "seasonId": 2454,
       "seasonStart": "2025-09-16",
       "seasonEnd": "2026-05-30",
-      "lastSuccessfulUpdate": "2026-08-19 20:55 UTC",
+      "lastSuccessfulUpdate": "2026-08-19 21:24 UTC",
       "qualifyingProvider": "ESPN UEFA Champions League Qualifying",
       "qualifyingMatchCount": 26
     },
@@ -503795,7 +503794,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-19 20:54 UTC"
+      "lastSuccessfulUpdate": "2026-08-19 21:23 UTC"
     },
     "BL1": {
       "status": "connected",
