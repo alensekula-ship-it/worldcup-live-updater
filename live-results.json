@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-20 14:01 UTC",
-  "lastUpdate": "2026-08-20 14:01 UTC",
+  "generatedAt": "2026-08-20 17:28 UTC",
+  "lastUpdate": "2026-08-20 17:28 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -45322,7 +45322,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 206223,
+          "name": "José Munuera Montero",
+          "type": "REFEREE",
+          "nationality": "Spain"
+        }
+      ]
     },
     {
       "area": {
@@ -268186,7 +268193,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 206223,
+          "name": "José Munuera Montero",
+          "type": "REFEREE",
+          "nationality": "Spain"
+        }
+      ]
     },
     {
       "area": {
@@ -503794,7 +503808,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-20 14:00 UTC"
+      "lastSuccessfulUpdate": "2026-08-20 17:27 UTC"
     },
     "BL1": {
       "status": "connected",
