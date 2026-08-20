@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-20 19:21 UTC",
-  "lastUpdate": "2026-08-20 19:21 UTC",
+  "generatedAt": "2026-08-20 19:57 UTC",
+  "lastUpdate": "2026-08-20 19:57 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -45288,11 +45288,11 @@
       },
       "id": 564638,
       "utcDate": "2026-08-20T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-20T21:19:59Z",
+      "lastUpdated": "2026-08-20T21:55:43Z",
       "homeTeam": {
         "id": 87,
         "name": "Rayo Vallecano de Madrid",
@@ -45315,8 +45315,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -223264,11 +223264,11 @@
       },
       "id": 564638,
       "utcDate": "2026-08-20T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-20T21:19:59Z",
+      "lastUpdated": "2026-08-20T21:55:43Z",
       "homeTeam": {
         "id": 87,
         "name": "Rayo Vallecano de Madrid",
@@ -223291,8 +223291,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -503809,7 +503809,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-20 19:20 UTC"
+      "lastSuccessfulUpdate": "2026-08-20 19:55 UTC"
     },
     "BL1": {
       "status": "connected",
