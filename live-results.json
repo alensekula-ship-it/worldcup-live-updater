@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-20 18:46 UTC",
-  "lastUpdate": "2026-08-20 18:46 UTC",
+  "generatedAt": "2026-08-20 19:21 UTC",
+  "lastUpdate": "2026-08-20 19:21 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -45288,11 +45288,11 @@
       },
       "id": 564638,
       "utcDate": "2026-08-20T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-20T20:33:35Z",
+      "lastUpdated": "2026-08-20T21:19:59Z",
       "homeTeam": {
         "id": 87,
         "name": "Rayo Vallecano de Madrid",
@@ -45308,11 +45308,11 @@
         "crest": "https://crests.football-data.org/263.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -223240,7 +223240,74 @@
       "referees": []
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "area": {
+        "id": 2224,
+        "name": "Spain",
+        "code": "ESP",
+        "flag": "https://crests.football-data.org/760.svg"
+      },
+      "competition": {
+        "id": 2014,
+        "name": "Primera Division",
+        "code": "PD",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/laliga.png"
+      },
+      "season": {
+        "id": 2518,
+        "startDate": "2026-08-16",
+        "endDate": "2027-05-30",
+        "currentMatchday": 2,
+        "winner": null
+      },
+      "id": 564638,
+      "utcDate": "2026-08-20T19:00:00Z",
+      "status": "IN_PLAY",
+      "matchday": 2,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-20T21:19:59Z",
+      "homeTeam": {
+        "id": 87,
+        "name": "Rayo Vallecano de Madrid",
+        "shortName": "Rayo Vallecano",
+        "tla": "RAY",
+        "crest": "https://crests.football-data.org/87.png"
+      },
+      "awayTeam": {
+        "id": 263,
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "tla": "ALA",
+        "crest": "https://crests.football-data.org/263.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 206223,
+          "name": "José Munuera Montero",
+          "type": "REFEREE",
+          "nationality": "Spain"
+        }
+      ]
+    }
+  ],
   "finished": [
     {
       "area": {
@@ -268136,72 +268203,6 @@
     }
   ],
   "upcoming": [
-    {
-      "area": {
-        "id": 2224,
-        "name": "Spain",
-        "code": "ESP",
-        "flag": "https://crests.football-data.org/760.svg"
-      },
-      "competition": {
-        "id": 2014,
-        "name": "Primera Division",
-        "code": "PD",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/laliga.png"
-      },
-      "season": {
-        "id": 2518,
-        "startDate": "2026-08-16",
-        "endDate": "2027-05-30",
-        "currentMatchday": 2,
-        "winner": null
-      },
-      "id": 564638,
-      "utcDate": "2026-08-20T19:00:00Z",
-      "status": "TIMED",
-      "matchday": 2,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-20T20:33:35Z",
-      "homeTeam": {
-        "id": 87,
-        "name": "Rayo Vallecano de Madrid",
-        "shortName": "Rayo Vallecano",
-        "tla": "RAY",
-        "crest": "https://crests.football-data.org/87.png"
-      },
-      "awayTeam": {
-        "id": 263,
-        "name": "Deportivo Alavés",
-        "shortName": "Alavés",
-        "tla": "ALA",
-        "crest": "https://crests.football-data.org/263.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 206223,
-          "name": "José Munuera Montero",
-          "type": "REFEREE",
-          "nationality": "Spain"
-        }
-      ]
-    },
     {
       "area": {
         "id": 2081,
@@ -503808,7 +503809,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-20 18:44 UTC"
+      "lastSuccessfulUpdate": "2026-08-20 19:20 UTC"
     },
     "BL1": {
       "status": "connected",
