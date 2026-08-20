@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-20 19:57 UTC",
-  "lastUpdate": "2026-08-20 19:57 UTC",
+  "generatedAt": "2026-08-20 20:28 UTC",
+  "lastUpdate": "2026-08-20 20:28 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -45288,11 +45288,11 @@
       },
       "id": 564638,
       "utcDate": "2026-08-20T19:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-20T21:55:43Z",
+      "lastUpdated": "2026-08-20T22:27:11Z",
       "homeTeam": {
         "id": 87,
         "name": "Rayo Vallecano de Madrid",
@@ -45308,10 +45308,10 @@
         "crest": "https://crests.football-data.org/263.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 0
         },
         "halfTime": {
@@ -223264,11 +223264,11 @@
       },
       "id": 564638,
       "utcDate": "2026-08-20T19:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-20T21:55:43Z",
+      "lastUpdated": "2026-08-20T22:27:11Z",
       "homeTeam": {
         "id": 87,
         "name": "Rayo Vallecano de Madrid",
@@ -223284,10 +223284,10 @@
         "crest": "https://crests.football-data.org/263.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 0
         },
         "halfTime": {
@@ -501058,25 +501058,6 @@
             {
               "position": 1,
               "team": {
-                "id": 263,
-                "name": "Deportivo Alavés",
-                "shortName": "Alavés",
-                "tla": "ALA",
-                "crest": "https://crests.football-data.org/263.png"
-              },
-              "playedGames": 1,
-              "form": null,
-              "won": 1,
-              "draw": 0,
-              "lost": 0,
-              "points": 3,
-              "goalsFor": 3,
-              "goalsAgainst": 0,
-              "goalDifference": 3
-            },
-            {
-              "position": 1,
-              "team": {
                 "id": 80,
                 "name": "RCD Espanyol de Barcelona",
                 "shortName": "Espanyol",
@@ -501092,6 +501073,25 @@
               "goalsFor": 3,
               "goalsAgainst": 0,
               "goalDifference": 3
+            },
+            {
+              "position": 2,
+              "team": {
+                "id": 263,
+                "name": "Deportivo Alavés",
+                "shortName": "Alavés",
+                "tla": "ALA",
+                "crest": "https://crests.football-data.org/263.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 1,
+              "draw": 0,
+              "lost": 1,
+              "points": 3,
+              "goalsFor": 3,
+              "goalsAgainst": 1,
+              "goalDifference": 2
             },
             {
               "position": 3,
@@ -501134,6 +501134,25 @@
             {
               "position": 5,
               "team": {
+                "id": 87,
+                "name": "Rayo Vallecano de Madrid",
+                "shortName": "Rayo Vallecano",
+                "tla": "RAY",
+                "crest": "https://crests.football-data.org/87.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 1,
+              "draw": 0,
+              "lost": 1,
+              "points": 3,
+              "goalsFor": 2,
+              "goalsAgainst": 2,
+              "goalDifference": 0
+            },
+            {
+              "position": 6,
+              "team": {
                 "id": 5335,
                 "name": "Real Racing Club de Santander",
                 "shortName": "Santander",
@@ -501151,7 +501170,7 @@
               "goalDifference": 0
             },
             {
-              "position": 5,
+              "position": 6,
               "team": {
                 "id": 94,
                 "name": "Villarreal CF",
@@ -501170,7 +501189,7 @@
               "goalDifference": 0
             },
             {
-              "position": 7,
+              "position": 8,
               "team": {
                 "id": 560,
                 "name": "RC Deportivo La Coruña",
@@ -501189,7 +501208,7 @@
               "goalDifference": 0
             },
             {
-              "position": 7,
+              "position": 8,
               "team": {
                 "id": 285,
                 "name": "Elche CF",
@@ -501208,7 +501227,7 @@
               "goalDifference": 0
             },
             {
-              "position": 9,
+              "position": 10,
               "team": {
                 "id": 77,
                 "name": "Athletic Club",
@@ -501227,7 +501246,7 @@
               "goalDifference": 0
             },
             {
-              "position": 9,
+              "position": 10,
               "team": {
                 "id": 79,
                 "name": "CA Osasuna",
@@ -501246,7 +501265,7 @@
               "goalDifference": 0
             },
             {
-              "position": 9,
+              "position": 10,
               "team": {
                 "id": 81,
                 "name": "FC Barcelona",
@@ -501265,7 +501284,7 @@
               "goalDifference": 0
             },
             {
-              "position": 9,
+              "position": 10,
               "team": {
                 "id": 558,
                 "name": "RC Celta de Vigo",
@@ -501284,7 +501303,7 @@
               "goalDifference": 0
             },
             {
-              "position": 9,
+              "position": 10,
               "team": {
                 "id": 90,
                 "name": "Real Betis Balompié",
@@ -501303,7 +501322,7 @@
               "goalDifference": 0
             },
             {
-              "position": 9,
+              "position": 10,
               "team": {
                 "id": 86,
                 "name": "Real Madrid CF",
@@ -501322,7 +501341,7 @@
               "goalDifference": 0
             },
             {
-              "position": 9,
+              "position": 10,
               "team": {
                 "id": 92,
                 "name": "Real Sociedad de Fútbol",
@@ -501341,7 +501360,7 @@
               "goalDifference": 0
             },
             {
-              "position": 9,
+              "position": 10,
               "team": {
                 "id": 95,
                 "name": "Valencia CF",
@@ -501358,25 +501377,6 @@
               "goalsFor": 0,
               "goalsAgainst": 0,
               "goalDifference": 0
-            },
-            {
-              "position": 17,
-              "team": {
-                "id": 87,
-                "name": "Rayo Vallecano de Madrid",
-                "shortName": "Rayo Vallecano",
-                "tla": "RAY",
-                "crest": "https://crests.football-data.org/87.png"
-              },
-              "playedGames": 1,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 1,
-              "points": 0,
-              "goalsFor": 1,
-              "goalsAgainst": 2,
-              "goalDifference": -1
             },
             {
               "position": 18,
@@ -503809,7 +503809,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-20 19:55 UTC"
+      "lastSuccessfulUpdate": "2026-08-20 20:27 UTC"
     },
     "BL1": {
       "status": "connected",
