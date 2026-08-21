@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-21 20:54 UTC",
-  "lastUpdate": "2026-08-21 20:54 UTC",
+  "generatedAt": "2026-08-21 21:23 UTC",
+  "lastUpdate": "2026-08-21 21:23 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -45420,11 +45420,11 @@
       },
       "id": 564647,
       "utcDate": "2026-08-21T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-21T22:52:36Z",
+      "lastUpdated": "2026-08-21T22:56:52Z",
       "homeTeam": {
         "id": 90,
         "name": "Real Betis Balompié",
@@ -45486,11 +45486,11 @@
       },
       "id": 560542,
       "utcDate": "2026-08-21T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-21T22:52:36Z",
+      "lastUpdated": "2026-08-21T22:53:40Z",
       "homeTeam": {
         "id": 57,
         "name": "Arsenal FC",
@@ -49849,7 +49849,7 @@
         "startDate": "2026-07-01",
         "endDate": "2027-06-30"
       },
-      "venue": "Innviertel Arena"
+      "venue": "Raiffeisen Arena (Linz)"
     },
     {
       "id": 1501909196,
@@ -223261,140 +223261,7 @@
       "referees": []
     }
   ],
-  "live": [
-    {
-      "area": {
-        "id": 2224,
-        "name": "Spain",
-        "code": "ESP",
-        "flag": "https://crests.football-data.org/760.svg"
-      },
-      "competition": {
-        "id": 2014,
-        "name": "Primera Division",
-        "code": "PD",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/laliga.png"
-      },
-      "season": {
-        "id": 2518,
-        "startDate": "2026-08-16",
-        "endDate": "2027-05-30",
-        "currentMatchday": 2,
-        "winner": null
-      },
-      "id": 564647,
-      "utcDate": "2026-08-21T19:00:00Z",
-      "status": "IN_PLAY",
-      "matchday": 2,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-21T22:52:36Z",
-      "homeTeam": {
-        "id": 90,
-        "name": "Real Betis Balompié",
-        "shortName": "Real Betis",
-        "tla": "BET",
-        "crest": "https://crests.football-data.org/90.png"
-      },
-      "awayTeam": {
-        "id": 92,
-        "name": "Real Sociedad de Fútbol",
-        "shortName": "Real Sociedad",
-        "tla": "RSO",
-        "crest": "https://crests.football-data.org/92.png"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 0
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 57930,
-          "name": "Isidro Díaz de Mera",
-          "type": "REFEREE",
-          "nationality": "Spain"
-        }
-      ]
-    },
-    {
-      "area": {
-        "id": 2072,
-        "name": "England",
-        "code": "ENG",
-        "flag": "https://crests.football-data.org/770.svg"
-      },
-      "competition": {
-        "id": 2021,
-        "name": "Premier League",
-        "code": "PL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PL.png"
-      },
-      "season": {
-        "id": 2502,
-        "startDate": "2026-08-21",
-        "endDate": "2027-05-30",
-        "currentMatchday": 1,
-        "winner": null
-      },
-      "id": 560542,
-      "utcDate": "2026-08-21T19:00:00Z",
-      "status": "IN_PLAY",
-      "matchday": 1,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-21T22:52:36Z",
-      "homeTeam": {
-        "id": 57,
-        "name": "Arsenal FC",
-        "shortName": "Arsenal",
-        "tla": "ARS",
-        "crest": "https://crests.football-data.org/57.png"
-      },
-      "awayTeam": {
-        "id": 1076,
-        "name": "Coventry City FC",
-        "shortName": "Coventry City",
-        "tla": "COV",
-        "crest": "https://crests.football-data.org/1076.png"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 3,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 2,
-          "away": 0
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 11620,
-          "name": "Thomas Bramall",
-          "type": "REFEREE",
-          "nationality": "England"
-        }
-      ]
-    }
-  ],
+  "live": [],
   "finished": [
     {
       "area": {
@@ -268419,6 +268286,138 @@
           "nationality": "France"
         }
       ]
+    },
+    {
+      "area": {
+        "id": 2224,
+        "name": "Spain",
+        "code": "ESP",
+        "flag": "https://crests.football-data.org/760.svg"
+      },
+      "competition": {
+        "id": 2014,
+        "name": "Primera Division",
+        "code": "PD",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/laliga.png"
+      },
+      "season": {
+        "id": 2518,
+        "startDate": "2026-08-16",
+        "endDate": "2027-05-30",
+        "currentMatchday": 2,
+        "winner": null
+      },
+      "id": 564647,
+      "utcDate": "2026-08-21T19:00:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-21T22:56:52Z",
+      "homeTeam": {
+        "id": 90,
+        "name": "Real Betis Balompié",
+        "shortName": "Real Betis",
+        "tla": "BET",
+        "crest": "https://crests.football-data.org/90.png"
+      },
+      "awayTeam": {
+        "id": 92,
+        "name": "Real Sociedad de Fútbol",
+        "shortName": "Real Sociedad",
+        "tla": "RSO",
+        "crest": "https://crests.football-data.org/92.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 57930,
+          "name": "Isidro Díaz de Mera",
+          "type": "REFEREE",
+          "nationality": "Spain"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/PL.png"
+      },
+      "season": {
+        "id": 2502,
+        "startDate": "2026-08-21",
+        "endDate": "2027-05-30",
+        "currentMatchday": 1,
+        "winner": null
+      },
+      "id": 560542,
+      "utcDate": "2026-08-21T19:00:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-21T22:53:40Z",
+      "homeTeam": {
+        "id": 57,
+        "name": "Arsenal FC",
+        "shortName": "Arsenal",
+        "tla": "ARS",
+        "crest": "https://crests.football-data.org/57.png"
+      },
+      "awayTeam": {
+        "id": 1076,
+        "name": "Coventry City FC",
+        "shortName": "Coventry City",
+        "tla": "COV",
+        "crest": "https://crests.football-data.org/1076.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 3,
+          "away": 0
+        },
+        "halfTime": {
+          "home": 2,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 11620,
+          "name": "Thomas Bramall",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     }
   ],
   "upcoming": [
@@ -272683,7 +272682,7 @@
         "startDate": "2026-07-01",
         "endDate": "2027-06-30"
       },
-      "venue": "Innviertel Arena"
+      "venue": "Raiffeisen Arena (Linz)"
     },
     {
       "id": 1501909196,
@@ -501176,6 +501175,25 @@
             {
               "position": 5,
               "team": {
+                "id": 90,
+                "name": "Real Betis Balompié",
+                "shortName": "Real Betis",
+                "tla": "BET",
+                "crest": "https://crests.football-data.org/90.png"
+              },
+              "playedGames": 1,
+              "form": null,
+              "won": 1,
+              "draw": 0,
+              "lost": 0,
+              "points": 3,
+              "goalsFor": 1,
+              "goalsAgainst": 0,
+              "goalDifference": 1
+            },
+            {
+              "position": 6,
+              "team": {
                 "id": 5335,
                 "name": "Real Racing Club de Santander",
                 "shortName": "Santander",
@@ -501193,7 +501211,7 @@
               "goalDifference": 0
             },
             {
-              "position": 5,
+              "position": 6,
               "team": {
                 "id": 94,
                 "name": "Villarreal CF",
@@ -501212,7 +501230,7 @@
               "goalDifference": 0
             },
             {
-              "position": 7,
+              "position": 8,
               "team": {
                 "id": 560,
                 "name": "RC Deportivo La Coruña",
@@ -501231,7 +501249,7 @@
               "goalDifference": 0
             },
             {
-              "position": 7,
+              "position": 8,
               "team": {
                 "id": 285,
                 "name": "Elche CF",
@@ -501250,7 +501268,7 @@
               "goalDifference": 0
             },
             {
-              "position": 9,
+              "position": 10,
               "team": {
                 "id": 87,
                 "name": "Rayo Vallecano de Madrid",
@@ -501269,7 +501287,7 @@
               "goalDifference": -1
             },
             {
-              "position": 10,
+              "position": 11,
               "team": {
                 "id": 77,
                 "name": "Athletic Club",
@@ -501288,7 +501306,7 @@
               "goalDifference": 0
             },
             {
-              "position": 10,
+              "position": 11,
               "team": {
                 "id": 79,
                 "name": "CA Osasuna",
@@ -501307,7 +501325,7 @@
               "goalDifference": 0
             },
             {
-              "position": 10,
+              "position": 11,
               "team": {
                 "id": 81,
                 "name": "FC Barcelona",
@@ -501326,7 +501344,7 @@
               "goalDifference": 0
             },
             {
-              "position": 10,
+              "position": 11,
               "team": {
                 "id": 558,
                 "name": "RC Celta de Vigo",
@@ -501345,26 +501363,7 @@
               "goalDifference": 0
             },
             {
-              "position": 10,
-              "team": {
-                "id": 90,
-                "name": "Real Betis Balompié",
-                "shortName": "Real Betis",
-                "tla": "BET",
-                "crest": "https://crests.football-data.org/90.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 10,
+              "position": 11,
               "team": {
                 "id": 86,
                 "name": "Real Madrid CF",
@@ -501383,26 +501382,7 @@
               "goalDifference": 0
             },
             {
-              "position": 10,
-              "team": {
-                "id": 92,
-                "name": "Real Sociedad de Fútbol",
-                "shortName": "Real Sociedad",
-                "tla": "RSO",
-                "crest": "https://crests.football-data.org/92.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 10,
+              "position": 11,
               "team": {
                 "id": 95,
                 "name": "Valencia CF",
@@ -501419,6 +501399,25 @@
               "goalsFor": 0,
               "goalsAgainst": 0,
               "goalDifference": 0
+            },
+            {
+              "position": 17,
+              "team": {
+                "id": 92,
+                "name": "Real Sociedad de Fútbol",
+                "shortName": "Real Sociedad",
+                "tla": "RSO",
+                "crest": "https://crests.football-data.org/92.png"
+              },
+              "playedGames": 1,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 1,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 1,
+              "goalDifference": -1
             },
             {
               "position": 18,
@@ -503822,7 +503821,7 @@
       "seasonId": 2454,
       "seasonStart": "2025-09-16",
       "seasonEnd": "2026-05-30",
-      "lastSuccessfulUpdate": "2026-08-19 22:24 UTC",
+      "lastSuccessfulUpdate": "2026-08-21 21:23 UTC",
       "qualifyingProvider": "ESPN UEFA Champions League Qualifying",
       "qualifyingMatchCount": 24
     },
@@ -503833,7 +503832,7 @@
       "seasonId": 2502,
       "seasonStart": "2026-08-21",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-21 20:52 UTC"
+      "lastSuccessfulUpdate": "2026-08-21 21:22 UTC"
     },
     "ELC": {
       "status": "connected",
@@ -503851,7 +503850,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-21 20:53 UTC"
+      "lastSuccessfulUpdate": "2026-08-21 21:22 UTC"
     },
     "BL1": {
       "status": "connected",
