@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-21 19:15 UTC",
-  "lastUpdate": "2026-08-21 19:15 UTC",
+  "generatedAt": "2026-08-21 19:41 UTC",
+  "lastUpdate": "2026-08-21 19:41 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -45354,11 +45354,11 @@
       },
       "id": 559715,
       "utcDate": "2026-08-21T18:45:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-21T21:15:01Z",
+      "lastUpdated": "2026-08-21T21:40:36Z",
       "homeTeam": {
         "id": 516,
         "name": "Olympique de Marseille",
@@ -45381,8 +45381,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -45424,7 +45424,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-21T21:14:29Z",
+      "lastUpdated": "2026-08-21T21:40:36Z",
       "homeTeam": {
         "id": 90,
         "name": "Real Betis Balompié",
@@ -45490,7 +45490,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-21T21:13:57Z",
+      "lastUpdated": "2026-08-21T21:40:05Z",
       "homeTeam": {
         "id": 57,
         "name": "Arsenal FC",
@@ -45506,10 +45506,10 @@
         "crest": "https://crests.football-data.org/1076.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 0
         },
         "halfTime": {
@@ -223285,11 +223285,11 @@
       },
       "id": 559715,
       "utcDate": "2026-08-21T18:45:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-21T21:15:01Z",
+      "lastUpdated": "2026-08-21T21:40:36Z",
       "homeTeam": {
         "id": 516,
         "name": "Olympique de Marseille",
@@ -223312,8 +223312,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -223355,7 +223355,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-21T21:14:29Z",
+      "lastUpdated": "2026-08-21T21:40:36Z",
       "homeTeam": {
         "id": 90,
         "name": "Real Betis Balompié",
@@ -223421,7 +223421,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-21T21:13:57Z",
+      "lastUpdated": "2026-08-21T21:40:05Z",
       "homeTeam": {
         "id": 57,
         "name": "Arsenal FC",
@@ -223437,10 +223437,10 @@
         "crest": "https://crests.football-data.org/1076.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 0
         },
         "halfTime": {
@@ -503833,7 +503833,7 @@
       "seasonId": 2502,
       "seasonStart": "2026-08-21",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-21 19:14 UTC"
+      "lastSuccessfulUpdate": "2026-08-21 19:40 UTC"
     },
     "ELC": {
       "status": "connected",
@@ -503851,7 +503851,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-21 19:14 UTC"
+      "lastSuccessfulUpdate": "2026-08-21 19:40 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -503878,7 +503878,7 @@
       "seasonId": 2497,
       "seasonStart": "2026-08-22",
       "seasonEnd": "2027-05-29",
-      "lastSuccessfulUpdate": "2026-08-21 19:15 UTC"
+      "lastSuccessfulUpdate": "2026-08-21 19:41 UTC"
     },
     "DED": {
       "status": "connected",
