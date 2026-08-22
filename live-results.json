@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-22 17:20 UTC",
-  "lastUpdate": "2026-08-22 17:20 UTC",
+  "generatedAt": "2026-08-22 17:47 UTC",
+  "lastUpdate": "2026-08-22 17:47 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -46858,11 +46858,11 @@
       },
       "id": 560547,
       "utcDate": "2026-08-22T16:30:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T19:18:42Z",
+      "lastUpdated": "2026-08-22T19:45:54Z",
       "homeTeam": {
         "id": 402,
         "name": "Brentford FC",
@@ -46881,7 +46881,7 @@
         "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 2,
+          "home": 3,
           "away": 0
         },
         "halfTime": {
@@ -46928,7 +46928,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T19:19:14Z",
+      "lastUpdated": "2026-08-22T19:46:26Z",
       "homeTeam": {
         "id": 115,
         "name": "Udinese Calcio",
@@ -46951,8 +46951,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
@@ -46994,7 +46994,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T19:19:14Z",
+      "lastUpdated": "2026-08-22T19:46:26Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -47010,15 +47010,15 @@
         "crest": "https://crests.football-data.org/5911.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 3,
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         }
       },
       "odds": {
@@ -47056,11 +47056,11 @@
       },
       "id": 558234,
       "utcDate": "2026-08-22T16:45:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T19:19:46Z",
+      "lastUpdated": "2026-08-22T19:46:26Z",
       "homeTeam": {
         "id": 6806,
         "name": "Sparta Rotterdam",
@@ -47076,15 +47076,15 @@
         "crest": "https://crests.football-data.org/676.png"
       },
       "score": {
-        "winner": "AWAY_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         }
       },
       "odds": {
@@ -47126,7 +47126,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T19:19:46Z",
+      "lastUpdated": "2026-08-22T19:46:58Z",
       "homeTeam": {
         "id": 582,
         "name": "GD Estoril Praia",
@@ -47181,11 +47181,11 @@
       },
       "id": 564643,
       "utcDate": "2026-08-22T17:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T19:07:30Z",
+      "lastUpdated": "2026-08-22T19:45:54Z",
       "homeTeam": {
         "id": 95,
         "name": "Valencia CF",
@@ -47201,11 +47201,11 @@
         "crest": "https://crests.football-data.org/558.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -47802,7 +47802,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 207080,
+          "name": "José Sánchez Martínez",
+          "type": "REFEREE",
+          "nationality": "Spain"
+        }
+      ]
     },
     {
       "area": {
@@ -223495,11 +223502,11 @@
       },
       "id": 560547,
       "utcDate": "2026-08-22T16:30:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T19:18:42Z",
+      "lastUpdated": "2026-08-22T19:45:54Z",
       "homeTeam": {
         "id": 402,
         "name": "Brentford FC",
@@ -223518,7 +223525,7 @@
         "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 2,
+          "home": 3,
           "away": 0
         },
         "halfTime": {
@@ -223565,7 +223572,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T19:19:14Z",
+      "lastUpdated": "2026-08-22T19:46:26Z",
       "homeTeam": {
         "id": 115,
         "name": "Udinese Calcio",
@@ -223588,8 +223595,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
@@ -223631,7 +223638,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T19:19:14Z",
+      "lastUpdated": "2026-08-22T19:46:26Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -223647,15 +223654,15 @@
         "crest": "https://crests.football-data.org/5911.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 3,
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         }
       },
       "odds": {
@@ -223693,11 +223700,11 @@
       },
       "id": 558234,
       "utcDate": "2026-08-22T16:45:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T19:19:46Z",
+      "lastUpdated": "2026-08-22T19:46:26Z",
       "homeTeam": {
         "id": 6806,
         "name": "Sparta Rotterdam",
@@ -223713,15 +223720,15 @@
         "crest": "https://crests.football-data.org/676.png"
       },
       "score": {
-        "winner": "AWAY_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         }
       },
       "odds": {
@@ -223763,7 +223770,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T19:19:46Z",
+      "lastUpdated": "2026-08-22T19:46:58Z",
       "homeTeam": {
         "id": 582,
         "name": "GD Estoril Praia",
@@ -223794,6 +223801,72 @@
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
+    },
+    {
+      "area": {
+        "id": 2224,
+        "name": "Spain",
+        "code": "ESP",
+        "flag": "https://crests.football-data.org/760.svg"
+      },
+      "competition": {
+        "id": 2014,
+        "name": "Primera Division",
+        "code": "PD",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/laliga.png"
+      },
+      "season": {
+        "id": 2518,
+        "startDate": "2026-08-16",
+        "endDate": "2027-05-30",
+        "currentMatchday": 2,
+        "winner": null
+      },
+      "id": 564643,
+      "utcDate": "2026-08-22T17:30:00Z",
+      "status": "IN_PLAY",
+      "matchday": 2,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-22T19:45:54Z",
+      "homeTeam": {
+        "id": 95,
+        "name": "Valencia CF",
+        "shortName": "Valencia",
+        "tla": "VAL",
+        "crest": "https://crests.football-data.org/95.png"
+      },
+      "awayTeam": {
+        "id": 558,
+        "name": "RC Celta de Vigo",
+        "shortName": "Celta",
+        "tla": "CEL",
+        "crest": "https://crests.football-data.org/558.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 206211,
+          "name": "Jesús Gil Manzano",
+          "type": "REFEREE",
+          "nationality": "Spain"
+        }
+      ]
     }
   ],
   "finished": [
@@ -270204,72 +270277,6 @@
   "upcoming": [
     {
       "area": {
-        "id": 2224,
-        "name": "Spain",
-        "code": "ESP",
-        "flag": "https://crests.football-data.org/760.svg"
-      },
-      "competition": {
-        "id": 2014,
-        "name": "Primera Division",
-        "code": "PD",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/laliga.png"
-      },
-      "season": {
-        "id": 2518,
-        "startDate": "2026-08-16",
-        "endDate": "2027-05-30",
-        "currentMatchday": 2,
-        "winner": null
-      },
-      "id": 564643,
-      "utcDate": "2026-08-22T17:30:00Z",
-      "status": "TIMED",
-      "matchday": 2,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-22T19:07:30Z",
-      "homeTeam": {
-        "id": 95,
-        "name": "Valencia CF",
-        "shortName": "Valencia",
-        "tla": "VAL",
-        "crest": "https://crests.football-data.org/95.png"
-      },
-      "awayTeam": {
-        "id": 558,
-        "name": "RC Celta de Vigo",
-        "shortName": "Celta",
-        "tla": "CEL",
-        "crest": "https://crests.football-data.org/558.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 206211,
-          "name": "Jesús Gil Manzano",
-          "type": "REFEREE",
-          "nationality": "Spain"
-        }
-      ]
-    },
-    {
-      "area": {
         "id": 2081,
         "name": "France",
         "code": "FRA",
@@ -270846,7 +270853,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 207080,
+          "name": "José Sánchez Martínez",
+          "type": "REFEREE",
+          "nationality": "Spain"
+        }
+      ]
     },
     {
       "area": {
@@ -503108,13 +503122,13 @@
               },
               "playedGames": 3,
               "form": null,
-              "won": 2,
-              "draw": 1,
+              "won": 3,
+              "draw": 0,
               "lost": 0,
-              "points": 7,
-              "goalsFor": 6,
+              "points": 9,
+              "goalsFor": 8,
               "goalsAgainst": 1,
-              "goalDifference": 5
+              "goalDifference": 7
             },
             {
               "position": 2,
@@ -503138,25 +503152,6 @@
             {
               "position": 3,
               "team": {
-                "id": 1920,
-                "name": "Fortuna Sittard",
-                "shortName": "Sittard",
-                "tla": "SIT",
-                "crest": "https://crests.football-data.org/1920.png"
-              },
-              "playedGames": 3,
-              "form": null,
-              "won": 1,
-              "draw": 2,
-              "lost": 0,
-              "points": 5,
-              "goalsFor": 5,
-              "goalsAgainst": 3,
-              "goalDifference": 2
-            },
-            {
-              "position": 4,
-              "team": {
                 "id": 718,
                 "name": "Go Ahead Eagles",
                 "shortName": "Go Ahead",
@@ -503174,7 +503169,7 @@
               "goalDifference": 3
             },
             {
-              "position": 5,
+              "position": 4,
               "team": {
                 "id": 678,
                 "name": "AFC Ajax",
@@ -503193,7 +503188,7 @@
               "goalDifference": 2
             },
             {
-              "position": 6,
+              "position": 5,
               "team": {
                 "id": 674,
                 "name": "PSV",
@@ -503206,6 +503201,25 @@
               "won": 1,
               "draw": 1,
               "lost": 0,
+              "points": 4,
+              "goalsFor": 4,
+              "goalsAgainst": 3,
+              "goalDifference": 1
+            },
+            {
+              "position": 5,
+              "team": {
+                "id": 6806,
+                "name": "Sparta Rotterdam",
+                "shortName": "Sparta",
+                "tla": "SPA",
+                "crest": "https://crests.football-data.org/6806.png"
+              },
+              "playedGames": 3,
+              "form": null,
+              "won": 1,
+              "draw": 1,
+              "lost": 1,
               "points": 4,
               "goalsFor": 4,
               "goalsAgainst": 3,
@@ -503252,6 +503266,25 @@
             {
               "position": 9,
               "team": {
+                "id": 1920,
+                "name": "Fortuna Sittard",
+                "shortName": "Sittard",
+                "tla": "SIT",
+                "crest": "https://crests.football-data.org/1920.png"
+              },
+              "playedGames": 3,
+              "form": null,
+              "won": 1,
+              "draw": 1,
+              "lost": 1,
+              "points": 4,
+              "goalsFor": 5,
+              "goalsAgainst": 5,
+              "goalDifference": 0
+            },
+            {
+              "position": 10,
+              "team": {
                 "id": 670,
                 "name": "SBV Excelsior",
                 "shortName": "Excelsior",
@@ -503269,7 +503302,7 @@
               "goalDifference": 3
             },
             {
-              "position": 10,
+              "position": 11,
               "team": {
                 "id": 1915,
                 "name": "NEC",
@@ -503288,32 +503321,13 @@
               "goalDifference": 2
             },
             {
-              "position": 11,
+              "position": 12,
               "team": {
                 "id": 666,
                 "name": "FC Twente '65",
                 "shortName": "Twente",
                 "tla": "TWE",
                 "crest": "https://crests.football-data.org/666.png"
-              },
-              "playedGames": 2,
-              "form": null,
-              "won": 1,
-              "draw": 0,
-              "lost": 1,
-              "points": 3,
-              "goalsFor": 3,
-              "goalsAgainst": 2,
-              "goalDifference": 1
-            },
-            {
-              "position": 11,
-              "team": {
-                "id": 6806,
-                "name": "Sparta Rotterdam",
-                "shortName": "Sparta",
-                "tla": "SPA",
-                "crest": "https://crests.football-data.org/6806.png"
               },
               "playedGames": 2,
               "form": null,
@@ -503353,14 +503367,14 @@
                 "tla": "UTR",
                 "crest": "https://crests.football-data.org/676.png"
               },
-              "playedGames": 2,
+              "playedGames": 3,
               "form": null,
               "won": 0,
-              "draw": 0,
+              "draw": 1,
               "lost": 2,
-              "points": 0,
-              "goalsFor": 2,
-              "goalsAgainst": 6,
+              "points": 1,
+              "goalsFor": 3,
+              "goalsAgainst": 7,
               "goalDifference": -4
             },
             {
@@ -504253,7 +504267,7 @@
       "seasonId": 2502,
       "seasonStart": "2026-08-21",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-22 17:18 UTC"
+      "lastSuccessfulUpdate": "2026-08-22 17:46 UTC"
     },
     "ELC": {
       "status": "connected",
@@ -504271,7 +504285,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-22 17:19 UTC"
+      "lastSuccessfulUpdate": "2026-08-22 17:46 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -504289,7 +504303,7 @@
       "seasonId": 2494,
       "seasonStart": "2026-08-23",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-22 17:19 UTC"
+      "lastSuccessfulUpdate": "2026-08-22 17:46 UTC"
     },
     "FL1": {
       "status": "connected",
@@ -504307,7 +504321,7 @@
       "seasonId": 2493,
       "seasonStart": "2026-08-07",
       "seasonEnd": "2027-05-23",
-      "lastSuccessfulUpdate": "2026-08-22 17:19 UTC"
+      "lastSuccessfulUpdate": "2026-08-22 17:47 UTC"
     },
     "PPL": {
       "status": "connected",
@@ -504316,7 +504330,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-22 17:19 UTC"
+      "lastSuccessfulUpdate": "2026-08-22 17:47 UTC"
     },
     "BSA": {
       "status": "connected",
