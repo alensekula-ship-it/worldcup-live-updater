@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-22 09:33 UTC",
-  "lastUpdate": "2026-08-22 09:33 UTC",
+  "generatedAt": "2026-08-22 11:00 UTC",
+  "lastUpdate": "2026-08-22 11:00 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -45615,7 +45615,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T10:20:34Z",
+      "lastUpdated": "2026-08-22T12:51:00Z",
       "homeTeam": {
         "id": 332,
         "name": "Birmingham City FC",
@@ -45681,7 +45681,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T10:20:34Z",
+      "lastUpdated": "2026-08-22T12:58:28Z",
       "homeTeam": {
         "id": 1126,
         "name": "Lincoln City FC",
@@ -45747,7 +45747,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T10:20:34Z",
+      "lastUpdated": "2026-08-22T12:59:00Z",
       "homeTeam": {
         "id": 384,
         "name": "Millwall FC",
@@ -45813,7 +45813,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T10:20:34Z",
+      "lastUpdated": "2026-08-22T12:51:00Z",
       "homeTeam": {
         "id": 322,
         "name": "Hull City AFC",
@@ -268476,7 +268476,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T10:20:34Z",
+      "lastUpdated": "2026-08-22T12:51:00Z",
       "homeTeam": {
         "id": 332,
         "name": "Birmingham City FC",
@@ -268542,7 +268542,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T10:20:34Z",
+      "lastUpdated": "2026-08-22T12:58:28Z",
       "homeTeam": {
         "id": 1126,
         "name": "Lincoln City FC",
@@ -268608,7 +268608,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T10:20:34Z",
+      "lastUpdated": "2026-08-22T12:59:00Z",
       "homeTeam": {
         "id": 384,
         "name": "Millwall FC",
@@ -268674,7 +268674,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T10:20:34Z",
+      "lastUpdated": "2026-08-22T12:51:00Z",
       "homeTeam": {
         "id": 322,
         "name": "Hull City AFC",
@@ -503888,7 +503888,7 @@
       "seasonId": 2502,
       "seasonStart": "2026-08-21",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-22 09:31 UTC"
+      "lastSuccessfulUpdate": "2026-08-22 10:59 UTC"
     },
     "ELC": {
       "status": "connected",
@@ -503897,7 +503897,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-08-22 09:32 UTC"
+      "lastSuccessfulUpdate": "2026-08-22 10:59 UTC"
     },
     "PD": {
       "status": "connected",
