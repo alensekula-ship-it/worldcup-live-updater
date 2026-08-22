@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-22 16:51 UTC",
-  "lastUpdate": "2026-08-22 16:51 UTC",
+  "generatedAt": "2026-08-22 17:20 UTC",
+  "lastUpdate": "2026-08-22 17:20 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -46726,11 +46726,11 @@
       },
       "id": 564641,
       "utcDate": "2026-08-22T15:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T18:49:54Z",
+      "lastUpdated": "2026-08-22T19:02:10Z",
       "homeTeam": {
         "id": 77,
         "name": "Athletic Club",
@@ -46792,11 +46792,11 @@
       },
       "id": 559712,
       "utcDate": "2026-08-22T15:15:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T18:50:26Z",
+      "lastUpdated": "2026-08-22T19:13:54Z",
       "homeTeam": {
         "id": 546,
         "name": "Racing Club de Lens",
@@ -46815,7 +46815,7 @@
         "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 4,
+          "home": 5,
           "away": 2
         },
         "halfTime": {
@@ -46858,11 +46858,11 @@
       },
       "id": 560547,
       "utcDate": "2026-08-22T16:30:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T18:49:54Z",
+      "lastUpdated": "2026-08-22T19:18:42Z",
       "homeTeam": {
         "id": 402,
         "name": "Brentford FC",
@@ -46881,12 +46881,12 @@
         "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 2,
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         }
       },
       "odds": {
@@ -46928,7 +46928,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T18:50:26Z",
+      "lastUpdated": "2026-08-22T19:19:14Z",
       "homeTeam": {
         "id": 115,
         "name": "Udinese Calcio",
@@ -46944,10 +46944,10 @@
         "crest": "https://crests.football-data.org/7397.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 0
         },
         "halfTime": {
@@ -46994,7 +46994,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T18:50:26Z",
+      "lastUpdated": "2026-08-22T19:19:14Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -47010,11 +47010,11 @@
         "crest": "https://crests.football-data.org/5911.png"
       },
       "score": {
-        "winner": "HOME_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
           "home": 1,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": null,
@@ -47060,7 +47060,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T18:50:26Z",
+      "lastUpdated": "2026-08-22T19:19:46Z",
       "homeTeam": {
         "id": 6806,
         "name": "Sparta Rotterdam",
@@ -47076,11 +47076,11 @@
         "crest": "https://crests.football-data.org/676.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": null,
@@ -47122,11 +47122,11 @@
       },
       "id": 567279,
       "utcDate": "2026-08-22T17:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T18:28:35Z",
+      "lastUpdated": "2026-08-22T19:19:46Z",
       "homeTeam": {
         "id": 582,
         "name": "GD Estoril Praia",
@@ -47142,11 +47142,11 @@
         "crest": "https://crests.football-data.org/496.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "halfTime": {
           "home": null,
@@ -47185,7 +47185,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T10:20:33Z",
+      "lastUpdated": "2026-08-22T19:07:30Z",
       "homeTeam": {
         "id": 95,
         "name": "Valencia CF",
@@ -47736,7 +47736,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 56908,
+          "name": "Richard Martens",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
     },
     {
       "area": {
@@ -223467,138 +223474,6 @@
   "live": [
     {
       "area": {
-        "id": 2224,
-        "name": "Spain",
-        "code": "ESP",
-        "flag": "https://crests.football-data.org/760.svg"
-      },
-      "competition": {
-        "id": 2014,
-        "name": "Primera Division",
-        "code": "PD",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/laliga.png"
-      },
-      "season": {
-        "id": 2518,
-        "startDate": "2026-08-16",
-        "endDate": "2027-05-30",
-        "currentMatchday": 2,
-        "winner": null
-      },
-      "id": 564641,
-      "utcDate": "2026-08-22T15:00:00Z",
-      "status": "IN_PLAY",
-      "matchday": 2,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-22T18:49:54Z",
-      "homeTeam": {
-        "id": 77,
-        "name": "Athletic Club",
-        "shortName": "Athletic",
-        "tla": "ATH",
-        "crest": "https://crests.football-data.org/77.png"
-      },
-      "awayTeam": {
-        "id": 559,
-        "name": "Sevilla FC",
-        "shortName": "Sevilla FC",
-        "tla": "SEV",
-        "crest": "https://crests.football-data.org/559.png"
-      },
-      "score": {
-        "winner": "AWAY_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 3
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 1
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 207113,
-          "name": "César Soto Grado",
-          "type": "REFEREE",
-          "nationality": "Spain"
-        }
-      ]
-    },
-    {
-      "area": {
-        "id": 2081,
-        "name": "France",
-        "code": "FRA",
-        "flag": "https://crests.football-data.org/773.svg"
-      },
-      "competition": {
-        "id": 2015,
-        "name": "Ligue 1",
-        "code": "FL1",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      },
-      "season": {
-        "id": 2497,
-        "startDate": "2026-08-22",
-        "endDate": "2027-05-29",
-        "currentMatchday": 1,
-        "winner": null
-      },
-      "id": 559712,
-      "utcDate": "2026-08-22T15:15:00Z",
-      "status": "IN_PLAY",
-      "matchday": 1,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-22T18:50:26Z",
-      "homeTeam": {
-        "id": 546,
-        "name": "Racing Club de Lens",
-        "shortName": "RC Lens",
-        "tla": "RCL",
-        "crest": "https://crests.football-data.org/546.png"
-      },
-      "awayTeam": {
-        "id": 519,
-        "name": "AJ Auxerre",
-        "shortName": "Auxerre",
-        "tla": "AJA",
-        "crest": "https://crests.football-data.org/519.png"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 4,
-          "away": 2
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 0
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 57054,
-          "name": "Mathieu Vernice",
-          "type": "REFEREE",
-          "nationality": "France"
-        }
-      ]
-    },
-    {
-      "area": {
         "id": 2072,
         "name": "England",
         "code": "ENG",
@@ -223620,11 +223495,11 @@
       },
       "id": 560547,
       "utcDate": "2026-08-22T16:30:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T18:49:54Z",
+      "lastUpdated": "2026-08-22T19:18:42Z",
       "homeTeam": {
         "id": 402,
         "name": "Brentford FC",
@@ -223643,12 +223518,12 @@
         "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 2,
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         }
       },
       "odds": {
@@ -223690,7 +223565,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T18:50:26Z",
+      "lastUpdated": "2026-08-22T19:19:14Z",
       "homeTeam": {
         "id": 115,
         "name": "Udinese Calcio",
@@ -223706,10 +223581,10 @@
         "crest": "https://crests.football-data.org/7397.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 0
         },
         "halfTime": {
@@ -223756,7 +223631,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T18:50:26Z",
+      "lastUpdated": "2026-08-22T19:19:14Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -223772,11 +223647,11 @@
         "crest": "https://crests.football-data.org/5911.png"
       },
       "score": {
-        "winner": "HOME_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
           "home": 1,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": null,
@@ -223822,7 +223697,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T18:50:26Z",
+      "lastUpdated": "2026-08-22T19:19:46Z",
       "homeTeam": {
         "id": 6806,
         "name": "Sparta Rotterdam",
@@ -223838,11 +223713,11 @@
         "crest": "https://crests.football-data.org/676.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": null,
@@ -223860,6 +223735,65 @@
           "nationality": "Netherlands"
         }
       ]
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "competition": {
+        "id": 2017,
+        "name": "Primeira Liga",
+        "code": "PPL",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/PPL.png"
+      },
+      "season": {
+        "id": 2526,
+        "startDate": "2026-08-08",
+        "endDate": "2027-05-16",
+        "currentMatchday": 3,
+        "winner": null
+      },
+      "id": 567279,
+      "utcDate": "2026-08-22T17:00:00Z",
+      "status": "IN_PLAY",
+      "matchday": 3,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-22T19:19:46Z",
+      "homeTeam": {
+        "id": 582,
+        "name": "GD Estoril Praia",
+        "shortName": "Estoril Praia",
+        "tla": "EST",
+        "crest": "https://crests.football-data.org/582.png"
+      },
+      "awayTeam": {
+        "id": 496,
+        "name": "Rio Ave FC",
+        "shortName": "Rio Ave",
+        "tla": "RIO",
+        "crest": "https://crests.football-data.org/496.png"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 1
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": []
     }
   ],
   "finished": [
@@ -270133,68 +270067,141 @@
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
-    }
-  ],
-  "upcoming": [
+    },
     {
       "area": {
-        "id": 2187,
-        "name": "Portugal",
-        "code": "POR",
-        "flag": "https://crests.football-data.org/765.svg"
+        "id": 2224,
+        "name": "Spain",
+        "code": "ESP",
+        "flag": "https://crests.football-data.org/760.svg"
       },
       "competition": {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
+        "id": 2014,
+        "name": "Primera Division",
+        "code": "PD",
         "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
+        "emblem": "https://crests.football-data.org/laliga.png"
       },
       "season": {
-        "id": 2526,
-        "startDate": "2026-08-08",
-        "endDate": "2027-05-16",
-        "currentMatchday": 3,
+        "id": 2518,
+        "startDate": "2026-08-16",
+        "endDate": "2027-05-30",
+        "currentMatchday": 2,
         "winner": null
       },
-      "id": 567279,
-      "utcDate": "2026-08-22T17:00:00Z",
-      "status": "TIMED",
-      "matchday": 3,
+      "id": 564641,
+      "utcDate": "2026-08-22T15:00:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T18:28:35Z",
+      "lastUpdated": "2026-08-22T19:02:10Z",
       "homeTeam": {
-        "id": 582,
-        "name": "GD Estoril Praia",
-        "shortName": "Estoril Praia",
-        "tla": "EST",
-        "crest": "https://crests.football-data.org/582.png"
+        "id": 77,
+        "name": "Athletic Club",
+        "shortName": "Athletic",
+        "tla": "ATH",
+        "crest": "https://crests.football-data.org/77.png"
       },
       "awayTeam": {
-        "id": 496,
-        "name": "Rio Ave FC",
-        "shortName": "Rio Ave",
-        "tla": "RIO",
-        "crest": "https://crests.football-data.org/496.png"
+        "id": 559,
+        "name": "Sevilla FC",
+        "shortName": "Sevilla FC",
+        "tla": "SEV",
+        "crest": "https://crests.football-data.org/559.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 3
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 207113,
+          "name": "César Soto Grado",
+          "type": "REFEREE",
+          "nationality": "Spain"
+        }
+      ]
     },
+    {
+      "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+      },
+      "competition": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "code": "FL1",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/FL1.png"
+      },
+      "season": {
+        "id": 2497,
+        "startDate": "2026-08-22",
+        "endDate": "2027-05-29",
+        "currentMatchday": 1,
+        "winner": null
+      },
+      "id": 559712,
+      "utcDate": "2026-08-22T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-22T19:13:54Z",
+      "homeTeam": {
+        "id": 546,
+        "name": "Racing Club de Lens",
+        "shortName": "RC Lens",
+        "tla": "RCL",
+        "crest": "https://crests.football-data.org/546.png"
+      },
+      "awayTeam": {
+        "id": 519,
+        "name": "AJ Auxerre",
+        "shortName": "Auxerre",
+        "tla": "AJA",
+        "crest": "https://crests.football-data.org/519.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 5,
+          "away": 2
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 57054,
+          "name": "Mathieu Vernice",
+          "type": "REFEREE",
+          "nationality": "France"
+        }
+      ]
+    }
+  ],
+  "upcoming": [
     {
       "area": {
         "id": 2224,
@@ -270222,7 +270229,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T10:20:33Z",
+      "lastUpdated": "2026-08-22T19:07:30Z",
       "homeTeam": {
         "id": 95,
         "name": "Valencia CF",
@@ -270773,7 +270780,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 56908,
+          "name": "Richard Martens",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
     },
     {
       "area": {
@@ -501047,27 +501061,27 @@
               "draw": 0,
               "lost": 0,
               "points": 6,
-              "goalsFor": 3,
-              "goalsAgainst": 1,
+              "goalsFor": 4,
+              "goalsAgainst": 2,
               "goalDifference": 2
             },
             {
-              "position": 2,
+              "position": 3,
               "team": {
-                "id": 343,
-                "name": "Middlesbrough FC",
-                "shortName": "Middlesbrough",
-                "tla": "MID",
-                "crest": "https://crests.football-data.org/343.png"
+                "id": 76,
+                "name": "Wolverhampton Wanderers FC",
+                "shortName": "Wolverhampton",
+                "tla": "WOL",
+                "crest": "https://crests.football-data.org/76.png"
               },
               "playedGames": 2,
               "form": null,
-              "won": 2,
-              "draw": 0,
+              "won": 1,
+              "draw": 1,
               "lost": 0,
-              "points": 6,
-              "goalsFor": 3,
-              "goalsAgainst": 1,
+              "points": 4,
+              "goalsFor": 5,
+              "goalsAgainst": 3,
               "goalDifference": 2
             },
             {
@@ -501092,11 +501106,11 @@
             {
               "position": 5,
               "team": {
-                "id": 715,
-                "name": "Cardiff City FC",
-                "shortName": "Cardiff",
-                "tla": "CAR",
-                "crest": "https://crests.football-data.org/715.png"
+                "id": 59,
+                "name": "Blackburn Rovers FC",
+                "shortName": "Blackburn",
+                "tla": "BLA",
+                "crest": "https://crests.football-data.org/59.png"
               },
               "playedGames": 2,
               "form": null,
@@ -501104,12 +501118,12 @@
               "draw": 1,
               "lost": 0,
               "points": 4,
-              "goalsFor": 3,
-              "goalsAgainst": 2,
+              "goalsFor": 4,
+              "goalsAgainst": 3,
               "goalDifference": 1
             },
             {
-              "position": 5,
+              "position": 6,
               "team": {
                 "id": 346,
                 "name": "Watford FC",
@@ -501128,26 +501142,7 @@
               "goalDifference": 1
             },
             {
-              "position": 5,
-              "team": {
-                "id": 76,
-                "name": "Wolverhampton Wanderers FC",
-                "shortName": "Wolverhampton",
-                "tla": "WOL",
-                "crest": "https://crests.football-data.org/76.png"
-              },
-              "playedGames": 2,
-              "form": null,
-              "won": 1,
-              "draw": 1,
-              "lost": 0,
-              "points": 4,
-              "goalsFor": 3,
-              "goalsAgainst": 2,
-              "goalDifference": 1
-            },
-            {
-              "position": 8,
+              "position": 7,
               "team": {
                 "id": 60,
                 "name": "Bolton Wanderers FC",
@@ -501166,7 +501161,7 @@
               "goalDifference": 1
             },
             {
-              "position": 8,
+              "position": 7,
               "team": {
                 "id": 72,
                 "name": "Swansea City AFC",
@@ -501182,6 +501177,25 @@
               "points": 4,
               "goalsFor": 2,
               "goalsAgainst": 1,
+              "goalDifference": 1
+            },
+            {
+              "position": 9,
+              "team": {
+                "id": 340,
+                "name": "Southampton FC",
+                "shortName": "Southampton",
+                "tla": "SOU",
+                "crest": "https://crests.football-data.org/340.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 1,
+              "draw": 0,
+              "lost": 1,
+              "points": 3,
+              "goalsFor": 4,
+              "goalsAgainst": 3,
               "goalDifference": 1
             },
             {
@@ -501225,6 +501239,44 @@
             {
               "position": 12,
               "team": {
+                "id": 343,
+                "name": "Middlesbrough FC",
+                "shortName": "Middlesbrough",
+                "tla": "MID",
+                "crest": "https://crests.football-data.org/343.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 1,
+              "draw": 0,
+              "lost": 1,
+              "points": 3,
+              "goalsFor": 3,
+              "goalsAgainst": 3,
+              "goalDifference": 0
+            },
+            {
+              "position": 13,
+              "team": {
+                "id": 715,
+                "name": "Cardiff City FC",
+                "shortName": "Cardiff",
+                "tla": "CAR",
+                "crest": "https://crests.football-data.org/715.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 0,
+              "draw": 2,
+              "lost": 0,
+              "points": 2,
+              "goalsFor": 3,
+              "goalsAgainst": 3,
+              "goalDifference": 0
+            },
+            {
+              "position": 14,
+              "team": {
                 "id": 332,
                 "name": "Birmingham City FC",
                 "shortName": "Birmingham",
@@ -501242,7 +501294,7 @@
               "goalDifference": 0
             },
             {
-              "position": 12,
+              "position": 14,
               "team": {
                 "id": 404,
                 "name": "Wrexham AFC",
@@ -501261,7 +501313,7 @@
               "goalDifference": 0
             },
             {
-              "position": 14,
+              "position": 16,
               "team": {
                 "id": 356,
                 "name": "Sheffield United FC",
@@ -501280,7 +501332,7 @@
               "goalDifference": 0
             },
             {
-              "position": 15,
+              "position": 17,
               "team": {
                 "id": 328,
                 "name": "Burnley FC",
@@ -501299,13 +501351,13 @@
               "goalDifference": 0
             },
             {
-              "position": 16,
+              "position": 18,
               "team": {
-                "id": 59,
-                "name": "Blackburn Rovers FC",
-                "shortName": "Blackburn",
-                "tla": "BLA",
-                "crest": "https://crests.football-data.org/59.png"
+                "id": 342,
+                "name": "Derby County FC",
+                "shortName": "Derby County",
+                "tla": "DER",
+                "crest": "https://crests.football-data.org/342.png"
               },
               "playedGames": 2,
               "form": null,
@@ -501313,50 +501365,12 @@
               "draw": 1,
               "lost": 1,
               "points": 1,
-              "goalsFor": 2,
-              "goalsAgainst": 3,
+              "goalsFor": 3,
+              "goalsAgainst": 4,
               "goalDifference": -1
             },
             {
-              "position": 16,
-              "team": {
-                "id": 340,
-                "name": "Southampton FC",
-                "shortName": "Southampton",
-                "tla": "SOU",
-                "crest": "https://crests.football-data.org/340.png"
-              },
-              "playedGames": 2,
-              "form": null,
-              "won": 0,
-              "draw": 1,
-              "lost": 1,
-              "points": 1,
-              "goalsFor": 2,
-              "goalsAgainst": 3,
-              "goalDifference": -1
-            },
-            {
-              "position": 16,
-              "team": {
-                "id": 70,
-                "name": "Stoke City FC",
-                "shortName": "Stoke",
-                "tla": "STK",
-                "crest": "https://crests.football-data.org/70.png"
-              },
-              "playedGames": 2,
-              "form": null,
-              "won": 0,
-              "draw": 1,
-              "lost": 1,
-              "points": 1,
-              "goalsFor": 2,
-              "goalsAgainst": 3,
-              "goalDifference": -1
-            },
-            {
-              "position": 16,
+              "position": 18,
               "team": {
                 "id": 563,
                 "name": "West Ham United FC",
@@ -501370,8 +501384,8 @@
               "draw": 1,
               "lost": 1,
               "points": 1,
-              "goalsFor": 2,
-              "goalsAgainst": 3,
+              "goalsFor": 3,
+              "goalsAgainst": 4,
               "goalDifference": -1
             },
             {
@@ -501396,11 +501410,11 @@
             {
               "position": 21,
               "team": {
-                "id": 342,
-                "name": "Derby County FC",
-                "shortName": "Derby County",
-                "tla": "DER",
-                "crest": "https://crests.football-data.org/342.png"
+                "id": 1126,
+                "name": "Lincoln City FC",
+                "shortName": "Lincoln City",
+                "tla": "LIN",
+                "crest": "https://crests.football-data.org/1126.png"
               },
               "playedGames": 2,
               "form": null,
@@ -501409,11 +501423,11 @@
               "lost": 2,
               "points": 0,
               "goalsFor": 2,
-              "goalsAgainst": 4,
-              "goalDifference": -2
+              "goalsAgainst": 5,
+              "goalDifference": -3
             },
             {
-              "position": 22,
+              "position": 21,
               "team": {
                 "id": 1081,
                 "name": "Preston North End FC",
@@ -501427,18 +501441,18 @@
               "draw": 0,
               "lost": 2,
               "points": 0,
-              "goalsFor": 1,
-              "goalsAgainst": 3,
-              "goalDifference": -2
+              "goalsFor": 2,
+              "goalsAgainst": 5,
+              "goalDifference": -3
             },
             {
-              "position": 23,
+              "position": 21,
               "team": {
-                "id": 1126,
-                "name": "Lincoln City FC",
-                "shortName": "Lincoln City",
-                "tla": "LIN",
-                "crest": "https://crests.football-data.org/1126.png"
+                "id": 70,
+                "name": "Stoke City FC",
+                "shortName": "Stoke",
+                "tla": "STK",
+                "crest": "https://crests.football-data.org/70.png"
               },
               "playedGames": 2,
               "form": null,
@@ -501506,6 +501520,25 @@
             {
               "position": 1,
               "team": {
+                "id": 559,
+                "name": "Sevilla FC",
+                "shortName": "Sevilla FC",
+                "tla": "SEV",
+                "crest": "https://crests.football-data.org/559.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 2,
+              "draw": 0,
+              "lost": 0,
+              "points": 6,
+              "goalsFor": 5,
+              "goalsAgainst": 2,
+              "goalDifference": 3
+            },
+            {
+              "position": 2,
+              "team": {
                 "id": 263,
                 "name": "Deportivo Alavés",
                 "shortName": "Alavés",
@@ -501523,7 +501556,7 @@
               "goalDifference": 3
             },
             {
-              "position": 2,
+              "position": 3,
               "team": {
                 "id": 80,
                 "name": "RCD Espanyol de Barcelona",
@@ -501542,7 +501575,7 @@
               "goalDifference": 3
             },
             {
-              "position": 3,
+              "position": 4,
               "team": {
                 "id": 78,
                 "name": "Club Atlético de Madrid",
@@ -501559,25 +501592,6 @@
               "goalsFor": 2,
               "goalsAgainst": 0,
               "goalDifference": 2
-            },
-            {
-              "position": 4,
-              "team": {
-                "id": 559,
-                "name": "Sevilla FC",
-                "shortName": "Sevilla FC",
-                "tla": "SEV",
-                "crest": "https://crests.football-data.org/559.png"
-              },
-              "playedGames": 1,
-              "form": null,
-              "won": 1,
-              "draw": 0,
-              "lost": 0,
-              "points": 3,
-              "goalsFor": 2,
-              "goalsAgainst": 1,
-              "goalDifference": 1
             },
             {
               "position": 5,
@@ -501696,25 +501710,6 @@
             {
               "position": 11,
               "team": {
-                "id": 77,
-                "name": "Athletic Club",
-                "shortName": "Athletic",
-                "tla": "ATH",
-                "crest": "https://crests.football-data.org/77.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 11,
-              "team": {
                 "id": 79,
                 "name": "CA Osasuna",
                 "shortName": "Osasuna",
@@ -501808,7 +501803,7 @@
               "goalDifference": 0
             },
             {
-              "position": 17,
+              "position": 16,
               "team": {
                 "id": 92,
                 "name": "Real Sociedad de Fútbol",
@@ -501825,6 +501820,25 @@
               "goalsFor": 0,
               "goalsAgainst": 1,
               "goalDifference": -1
+            },
+            {
+              "position": 17,
+              "team": {
+                "id": 77,
+                "name": "Athletic Club",
+                "shortName": "Athletic",
+                "tla": "ATH",
+                "crest": "https://crests.football-data.org/77.png"
+              },
+              "playedGames": 1,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 1,
+              "points": 0,
+              "goalsFor": 1,
+              "goalsAgainst": 3,
+              "goalDifference": -2
             },
             {
               "position": 18,
@@ -504239,7 +504253,7 @@
       "seasonId": 2502,
       "seasonStart": "2026-08-21",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-22 16:49 UTC"
+      "lastSuccessfulUpdate": "2026-08-22 17:18 UTC"
     },
     "ELC": {
       "status": "connected",
@@ -504248,7 +504262,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-08-22 16:21 UTC"
+      "lastSuccessfulUpdate": "2026-08-22 17:19 UTC"
     },
     "PD": {
       "status": "connected",
@@ -504257,7 +504271,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-22 16:50 UTC"
+      "lastSuccessfulUpdate": "2026-08-22 17:19 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -504275,7 +504289,7 @@
       "seasonId": 2494,
       "seasonStart": "2026-08-23",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-22 16:50 UTC"
+      "lastSuccessfulUpdate": "2026-08-22 17:19 UTC"
     },
     "FL1": {
       "status": "connected",
@@ -504284,7 +504298,7 @@
       "seasonId": 2497,
       "seasonStart": "2026-08-22",
       "seasonEnd": "2027-05-29",
-      "lastSuccessfulUpdate": "2026-08-22 16:50 UTC"
+      "lastSuccessfulUpdate": "2026-08-22 17:19 UTC"
     },
     "DED": {
       "status": "connected",
@@ -504293,7 +504307,7 @@
       "seasonId": 2493,
       "seasonStart": "2026-08-07",
       "seasonEnd": "2027-05-23",
-      "lastSuccessfulUpdate": "2026-08-22 16:50 UTC"
+      "lastSuccessfulUpdate": "2026-08-22 17:19 UTC"
     },
     "PPL": {
       "status": "connected",
@@ -504302,7 +504316,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-22 16:50 UTC"
+      "lastSuccessfulUpdate": "2026-08-22 17:19 UTC"
     },
     "BSA": {
       "status": "connected",
