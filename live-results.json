@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-22 19:49 UTC",
-  "lastUpdate": "2026-08-22 19:49 UTC",
+  "generatedAt": "2026-08-22 20:21 UTC",
+  "lastUpdate": "2026-08-22 20:21 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -47251,7 +47251,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T21:49:06Z",
+      "lastUpdated": "2026-08-22T22:20:34Z",
       "homeTeam": {
         "id": 535,
         "name": "Le Mans FC",
@@ -47270,8 +47270,8 @@
         "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
-          "away": 1
+          "home": 2,
+          "away": 2
         },
         "halfTime": {
           "home": 1,
@@ -47317,7 +47317,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T21:49:06Z",
+      "lastUpdated": "2026-08-22T22:20:34Z",
       "homeTeam": {
         "id": 531,
         "name": "ES Troyes AC",
@@ -47383,7 +47383,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T21:49:06Z",
+      "lastUpdated": "2026-08-22T22:20:34Z",
       "homeTeam": {
         "id": 522,
         "name": "OGC Nice",
@@ -47449,7 +47449,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T21:49:06Z",
+      "lastUpdated": "2026-08-22T22:20:34Z",
       "homeTeam": {
         "id": 511,
         "name": "Toulouse FC",
@@ -47465,11 +47465,11 @@
         "crest": "https://crests.football-data.org/523.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": 0,
@@ -47511,11 +47511,11 @@
       },
       "id": 558631,
       "utcDate": "2026-08-22T18:45:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T21:48:34Z",
+      "lastUpdated": "2026-08-22T22:20:34Z",
       "homeTeam": {
         "id": 107,
         "name": "Genoa CFC",
@@ -47577,11 +47577,11 @@
       },
       "id": 558636,
       "utcDate": "2026-08-22T18:45:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T21:48:34Z",
+      "lastUpdated": "2026-08-22T22:20:33Z",
       "homeTeam": {
         "id": 112,
         "name": "Parma Calcio 1913",
@@ -47643,11 +47643,11 @@
       },
       "id": 554975,
       "utcDate": "2026-08-22T19:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T21:49:06Z",
+      "lastUpdated": "2026-08-22T22:21:06Z",
       "homeTeam": {
         "id": 1765,
         "name": "Fluminense FC",
@@ -47670,8 +47670,8 @@
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -47702,11 +47702,11 @@
       },
       "id": 558235,
       "utcDate": "2026-08-22T19:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T21:49:06Z",
+      "lastUpdated": "2026-08-22T22:20:34Z",
       "homeTeam": {
         "id": 673,
         "name": "SC Heerenveen",
@@ -47722,11 +47722,11 @@
         "crest": "https://crests.football-data.org/684.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": 0,
@@ -47772,7 +47772,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T21:48:34Z",
+      "lastUpdated": "2026-08-22T22:20:02Z",
       "homeTeam": {
         "id": 80,
         "name": "RCD Espanyol de Barcelona",
@@ -47788,10 +47788,10 @@
         "crest": "https://crests.football-data.org/86.png"
       },
       "score": {
-        "winner": "AWAY_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 1
         },
         "halfTime": {
@@ -47834,11 +47834,11 @@
       },
       "id": 567275,
       "utcDate": "2026-08-22T19:30:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T21:49:06Z",
+      "lastUpdated": "2026-08-22T22:21:06Z",
       "homeTeam": {
         "id": 498,
         "name": "Sporting Clube de Portugal",
@@ -47861,8 +47861,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
@@ -223506,7 +223506,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T21:49:06Z",
+      "lastUpdated": "2026-08-22T22:20:34Z",
       "homeTeam": {
         "id": 535,
         "name": "Le Mans FC",
@@ -223525,8 +223525,8 @@
         "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
-          "away": 1
+          "home": 2,
+          "away": 2
         },
         "halfTime": {
           "home": 1,
@@ -223572,7 +223572,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T21:49:06Z",
+      "lastUpdated": "2026-08-22T22:20:34Z",
       "homeTeam": {
         "id": 531,
         "name": "ES Troyes AC",
@@ -223638,7 +223638,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T21:49:06Z",
+      "lastUpdated": "2026-08-22T22:20:34Z",
       "homeTeam": {
         "id": 522,
         "name": "OGC Nice",
@@ -223704,7 +223704,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T21:49:06Z",
+      "lastUpdated": "2026-08-22T22:20:34Z",
       "homeTeam": {
         "id": 511,
         "name": "Toulouse FC",
@@ -223720,11 +223720,11 @@
         "crest": "https://crests.football-data.org/523.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": 0,
@@ -223766,11 +223766,11 @@
       },
       "id": 558631,
       "utcDate": "2026-08-22T18:45:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T21:48:34Z",
+      "lastUpdated": "2026-08-22T22:20:34Z",
       "homeTeam": {
         "id": 107,
         "name": "Genoa CFC",
@@ -223832,11 +223832,11 @@
       },
       "id": 558636,
       "utcDate": "2026-08-22T18:45:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T21:48:34Z",
+      "lastUpdated": "2026-08-22T22:20:33Z",
       "homeTeam": {
         "id": 112,
         "name": "Parma Calcio 1913",
@@ -223898,11 +223898,11 @@
       },
       "id": 554975,
       "utcDate": "2026-08-22T19:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T21:49:06Z",
+      "lastUpdated": "2026-08-22T22:21:06Z",
       "homeTeam": {
         "id": 1765,
         "name": "Fluminense FC",
@@ -223925,8 +223925,8 @@
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -223957,11 +223957,11 @@
       },
       "id": 558235,
       "utcDate": "2026-08-22T19:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T21:49:06Z",
+      "lastUpdated": "2026-08-22T22:20:34Z",
       "homeTeam": {
         "id": 673,
         "name": "SC Heerenveen",
@@ -223977,11 +223977,11 @@
         "crest": "https://crests.football-data.org/684.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": 0,
@@ -224027,7 +224027,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T21:48:34Z",
+      "lastUpdated": "2026-08-22T22:20:02Z",
       "homeTeam": {
         "id": 80,
         "name": "RCD Espanyol de Barcelona",
@@ -224043,10 +224043,10 @@
         "crest": "https://crests.football-data.org/86.png"
       },
       "score": {
-        "winner": "AWAY_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 1
         },
         "halfTime": {
@@ -224089,11 +224089,11 @@
       },
       "id": 567275,
       "utcDate": "2026-08-22T19:30:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T21:49:06Z",
+      "lastUpdated": "2026-08-22T22:21:06Z",
       "homeTeam": {
         "id": 498,
         "name": "Sporting Clube de Portugal",
@@ -224116,8 +224116,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
@@ -503190,25 +503190,6 @@
             {
               "position": 5,
               "team": {
-                "id": 674,
-                "name": "PSV",
-                "shortName": "PSV",
-                "tla": "PSV",
-                "crest": "https://crests.football-data.org/674.png"
-              },
-              "playedGames": 2,
-              "form": null,
-              "won": 1,
-              "draw": 1,
-              "lost": 0,
-              "points": 4,
-              "goalsFor": 4,
-              "goalsAgainst": 3,
-              "goalDifference": 1
-            },
-            {
-              "position": 5,
-              "team": {
                 "id": 6806,
                 "name": "Sparta Rotterdam",
                 "shortName": "Sparta",
@@ -503220,6 +503201,25 @@
               "won": 1,
               "draw": 1,
               "lost": 1,
+              "points": 4,
+              "goalsFor": 6,
+              "goalsAgainst": 5,
+              "goalDifference": 1
+            },
+            {
+              "position": 6,
+              "team": {
+                "id": 674,
+                "name": "PSV",
+                "shortName": "PSV",
+                "tla": "PSV",
+                "crest": "https://crests.football-data.org/674.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 1,
+              "draw": 1,
+              "lost": 0,
               "points": 4,
               "goalsFor": 4,
               "goalsAgainst": 3,
@@ -503245,26 +503245,7 @@
               "goalDifference": 1
             },
             {
-              "position": 7,
-              "team": {
-                "id": 673,
-                "name": "SC Heerenveen",
-                "shortName": "Heerenveen",
-                "tla": "HEE",
-                "crest": "https://crests.football-data.org/673.png"
-              },
-              "playedGames": 2,
-              "form": null,
-              "won": 1,
-              "draw": 1,
-              "lost": 0,
-              "points": 4,
-              "goalsFor": 3,
-              "goalsAgainst": 2,
-              "goalDifference": 1
-            },
-            {
-              "position": 9,
+              "position": 8,
               "team": {
                 "id": 1920,
                 "name": "Fortuna Sittard",
@@ -503280,6 +503261,25 @@
               "points": 4,
               "goalsFor": 5,
               "goalsAgainst": 5,
+              "goalDifference": 0
+            },
+            {
+              "position": 9,
+              "team": {
+                "id": 673,
+                "name": "SC Heerenveen",
+                "shortName": "Heerenveen",
+                "tla": "HEE",
+                "crest": "https://crests.football-data.org/673.png"
+              },
+              "playedGames": 3,
+              "form": null,
+              "won": 1,
+              "draw": 1,
+              "lost": 1,
+              "points": 4,
+              "goalsFor": 3,
+              "goalsAgainst": 3,
               "goalDifference": 0
             },
             {
@@ -503361,6 +503361,25 @@
             {
               "position": 14,
               "team": {
+                "id": 684,
+                "name": "PEC Zwolle",
+                "shortName": "Zwolle",
+                "tla": "ZWO",
+                "crest": "https://crests.football-data.org/684.png"
+              },
+              "playedGames": 3,
+              "form": null,
+              "won": 1,
+              "draw": 0,
+              "lost": 2,
+              "points": 3,
+              "goalsFor": 2,
+              "goalsAgainst": 5,
+              "goalDifference": -3
+            },
+            {
+              "position": 15,
+              "team": {
                 "id": 676,
                 "name": "FC Utrecht",
                 "shortName": "Utrecht",
@@ -503373,27 +503392,8 @@
               "draw": 1,
               "lost": 2,
               "points": 1,
-              "goalsFor": 3,
-              "goalsAgainst": 7,
-              "goalDifference": -4
-            },
-            {
-              "position": 15,
-              "team": {
-                "id": 684,
-                "name": "PEC Zwolle",
-                "shortName": "Zwolle",
-                "tla": "ZWO",
-                "crest": "https://crests.football-data.org/684.png"
-              },
-              "playedGames": 2,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 2,
-              "points": 0,
-              "goalsFor": 1,
-              "goalsAgainst": 5,
+              "goalsFor": 5,
+              "goalsAgainst": 9,
               "goalDifference": -4
             },
             {
@@ -504285,7 +504285,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-22 19:48 UTC"
+      "lastSuccessfulUpdate": "2026-08-22 20:20 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -504303,7 +504303,7 @@
       "seasonId": 2494,
       "seasonStart": "2026-08-23",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-22 19:49 UTC"
+      "lastSuccessfulUpdate": "2026-08-22 20:20 UTC"
     },
     "FL1": {
       "status": "connected",
@@ -504312,7 +504312,7 @@
       "seasonId": 2497,
       "seasonStart": "2026-08-22",
       "seasonEnd": "2027-05-29",
-      "lastSuccessfulUpdate": "2026-08-22 19:49 UTC"
+      "lastSuccessfulUpdate": "2026-08-22 20:20 UTC"
     },
     "DED": {
       "status": "connected",
@@ -504321,7 +504321,7 @@
       "seasonId": 2493,
       "seasonStart": "2026-08-07",
       "seasonEnd": "2027-05-23",
-      "lastSuccessfulUpdate": "2026-08-22 19:49 UTC"
+      "lastSuccessfulUpdate": "2026-08-22 20:21 UTC"
     },
     "PPL": {
       "status": "connected",
@@ -504330,7 +504330,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-22 19:49 UTC"
+      "lastSuccessfulUpdate": "2026-08-22 20:21 UTC"
     },
     "BSA": {
       "status": "connected",
@@ -504339,7 +504339,7 @@
       "seasonId": 2474,
       "seasonStart": "2026-01-28",
       "seasonEnd": "2026-12-02",
-      "lastSuccessfulUpdate": "2026-08-22 19:49 UTC"
+      "lastSuccessfulUpdate": "2026-08-22 20:21 UTC"
     },
     "WC": {
       "status": "connected",
