@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-22 12:36 UTC",
-  "lastUpdate": "2026-08-22 12:36 UTC",
+  "generatedAt": "2026-08-22 13:20 UTC",
+  "lastUpdate": "2026-08-22 13:20 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -45615,7 +45615,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T14:35:00Z",
+      "lastUpdated": "2026-08-22T15:18:44Z",
       "homeTeam": {
         "id": 332,
         "name": "Birmingham City FC",
@@ -45631,11 +45631,11 @@
         "crest": "https://crests.football-data.org/387.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 1,
-          "away": 1
+          "away": 2
         },
         "halfTime": {
           "home": 1,
@@ -45681,7 +45681,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T14:35:00Z",
+      "lastUpdated": "2026-08-22T15:18:44Z",
       "homeTeam": {
         "id": 1126,
         "name": "Lincoln City FC",
@@ -45701,7 +45701,7 @@
         "duration": "REGULAR",
         "fullTime": {
           "home": 1,
-          "away": 2
+          "away": 3
         },
         "halfTime": {
           "home": 1,
@@ -45747,7 +45747,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T14:35:00Z",
+      "lastUpdated": "2026-08-22T15:18:44Z",
       "homeTeam": {
         "id": 384,
         "name": "Millwall FC",
@@ -45766,7 +45766,7 @@
         "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 3,
           "away": 0
         },
         "halfTime": {
@@ -45813,7 +45813,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T14:35:00Z",
+      "lastUpdated": "2026-08-22T15:18:44Z",
       "homeTeam": {
         "id": 322,
         "name": "Hull City AFC",
@@ -46077,7 +46077,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T10:20:34Z",
+      "lastUpdated": "2026-08-22T15:05:25Z",
       "homeTeam": {
         "id": 1081,
         "name": "Preston North End FC",
@@ -46407,7 +46407,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T10:20:34Z",
+      "lastUpdated": "2026-08-22T15:04:53Z",
       "homeTeam": {
         "id": 349,
         "name": "Ipswich Town FC",
@@ -46473,7 +46473,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T10:20:34Z",
+      "lastUpdated": "2026-08-22T15:01:41Z",
       "homeTeam": {
         "id": 351,
         "name": "Nottingham Forest FC",
@@ -46539,7 +46539,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T10:20:34Z",
+      "lastUpdated": "2026-08-22T15:01:41Z",
       "homeTeam": {
         "id": 62,
         "name": "Everton FC",
@@ -46760,7 +46760,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 207113,
+          "name": "César Soto Grado",
+          "type": "REFEREE",
+          "nationality": "Spain"
+        }
+      ]
     },
     {
       "area": {
@@ -46819,7 +46826,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 57054,
+          "name": "Mathieu Vernice",
+          "type": "REFEREE",
+          "nationality": "France"
+        }
+      ]
     },
     {
       "area": {
@@ -223401,7 +223415,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T14:35:00Z",
+      "lastUpdated": "2026-08-22T15:18:44Z",
       "homeTeam": {
         "id": 332,
         "name": "Birmingham City FC",
@@ -223417,11 +223431,11 @@
         "crest": "https://crests.football-data.org/387.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 1,
-          "away": 1
+          "away": 2
         },
         "halfTime": {
           "home": 1,
@@ -223467,7 +223481,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T14:35:00Z",
+      "lastUpdated": "2026-08-22T15:18:44Z",
       "homeTeam": {
         "id": 1126,
         "name": "Lincoln City FC",
@@ -223487,7 +223501,7 @@
         "duration": "REGULAR",
         "fullTime": {
           "home": 1,
-          "away": 2
+          "away": 3
         },
         "halfTime": {
           "home": 1,
@@ -223533,7 +223547,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T14:35:00Z",
+      "lastUpdated": "2026-08-22T15:18:44Z",
       "homeTeam": {
         "id": 384,
         "name": "Millwall FC",
@@ -223552,7 +223566,7 @@
         "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 3,
           "away": 0
         },
         "halfTime": {
@@ -223599,7 +223613,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T14:35:00Z",
+      "lastUpdated": "2026-08-22T15:18:44Z",
       "homeTeam": {
         "id": 322,
         "name": "Hull City AFC",
@@ -269023,7 +269037,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T10:20:34Z",
+      "lastUpdated": "2026-08-22T15:05:25Z",
       "homeTeam": {
         "id": 1081,
         "name": "Preston North End FC",
@@ -269353,7 +269367,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T10:20:34Z",
+      "lastUpdated": "2026-08-22T15:04:53Z",
       "homeTeam": {
         "id": 349,
         "name": "Ipswich Town FC",
@@ -269419,7 +269433,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T10:20:34Z",
+      "lastUpdated": "2026-08-22T15:01:41Z",
       "homeTeam": {
         "id": 351,
         "name": "Nottingham Forest FC",
@@ -269485,7 +269499,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T10:20:34Z",
+      "lastUpdated": "2026-08-22T15:01:41Z",
       "homeTeam": {
         "id": 62,
         "name": "Everton FC",
@@ -269706,7 +269720,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 207113,
+          "name": "César Soto Grado",
+          "type": "REFEREE",
+          "nationality": "Spain"
+        }
+      ]
     },
     {
       "area": {
@@ -269765,7 +269786,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 57054,
+          "name": "Mathieu Vernice",
+          "type": "REFEREE",
+          "nationality": "France"
+        }
+      ]
     },
     {
       "area": {
@@ -500439,6 +500467,25 @@
             {
               "position": 2,
               "team": {
+                "id": 322,
+                "name": "Hull City AFC",
+                "shortName": "Hull City",
+                "tla": "HUL",
+                "crest": "https://crests.football-data.org/322.png"
+              },
+              "playedGames": 1,
+              "form": null,
+              "won": 1,
+              "draw": 0,
+              "lost": 0,
+              "points": 3,
+              "goalsFor": 2,
+              "goalsAgainst": 0,
+              "goalDifference": 2
+            },
+            {
+              "position": 3,
+              "team": {
                 "id": 1044,
                 "name": "AFC Bournemouth",
                 "shortName": "Bournemouth",
@@ -500456,7 +500503,7 @@
               "goalDifference": 0
             },
             {
-              "position": 2,
+              "position": 3,
               "team": {
                 "id": 58,
                 "name": "Aston Villa FC",
@@ -500475,7 +500522,7 @@
               "goalDifference": 0
             },
             {
-              "position": 2,
+              "position": 3,
               "team": {
                 "id": 402,
                 "name": "Brentford FC",
@@ -500494,7 +500541,7 @@
               "goalDifference": 0
             },
             {
-              "position": 2,
+              "position": 3,
               "team": {
                 "id": 397,
                 "name": "Brighton & Hove Albion FC",
@@ -500513,7 +500560,7 @@
               "goalDifference": 0
             },
             {
-              "position": 2,
+              "position": 3,
               "team": {
                 "id": 61,
                 "name": "Chelsea FC",
@@ -500532,7 +500579,7 @@
               "goalDifference": 0
             },
             {
-              "position": 2,
+              "position": 3,
               "team": {
                 "id": 354,
                 "name": "Crystal Palace FC",
@@ -500551,7 +500598,7 @@
               "goalDifference": 0
             },
             {
-              "position": 2,
+              "position": 3,
               "team": {
                 "id": 62,
                 "name": "Everton FC",
@@ -500570,7 +500617,7 @@
               "goalDifference": 0
             },
             {
-              "position": 2,
+              "position": 3,
               "team": {
                 "id": 63,
                 "name": "Fulham FC",
@@ -500589,26 +500636,7 @@
               "goalDifference": 0
             },
             {
-              "position": 2,
-              "team": {
-                "id": 322,
-                "name": "Hull City AFC",
-                "shortName": "Hull City",
-                "tla": "HUL",
-                "crest": "https://crests.football-data.org/322.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 2,
+              "position": 3,
               "team": {
                 "id": 349,
                 "name": "Ipswich Town FC",
@@ -500627,7 +500655,7 @@
               "goalDifference": 0
             },
             {
-              "position": 2,
+              "position": 3,
               "team": {
                 "id": 341,
                 "name": "Leeds United FC",
@@ -500646,7 +500674,7 @@
               "goalDifference": 0
             },
             {
-              "position": 2,
+              "position": 3,
               "team": {
                 "id": 64,
                 "name": "Liverpool FC",
@@ -500665,7 +500693,7 @@
               "goalDifference": 0
             },
             {
-              "position": 2,
+              "position": 3,
               "team": {
                 "id": 65,
                 "name": "Manchester City FC",
@@ -500684,26 +500712,7 @@
               "goalDifference": 0
             },
             {
-              "position": 2,
-              "team": {
-                "id": 66,
-                "name": "Manchester United FC",
-                "shortName": "Man United",
-                "tla": "MUN",
-                "crest": "https://crests.football-data.org/66.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 2,
+              "position": 3,
               "team": {
                 "id": 67,
                 "name": "Newcastle United FC",
@@ -500722,7 +500731,7 @@
               "goalDifference": 0
             },
             {
-              "position": 2,
+              "position": 3,
               "team": {
                 "id": 351,
                 "name": "Nottingham Forest FC",
@@ -500741,7 +500750,7 @@
               "goalDifference": 0
             },
             {
-              "position": 2,
+              "position": 3,
               "team": {
                 "id": 71,
                 "name": "Sunderland AFC",
@@ -500760,7 +500769,7 @@
               "goalDifference": 0
             },
             {
-              "position": 2,
+              "position": 3,
               "team": {
                 "id": 73,
                 "name": "Tottenham Hotspur FC",
@@ -500777,6 +500786,25 @@
               "goalsFor": 0,
               "goalsAgainst": 0,
               "goalDifference": 0
+            },
+            {
+              "position": 19,
+              "team": {
+                "id": 66,
+                "name": "Manchester United FC",
+                "shortName": "Man United",
+                "tla": "MUN",
+                "crest": "https://crests.football-data.org/66.png"
+              },
+              "playedGames": 1,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 1,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 2,
+              "goalDifference": -2
             },
             {
               "position": 20,
@@ -504057,7 +504085,7 @@
       "seasonId": 2502,
       "seasonStart": "2026-08-21",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-22 12:35 UTC"
+      "lastSuccessfulUpdate": "2026-08-22 13:19 UTC"
     },
     "ELC": {
       "status": "connected",
@@ -504066,7 +504094,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-08-22 12:35 UTC"
+      "lastSuccessfulUpdate": "2026-08-22 13:19 UTC"
     },
     "PD": {
       "status": "connected",
@@ -504075,7 +504103,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-22 08:27 UTC"
+      "lastSuccessfulUpdate": "2026-08-22 13:19 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -504102,7 +504130,7 @@
       "seasonId": 2497,
       "seasonStart": "2026-08-22",
       "seasonEnd": "2027-05-29",
-      "lastSuccessfulUpdate": "2026-08-22 08:27 UTC"
+      "lastSuccessfulUpdate": "2026-08-22 13:19 UTC"
     },
     "DED": {
       "status": "connected",
