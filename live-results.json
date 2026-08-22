@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-22 11:00 UTC",
-  "lastUpdate": "2026-08-22 11:00 UTC",
+  "generatedAt": "2026-08-22 11:29 UTC",
+  "lastUpdate": "2026-08-22 11:29 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -45615,7 +45615,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T12:51:00Z",
+      "lastUpdated": "2026-08-22T13:09:40Z",
       "homeTeam": {
         "id": 332,
         "name": "Birmingham City FC",
@@ -45747,7 +45747,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T12:59:00Z",
+      "lastUpdated": "2026-08-22T13:09:08Z",
       "homeTeam": {
         "id": 384,
         "name": "Millwall FC",
@@ -268476,7 +268476,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T12:51:00Z",
+      "lastUpdated": "2026-08-22T13:09:40Z",
       "homeTeam": {
         "id": 332,
         "name": "Birmingham City FC",
@@ -268608,7 +268608,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T12:59:00Z",
+      "lastUpdated": "2026-08-22T13:09:08Z",
       "homeTeam": {
         "id": 384,
         "name": "Millwall FC",
@@ -503897,7 +503897,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-08-22 10:59 UTC"
+      "lastSuccessfulUpdate": "2026-08-22 11:28 UTC"
     },
     "PD": {
       "status": "connected",
