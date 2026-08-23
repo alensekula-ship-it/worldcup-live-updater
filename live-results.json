@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-23 10:01 UTC",
-  "lastUpdate": "2026-08-23 10:01 UTC",
+  "generatedAt": "2026-08-23 10:34 UTC",
+  "lastUpdate": "2026-08-23 10:34 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -48011,11 +48011,11 @@
       },
       "id": 558236,
       "utcDate": "2026-08-23T10:15:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T11:38:57Z",
+      "lastUpdated": "2026-08-23T12:33:21Z",
       "homeTeam": {
         "id": 718,
         "name": "Go Ahead Eagles",
@@ -48031,11 +48031,11 @@
         "crest": "https://crests.football-data.org/680.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -48081,7 +48081,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T10:20:32Z",
+      "lastUpdated": "2026-08-23T12:30:09Z",
       "homeTeam": {
         "id": 74,
         "name": "West Bromwich Albion FC",
@@ -48177,7 +48177,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 9561,
+          "name": "Allard Lindhout",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
     },
     {
       "area": {
@@ -223492,7 +223499,74 @@
       "referees": []
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 2493,
+        "startDate": "2026-08-07",
+        "endDate": "2027-05-23",
+        "currentMatchday": 3,
+        "winner": null
+      },
+      "id": 558236,
+      "utcDate": "2026-08-23T10:15:00Z",
+      "status": "IN_PLAY",
+      "matchday": 3,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-23T12:33:21Z",
+      "homeTeam": {
+        "id": 718,
+        "name": "Go Ahead Eagles",
+        "shortName": "Go Ahead",
+        "tla": "GOA",
+        "crest": "https://crests.football-data.org/718.png"
+      },
+      "awayTeam": {
+        "id": 680,
+        "name": "ADO Den Haag",
+        "shortName": "Den Haag",
+        "tla": "ADO",
+        "crest": "https://crests.football-data.org/680.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 56923,
+          "name": "Sander Van der Eijk",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    }
+  ],
   "finished": [
     {
       "area": {
@@ -271054,72 +271128,6 @@
   "upcoming": [
     {
       "area": {
-        "id": 2163,
-        "name": "Netherlands",
-        "code": "NLD",
-        "flag": "https://crests.football-data.org/8601.svg"
-      },
-      "competition": {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      },
-      "season": {
-        "id": 2493,
-        "startDate": "2026-08-07",
-        "endDate": "2027-05-23",
-        "currentMatchday": 3,
-        "winner": null
-      },
-      "id": 558236,
-      "utcDate": "2026-08-23T10:15:00Z",
-      "status": "TIMED",
-      "matchday": 3,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-23T11:38:57Z",
-      "homeTeam": {
-        "id": 718,
-        "name": "Go Ahead Eagles",
-        "shortName": "Go Ahead",
-        "tla": "GOA",
-        "crest": "https://crests.football-data.org/718.png"
-      },
-      "awayTeam": {
-        "id": 680,
-        "name": "ADO Den Haag",
-        "shortName": "Den Haag",
-        "tla": "ADO",
-        "crest": "https://crests.football-data.org/680.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 56923,
-          "name": "Sander Van der Eijk",
-          "type": "REFEREE",
-          "nationality": "Netherlands"
-        }
-      ]
-    },
-    {
-      "area": {
         "id": 2072,
         "name": "England",
         "code": "ENG",
@@ -271145,7 +271153,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T10:20:32Z",
+      "lastUpdated": "2026-08-23T12:30:09Z",
       "homeTeam": {
         "id": 74,
         "name": "West Bromwich Albion FC",
@@ -271241,7 +271249,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 9561,
+          "name": "Allard Lindhout",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
     },
     {
       "area": {
@@ -504303,7 +504318,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-08-23 09:35 UTC"
+      "lastSuccessfulUpdate": "2026-08-23 10:33 UTC"
     },
     "PD": {
       "status": "connected",
@@ -504348,7 +504363,7 @@
       "seasonId": 2493,
       "seasonStart": "2026-08-07",
       "seasonEnd": "2027-05-23",
-      "lastSuccessfulUpdate": "2026-08-23 10:00 UTC"
+      "lastSuccessfulUpdate": "2026-08-23 10:33 UTC"
     },
     "PPL": {
       "status": "connected",
