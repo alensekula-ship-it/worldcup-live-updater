@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-23 11:50 UTC",
-  "lastUpdate": "2026-08-23 11:50 UTC",
+  "generatedAt": "2026-08-23 12:37 UTC",
+  "lastUpdate": "2026-08-23 12:37 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -48015,7 +48015,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T13:49:38Z",
+      "lastUpdated": "2026-08-23T14:36:34Z",
       "homeTeam": {
         "id": 718,
         "name": "Go Ahead Eagles",
@@ -48031,15 +48031,15 @@
         "crest": "https://crests.football-data.org/680.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
-          "away": 0
+          "home": 3,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
@@ -48081,7 +48081,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T13:49:06Z",
+      "lastUpdated": "2026-08-23T14:36:02Z",
       "homeTeam": {
         "id": 74,
         "name": "West Bromwich Albion FC",
@@ -48097,15 +48097,15 @@
         "crest": "https://crests.football-data.org/328.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 3,
           "away": 1
         },
         "halfTime": {
-          "home": 1,
-          "away": 1
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -48143,11 +48143,11 @@
       },
       "id": 558237,
       "utcDate": "2026-08-23T12:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T05:20:32Z",
+      "lastUpdated": "2026-08-23T14:36:34Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -48163,11 +48163,11 @@
         "crest": "https://crests.football-data.org/677.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -48213,7 +48213,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T10:20:32Z",
+      "lastUpdated": "2026-08-23T14:23:46Z",
       "homeTeam": {
         "id": 532,
         "name": "Angers SCO",
@@ -48279,7 +48279,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T10:20:33Z",
+      "lastUpdated": "2026-08-23T14:13:06Z",
       "homeTeam": {
         "id": 65,
         "name": "Manchester City FC",
@@ -48345,7 +48345,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T10:20:33Z",
+      "lastUpdated": "2026-08-23T14:12:34Z",
       "homeTeam": {
         "id": 397,
         "name": "Brighton & Hove Albion FC",
@@ -223548,7 +223548,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T13:49:38Z",
+      "lastUpdated": "2026-08-23T14:36:34Z",
       "homeTeam": {
         "id": 718,
         "name": "Go Ahead Eagles",
@@ -223564,15 +223564,15 @@
         "crest": "https://crests.football-data.org/680.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
-          "away": 0
+          "home": 3,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
@@ -223614,7 +223614,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T13:49:06Z",
+      "lastUpdated": "2026-08-23T14:36:02Z",
       "homeTeam": {
         "id": 74,
         "name": "West Bromwich Albion FC",
@@ -223630,15 +223630,15 @@
         "crest": "https://crests.football-data.org/328.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 3,
           "away": 1
         },
         "halfTime": {
-          "home": 1,
-          "away": 1
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -223650,6 +223650,72 @@
           "name": "Anthony Backhouse",
           "type": "REFEREE",
           "nationality": "England"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 2493,
+        "startDate": "2026-08-07",
+        "endDate": "2027-05-23",
+        "currentMatchday": 3,
+        "winner": null
+      },
+      "id": 558237,
+      "utcDate": "2026-08-23T12:30:00Z",
+      "status": "IN_PLAY",
+      "matchday": 3,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-23T14:36:34Z",
+      "homeTeam": {
+        "id": 674,
+        "name": "PSV",
+        "shortName": "PSV",
+        "tla": "PSV",
+        "crest": "https://crests.football-data.org/674.png"
+      },
+      "awayTeam": {
+        "id": 677,
+        "name": "FC Groningen",
+        "shortName": "Groningen",
+        "tla": "GRO",
+        "crest": "https://crests.football-data.org/677.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 9561,
+          "name": "Allard Lindhout",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
         }
       ]
     }
@@ -271215,72 +271281,6 @@
   "upcoming": [
     {
       "area": {
-        "id": 2163,
-        "name": "Netherlands",
-        "code": "NLD",
-        "flag": "https://crests.football-data.org/8601.svg"
-      },
-      "competition": {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      },
-      "season": {
-        "id": 2493,
-        "startDate": "2026-08-07",
-        "endDate": "2027-05-23",
-        "currentMatchday": 3,
-        "winner": null
-      },
-      "id": 558237,
-      "utcDate": "2026-08-23T12:30:00Z",
-      "status": "TIMED",
-      "matchday": 3,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-23T05:20:32Z",
-      "homeTeam": {
-        "id": 674,
-        "name": "PSV",
-        "shortName": "PSV",
-        "tla": "PSV",
-        "crest": "https://crests.football-data.org/674.png"
-      },
-      "awayTeam": {
-        "id": 677,
-        "name": "FC Groningen",
-        "shortName": "Groningen",
-        "tla": "GRO",
-        "crest": "https://crests.football-data.org/677.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 9561,
-          "name": "Allard Lindhout",
-          "type": "REFEREE",
-          "nationality": "Netherlands"
-        }
-      ]
-    },
-    {
-      "area": {
         "id": 2081,
         "name": "France",
         "code": "FRA",
@@ -271306,7 +271306,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T10:20:32Z",
+      "lastUpdated": "2026-08-23T14:23:46Z",
       "homeTeam": {
         "id": 532,
         "name": "Angers SCO",
@@ -271372,7 +271372,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T10:20:33Z",
+      "lastUpdated": "2026-08-23T14:13:06Z",
       "homeTeam": {
         "id": 65,
         "name": "Manchester City FC",
@@ -271438,7 +271438,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T10:20:33Z",
+      "lastUpdated": "2026-08-23T14:12:34Z",
       "homeTeam": {
         "id": 397,
         "name": "Brighton & Hove Albion FC",
@@ -503217,25 +503217,6 @@
             {
               "position": 2,
               "team": {
-                "id": 677,
-                "name": "FC Groningen",
-                "shortName": "Groningen",
-                "tla": "GRO",
-                "crest": "https://crests.football-data.org/677.png"
-              },
-              "playedGames": 2,
-              "form": null,
-              "won": 2,
-              "draw": 0,
-              "lost": 0,
-              "points": 6,
-              "goalsFor": 6,
-              "goalsAgainst": 2,
-              "goalDifference": 4
-            },
-            {
-              "position": 3,
-              "team": {
                 "id": 718,
                 "name": "Go Ahead Eagles",
                 "shortName": "Go Ahead",
@@ -503244,16 +503225,54 @@
               },
               "playedGames": 3,
               "form": null,
+              "won": 2,
+              "draw": 1,
+              "lost": 0,
+              "points": 7,
+              "goalsFor": 9,
+              "goalsAgainst": 4,
+              "goalDifference": 5
+            },
+            {
+              "position": 3,
+              "team": {
+                "id": 677,
+                "name": "FC Groningen",
+                "shortName": "Groningen",
+                "tla": "GRO",
+                "crest": "https://crests.football-data.org/677.png"
+              },
+              "playedGames": 3,
+              "form": null,
+              "won": 2,
+              "draw": 1,
+              "lost": 0,
+              "points": 7,
+              "goalsFor": 6,
+              "goalsAgainst": 2,
+              "goalDifference": 4
+            },
+            {
+              "position": 4,
+              "team": {
+                "id": 674,
+                "name": "PSV",
+                "shortName": "PSV",
+                "tla": "PSV",
+                "crest": "https://crests.football-data.org/674.png"
+              },
+              "playedGames": 3,
+              "form": null,
               "won": 1,
               "draw": 2,
               "lost": 0,
               "points": 5,
-              "goalsFor": 6,
+              "goalsFor": 4,
               "goalsAgainst": 3,
-              "goalDifference": 3
+              "goalDifference": 1
             },
             {
-              "position": 4,
+              "position": 5,
               "team": {
                 "id": 678,
                 "name": "AFC Ajax",
@@ -503272,7 +503291,7 @@
               "goalDifference": 2
             },
             {
-              "position": 5,
+              "position": 6,
               "team": {
                 "id": 6806,
                 "name": "Sparta Rotterdam",
@@ -503288,25 +503307,6 @@
               "points": 4,
               "goalsFor": 6,
               "goalsAgainst": 5,
-              "goalDifference": 1
-            },
-            {
-              "position": 6,
-              "team": {
-                "id": 674,
-                "name": "PSV",
-                "shortName": "PSV",
-                "tla": "PSV",
-                "crest": "https://crests.football-data.org/674.png"
-              },
-              "playedGames": 2,
-              "form": null,
-              "won": 1,
-              "draw": 1,
-              "lost": 0,
-              "points": 4,
-              "goalsFor": 4,
-              "goalsAgainst": 3,
               "goalDifference": 1
             },
             {
@@ -503483,25 +503483,6 @@
             {
               "position": 16,
               "team": {
-                "id": 680,
-                "name": "ADO Den Haag",
-                "shortName": "Den Haag",
-                "tla": "ADO",
-                "crest": "https://crests.football-data.org/680.png"
-              },
-              "playedGames": 3,
-              "form": null,
-              "won": 0,
-              "draw": 1,
-              "lost": 2,
-              "points": 1,
-              "goalsFor": 1,
-              "goalsAgainst": 6,
-              "goalDifference": -5
-            },
-            {
-              "position": 17,
-              "team": {
                 "id": 672,
                 "name": "Willem II Tilburg",
                 "shortName": "Willem II",
@@ -503519,7 +503500,7 @@
               "goalDifference": -6
             },
             {
-              "position": 18,
+              "position": 17,
               "team": {
                 "id": 1909,
                 "name": "SC Cambuur-Leeuwarden",
@@ -503536,6 +503517,25 @@
               "goalsFor": 1,
               "goalsAgainst": 7,
               "goalDifference": -6
+            },
+            {
+              "position": 18,
+              "team": {
+                "id": 680,
+                "name": "ADO Den Haag",
+                "shortName": "Den Haag",
+                "tla": "ADO",
+                "crest": "https://crests.football-data.org/680.png"
+              },
+              "playedGames": 3,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 3,
+              "points": 0,
+              "goalsFor": 2,
+              "goalsAgainst": 9,
+              "goalDifference": -7
             }
           ]
         }
@@ -504351,7 +504351,7 @@
       "seasonId": 2502,
       "seasonStart": "2026-08-21",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-23 11:27 UTC"
+      "lastSuccessfulUpdate": "2026-08-23 12:36 UTC"
     },
     "ELC": {
       "status": "connected",
@@ -504360,7 +504360,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-08-23 11:49 UTC"
+      "lastSuccessfulUpdate": "2026-08-23 12:36 UTC"
     },
     "PD": {
       "status": "connected",
@@ -504396,7 +504396,7 @@
       "seasonId": 2497,
       "seasonStart": "2026-08-22",
       "seasonEnd": "2027-05-29",
-      "lastSuccessfulUpdate": "2026-08-23 11:00 UTC"
+      "lastSuccessfulUpdate": "2026-08-23 12:36 UTC"
     },
     "DED": {
       "status": "connected",
@@ -504405,7 +504405,7 @@
       "seasonId": 2493,
       "seasonStart": "2026-08-07",
       "seasonEnd": "2027-05-23",
-      "lastSuccessfulUpdate": "2026-08-23 11:49 UTC"
+      "lastSuccessfulUpdate": "2026-08-23 12:36 UTC"
     },
     "PPL": {
       "status": "connected",
