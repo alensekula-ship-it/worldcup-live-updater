@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-23 03:37 UTC",
-  "lastUpdate": "2026-08-23 03:37 UTC",
+  "generatedAt": "2026-08-23 07:48 UTC",
+  "lastUpdate": "2026-08-23 07:48 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -503890,15 +503890,15 @@
                 "tla": "FLA",
                 "crest": "https://crests.football-data.org/1783.png"
               },
-              "playedGames": 22,
+              "playedGames": 23,
               "form": null,
               "won": 13,
               "draw": 6,
-              "lost": 3,
+              "lost": 4,
               "points": 45,
-              "goalsFor": 44,
-              "goalsAgainst": 19,
-              "goalDifference": 25
+              "goalsFor": 45,
+              "goalsAgainst": 21,
+              "goalDifference": 24
             },
             {
               "position": 3,
@@ -503947,15 +503947,15 @@
                 "tla": "CRU",
                 "crest": "https://crests.football-data.org/1771.png"
               },
-              "playedGames": 23,
+              "playedGames": 24,
               "form": null,
-              "won": 10,
+              "won": 11,
               "draw": 6,
               "lost": 7,
-              "points": 36,
-              "goalsFor": 32,
-              "goalsAgainst": 32,
-              "goalDifference": 0
+              "points": 39,
+              "goalsFor": 34,
+              "goalsAgainst": 33,
+              "goalDifference": 1
             },
             {
               "position": 6,
@@ -504338,7 +504338,7 @@
       "seasonId": 2474,
       "seasonStart": "2026-01-28",
       "seasonEnd": "2026-12-02",
-      "lastSuccessfulUpdate": "2026-08-23 03:36 UTC"
+      "lastSuccessfulUpdate": "2026-08-23 07:48 UTC"
     },
     "WC": {
       "status": "connected",
