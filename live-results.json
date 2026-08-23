@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-23 09:36 UTC",
-  "lastUpdate": "2026-08-23 09:36 UTC",
+  "generatedAt": "2026-08-23 10:01 UTC",
+  "lastUpdate": "2026-08-23 10:01 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -48015,7 +48015,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T11:32:34Z",
+      "lastUpdated": "2026-08-23T11:38:57Z",
       "homeTeam": {
         "id": 718,
         "name": "Go Ahead Eagles",
@@ -271079,7 +271079,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T11:32:34Z",
+      "lastUpdated": "2026-08-23T11:38:57Z",
       "homeTeam": {
         "id": 718,
         "name": "Go Ahead Eagles",
@@ -504348,7 +504348,7 @@
       "seasonId": 2493,
       "seasonStart": "2026-08-07",
       "seasonEnd": "2027-05-23",
-      "lastSuccessfulUpdate": "2026-08-23 09:36 UTC"
+      "lastSuccessfulUpdate": "2026-08-23 10:00 UTC"
     },
     "PPL": {
       "status": "connected",
