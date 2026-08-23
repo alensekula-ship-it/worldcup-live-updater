@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-23 19:26 UTC",
-  "lastUpdate": "2026-08-23 19:26 UTC",
+  "generatedAt": "2026-08-23 19:46 UTC",
+  "lastUpdate": "2026-08-23 19:46 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -48921,11 +48921,11 @@
       },
       "id": 564644,
       "utcDate": "2026-08-23T17:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T21:25:05Z",
+      "lastUpdated": "2026-08-23T21:29:54Z",
       "homeTeam": {
         "id": 82,
         "name": "Getafe CF",
@@ -48980,11 +48980,11 @@
       },
       "id": 559713,
       "utcDate": "2026-08-23T18:45:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T21:25:38Z",
+      "lastUpdated": "2026-08-23T21:45:54Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -49007,8 +49007,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         }
       },
       "odds": {
@@ -49039,11 +49039,11 @@
       },
       "id": 558633,
       "utcDate": "2026-08-23T18:45:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T21:25:06Z",
+      "lastUpdated": "2026-08-23T21:45:22Z",
       "homeTeam": {
         "id": 102,
         "name": "Atalanta BC",
@@ -49066,8 +49066,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
@@ -49105,11 +49105,11 @@
       },
       "id": 558634,
       "utcDate": "2026-08-23T18:45:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T21:25:06Z",
+      "lastUpdated": "2026-08-23T21:45:22Z",
       "homeTeam": {
         "id": 586,
         "name": "Torino FC",
@@ -49132,8 +49132,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -49175,7 +49175,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T21:25:38Z",
+      "lastUpdated": "2026-08-23T21:45:54Z",
       "homeTeam": {
         "id": 4286,
         "name": "RB Bragantino",
@@ -49234,7 +49234,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T21:25:38Z",
+      "lastUpdated": "2026-08-23T21:45:54Z",
       "homeTeam": {
         "id": 1769,
         "name": "SE Palmeiras",
@@ -49293,7 +49293,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T21:25:38Z",
+      "lastUpdated": "2026-08-23T21:45:54Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -49348,11 +49348,11 @@
       },
       "id": 564642,
       "utcDate": "2026-08-23T19:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T21:14:26Z",
+      "lastUpdated": "2026-08-23T21:45:22Z",
       "homeTeam": {
         "id": 285,
         "name": "Elche CF",
@@ -49368,11 +49368,11 @@
         "crest": "https://crests.football-data.org/81.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -49407,11 +49407,11 @@
       },
       "id": 567280,
       "utcDate": "2026-08-23T19:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T21:03:46Z",
+      "lastUpdated": "2026-08-23T21:45:54Z",
       "homeTeam": {
         "id": 503,
         "name": "FC Porto",
@@ -49427,11 +49427,11 @@
         "crest": "https://crests.football-data.org/712.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -223579,65 +223579,6 @@
   "live": [
     {
       "area": {
-        "id": 2224,
-        "name": "Spain",
-        "code": "ESP",
-        "flag": "https://crests.football-data.org/760.svg"
-      },
-      "competition": {
-        "id": 2014,
-        "name": "Primera Division",
-        "code": "PD",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/laliga.png"
-      },
-      "season": {
-        "id": 2518,
-        "startDate": "2026-08-16",
-        "endDate": "2027-05-30",
-        "currentMatchday": 2,
-        "winner": null
-      },
-      "id": 564644,
-      "utcDate": "2026-08-23T17:30:00Z",
-      "status": "IN_PLAY",
-      "matchday": 2,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-23T21:25:05Z",
-      "homeTeam": {
-        "id": 82,
-        "name": "Getafe CF",
-        "shortName": "Getafe",
-        "tla": "GET",
-        "crest": "https://crests.football-data.org/82.png"
-      },
-      "awayTeam": {
-        "id": 5335,
-        "name": "Real Racing Club de Santander",
-        "shortName": "Santander",
-        "tla": "SAN",
-        "crest": "https://crests.football-data.org/5335.png"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 0
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
-    {
-      "area": {
         "id": 2081,
         "name": "France",
         "code": "FRA",
@@ -223659,11 +223600,11 @@
       },
       "id": 559713,
       "utcDate": "2026-08-23T18:45:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T21:25:38Z",
+      "lastUpdated": "2026-08-23T21:45:54Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -223686,8 +223627,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         }
       },
       "odds": {
@@ -223718,11 +223659,11 @@
       },
       "id": 558633,
       "utcDate": "2026-08-23T18:45:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T21:25:06Z",
+      "lastUpdated": "2026-08-23T21:45:22Z",
       "homeTeam": {
         "id": 102,
         "name": "Atalanta BC",
@@ -223745,8 +223686,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
@@ -223784,11 +223725,11 @@
       },
       "id": 558634,
       "utcDate": "2026-08-23T18:45:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T21:25:06Z",
+      "lastUpdated": "2026-08-23T21:45:22Z",
       "homeTeam": {
         "id": 586,
         "name": "Torino FC",
@@ -223811,8 +223752,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -223854,7 +223795,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T21:25:38Z",
+      "lastUpdated": "2026-08-23T21:45:54Z",
       "homeTeam": {
         "id": 4286,
         "name": "RB Bragantino",
@@ -223913,7 +223854,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T21:25:38Z",
+      "lastUpdated": "2026-08-23T21:45:54Z",
       "homeTeam": {
         "id": 1769,
         "name": "SE Palmeiras",
@@ -223972,7 +223913,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T21:25:38Z",
+      "lastUpdated": "2026-08-23T21:45:54Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -223986,6 +223927,124 @@
         "shortName": "Bahia",
         "tla": "BAH",
         "crest": "https://crests.football-data.org/1777.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": []
+    },
+    {
+      "area": {
+        "id": 2224,
+        "name": "Spain",
+        "code": "ESP",
+        "flag": "https://crests.football-data.org/760.svg"
+      },
+      "competition": {
+        "id": 2014,
+        "name": "Primera Division",
+        "code": "PD",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/laliga.png"
+      },
+      "season": {
+        "id": 2518,
+        "startDate": "2026-08-16",
+        "endDate": "2027-05-30",
+        "currentMatchday": 2,
+        "winner": null
+      },
+      "id": 564642,
+      "utcDate": "2026-08-23T19:30:00Z",
+      "status": "IN_PLAY",
+      "matchday": 2,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-23T21:45:22Z",
+      "homeTeam": {
+        "id": 285,
+        "name": "Elche CF",
+        "shortName": "Elche",
+        "tla": "ELC",
+        "crest": "https://crests.football-data.org/285.png"
+      },
+      "awayTeam": {
+        "id": 81,
+        "name": "FC Barcelona",
+        "shortName": "Barça",
+        "tla": "FCB",
+        "crest": "https://crests.football-data.org/81.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": []
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "competition": {
+        "id": 2017,
+        "name": "Primeira Liga",
+        "code": "PPL",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/PPL.png"
+      },
+      "season": {
+        "id": 2526,
+        "startDate": "2026-08-08",
+        "endDate": "2027-05-16",
+        "currentMatchday": 3,
+        "winner": null
+      },
+      "id": 567280,
+      "utcDate": "2026-08-23T19:30:00Z",
+      "status": "IN_PLAY",
+      "matchday": 3,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-23T21:45:54Z",
+      "homeTeam": {
+        "id": 503,
+        "name": "FC Porto",
+        "shortName": "Porto",
+        "tla": "FCP",
+        "crest": "https://crests.football-data.org/503.png"
+      },
+      "awayTeam": {
+        "id": 712,
+        "name": "FC Arouca",
+        "shortName": "Arouca",
+        "tla": "FCA",
+        "crest": "https://crests.football-data.org/712.png"
       },
       "score": {
         "winner": "DRAW",
@@ -272471,9 +272530,7 @@
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
-    }
-  ],
-  "upcoming": [
+    },
     {
       "area": {
         "id": 2224,
@@ -272495,103 +272552,46 @@
         "currentMatchday": 2,
         "winner": null
       },
-      "id": 564642,
-      "utcDate": "2026-08-23T19:30:00Z",
-      "status": "TIMED",
+      "id": 564644,
+      "utcDate": "2026-08-23T17:30:00Z",
+      "status": "FINISHED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T21:14:26Z",
+      "lastUpdated": "2026-08-23T21:29:54Z",
       "homeTeam": {
-        "id": 285,
-        "name": "Elche CF",
-        "shortName": "Elche",
-        "tla": "ELC",
-        "crest": "https://crests.football-data.org/285.png"
+        "id": 82,
+        "name": "Getafe CF",
+        "shortName": "Getafe",
+        "tla": "GET",
+        "crest": "https://crests.football-data.org/82.png"
       },
       "awayTeam": {
-        "id": 81,
-        "name": "FC Barcelona",
-        "shortName": "Barça",
-        "tla": "FCB",
-        "crest": "https://crests.football-data.org/81.png"
+        "id": 5335,
+        "name": "Real Racing Club de Santander",
+        "shortName": "Santander",
+        "tla": "SAN",
+        "crest": "https://crests.football-data.org/5335.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
-    },
-    {
-      "area": {
-        "id": 2187,
-        "name": "Portugal",
-        "code": "POR",
-        "flag": "https://crests.football-data.org/765.svg"
-      },
-      "competition": {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      },
-      "season": {
-        "id": 2526,
-        "startDate": "2026-08-08",
-        "endDate": "2027-05-16",
-        "currentMatchday": 3,
-        "winner": null
-      },
-      "id": 567280,
-      "utcDate": "2026-08-23T19:30:00Z",
-      "status": "TIMED",
-      "matchday": 3,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-23T21:03:46Z",
-      "homeTeam": {
-        "id": 503,
-        "name": "FC Porto",
-        "shortName": "Porto",
-        "tla": "FCP",
-        "crest": "https://crests.football-data.org/503.png"
-      },
-      "awayTeam": {
-        "id": 712,
-        "name": "FC Arouca",
-        "shortName": "Arouca",
-        "tla": "FCA",
-        "crest": "https://crests.football-data.org/712.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
+    }
+  ],
+  "upcoming": [
     {
       "area": {
         "id": 2032,
@@ -501844,6 +501844,25 @@
             {
               "position": 7,
               "team": {
+                "id": 82,
+                "name": "Getafe CF",
+                "shortName": "Getafe",
+                "tla": "GET",
+                "crest": "https://crests.football-data.org/82.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 1,
+              "draw": 0,
+              "lost": 1,
+              "points": 3,
+              "goalsFor": 1,
+              "goalsAgainst": 3,
+              "goalDifference": -2
+            },
+            {
+              "position": 8,
+              "team": {
                 "id": 94,
                 "name": "Villarreal CF",
                 "shortName": "Villarreal",
@@ -501861,13 +501880,13 @@
               "goalDifference": 0
             },
             {
-              "position": 8,
+              "position": 9,
               "team": {
-                "id": 5335,
-                "name": "Real Racing Club de Santander",
-                "shortName": "Santander",
-                "tla": "SAN",
-                "crest": "https://crests.football-data.org/5335.png"
+                "id": 285,
+                "name": "Elche CF",
+                "shortName": "Elche",
+                "tla": "ELC",
+                "crest": "https://crests.football-data.org/285.png"
               },
               "playedGames": 2,
               "form": null,
@@ -501875,12 +501894,12 @@
               "draw": 2,
               "lost": 0,
               "points": 2,
-              "goalsFor": 2,
-              "goalsAgainst": 2,
+              "goalsFor": 1,
+              "goalsAgainst": 1,
               "goalDifference": 0
             },
             {
-              "position": 9,
+              "position": 10,
               "team": {
                 "id": 560,
                 "name": "RC Deportivo La Coruña",
@@ -501899,13 +501918,13 @@
               "goalDifference": 0
             },
             {
-              "position": 9,
+              "position": 11,
               "team": {
-                "id": 285,
-                "name": "Elche CF",
-                "shortName": "Elche",
-                "tla": "ELC",
-                "crest": "https://crests.football-data.org/285.png"
+                "id": 81,
+                "name": "FC Barcelona",
+                "shortName": "Barça",
+                "tla": "FCB",
+                "crest": "https://crests.football-data.org/81.png"
               },
               "playedGames": 1,
               "form": null,
@@ -501913,8 +501932,8 @@
               "draw": 1,
               "lost": 0,
               "points": 1,
-              "goalsFor": 1,
-              "goalsAgainst": 1,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
               "goalDifference": 0
             },
             {
@@ -501956,7 +501975,26 @@
               "goalDifference": 0
             },
             {
-              "position": 13,
+              "position": 14,
+              "team": {
+                "id": 5335,
+                "name": "Real Racing Club de Santander",
+                "shortName": "Santander",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/5335.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 0,
+              "draw": 1,
+              "lost": 1,
+              "points": 1,
+              "goalsFor": 2,
+              "goalsAgainst": 3,
+              "goalDifference": -1
+            },
+            {
+              "position": 14,
               "team": {
                 "id": 87,
                 "name": "Rayo Vallecano de Madrid",
@@ -501975,51 +502013,13 @@
               "goalDifference": -1
             },
             {
-              "position": 14,
-              "team": {
-                "id": 82,
-                "name": "Getafe CF",
-                "shortName": "Getafe",
-                "tla": "GET",
-                "crest": "https://crests.football-data.org/82.png"
-              },
-              "playedGames": 2,
-              "form": null,
-              "won": 0,
-              "draw": 1,
-              "lost": 1,
-              "points": 1,
-              "goalsFor": 0,
-              "goalsAgainst": 3,
-              "goalDifference": -3
-            },
-            {
-              "position": 15,
+              "position": 16,
               "team": {
                 "id": 79,
                 "name": "CA Osasuna",
                 "shortName": "Osasuna",
                 "tla": "OSA",
                 "crest": "https://crests.football-data.org/79.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 15,
-              "team": {
-                "id": 81,
-                "name": "FC Barcelona",
-                "shortName": "Barça",
-                "tla": "FCB",
-                "crest": "https://crests.football-data.org/81.png"
               },
               "playedGames": 0,
               "form": null,
@@ -504481,7 +504481,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-23 19:25 UTC"
+      "lastSuccessfulUpdate": "2026-08-23 19:45 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -504499,7 +504499,7 @@
       "seasonId": 2494,
       "seasonStart": "2026-08-23",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-23 19:25 UTC"
+      "lastSuccessfulUpdate": "2026-08-23 19:45 UTC"
     },
     "FL1": {
       "status": "connected",
@@ -504508,7 +504508,7 @@
       "seasonId": 2497,
       "seasonStart": "2026-08-22",
       "seasonEnd": "2027-05-29",
-      "lastSuccessfulUpdate": "2026-08-23 19:25 UTC"
+      "lastSuccessfulUpdate": "2026-08-23 19:45 UTC"
     },
     "DED": {
       "status": "connected",
@@ -504526,7 +504526,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-23 19:25 UTC"
+      "lastSuccessfulUpdate": "2026-08-23 19:46 UTC"
     },
     "BSA": {
       "status": "connected",
@@ -504535,7 +504535,7 @@
       "seasonId": 2474,
       "seasonStart": "2026-01-28",
       "seasonEnd": "2026-12-02",
-      "lastSuccessfulUpdate": "2026-08-23 19:26 UTC"
+      "lastSuccessfulUpdate": "2026-08-23 19:46 UTC"
     },
     "WC": {
       "status": "connected",
