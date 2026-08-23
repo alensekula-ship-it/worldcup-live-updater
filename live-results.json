@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-22 23:46 UTC",
-  "lastUpdate": "2026-08-22 23:46 UTC",
+  "generatedAt": "2026-08-23 01:14 UTC",
+  "lastUpdate": "2026-08-23 01:14 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -47956,7 +47956,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T01:46:26Z",
+      "lastUpdated": "2026-08-23T03:13:54Z",
       "homeTeam": {
         "id": 1771,
         "name": "Cruzeiro EC",
@@ -47975,12 +47975,12 @@
         "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
-          "away": 0
+          "home": 1,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -223506,7 +223506,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T01:46:26Z",
+      "lastUpdated": "2026-08-23T03:13:54Z",
       "homeTeam": {
         "id": 1771,
         "name": "Cruzeiro EC",
@@ -223525,12 +223525,12 @@
         "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
-          "away": 0
+          "home": 1,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -504339,7 +504339,7 @@
       "seasonId": 2474,
       "seasonStart": "2026-01-28",
       "seasonEnd": "2026-12-02",
-      "lastSuccessfulUpdate": "2026-08-22 23:46 UTC"
+      "lastSuccessfulUpdate": "2026-08-23 01:14 UTC"
     },
     "WC": {
       "status": "connected",
