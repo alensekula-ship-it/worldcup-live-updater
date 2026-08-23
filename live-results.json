@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-23 22:49 UTC",
-  "lastUpdate": "2026-08-23 22:49 UTC",
+  "generatedAt": "2026-08-23 23:20 UTC",
+  "lastUpdate": "2026-08-23 23:20 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -49477,7 +49477,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-24T00:48:18Z",
+      "lastUpdated": "2026-08-24T01:20:18Z",
       "homeTeam": {
         "id": 1772,
         "name": "Chapecoense AF",
@@ -49536,7 +49536,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-24T00:48:18Z",
+      "lastUpdated": "2026-08-24T01:20:18Z",
       "homeTeam": {
         "id": 6685,
         "name": "Santos FC",
@@ -49552,10 +49552,10 @@
         "crest": "https://crests.football-data.org/4364.png"
       },
       "score": {
-        "winner": "AWAY_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 1
         },
         "halfTime": {
@@ -49595,7 +49595,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-24T00:48:17Z",
+      "lastUpdated": "2026-08-24T01:20:17Z",
       "homeTeam": {
         "id": 4241,
         "name": "Coritiba FBC",
@@ -49611,10 +49611,10 @@
         "crest": "https://crests.football-data.org/1779.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 0
         },
         "halfTime": {
@@ -223611,7 +223611,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-24T00:48:18Z",
+      "lastUpdated": "2026-08-24T01:20:18Z",
       "homeTeam": {
         "id": 1772,
         "name": "Chapecoense AF",
@@ -223670,7 +223670,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-24T00:48:18Z",
+      "lastUpdated": "2026-08-24T01:20:18Z",
       "homeTeam": {
         "id": 6685,
         "name": "Santos FC",
@@ -223686,10 +223686,10 @@
         "crest": "https://crests.football-data.org/4364.png"
       },
       "score": {
-        "winner": "AWAY_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 1
         },
         "halfTime": {
@@ -223729,7 +223729,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-24T00:48:17Z",
+      "lastUpdated": "2026-08-24T01:20:17Z",
       "homeTeam": {
         "id": 4241,
         "name": "Coritiba FBC",
@@ -223745,10 +223745,10 @@
         "crest": "https://crests.football-data.org/1779.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 0
         },
         "halfTime": {
@@ -501801,6 +501801,25 @@
             {
               "position": 4,
               "team": {
+                "id": 81,
+                "name": "FC Barcelona",
+                "shortName": "Barça",
+                "tla": "FCB",
+                "crest": "https://crests.football-data.org/81.png"
+              },
+              "playedGames": 1,
+              "form": null,
+              "won": 1,
+              "draw": 0,
+              "lost": 0,
+              "points": 3,
+              "goalsFor": 5,
+              "goalsAgainst": 0,
+              "goalDifference": 5
+            },
+            {
+              "position": 5,
+              "team": {
                 "id": 80,
                 "name": "RCD Espanyol de Barcelona",
                 "shortName": "Espanyol",
@@ -501815,25 +501834,6 @@
               "points": 3,
               "goalsFor": 4,
               "goalsAgainst": 2,
-              "goalDifference": 2
-            },
-            {
-              "position": 5,
-              "team": {
-                "id": 81,
-                "name": "FC Barcelona",
-                "shortName": "Barça",
-                "tla": "FCB",
-                "crest": "https://crests.football-data.org/81.png"
-              },
-              "playedGames": 1,
-              "form": null,
-              "won": 1,
-              "draw": 0,
-              "lost": 0,
-              "points": 3,
-              "goalsFor": 2,
-              "goalsAgainst": 0,
               "goalDifference": 2
             },
             {
@@ -502023,8 +502023,8 @@
               "lost": 1,
               "points": 1,
               "goalsFor": 1,
-              "goalsAgainst": 3,
-              "goalDifference": -2
+              "goalsAgainst": 6,
+              "goalDifference": -5
             },
             {
               "position": 16,
@@ -504495,7 +504495,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-23 22:47 UTC"
+      "lastSuccessfulUpdate": "2026-08-23 23:19 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -504549,7 +504549,7 @@
       "seasonId": 2474,
       "seasonStart": "2026-01-28",
       "seasonEnd": "2026-12-02",
-      "lastSuccessfulUpdate": "2026-08-23 22:48 UTC"
+      "lastSuccessfulUpdate": "2026-08-23 23:20 UTC"
     },
     "WC": {
       "status": "connected",
