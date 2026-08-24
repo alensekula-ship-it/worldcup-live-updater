@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-24 19:37 UTC",
-  "lastUpdate": "2026-08-24 19:37 UTC",
+  "generatedAt": "2026-08-24 20:03 UTC",
+  "lastUpdate": "2026-08-24 20:03 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -49723,11 +49723,11 @@
       },
       "id": 558638,
       "utcDate": "2026-08-24T18:45:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-24T21:36:17Z",
+      "lastUpdated": "2026-08-24T22:02:58Z",
       "homeTeam": {
         "id": 100,
         "name": "AS Roma",
@@ -49746,7 +49746,7 @@
         "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 2,
           "away": 0
         },
         "halfTime": {
@@ -49789,11 +49789,11 @@
       },
       "id": 560551,
       "utcDate": "2026-08-24T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-24T21:35:45Z",
+      "lastUpdated": "2026-08-24T22:02:26Z",
       "homeTeam": {
         "id": 63,
         "name": "Fulham FC",
@@ -49809,15 +49809,15 @@
         "crest": "https://crests.football-data.org/61.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 1,
-          "away": 1
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         }
       },
       "odds": {
@@ -49859,7 +49859,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-24T21:36:50Z",
+      "lastUpdated": "2026-08-24T22:02:58Z",
       "homeTeam": {
         "id": 5533,
         "name": "Gil Vicente FC",
@@ -49878,7 +49878,7 @@
         "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 2,
           "away": 0
         },
         "halfTime": {
@@ -49918,7 +49918,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-24T21:36:18Z",
+      "lastUpdated": "2026-08-24T22:02:26Z",
       "homeTeam": {
         "id": 84,
         "name": "Málaga CF",
@@ -49934,11 +49934,11 @@
         "crest": "https://crests.football-data.org/560.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": null,
@@ -223635,11 +223635,11 @@
       },
       "id": 558638,
       "utcDate": "2026-08-24T18:45:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-24T21:36:17Z",
+      "lastUpdated": "2026-08-24T22:02:58Z",
       "homeTeam": {
         "id": 100,
         "name": "AS Roma",
@@ -223658,7 +223658,7 @@
         "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 2,
           "away": 0
         },
         "halfTime": {
@@ -223701,11 +223701,11 @@
       },
       "id": 560551,
       "utcDate": "2026-08-24T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-24T21:35:45Z",
+      "lastUpdated": "2026-08-24T22:02:26Z",
       "homeTeam": {
         "id": 63,
         "name": "Fulham FC",
@@ -223721,15 +223721,15 @@
         "crest": "https://crests.football-data.org/61.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 1,
-          "away": 1
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         }
       },
       "odds": {
@@ -223771,7 +223771,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-24T21:36:50Z",
+      "lastUpdated": "2026-08-24T22:02:58Z",
       "homeTeam": {
         "id": 5533,
         "name": "Gil Vicente FC",
@@ -223790,7 +223790,7 @@
         "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 2,
           "away": 0
         },
         "halfTime": {
@@ -223830,7 +223830,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-24T21:36:18Z",
+      "lastUpdated": "2026-08-24T22:02:26Z",
       "homeTeam": {
         "id": 84,
         "name": "Málaga CF",
@@ -223846,11 +223846,11 @@
         "crest": "https://crests.football-data.org/560.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": null,
@@ -503910,6 +503910,25 @@
             {
               "position": 6,
               "team": {
+                "id": 5533,
+                "name": "Gil Vicente FC",
+                "shortName": "Gil Vicente",
+                "tla": "GIL",
+                "crest": "https://crests.football-data.org/5533.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 2,
+              "draw": 0,
+              "lost": 0,
+              "points": 6,
+              "goalsFor": 2,
+              "goalsAgainst": 0,
+              "goalDifference": 2
+            },
+            {
+              "position": 7,
+              "team": {
                 "id": 1903,
                 "name": "Sport Lisboa e Benfica",
                 "shortName": "SL Benfica",
@@ -503927,7 +503946,7 @@
               "goalDifference": 7
             },
             {
-              "position": 7,
+              "position": 8,
               "team": {
                 "id": 5529,
                 "name": "CD Nacional",
@@ -503943,25 +503962,6 @@
               "points": 4,
               "goalsFor": 4,
               "goalsAgainst": 3,
-              "goalDifference": 1
-            },
-            {
-              "position": 8,
-              "team": {
-                "id": 5533,
-                "name": "Gil Vicente FC",
-                "shortName": "Gil Vicente",
-                "tla": "GIL",
-                "crest": "https://crests.football-data.org/5533.png"
-              },
-              "playedGames": 1,
-              "form": null,
-              "won": 1,
-              "draw": 0,
-              "lost": 0,
-              "points": 3,
-              "goalsFor": 1,
-              "goalsAgainst": 0,
               "goalDifference": 1
             },
             {
@@ -504144,15 +504144,15 @@
                 "tla": "CAS",
                 "crest": "https://crests.football-data.org/6618.png"
               },
-              "playedGames": 2,
+              "playedGames": 3,
               "form": null,
               "won": 0,
               "draw": 0,
-              "lost": 2,
+              "lost": 3,
               "points": 0,
               "goalsFor": 0,
-              "goalsAgainst": 8,
-              "goalDifference": -8
+              "goalsAgainst": 9,
+              "goalDifference": -9
             }
           ]
         }
@@ -504592,7 +504592,7 @@
       "seasonId": 2502,
       "seasonStart": "2026-08-21",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-24 19:36 UTC"
+      "lastSuccessfulUpdate": "2026-08-24 20:02 UTC"
     },
     "ELC": {
       "status": "connected",
@@ -504610,7 +504610,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-24 19:36 UTC"
+      "lastSuccessfulUpdate": "2026-08-24 20:02 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -504628,7 +504628,7 @@
       "seasonId": 2494,
       "seasonStart": "2026-08-23",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-24 19:36 UTC"
+      "lastSuccessfulUpdate": "2026-08-24 20:03 UTC"
     },
     "FL1": {
       "status": "connected",
@@ -504655,7 +504655,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-24 19:37 UTC"
+      "lastSuccessfulUpdate": "2026-08-24 20:03 UTC"
     },
     "BSA": {
       "status": "connected",
