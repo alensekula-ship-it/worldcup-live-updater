@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-24 20:49 UTC",
-  "lastUpdate": "2026-08-24 20:49 UTC",
+  "generatedAt": "2026-08-24 21:28 UTC",
+  "lastUpdate": "2026-08-24 21:28 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -49789,11 +49789,11 @@
       },
       "id": 560551,
       "utcDate": "2026-08-24T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-24T22:47:46Z",
+      "lastUpdated": "2026-08-24T22:55:14Z",
       "homeTeam": {
         "id": 63,
         "name": "Fulham FC",
@@ -49855,11 +49855,11 @@
       },
       "id": 567277,
       "utcDate": "2026-08-24T19:15:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-24T22:48:49Z",
+      "lastUpdated": "2026-08-24T23:12:50Z",
       "homeTeam": {
         "id": 5533,
         "name": "Gil Vicente FC",
@@ -49914,11 +49914,11 @@
       },
       "id": 564640,
       "utcDate": "2026-08-24T19:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-24T22:47:46Z",
+      "lastUpdated": "2026-08-24T23:24:34Z",
       "homeTeam": {
         "id": 84,
         "name": "Málaga CF",
@@ -223611,192 +223611,7 @@
       "referees": []
     }
   ],
-  "live": [
-    {
-      "area": {
-        "id": 2072,
-        "name": "England",
-        "code": "ENG",
-        "flag": "https://crests.football-data.org/770.svg"
-      },
-      "competition": {
-        "id": 2021,
-        "name": "Premier League",
-        "code": "PL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PL.png"
-      },
-      "season": {
-        "id": 2502,
-        "startDate": "2026-08-21",
-        "endDate": "2027-05-30",
-        "currentMatchday": 1,
-        "winner": null
-      },
-      "id": 560551,
-      "utcDate": "2026-08-24T19:00:00Z",
-      "status": "IN_PLAY",
-      "matchday": 1,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-24T22:47:46Z",
-      "homeTeam": {
-        "id": 63,
-        "name": "Fulham FC",
-        "shortName": "Fulham",
-        "tla": "FUL",
-        "crest": "https://crests.football-data.org/63.png"
-      },
-      "awayTeam": {
-        "id": 61,
-        "name": "Chelsea FC",
-        "shortName": "Chelsea",
-        "tla": "CHE",
-        "crest": "https://crests.football-data.org/61.png"
-      },
-      "score": {
-        "winner": "AWAY_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 2,
-          "away": 3
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 2
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 11327,
-          "name": "John Brooks",
-          "type": "REFEREE",
-          "nationality": "England"
-        }
-      ]
-    },
-    {
-      "area": {
-        "id": 2187,
-        "name": "Portugal",
-        "code": "POR",
-        "flag": "https://crests.football-data.org/765.svg"
-      },
-      "competition": {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      },
-      "season": {
-        "id": 2526,
-        "startDate": "2026-08-08",
-        "endDate": "2027-05-16",
-        "currentMatchday": 3,
-        "winner": null
-      },
-      "id": 567277,
-      "utcDate": "2026-08-24T19:15:00Z",
-      "status": "IN_PLAY",
-      "matchday": 3,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-24T22:48:49Z",
-      "homeTeam": {
-        "id": 5533,
-        "name": "Gil Vicente FC",
-        "shortName": "Gil Vicente",
-        "tla": "GIL",
-        "crest": "https://crests.football-data.org/5533.png"
-      },
-      "awayTeam": {
-        "id": 6618,
-        "name": "Casa Pia AC",
-        "shortName": "Casa Pia",
-        "tla": "CAS",
-        "crest": "https://crests.football-data.org/6618.png"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 2,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 2,
-          "away": 0
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
-    {
-      "area": {
-        "id": 2224,
-        "name": "Spain",
-        "code": "ESP",
-        "flag": "https://crests.football-data.org/760.svg"
-      },
-      "competition": {
-        "id": 2014,
-        "name": "Primera Division",
-        "code": "PD",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/laliga.png"
-      },
-      "season": {
-        "id": 2518,
-        "startDate": "2026-08-16",
-        "endDate": "2027-05-30",
-        "currentMatchday": 2,
-        "winner": null
-      },
-      "id": 564640,
-      "utcDate": "2026-08-24T19:30:00Z",
-      "status": "IN_PLAY",
-      "matchday": 2,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-24T22:47:46Z",
-      "homeTeam": {
-        "id": 84,
-        "name": "Málaga CF",
-        "shortName": "Málaga",
-        "tla": "MAL",
-        "crest": "https://crests.football-data.org/84.png"
-      },
-      "awayTeam": {
-        "id": 560,
-        "name": "RC Deportivo La Coruña",
-        "shortName": "Deportivo",
-        "tla": "DEP",
-        "crest": "https://crests.football-data.org/560.png"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 1
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    }
-  ],
+  "live": [],
   "finished": [
     {
       "area": {
@@ -273190,6 +273005,190 @@
           "nationality": "Italy"
         }
       ]
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/PL.png"
+      },
+      "season": {
+        "id": 2502,
+        "startDate": "2026-08-21",
+        "endDate": "2027-05-30",
+        "currentMatchday": 1,
+        "winner": null
+      },
+      "id": 560551,
+      "utcDate": "2026-08-24T19:00:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-24T22:55:14Z",
+      "homeTeam": {
+        "id": 63,
+        "name": "Fulham FC",
+        "shortName": "Fulham",
+        "tla": "FUL",
+        "crest": "https://crests.football-data.org/63.png"
+      },
+      "awayTeam": {
+        "id": 61,
+        "name": "Chelsea FC",
+        "shortName": "Chelsea",
+        "tla": "CHE",
+        "crest": "https://crests.football-data.org/61.png"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 3
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 2
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 11327,
+          "name": "John Brooks",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "competition": {
+        "id": 2017,
+        "name": "Primeira Liga",
+        "code": "PPL",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/PPL.png"
+      },
+      "season": {
+        "id": 2526,
+        "startDate": "2026-08-08",
+        "endDate": "2027-05-16",
+        "currentMatchday": 3,
+        "winner": null
+      },
+      "id": 567277,
+      "utcDate": "2026-08-24T19:15:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-24T23:12:50Z",
+      "homeTeam": {
+        "id": 5533,
+        "name": "Gil Vicente FC",
+        "shortName": "Gil Vicente",
+        "tla": "GIL",
+        "crest": "https://crests.football-data.org/5533.png"
+      },
+      "awayTeam": {
+        "id": 6618,
+        "name": "Casa Pia AC",
+        "shortName": "Casa Pia",
+        "tla": "CAS",
+        "crest": "https://crests.football-data.org/6618.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 0
+        },
+        "halfTime": {
+          "home": 2,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": []
+    },
+    {
+      "area": {
+        "id": 2224,
+        "name": "Spain",
+        "code": "ESP",
+        "flag": "https://crests.football-data.org/760.svg"
+      },
+      "competition": {
+        "id": 2014,
+        "name": "Primera Division",
+        "code": "PD",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/laliga.png"
+      },
+      "season": {
+        "id": 2518,
+        "startDate": "2026-08-16",
+        "endDate": "2027-05-30",
+        "currentMatchday": 2,
+        "winner": null
+      },
+      "id": 564640,
+      "utcDate": "2026-08-24T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-24T23:24:34Z",
+      "homeTeam": {
+        "id": 84,
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "tla": "MAL",
+        "crest": "https://crests.football-data.org/84.png"
+      },
+      "awayTeam": {
+        "id": 560,
+        "name": "RC Deportivo La Coruña",
+        "shortName": "Deportivo",
+        "tla": "DEP",
+        "crest": "https://crests.football-data.org/560.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 1,
+          "away": 1
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": []
     }
   ],
   "upcoming": [
@@ -503922,9 +503921,9 @@
               "draw": 0,
               "lost": 0,
               "points": 6,
-              "goalsFor": 2,
+              "goalsFor": 3,
               "goalsAgainst": 0,
-              "goalDifference": 2
+              "goalDifference": 3
             },
             {
               "position": 7,
@@ -504151,8 +504150,8 @@
               "lost": 3,
               "points": 0,
               "goalsFor": 0,
-              "goalsAgainst": 9,
-              "goalDifference": -9
+              "goalsAgainst": 10,
+              "goalDifference": -10
             }
           ]
         }
@@ -504592,7 +504591,7 @@
       "seasonId": 2502,
       "seasonStart": "2026-08-21",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-24 20:47 UTC"
+      "lastSuccessfulUpdate": "2026-08-24 21:26 UTC"
     },
     "ELC": {
       "status": "connected",
@@ -504610,7 +504609,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-24 20:48 UTC"
+      "lastSuccessfulUpdate": "2026-08-24 21:26 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -504655,7 +504654,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-08-24 20:48 UTC"
+      "lastSuccessfulUpdate": "2026-08-24 21:27 UTC"
     },
     "BSA": {
       "status": "connected",
