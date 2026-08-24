@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-24 03:40 UTC",
-  "lastUpdate": "2026-08-24 03:40 UTC",
+  "generatedAt": "2026-08-24 04:30 UTC",
+  "lastUpdate": "2026-08-24 04:30 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -501248,7 +501248,7 @@
         {
           "stage": "REGULAR_SEASON",
           "type": "TOTAL",
-          "group": "Matchday",
+          "group": null,
           "table": [
             {
               "position": 1,
@@ -501424,25 +501424,6 @@
             {
               "position": 10,
               "team": {
-                "id": 340,
-                "name": "Southampton FC",
-                "shortName": "Southampton",
-                "tla": "SOU",
-                "crest": "https://crests.football-data.org/340.png"
-              },
-              "playedGames": 2,
-              "form": null,
-              "won": 1,
-              "draw": 0,
-              "lost": 1,
-              "points": 3,
-              "goalsFor": 4,
-              "goalsAgainst": 3,
-              "goalDifference": 1
-            },
-            {
-              "position": 11,
-              "team": {
                 "id": 325,
                 "name": "Portsmouth FC",
                 "shortName": "Portsmouth",
@@ -501460,7 +501441,7 @@
               "goalDifference": 0
             },
             {
-              "position": 12,
+              "position": 11,
               "team": {
                 "id": 343,
                 "name": "Middlesbrough FC",
@@ -501479,7 +501460,7 @@
               "goalDifference": 0
             },
             {
-              "position": 13,
+              "position": 12,
               "team": {
                 "id": 715,
                 "name": "Cardiff City FC",
@@ -501498,26 +501479,7 @@
               "goalDifference": 0
             },
             {
-              "position": 14,
-              "team": {
-                "id": 332,
-                "name": "Birmingham City FC",
-                "shortName": "Birmingham",
-                "tla": "BIR",
-                "crest": "https://crests.football-data.org/332.png"
-              },
-              "playedGames": 2,
-              "form": null,
-              "won": 0,
-              "draw": 2,
-              "lost": 0,
-              "points": 2,
-              "goalsFor": 2,
-              "goalsAgainst": 2,
-              "goalDifference": 0
-            },
-            {
-              "position": 14,
+              "position": 13,
               "team": {
                 "id": 404,
                 "name": "Wrexham AFC",
@@ -501536,7 +501498,26 @@
               "goalDifference": 0
             },
             {
-              "position": 16,
+              "position": 13,
+              "team": {
+                "id": 332,
+                "name": "Birmingham City FC",
+                "shortName": "Birmingham",
+                "tla": "BIR",
+                "crest": "https://crests.football-data.org/332.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 0,
+              "draw": 2,
+              "lost": 0,
+              "points": 2,
+              "goalsFor": 2,
+              "goalsAgainst": 2,
+              "goalDifference": 0
+            },
+            {
+              "position": 15,
               "team": {
                 "id": 356,
                 "name": "Sheffield United FC",
@@ -501555,26 +501536,7 @@
               "goalDifference": 0
             },
             {
-              "position": 17,
-              "team": {
-                "id": 342,
-                "name": "Derby County FC",
-                "shortName": "Derby County",
-                "tla": "DER",
-                "crest": "https://crests.football-data.org/342.png"
-              },
-              "playedGames": 2,
-              "form": null,
-              "won": 0,
-              "draw": 1,
-              "lost": 1,
-              "points": 1,
-              "goalsFor": 3,
-              "goalsAgainst": 4,
-              "goalDifference": -1
-            },
-            {
-              "position": 17,
+              "position": 16,
               "team": {
                 "id": 563,
                 "name": "West Ham United FC",
@@ -501593,7 +501555,26 @@
               "goalDifference": -1
             },
             {
-              "position": 19,
+              "position": 16,
+              "team": {
+                "id": 342,
+                "name": "Derby County FC",
+                "shortName": "Derby County",
+                "tla": "DER",
+                "crest": "https://crests.football-data.org/342.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 0,
+              "draw": 1,
+              "lost": 1,
+              "points": 1,
+              "goalsFor": 3,
+              "goalsAgainst": 4,
+              "goalDifference": -1
+            },
+            {
+              "position": 18,
               "team": {
                 "id": 328,
                 "name": "Burnley FC",
@@ -501612,7 +501593,7 @@
               "goalDifference": -2
             },
             {
-              "position": 20,
+              "position": 19,
               "team": {
                 "id": 387,
                 "name": "Bristol City FC",
@@ -501631,26 +501612,7 @@
               "goalDifference": -2
             },
             {
-              "position": 21,
-              "team": {
-                "id": 1126,
-                "name": "Lincoln City FC",
-                "shortName": "Lincoln City",
-                "tla": "LIN",
-                "crest": "https://crests.football-data.org/1126.png"
-              },
-              "playedGames": 2,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 2,
-              "points": 0,
-              "goalsFor": 2,
-              "goalsAgainst": 5,
-              "goalDifference": -3
-            },
-            {
-              "position": 21,
+              "position": 20,
               "team": {
                 "id": 1081,
                 "name": "Preston North End FC",
@@ -501669,7 +501631,26 @@
               "goalDifference": -3
             },
             {
-              "position": 21,
+              "position": 20,
+              "team": {
+                "id": 1126,
+                "name": "Lincoln City FC",
+                "shortName": "Lincoln City",
+                "tla": "LIN",
+                "crest": "https://crests.football-data.org/1126.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 2,
+              "points": 0,
+              "goalsFor": 2,
+              "goalsAgainst": 5,
+              "goalDifference": -3
+            },
+            {
+              "position": 20,
               "team": {
                 "id": 70,
                 "name": "Stoke City FC",
@@ -501688,7 +501669,7 @@
               "goalDifference": -3
             },
             {
-              "position": 24,
+              "position": 23,
               "team": {
                 "id": 68,
                 "name": "Norwich City FC",
@@ -501705,6 +501686,25 @@
               "goalsFor": 1,
               "goalsAgainst": 5,
               "goalDifference": -4
+            },
+            {
+              "position": 24,
+              "team": {
+                "id": 340,
+                "name": "Southampton FC",
+                "shortName": "Southampton",
+                "tla": "SOU",
+                "crest": "https://crests.football-data.org/340.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 1,
+              "draw": 0,
+              "lost": 1,
+              "points": -1,
+              "goalsFor": 4,
+              "goalsAgainst": 3,
+              "goalDifference": 1
             }
           ]
         }
@@ -504485,7 +504485,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-08-24 03:38 UTC"
+      "lastSuccessfulUpdate": "2026-08-24 04:28 UTC"
     },
     "PD": {
       "status": "connected",
