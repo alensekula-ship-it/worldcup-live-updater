@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-24 17:30 UTC",
-  "lastUpdate": "2026-08-24 17:30 UTC",
+  "generatedAt": "2026-08-24 18:02 UTC",
+  "lastUpdate": "2026-08-24 18:02 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -49657,11 +49657,11 @@
       },
       "id": 558630,
       "utcDate": "2026-08-24T16:30:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-24T19:29:22Z",
+      "lastUpdated": "2026-08-24T20:01:22Z",
       "homeTeam": {
         "id": 103,
         "name": "Bologna FC 1909",
@@ -49677,11 +49677,11 @@
         "crest": "https://crests.football-data.org/110.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": 0,
@@ -49723,11 +49723,11 @@
       },
       "id": 564639,
       "utcDate": "2026-08-24T17:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-24T19:28:18Z",
+      "lastUpdated": "2026-08-24T20:00:50Z",
       "homeTeam": {
         "id": 79,
         "name": "CA Osasuna",
@@ -49743,11 +49743,11 @@
         "crest": "https://crests.football-data.org/88.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -49786,7 +49786,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-24T15:20:38Z",
+      "lastUpdated": "2026-08-24T19:59:46Z",
       "homeTeam": {
         "id": 100,
         "name": "AS Roma",
@@ -223635,11 +223635,11 @@
       },
       "id": 558630,
       "utcDate": "2026-08-24T16:30:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-24T19:29:22Z",
+      "lastUpdated": "2026-08-24T20:01:22Z",
       "homeTeam": {
         "id": 103,
         "name": "Bologna FC 1909",
@@ -223655,11 +223655,11 @@
         "crest": "https://crests.football-data.org/110.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": 0,
@@ -223677,6 +223677,65 @@
           "nationality": "Italy"
         }
       ]
+    },
+    {
+      "area": {
+        "id": 2224,
+        "name": "Spain",
+        "code": "ESP",
+        "flag": "https://crests.football-data.org/760.svg"
+      },
+      "competition": {
+        "id": 2014,
+        "name": "Primera Division",
+        "code": "PD",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/laliga.png"
+      },
+      "season": {
+        "id": 2518,
+        "startDate": "2026-08-16",
+        "endDate": "2027-05-30",
+        "currentMatchday": 2,
+        "winner": null
+      },
+      "id": 564639,
+      "utcDate": "2026-08-24T17:30:00Z",
+      "status": "IN_PLAY",
+      "matchday": 2,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-24T20:00:50Z",
+      "homeTeam": {
+        "id": 79,
+        "name": "CA Osasuna",
+        "shortName": "Osasuna",
+        "tla": "OSA",
+        "crest": "https://crests.football-data.org/79.png"
+      },
+      "awayTeam": {
+        "id": 88,
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "tla": "LEV",
+        "crest": "https://crests.football-data.org/88.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": []
     }
   ],
   "finished": [
@@ -272886,65 +272945,6 @@
   "upcoming": [
     {
       "area": {
-        "id": 2224,
-        "name": "Spain",
-        "code": "ESP",
-        "flag": "https://crests.football-data.org/760.svg"
-      },
-      "competition": {
-        "id": 2014,
-        "name": "Primera Division",
-        "code": "PD",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/laliga.png"
-      },
-      "season": {
-        "id": 2518,
-        "startDate": "2026-08-16",
-        "endDate": "2027-05-30",
-        "currentMatchday": 2,
-        "winner": null
-      },
-      "id": 564639,
-      "utcDate": "2026-08-24T17:30:00Z",
-      "status": "TIMED",
-      "matchday": 2,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-24T19:28:18Z",
-      "homeTeam": {
-        "id": 79,
-        "name": "CA Osasuna",
-        "shortName": "Osasuna",
-        "tla": "OSA",
-        "crest": "https://crests.football-data.org/79.png"
-      },
-      "awayTeam": {
-        "id": 88,
-        "name": "Levante UD",
-        "shortName": "Levante",
-        "tla": "LEV",
-        "crest": "https://crests.football-data.org/88.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
-    {
-      "area": {
         "id": 2114,
         "name": "Italy",
         "code": "ITA",
@@ -272970,7 +272970,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-24T15:20:38Z",
+      "lastUpdated": "2026-08-24T19:59:46Z",
       "homeTeam": {
         "id": 100,
         "name": "AS Roma",
@@ -501990,6 +501990,25 @@
             {
               "position": 11,
               "team": {
+                "id": 79,
+                "name": "CA Osasuna",
+                "shortName": "Osasuna",
+                "tla": "OSA",
+                "crest": "https://crests.football-data.org/79.png"
+              },
+              "playedGames": 1,
+              "form": null,
+              "won": 0,
+              "draw": 1,
+              "lost": 0,
+              "points": 1,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0
+            },
+            {
+              "position": 11,
+              "team": {
                 "id": 558,
                 "name": "RC Celta de Vigo",
                 "shortName": "Celta",
@@ -502026,7 +502045,7 @@
               "goalDifference": 0
             },
             {
-              "position": 13,
+              "position": 14,
               "team": {
                 "id": 5335,
                 "name": "Real Racing Club de Santander",
@@ -502045,7 +502064,7 @@
               "goalDifference": -1
             },
             {
-              "position": 13,
+              "position": 14,
               "team": {
                 "id": 87,
                 "name": "Rayo Vallecano de Madrid",
@@ -502064,7 +502083,26 @@
               "goalDifference": -1
             },
             {
-              "position": 15,
+              "position": 16,
+              "team": {
+                "id": 88,
+                "name": "Levante UD",
+                "shortName": "Levante",
+                "tla": "LEV",
+                "crest": "https://crests.football-data.org/88.png"
+              },
+              "playedGames": 2,
+              "form": null,
+              "won": 0,
+              "draw": 1,
+              "lost": 1,
+              "points": 1,
+              "goalsFor": 0,
+              "goalsAgainst": 3,
+              "goalDifference": -3
+            },
+            {
+              "position": 17,
               "team": {
                 "id": 285,
                 "name": "Elche CF",
@@ -502083,26 +502121,7 @@
               "goalDifference": -5
             },
             {
-              "position": 16,
-              "team": {
-                "id": 79,
-                "name": "CA Osasuna",
-                "shortName": "Osasuna",
-                "tla": "OSA",
-                "crest": "https://crests.football-data.org/79.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 17,
+              "position": 18,
               "team": {
                 "id": 92,
                 "name": "Real Sociedad de Fútbol",
@@ -502121,7 +502140,7 @@
               "goalDifference": -1
             },
             {
-              "position": 18,
+              "position": 19,
               "team": {
                 "id": 77,
                 "name": "Athletic Club",
@@ -502140,7 +502159,7 @@
               "goalDifference": -2
             },
             {
-              "position": 19,
+              "position": 20,
               "team": {
                 "id": 84,
                 "name": "Málaga CF",
@@ -502157,25 +502176,6 @@
               "goalsFor": 0,
               "goalsAgainst": 2,
               "goalDifference": -2
-            },
-            {
-              "position": 20,
-              "team": {
-                "id": 88,
-                "name": "Levante UD",
-                "shortName": "Levante",
-                "tla": "LEV",
-                "crest": "https://crests.football-data.org/88.png"
-              },
-              "playedGames": 1,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 1,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 3,
-              "goalDifference": -3
             }
           ]
         }
@@ -504551,7 +504551,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-24 17:29 UTC"
+      "lastSuccessfulUpdate": "2026-08-24 18:01 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -504569,7 +504569,7 @@
       "seasonId": 2494,
       "seasonStart": "2026-08-23",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-24 17:29 UTC"
+      "lastSuccessfulUpdate": "2026-08-24 18:01 UTC"
     },
     "FL1": {
       "status": "connected",
