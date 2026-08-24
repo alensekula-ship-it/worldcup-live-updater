@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-24 13:51 UTC",
-  "lastUpdate": "2026-08-24 13:51 UTC",
+  "generatedAt": "2026-08-24 14:41 UTC",
+  "lastUpdate": "2026-08-24 14:41 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -49691,7 +49691,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 10977,
+          "name": "Fabio Maresca",
+          "type": "REFEREE",
+          "nationality": "Italy"
+        }
+      ]
     },
     {
       "area": {
@@ -272853,7 +272860,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 10977,
+          "name": "Fabio Maresca",
+          "type": "REFEREE",
+          "nationality": "Italy"
+        }
+      ]
     },
     {
       "area": {
@@ -504526,7 +504540,7 @@
       "seasonId": 2494,
       "seasonStart": "2026-08-23",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-24 13:50 UTC"
+      "lastSuccessfulUpdate": "2026-08-24 14:40 UTC"
     },
     "FL1": {
       "status": "connected",
