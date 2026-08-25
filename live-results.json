@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-25 20:36 UTC",
-  "lastUpdate": "2026-08-25 20:36 UTC",
+  "generatedAt": "2026-08-25 21:04 UTC",
+  "lastUpdate": "2026-08-25 21:04 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -50077,11 +50077,11 @@
       },
       "id": 564637,
       "utcDate": "2026-08-25T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-25T22:34:58Z",
+      "lastUpdated": "2026-08-25T22:59:30Z",
       "homeTeam": {
         "id": 95,
         "name": "Valencia CF",
@@ -50097,11 +50097,11 @@
         "crest": "https://crests.football-data.org/90.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": 0,
@@ -50156,11 +50156,11 @@
         "endDate": "2027-06-30"
       },
       "venue": "Raiffeisen Arena (Linz)",
-      "homeGoals": 0,
+      "homeGoals": 3,
       "awayGoals": 1,
       "score": {
         "fullTime": {
-          "home": 0,
+          "home": 3,
           "away": 1
         }
       }
@@ -50201,11 +50201,11 @@
         "endDate": "2027-06-30"
       },
       "venue": "Aspmyra Stadion",
-      "homeGoals": 0,
+      "homeGoals": 3,
       "awayGoals": 0,
       "score": {
         "fullTime": {
-          "home": 0,
+          "home": 3,
           "away": 0
         }
       }
@@ -223644,72 +223644,6 @@
   ],
   "live": [
     {
-      "area": {
-        "id": 2224,
-        "name": "Spain",
-        "code": "ESP",
-        "flag": "https://crests.football-data.org/760.svg"
-      },
-      "competition": {
-        "id": 2014,
-        "name": "Primera Division",
-        "code": "PD",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/laliga.png"
-      },
-      "season": {
-        "id": 2518,
-        "startDate": "2026-08-16",
-        "endDate": "2027-05-30",
-        "currentMatchday": 2,
-        "winner": null
-      },
-      "id": 564637,
-      "utcDate": "2026-08-25T19:00:00Z",
-      "status": "IN_PLAY",
-      "matchday": 1,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-25T22:34:58Z",
-      "homeTeam": {
-        "id": 95,
-        "name": "Valencia CF",
-        "shortName": "Valencia",
-        "tla": "VAL",
-        "crest": "https://crests.football-data.org/95.png"
-      },
-      "awayTeam": {
-        "id": 90,
-        "name": "Real Betis Balompié",
-        "shortName": "Real Betis",
-        "tla": "BET",
-        "crest": "https://crests.football-data.org/90.png"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 0,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 0
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 214122,
-          "name": "Jon González Esteban",
-          "type": "REFEREE",
-          "nationality": "Spain"
-        }
-      ]
-    },
-    {
       "id": 1501903707,
       "externalId": "espn-ucl-401903707",
       "competition": {
@@ -223745,11 +223679,11 @@
         "endDate": "2027-06-30"
       },
       "venue": "Raiffeisen Arena (Linz)",
-      "homeGoals": 0,
+      "homeGoals": 3,
       "awayGoals": 1,
       "score": {
         "fullTime": {
-          "home": 0,
+          "home": 3,
           "away": 1
         }
       }
@@ -223790,11 +223724,11 @@
         "endDate": "2027-06-30"
       },
       "venue": "Aspmyra Stadion",
-      "homeGoals": 0,
+      "homeGoals": 3,
       "awayGoals": 0,
       "score": {
         "fullTime": {
-          "home": 0,
+          "home": 3,
           "away": 0
         }
       }
@@ -273481,6 +273415,72 @@
           "away": 2
         }
       }
+    },
+    {
+      "area": {
+        "id": 2224,
+        "name": "Spain",
+        "code": "ESP",
+        "flag": "https://crests.football-data.org/760.svg"
+      },
+      "competition": {
+        "id": 2014,
+        "name": "Primera Division",
+        "code": "PD",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/laliga.png"
+      },
+      "season": {
+        "id": 2518,
+        "startDate": "2026-08-16",
+        "endDate": "2027-05-30",
+        "currentMatchday": 2,
+        "winner": null
+      },
+      "id": 564637,
+      "utcDate": "2026-08-25T19:00:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-25T22:59:30Z",
+      "homeTeam": {
+        "id": 95,
+        "name": "Valencia CF",
+        "shortName": "Valencia",
+        "tla": "VAL",
+        "crest": "https://crests.football-data.org/95.png"
+      },
+      "awayTeam": {
+        "id": 90,
+        "name": "Real Betis Balompié",
+        "shortName": "Real Betis",
+        "tla": "BET",
+        "crest": "https://crests.football-data.org/90.png"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 1
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 214122,
+          "name": "Jon González Esteban",
+          "type": "REFEREE",
+          "nationality": "Spain"
+        }
+      ]
     }
   ],
   "upcoming": [
@@ -504643,7 +504643,7 @@
       "seasonId": 2454,
       "seasonStart": "2025-09-16",
       "seasonEnd": "2026-05-30",
-      "lastSuccessfulUpdate": "2026-08-25 20:36 UTC",
+      "lastSuccessfulUpdate": "2026-08-25 21:04 UTC",
       "qualifyingProvider": "ESPN UEFA Champions League Qualifying",
       "qualifyingMatchCount": 24
     },
@@ -504672,7 +504672,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-25 20:35 UTC"
+      "lastSuccessfulUpdate": "2026-08-25 21:03 UTC"
     },
     "BL1": {
       "status": "connected",
