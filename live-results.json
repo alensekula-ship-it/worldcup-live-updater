@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-25 22:46 UTC",
-  "lastUpdate": "2026-08-25 22:46 UTC",
+  "generatedAt": "2026-08-25 23:38 UTC",
+  "lastUpdate": "2026-08-25 23:38 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -50237,7 +50237,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:00Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -50503,7 +50503,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:00Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -50562,7 +50562,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:00Z",
       "homeTeam": {
         "id": 5335,
         "name": "Real Racing Club de Santander",
@@ -51034,7 +51034,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:01Z",
       "homeTeam": {
         "id": 263,
         "name": "Deportivo Alavés",
@@ -52391,7 +52391,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:03Z",
       "homeTeam": {
         "id": 88,
         "name": "Levante UD",
@@ -52863,7 +52863,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:03Z",
       "homeTeam": {
         "id": 92,
         "name": "Real Sociedad de Fútbol",
@@ -53335,7 +53335,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:04Z",
       "homeTeam": {
         "id": 559,
         "name": "Sevilla FC",
@@ -54220,7 +54220,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:05Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -54574,7 +54574,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:05Z",
       "homeTeam": {
         "id": 560,
         "name": "RC Deportivo La Coruña",
@@ -55636,7 +55636,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:06Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -55754,7 +55754,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:07Z",
       "homeTeam": {
         "id": 1081,
         "name": "Preston North End FC",
@@ -55813,7 +55813,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:07Z",
       "homeTeam": {
         "id": 563,
         "name": "West Ham United FC",
@@ -55872,7 +55872,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:07Z",
       "homeTeam": {
         "id": 1126,
         "name": "Lincoln City FC",
@@ -55931,7 +55931,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:07Z",
       "homeTeam": {
         "id": 356,
         "name": "Sheffield United FC",
@@ -55990,7 +55990,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:07Z",
       "homeTeam": {
         "id": 325,
         "name": "Portsmouth FC",
@@ -56049,7 +56049,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:07Z",
       "homeTeam": {
         "id": 72,
         "name": "Swansea City AFC",
@@ -56108,7 +56108,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:07Z",
       "homeTeam": {
         "id": 70,
         "name": "Stoke City FC",
@@ -56167,7 +56167,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:07Z",
       "homeTeam": {
         "id": 332,
         "name": "Birmingham City FC",
@@ -273510,7 +273510,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:00Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -273776,7 +273776,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:00Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -273835,7 +273835,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:00Z",
       "homeTeam": {
         "id": 5335,
         "name": "Real Racing Club de Santander",
@@ -274307,7 +274307,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:01Z",
       "homeTeam": {
         "id": 263,
         "name": "Deportivo Alavés",
@@ -275664,7 +275664,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:03Z",
       "homeTeam": {
         "id": 88,
         "name": "Levante UD",
@@ -276136,7 +276136,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:03Z",
       "homeTeam": {
         "id": 92,
         "name": "Real Sociedad de Fútbol",
@@ -276608,7 +276608,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:04Z",
       "homeTeam": {
         "id": 559,
         "name": "Sevilla FC",
@@ -277493,7 +277493,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:05Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -277847,7 +277847,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:05Z",
       "homeTeam": {
         "id": 560,
         "name": "RC Deportivo La Coruña",
@@ -278909,7 +278909,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:06Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -279027,7 +279027,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:07Z",
       "homeTeam": {
         "id": 1081,
         "name": "Preston North End FC",
@@ -279086,7 +279086,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:07Z",
       "homeTeam": {
         "id": 563,
         "name": "West Ham United FC",
@@ -279145,7 +279145,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:07Z",
       "homeTeam": {
         "id": 1126,
         "name": "Lincoln City FC",
@@ -279204,7 +279204,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:07Z",
       "homeTeam": {
         "id": 356,
         "name": "Sheffield United FC",
@@ -279263,7 +279263,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:07Z",
       "homeTeam": {
         "id": 325,
         "name": "Portsmouth FC",
@@ -279322,7 +279322,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:07Z",
       "homeTeam": {
         "id": 72,
         "name": "Swansea City AFC",
@@ -279381,7 +279381,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:07Z",
       "homeTeam": {
         "id": 70,
         "name": "Stoke City FC",
@@ -279440,7 +279440,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T00:20:34Z",
+      "lastUpdated": "2026-08-26T01:32:07Z",
       "homeTeam": {
         "id": 332,
         "name": "Birmingham City FC",
@@ -504662,7 +504662,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-08-25 22:45 UTC"
+      "lastSuccessfulUpdate": "2026-08-25 23:37 UTC"
     },
     "PD": {
       "status": "connected",
@@ -504671,7 +504671,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-25 22:45 UTC"
+      "lastSuccessfulUpdate": "2026-08-25 23:37 UTC"
     },
     "BL1": {
       "status": "connected",
