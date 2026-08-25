@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-25 17:31 UTC",
-  "lastUpdate": "2026-08-25 17:31 UTC",
+  "generatedAt": "2026-08-25 18:01 UTC",
+  "lastUpdate": "2026-08-25 18:01 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -50021,7 +50021,7 @@
       "competitionName": "UEFA Champions League",
       "utcDate": "2026-08-25T16:45Z",
       "date": "2026-08-25T16:45Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "stage": "PLAYOFFS",
       "roundName": "Play-off • Uzvrat",
       "group": "",
@@ -50044,7 +50044,15 @@
         "startDate": "2026-07-01",
         "endDate": "2027-06-30"
       },
-      "venue": "Tofiq Bahramov Republican Stadium"
+      "venue": "Tofiq Bahramov Republican Stadium",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 1
+        }
+      }
     },
     {
       "area": {
@@ -223618,7 +223626,53 @@
       "referees": []
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "id": 1501909192,
+      "externalId": "espn-ucl-401909192",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-25T16:45Z",
+      "date": "2026-08-25T16:45Z",
+      "status": "IN_PLAY",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Sabah FK",
+        "shortName": "Sabah",
+        "tla": "SAB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png"
+      },
+      "awayTeam": {
+        "name": "Hapoel Be'er",
+        "shortName": "Hapoel Be'er",
+        "tla": "HBE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
+      },
+      "home": "Sabah FK",
+      "away": "Hapoel Be'er",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Tofiq Bahramov Republican Stadium",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 1,
+          "away": 1
+        }
+      }
+    }
+  ],
   "finished": [
     {
       "area": {
@@ -273258,43 +273312,6 @@
     }
   ],
   "upcoming": [
-    {
-      "id": 1501909192,
-      "externalId": "espn-ucl-401909192",
-      "competition": {
-        "name": "UEFA Champions League",
-        "code": "CL",
-        "type": "CUP"
-      },
-      "competitionCode": "CL",
-      "competitionName": "UEFA Champions League",
-      "utcDate": "2026-08-25T16:45Z",
-      "date": "2026-08-25T16:45Z",
-      "status": "SCHEDULED",
-      "stage": "PLAYOFFS",
-      "roundName": "Play-off • Uzvrat",
-      "group": "",
-      "homeTeam": {
-        "name": "Sabah FK",
-        "shortName": "Sabah",
-        "tla": "SAB",
-        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png"
-      },
-      "awayTeam": {
-        "name": "Hapoel Be'er",
-        "shortName": "Hapoel Be'er",
-        "tla": "HBE",
-        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
-      },
-      "home": "Sabah FK",
-      "away": "Hapoel Be'er",
-      "dataProvider": "ESPN UEFA Champions League Qualifying",
-      "season": {
-        "startDate": "2026-07-01",
-        "endDate": "2027-06-30"
-      },
-      "venue": "Tofiq Bahramov Republican Stadium"
-    },
     {
       "area": {
         "id": 2224,
@@ -504594,7 +504611,7 @@
       "seasonId": 2454,
       "seasonStart": "2025-09-16",
       "seasonEnd": "2026-05-30",
-      "lastSuccessfulUpdate": "2026-08-21 21:23 UTC",
+      "lastSuccessfulUpdate": "2026-08-25 18:01 UTC",
       "qualifyingProvider": "ESPN UEFA Champions League Qualifying",
       "qualifyingMatchCount": 24
     },
