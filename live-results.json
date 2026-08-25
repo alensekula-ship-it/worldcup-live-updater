@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-24 23:47 UTC",
-  "lastUpdate": "2026-08-24 23:47 UTC",
+  "generatedAt": "2026-08-25 01:10 UTC",
+  "lastUpdate": "2026-08-25 01:10 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -49973,11 +49973,11 @@
       },
       "id": 554970,
       "utcDate": "2026-08-24T23:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-25T01:46:57Z",
+      "lastUpdated": "2026-08-25T02:57:54Z",
       "homeTeam": {
         "id": 1770,
         "name": "Botafogo FR",
@@ -49996,12 +49996,12 @@
         "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
-          "away": 2
+          "home": 2,
+          "away": 3
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         }
       },
       "odds": {
@@ -223611,67 +223611,7 @@
       "referees": []
     }
   ],
-  "live": [
-    {
-      "area": {
-        "id": 2032,
-        "name": "Brazil",
-        "code": "BRA",
-        "flag": "https://crests.football-data.org/764.svg"
-      },
-      "competition": {
-        "id": 2013,
-        "name": "Campeonato Brasileiro Série A",
-        "code": "BSA",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      "season": {
-        "id": 2474,
-        "startDate": "2026-01-28",
-        "endDate": "2026-12-02",
-        "currentMatchday": 24,
-        "winner": null
-      },
-      "id": 554970,
-      "utcDate": "2026-08-24T23:00:00Z",
-      "status": "IN_PLAY",
-      "matchday": 24,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-08-25T01:46:57Z",
-      "homeTeam": {
-        "id": 1770,
-        "name": "Botafogo FR",
-        "shortName": "Botafogo",
-        "tla": "BOT",
-        "crest": "https://crests.football-data.org/1770.png"
-      },
-      "awayTeam": {
-        "id": 1768,
-        "name": "CA Paranaense",
-        "shortName": "Paranaense",
-        "tla": "CAP",
-        "crest": "https://crests.football-data.org/1768.png"
-      },
-      "score": {
-        "winner": "AWAY_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 0,
-          "away": 2
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    }
-  ],
+  "live": [],
   "finished": [
     {
       "area": {
@@ -273243,6 +273183,65 @@
         "halfTime": {
           "home": 1,
           "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": []
+    },
+    {
+      "area": {
+        "id": 2032,
+        "name": "Brazil",
+        "code": "BRA",
+        "flag": "https://crests.football-data.org/764.svg"
+      },
+      "competition": {
+        "id": 2013,
+        "name": "Campeonato Brasileiro Série A",
+        "code": "BSA",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/bsa.png"
+      },
+      "season": {
+        "id": 2474,
+        "startDate": "2026-01-28",
+        "endDate": "2026-12-02",
+        "currentMatchday": 24,
+        "winner": null
+      },
+      "id": 554970,
+      "utcDate": "2026-08-24T23:00:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-08-25T02:57:54Z",
+      "homeTeam": {
+        "id": 1770,
+        "name": "Botafogo FR",
+        "shortName": "Botafogo",
+        "tla": "BOT",
+        "crest": "https://crests.football-data.org/1770.png"
+      },
+      "awayTeam": {
+        "id": 1768,
+        "name": "CA Paranaense",
+        "shortName": "Paranaense",
+        "tla": "CAP",
+        "crest": "https://crests.football-data.org/1768.png"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 3
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 2
         }
       },
       "odds": {
@@ -504241,9 +504240,9 @@
               "draw": 5,
               "lost": 6,
               "points": 44,
-              "goalsFor": 33,
-              "goalsAgainst": 20,
-              "goalDifference": 13
+              "goalsFor": 34,
+              "goalsAgainst": 22,
+              "goalDifference": 12
             },
             {
               "position": 4,
@@ -504393,9 +504392,9 @@
               "draw": 6,
               "lost": 9,
               "points": 30,
-              "goalsFor": 35,
-              "goalsAgainst": 36,
-              "goalDifference": -1
+              "goalsFor": 37,
+              "goalsAgainst": 37,
+              "goalDifference": 0
             },
             {
               "position": 12,
@@ -504664,7 +504663,7 @@
       "seasonId": 2474,
       "seasonStart": "2026-01-28",
       "seasonEnd": "2026-12-02",
-      "lastSuccessfulUpdate": "2026-08-24 23:47 UTC"
+      "lastSuccessfulUpdate": "2026-08-25 01:10 UTC"
     },
     "WC": {
       "status": "connected",
