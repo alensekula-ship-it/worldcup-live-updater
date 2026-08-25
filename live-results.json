@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-25 19:59 UTC",
-  "lastUpdate": "2026-08-25 19:59 UTC",
+  "generatedAt": "2026-08-25 20:36 UTC",
+  "lastUpdate": "2026-08-25 20:36 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -50021,7 +50021,7 @@
       "competitionName": "UEFA Champions League",
       "utcDate": "2026-08-25T16:45Z",
       "date": "2026-08-25T16:45Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "PLAYOFFS",
       "roundName": "Play-off • Uzvrat",
       "group": "",
@@ -50045,12 +50045,12 @@
         "endDate": "2027-06-30"
       },
       "venue": "Tofiq Bahramov Republican Stadium",
-      "homeGoals": 0,
-      "awayGoals": 1,
+      "homeGoals": 5,
+      "awayGoals": 2,
       "score": {
         "fullTime": {
-          "home": 0,
-          "away": 1
+          "home": 5,
+          "away": 2
         }
       }
     },
@@ -50077,11 +50077,11 @@
       },
       "id": 564637,
       "utcDate": "2026-08-25T19:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-25T21:58:10Z",
+      "lastUpdated": "2026-08-25T22:34:58Z",
       "homeTeam": {
         "id": 95,
         "name": "Valencia CF",
@@ -50132,7 +50132,7 @@
       "competitionName": "UEFA Champions League",
       "utcDate": "2026-08-25T19:00Z",
       "date": "2026-08-25T19:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "stage": "PLAYOFFS",
       "roundName": "Play-off • Uzvrat",
       "group": "",
@@ -50155,7 +50155,15 @@
         "startDate": "2026-07-01",
         "endDate": "2027-06-30"
       },
-      "venue": "Raiffeisen Arena (Linz)"
+      "venue": "Raiffeisen Arena (Linz)",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 1
+        }
+      }
     },
     {
       "id": 1501909196,
@@ -50169,7 +50177,7 @@
       "competitionName": "UEFA Champions League",
       "utcDate": "2026-08-25T19:00Z",
       "date": "2026-08-25T19:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "stage": "PLAYOFFS",
       "roundName": "Play-off • Uzvrat",
       "group": "",
@@ -50192,7 +50200,15 @@
         "startDate": "2026-07-01",
         "endDate": "2027-06-30"
       },
-      "venue": "Aspmyra Stadion"
+      "venue": "Aspmyra Stadion",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        }
+      }
     },
     {
       "area": {
@@ -223628,51 +223644,6 @@
   ],
   "live": [
     {
-      "id": 1501909192,
-      "externalId": "espn-ucl-401909192",
-      "competition": {
-        "name": "UEFA Champions League",
-        "code": "CL",
-        "type": "CUP"
-      },
-      "competitionCode": "CL",
-      "competitionName": "UEFA Champions League",
-      "utcDate": "2026-08-25T16:45Z",
-      "date": "2026-08-25T16:45Z",
-      "status": "IN_PLAY",
-      "stage": "PLAYOFFS",
-      "roundName": "Play-off • Uzvrat",
-      "group": "",
-      "homeTeam": {
-        "name": "Sabah FK",
-        "shortName": "Sabah",
-        "tla": "SAB",
-        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png"
-      },
-      "awayTeam": {
-        "name": "Hapoel Be'er",
-        "shortName": "Hapoel Be'er",
-        "tla": "HBE",
-        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
-      },
-      "home": "Sabah FK",
-      "away": "Hapoel Be'er",
-      "dataProvider": "ESPN UEFA Champions League Qualifying",
-      "season": {
-        "startDate": "2026-07-01",
-        "endDate": "2027-06-30"
-      },
-      "venue": "Tofiq Bahramov Republican Stadium",
-      "homeGoals": 0,
-      "awayGoals": 1,
-      "score": {
-        "fullTime": {
-          "home": 0,
-          "away": 1
-        }
-      }
-    },
-    {
       "area": {
         "id": 2224,
         "name": "Spain",
@@ -223695,11 +223666,11 @@
       },
       "id": 564637,
       "utcDate": "2026-08-25T19:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-25T21:58:10Z",
+      "lastUpdated": "2026-08-25T22:34:58Z",
       "homeTeam": {
         "id": 95,
         "name": "Valencia CF",
@@ -223737,6 +223708,96 @@
           "nationality": "Spain"
         }
       ]
+    },
+    {
+      "id": 1501903707,
+      "externalId": "espn-ucl-401903707",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-25T19:00Z",
+      "date": "2026-08-25T19:00Z",
+      "status": "IN_PLAY",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "LASK Linz",
+        "shortName": "LASK Linz",
+        "tla": "LAS",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png"
+      },
+      "awayTeam": {
+        "name": "Celtic",
+        "shortName": "Celtic",
+        "tla": "CEL",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png"
+      },
+      "home": "LASK Linz",
+      "away": "Celtic",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Raiffeisen Arena (Linz)",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 1
+        }
+      }
+    },
+    {
+      "id": 1501909196,
+      "externalId": "espn-ucl-401909196",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-25T19:00Z",
+      "date": "2026-08-25T19:00Z",
+      "status": "IN_PLAY",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Bodo/Glimt",
+        "shortName": "Bodo/Glimt",
+        "tla": "BODO",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png"
+      },
+      "awayTeam": {
+        "name": "NEC Nijmegen",
+        "shortName": "NEC",
+        "tla": "NEC",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
+      },
+      "home": "Bodo/Glimt",
+      "away": "NEC Nijmegen",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Aspmyra Stadion",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "score": {
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        }
+      }
     }
   ],
   "finished": [
@@ -273375,83 +273436,54 @@
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
+    },
+    {
+      "id": 1501909192,
+      "externalId": "espn-ucl-401909192",
+      "competition": {
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP"
+      },
+      "competitionCode": "CL",
+      "competitionName": "UEFA Champions League",
+      "utcDate": "2026-08-25T16:45Z",
+      "date": "2026-08-25T16:45Z",
+      "status": "FINISHED",
+      "stage": "PLAYOFFS",
+      "roundName": "Play-off • Uzvrat",
+      "group": "",
+      "homeTeam": {
+        "name": "Sabah FK",
+        "shortName": "Sabah",
+        "tla": "SAB",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png"
+      },
+      "awayTeam": {
+        "name": "Hapoel Be'er",
+        "shortName": "Hapoel Be'er",
+        "tla": "HBE",
+        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
+      },
+      "home": "Sabah FK",
+      "away": "Hapoel Be'er",
+      "dataProvider": "ESPN UEFA Champions League Qualifying",
+      "season": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-06-30"
+      },
+      "venue": "Tofiq Bahramov Republican Stadium",
+      "homeGoals": 5,
+      "awayGoals": 2,
+      "score": {
+        "fullTime": {
+          "home": 5,
+          "away": 2
+        }
+      }
     }
   ],
   "upcoming": [
-    {
-      "id": 1501903707,
-      "externalId": "espn-ucl-401903707",
-      "competition": {
-        "name": "UEFA Champions League",
-        "code": "CL",
-        "type": "CUP"
-      },
-      "competitionCode": "CL",
-      "competitionName": "UEFA Champions League",
-      "utcDate": "2026-08-25T19:00Z",
-      "date": "2026-08-25T19:00Z",
-      "status": "SCHEDULED",
-      "stage": "PLAYOFFS",
-      "roundName": "Play-off • Uzvrat",
-      "group": "",
-      "homeTeam": {
-        "name": "LASK Linz",
-        "shortName": "LASK Linz",
-        "tla": "LAS",
-        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png"
-      },
-      "awayTeam": {
-        "name": "Celtic",
-        "shortName": "Celtic",
-        "tla": "CEL",
-        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png"
-      },
-      "home": "LASK Linz",
-      "away": "Celtic",
-      "dataProvider": "ESPN UEFA Champions League Qualifying",
-      "season": {
-        "startDate": "2026-07-01",
-        "endDate": "2027-06-30"
-      },
-      "venue": "Raiffeisen Arena (Linz)"
-    },
-    {
-      "id": 1501909196,
-      "externalId": "espn-ucl-401909196",
-      "competition": {
-        "name": "UEFA Champions League",
-        "code": "CL",
-        "type": "CUP"
-      },
-      "competitionCode": "CL",
-      "competitionName": "UEFA Champions League",
-      "utcDate": "2026-08-25T19:00Z",
-      "date": "2026-08-25T19:00Z",
-      "status": "SCHEDULED",
-      "stage": "PLAYOFFS",
-      "roundName": "Play-off • Uzvrat",
-      "group": "",
-      "homeTeam": {
-        "name": "Bodo/Glimt",
-        "shortName": "Bodo/Glimt",
-        "tla": "BODO",
-        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png"
-      },
-      "awayTeam": {
-        "name": "NEC Nijmegen",
-        "shortName": "NEC",
-        "tla": "NEC",
-        "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
-      },
-      "home": "Bodo/Glimt",
-      "away": "NEC Nijmegen",
-      "dataProvider": "ESPN UEFA Champions League Qualifying",
-      "season": {
-        "startDate": "2026-07-01",
-        "endDate": "2027-06-30"
-      },
-      "venue": "Aspmyra Stadion"
-    },
     {
       "area": {
         "id": 2224,
@@ -504611,7 +504643,7 @@
       "seasonId": 2454,
       "seasonStart": "2025-09-16",
       "seasonEnd": "2026-05-30",
-      "lastSuccessfulUpdate": "2026-08-25 19:59 UTC",
+      "lastSuccessfulUpdate": "2026-08-25 20:36 UTC",
       "qualifyingProvider": "ESPN UEFA Champions League Qualifying",
       "qualifyingMatchCount": 24
     },
@@ -504640,7 +504672,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-25 19:58 UTC"
+      "lastSuccessfulUpdate": "2026-08-25 20:35 UTC"
     },
     "BL1": {
       "status": "connected",
