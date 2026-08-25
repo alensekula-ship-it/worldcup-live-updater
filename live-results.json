@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-25 19:31 UTC",
-  "lastUpdate": "2026-08-25 19:31 UTC",
+  "generatedAt": "2026-08-25 19:59 UTC",
+  "lastUpdate": "2026-08-25 19:59 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -50045,12 +50045,12 @@
         "endDate": "2027-06-30"
       },
       "venue": "Tofiq Bahramov Republican Stadium",
-      "homeGoals": 3,
-      "awayGoals": 2,
+      "homeGoals": 0,
+      "awayGoals": 1,
       "score": {
         "fullTime": {
-          "home": 3,
-          "away": 2
+          "home": 0,
+          "away": 1
         }
       }
     },
@@ -50077,11 +50077,11 @@
       },
       "id": 564637,
       "utcDate": "2026-08-25T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-25T21:29:54Z",
+      "lastUpdated": "2026-08-25T21:58:10Z",
       "homeTeam": {
         "id": 95,
         "name": "Valencia CF",
@@ -50104,8 +50104,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -223663,12 +223663,12 @@
         "endDate": "2027-06-30"
       },
       "venue": "Tofiq Bahramov Republican Stadium",
-      "homeGoals": 3,
-      "awayGoals": 2,
+      "homeGoals": 0,
+      "awayGoals": 1,
       "score": {
         "fullTime": {
-          "home": 3,
-          "away": 2
+          "home": 0,
+          "away": 1
         }
       }
     },
@@ -223695,11 +223695,11 @@
       },
       "id": 564637,
       "utcDate": "2026-08-25T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-25T21:29:54Z",
+      "lastUpdated": "2026-08-25T21:58:10Z",
       "homeTeam": {
         "id": 95,
         "name": "Valencia CF",
@@ -223722,8 +223722,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -504611,7 +504611,7 @@
       "seasonId": 2454,
       "seasonStart": "2025-09-16",
       "seasonEnd": "2026-05-30",
-      "lastSuccessfulUpdate": "2026-08-25 19:31 UTC",
+      "lastSuccessfulUpdate": "2026-08-25 19:59 UTC",
       "qualifyingProvider": "ESPN UEFA Champions League Qualifying",
       "qualifyingMatchCount": 24
     },
@@ -504640,7 +504640,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-25 19:30 UTC"
+      "lastSuccessfulUpdate": "2026-08-25 19:58 UTC"
     },
     "BL1": {
       "status": "connected",
