@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-08-26 13:34 UTC",
-  "lastUpdate": "2026-08-26 13:34 UTC",
+  "generatedAt": "2026-08-26 14:27 UTC",
+  "lastUpdate": "2026-08-26 14:27 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -58586,7 +58586,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T15:20:35Z",
+      "lastUpdated": "2026-08-26T15:41:31Z",
       "homeTeam": {
         "id": 351,
         "name": "Nottingham Forest FC",
@@ -281859,7 +281859,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-26T15:20:35Z",
+      "lastUpdated": "2026-08-26T15:41:31Z",
       "homeTeam": {
         "id": 351,
         "name": "Nottingham Forest FC",
@@ -503112,7 +503112,7 @@
         "id": 2497,
         "startDate": "2026-08-22",
         "endDate": "2027-05-29",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "standings": [
@@ -504653,7 +504653,7 @@
       "seasonId": 2502,
       "seasonStart": "2026-08-21",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-08-26 13:33 UTC"
+      "lastSuccessfulUpdate": "2026-08-26 14:26 UTC"
     },
     "ELC": {
       "status": "connected",
@@ -504698,7 +504698,7 @@
       "seasonId": 2497,
       "seasonStart": "2026-08-22",
       "seasonEnd": "2027-05-29",
-      "lastSuccessfulUpdate": "2026-08-26 13:34 UTC"
+      "lastSuccessfulUpdate": "2026-08-26 14:27 UTC"
     },
     "DED": {
       "status": "connected",
