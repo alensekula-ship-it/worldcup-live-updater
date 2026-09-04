@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-09-03 22:50 UTC",
-  "lastUpdate": "2026-09-03 22:50 UTC",
+  "generatedAt": "2026-09-04 00:48 UTC",
+  "lastUpdate": "2026-09-04 00:48 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -41648,7 +41648,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-04T00:20:34Z",
+      "lastUpdated": "2026-09-04T01:32:00Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -43064,7 +43064,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-04T00:20:34Z",
+      "lastUpdated": "2026-09-04T01:32:02Z",
       "homeTeam": {
         "id": 77,
         "name": "Athletic Club",
@@ -44952,7 +44952,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-04T00:20:34Z",
+      "lastUpdated": "2026-09-04T01:32:04Z",
       "homeTeam": {
         "id": 95,
         "name": "Valencia CF",
@@ -45542,7 +45542,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-04T00:20:34Z",
+      "lastUpdated": "2026-09-04T01:32:04Z",
       "homeTeam": {
         "id": 516,
         "name": "Olympique de Marseille",
@@ -45837,7 +45837,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-04T00:20:34Z",
+      "lastUpdated": "2026-09-04T01:32:04Z",
       "homeTeam": {
         "id": 80,
         "name": "RCD Espanyol de Barcelona",
@@ -46309,7 +46309,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-04T00:20:34Z",
+      "lastUpdated": "2026-09-04T01:32:05Z",
       "homeTeam": {
         "id": 285,
         "name": "Elche CF",
@@ -48256,7 +48256,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-04T00:20:34Z",
+      "lastUpdated": "2026-09-04T01:32:06Z",
       "homeTeam": {
         "id": 9136,
         "name": "CF Estrela da Amadora",
@@ -258190,7 +258190,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-04T00:20:34Z",
+      "lastUpdated": "2026-09-04T01:32:00Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -259606,7 +259606,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-04T00:20:34Z",
+      "lastUpdated": "2026-09-04T01:32:02Z",
       "homeTeam": {
         "id": 77,
         "name": "Athletic Club",
@@ -261494,7 +261494,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-04T00:20:34Z",
+      "lastUpdated": "2026-09-04T01:32:04Z",
       "homeTeam": {
         "id": 95,
         "name": "Valencia CF",
@@ -262084,7 +262084,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-04T00:20:34Z",
+      "lastUpdated": "2026-09-04T01:32:04Z",
       "homeTeam": {
         "id": 516,
         "name": "Olympique de Marseille",
@@ -262379,7 +262379,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-04T00:20:34Z",
+      "lastUpdated": "2026-09-04T01:32:04Z",
       "homeTeam": {
         "id": 80,
         "name": "RCD Espanyol de Barcelona",
@@ -262851,7 +262851,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-04T00:20:34Z",
+      "lastUpdated": "2026-09-04T01:32:05Z",
       "homeTeam": {
         "id": 285,
         "name": "Elche CF",
@@ -264739,7 +264739,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-04T00:20:34Z",
+      "lastUpdated": "2026-09-04T01:32:06Z",
       "homeTeam": {
         "id": 9136,
         "name": "CF Estrela da Amadora",
@@ -489544,6 +489544,25 @@
             {
               "position": 1,
               "team": {
+                "id": 521,
+                "name": "Lille OSC",
+                "shortName": "Lille",
+                "tla": "LIL",
+                "crest": "https://crests.football-data.org/521.png"
+              },
+              "playedGames": 3,
+              "form": null,
+              "won": 2,
+              "draw": 1,
+              "lost": 0,
+              "points": 7,
+              "goalsFor": 5,
+              "goalsAgainst": 2,
+              "goalDifference": 3
+            },
+            {
+              "position": 2,
+              "team": {
                 "id": 548,
                 "name": "AS Monaco FC",
                 "shortName": "Monaco",
@@ -489561,7 +489580,7 @@
               "goalDifference": 3
             },
             {
-              "position": 2,
+              "position": 3,
               "team": {
                 "id": 1045,
                 "name": "Paris FC",
@@ -489578,25 +489597,6 @@
               "goalsFor": 3,
               "goalsAgainst": 0,
               "goalDifference": 3
-            },
-            {
-              "position": 3,
-              "team": {
-                "id": 521,
-                "name": "Lille OSC",
-                "shortName": "Lille",
-                "tla": "LIL",
-                "crest": "https://crests.football-data.org/521.png"
-              },
-              "playedGames": 2,
-              "form": null,
-              "won": 1,
-              "draw": 1,
-              "lost": 0,
-              "points": 4,
-              "goalsFor": 4,
-              "goalsAgainst": 2,
-              "goalDifference": 2
             },
             {
               "position": 4,
@@ -489835,15 +489835,15 @@
                 "tla": "TOU",
                 "crest": "https://crests.football-data.org/511.png"
               },
-              "playedGames": 2,
+              "playedGames": 3,
               "form": null,
               "won": 0,
               "draw": 1,
-              "lost": 1,
+              "lost": 2,
               "points": 1,
               "goalsFor": 2,
-              "goalsAgainst": 4,
-              "goalDifference": -2
+              "goalsAgainst": 5,
+              "goalDifference": -3
             },
             {
               "position": 17,
@@ -491091,7 +491091,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-09-03 22:49 UTC"
+      "lastSuccessfulUpdate": "2026-09-04 00:47 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -491118,7 +491118,7 @@
       "seasonId": 2497,
       "seasonStart": "2026-08-22",
       "seasonEnd": "2027-05-29",
-      "lastSuccessfulUpdate": "2026-09-03 22:50 UTC"
+      "lastSuccessfulUpdate": "2026-09-04 00:47 UTC"
     },
     "DED": {
       "status": "connected",
@@ -491136,7 +491136,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-09-03 22:50 UTC"
+      "lastSuccessfulUpdate": "2026-09-04 00:48 UTC"
     },
     "BSA": {
       "status": "connected",
