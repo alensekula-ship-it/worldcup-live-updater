@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-09-06 09:42 UTC",
-  "lastUpdate": "2026-09-06 09:42 UTC",
+  "generatedAt": "2026-09-06 13:10 UTC",
+  "lastUpdate": "2026-09-06 13:10 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -44648,11 +44648,11 @@
       },
       "id": 558255,
       "utcDate": "2026-09-06T10:15:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-06T11:19:57Z",
+      "lastUpdated": "2026-09-06T14:07:25Z",
       "homeTeam": {
         "id": 677,
         "name": "FC Groningen",
@@ -44668,15 +44668,15 @@
         "crest": "https://crests.football-data.org/666.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         }
       },
       "odds": {
@@ -44714,11 +44714,11 @@
       },
       "id": 561819,
       "utcDate": "2026-09-06T11:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-06T10:20:30Z",
+      "lastUpdated": "2026-09-06T14:59:09Z",
       "homeTeam": {
         "id": 332,
         "name": "Birmingham City FC",
@@ -44734,15 +44734,15 @@
         "crest": "https://crests.football-data.org/76.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         }
       },
       "odds": {
@@ -44780,11 +44780,11 @@
       },
       "id": 558256,
       "utcDate": "2026-09-06T12:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-06T01:32:00Z",
+      "lastUpdated": "2026-09-06T15:09:17Z",
       "homeTeam": {
         "id": 673,
         "name": "SC Heerenveen",
@@ -44800,11 +44800,11 @@
         "crest": "https://crests.football-data.org/682.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "halfTime": {
           "home": null,
@@ -44814,7 +44814,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 56912,
+          "name": "Jeroen Manschot",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
     },
     {
       "area": {
@@ -44839,11 +44846,11 @@
       },
       "id": 558257,
       "utcDate": "2026-09-06T12:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-06T00:20:34Z",
+      "lastUpdated": "2026-09-06T15:09:17Z",
       "homeTeam": {
         "id": 1912,
         "name": "Telstar 1963",
@@ -44859,11 +44866,11 @@
         "crest": "https://crests.football-data.org/1909.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -44873,7 +44880,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 17136,
+          "name": "Joey Kooij",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
     },
     {
       "area": {
@@ -44898,11 +44912,11 @@
       },
       "id": 559700,
       "utcDate": "2026-09-06T13:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-06T10:20:30Z",
+      "lastUpdated": "2026-09-06T15:09:17Z",
       "homeTeam": {
         "id": 531,
         "name": "ES Troyes AC",
@@ -44918,11 +44932,11 @@
         "crest": "https://crests.football-data.org/576.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -44932,7 +44946,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 57084,
+          "name": "Guillaume Paradis",
+          "type": "REFEREE",
+          "nationality": "France"
+        }
+      ]
     },
     {
       "area": {
@@ -44957,11 +44978,11 @@
       },
       "id": 560567,
       "utcDate": "2026-09-06T13:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-06T10:20:31Z",
+      "lastUpdated": "2026-09-06T15:08:45Z",
       "homeTeam": {
         "id": 62,
         "name": "Everton FC",
@@ -44977,11 +44998,11 @@
         "crest": "https://crests.football-data.org/66.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -44991,7 +45012,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11327,
+          "name": "John Brooks",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     },
     {
       "area": {
@@ -45016,11 +45044,11 @@
       },
       "id": 558612,
       "utcDate": "2026-09-06T13:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-06T10:20:30Z",
+      "lastUpdated": "2026-09-06T15:09:17Z",
       "homeTeam": {
         "id": 112,
         "name": "Parma Calcio 1913",
@@ -45036,11 +45064,11 @@
         "crest": "https://crests.football-data.org/5911.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -45050,7 +45078,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 10980,
+          "name": "Federico La Penna",
+          "type": "REFEREE",
+          "nationality": "Italy"
+        }
+      ]
     },
     {
       "area": {
@@ -45075,11 +45110,11 @@
       },
       "id": 558615,
       "utcDate": "2026-09-06T13:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-06T10:20:30Z",
+      "lastUpdated": "2026-09-06T15:09:17Z",
       "homeTeam": {
         "id": 470,
         "name": "Frosinone Calcio",
@@ -45095,11 +45130,11 @@
         "crest": "https://crests.football-data.org/454.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -45109,7 +45144,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 160801,
+          "name": "Mario Perri",
+          "type": "REFEREE",
+          "nationality": "Italy"
+        }
+      ]
     },
     {
       "area": {
@@ -45138,7 +45180,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-06T10:20:29Z",
+      "lastUpdated": "2026-09-06T14:58:37Z",
       "homeTeam": {
         "id": 7,
         "name": "Hamburger SV",
@@ -45168,7 +45210,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 57512,
+          "name": "Tobias Reichel",
+          "type": "REFEREE",
+          "nationality": "Germany"
+        }
+      ]
     },
     {
       "area": {
@@ -45286,7 +45335,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 57930,
+          "name": "Isidro Díaz de Mera",
+          "type": "REFEREE",
+          "nationality": "Spain"
+        }
+      ]
     },
     {
       "area": {
@@ -45345,7 +45401,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 37655,
+          "name": "Anzhony Rodrigues",
+          "type": "REFEREE",
+          "nationality": "Portugal"
+        }
+      ]
     },
     {
       "area": {
@@ -45404,7 +45467,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 17127,
+          "name": "Ingmar Oostrom",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
     },
     {
       "area": {
@@ -217215,7 +217285,404 @@
       "referees": []
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 2493,
+        "startDate": "2026-08-07",
+        "endDate": "2027-05-23",
+        "currentMatchday": 5,
+        "winner": null
+      },
+      "id": 558256,
+      "utcDate": "2026-09-06T12:30:00Z",
+      "status": "IN_PLAY",
+      "matchday": 5,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-09-06T15:09:17Z",
+      "homeTeam": {
+        "id": 673,
+        "name": "SC Heerenveen",
+        "shortName": "Heerenveen",
+        "tla": "HEE",
+        "crest": "https://crests.football-data.org/673.png"
+      },
+      "awayTeam": {
+        "id": 682,
+        "name": "AZ",
+        "shortName": "AZ",
+        "tla": "AZ",
+        "crest": "https://crests.football-data.org/682.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 56912,
+          "name": "Jeroen Manschot",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 2493,
+        "startDate": "2026-08-07",
+        "endDate": "2027-05-23",
+        "currentMatchday": 5,
+        "winner": null
+      },
+      "id": 558257,
+      "utcDate": "2026-09-06T12:30:00Z",
+      "status": "IN_PLAY",
+      "matchday": 5,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-09-06T15:09:17Z",
+      "homeTeam": {
+        "id": 1912,
+        "name": "Telstar 1963",
+        "shortName": "Telstar",
+        "tla": "TEL",
+        "crest": "https://crests.football-data.org/1912.png"
+      },
+      "awayTeam": {
+        "id": 1909,
+        "name": "SC Cambuur-Leeuwarden",
+        "shortName": "Cambuur",
+        "tla": "CAM",
+        "crest": "https://crests.football-data.org/1909.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 17136,
+          "name": "Joey Kooij",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+      },
+      "competition": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "code": "FL1",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/FL1.png"
+      },
+      "season": {
+        "id": 2497,
+        "startDate": "2026-08-22",
+        "endDate": "2027-05-29",
+        "currentMatchday": 3,
+        "winner": null
+      },
+      "id": 559700,
+      "utcDate": "2026-09-06T13:00:00Z",
+      "status": "IN_PLAY",
+      "matchday": 3,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-09-06T15:09:17Z",
+      "homeTeam": {
+        "id": 531,
+        "name": "ES Troyes AC",
+        "shortName": "Troyes",
+        "tla": "ETR",
+        "crest": "https://crests.football-data.org/531.png"
+      },
+      "awayTeam": {
+        "id": 576,
+        "name": "RC Strasbourg Alsace",
+        "shortName": "Strasbourg",
+        "tla": "RC ",
+        "crest": "https://crests.football-data.org/576.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 57084,
+          "name": "Guillaume Paradis",
+          "type": "REFEREE",
+          "nationality": "France"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/PL.png"
+      },
+      "season": {
+        "id": 2502,
+        "startDate": "2026-08-21",
+        "endDate": "2027-05-30",
+        "currentMatchday": 3,
+        "winner": null
+      },
+      "id": 560567,
+      "utcDate": "2026-09-06T13:00:00Z",
+      "status": "IN_PLAY",
+      "matchday": 3,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-09-06T15:08:45Z",
+      "homeTeam": {
+        "id": 62,
+        "name": "Everton FC",
+        "shortName": "Everton",
+        "tla": "EVE",
+        "crest": "https://crests.football-data.org/62.png"
+      },
+      "awayTeam": {
+        "id": 66,
+        "name": "Manchester United FC",
+        "shortName": "Man United",
+        "tla": "MUN",
+        "crest": "https://crests.football-data.org/66.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 11327,
+          "name": "John Brooks",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+      },
+      "competition": {
+        "id": 2019,
+        "name": "Serie A",
+        "code": "SA",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/c111.png"
+      },
+      "season": {
+        "id": 2494,
+        "startDate": "2026-08-23",
+        "endDate": "2027-05-30",
+        "currentMatchday": 3,
+        "winner": null
+      },
+      "id": 558612,
+      "utcDate": "2026-09-06T13:00:00Z",
+      "status": "IN_PLAY",
+      "matchday": 3,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-09-06T15:09:17Z",
+      "homeTeam": {
+        "id": 112,
+        "name": "Parma Calcio 1913",
+        "shortName": "Parma",
+        "tla": "PAR",
+        "crest": "https://crests.football-data.org/112.png"
+      },
+      "awayTeam": {
+        "id": 5911,
+        "name": "AC Monza",
+        "shortName": "Monza",
+        "tla": "MON",
+        "crest": "https://crests.football-data.org/5911.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 10980,
+          "name": "Federico La Penna",
+          "type": "REFEREE",
+          "nationality": "Italy"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+      },
+      "competition": {
+        "id": 2019,
+        "name": "Serie A",
+        "code": "SA",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/c111.png"
+      },
+      "season": {
+        "id": 2494,
+        "startDate": "2026-08-23",
+        "endDate": "2027-05-30",
+        "currentMatchday": 3,
+        "winner": null
+      },
+      "id": 558615,
+      "utcDate": "2026-09-06T13:00:00Z",
+      "status": "IN_PLAY",
+      "matchday": 3,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-09-06T15:09:17Z",
+      "homeTeam": {
+        "id": 470,
+        "name": "Frosinone Calcio",
+        "shortName": "Frosinone",
+        "tla": "FRO",
+        "crest": "https://crests.football-data.org/470.png"
+      },
+      "awayTeam": {
+        "id": 454,
+        "name": "Venezia FC",
+        "shortName": "Venezia FC",
+        "tla": "VEN",
+        "crest": "https://crests.football-data.org/454.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 160801,
+          "name": "Mario Perri",
+          "type": "REFEREE",
+          "nationality": "Italy"
+        }
+      ]
+    }
+  ],
   "finished": [
     {
       "area": {
@@ -261520,9 +261987,7 @@
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
-    }
-  ],
-  "upcoming": [
+    },
     {
       "area": {
         "id": 2163,
@@ -261546,11 +262011,11 @@
       },
       "id": 558255,
       "utcDate": "2026-09-06T10:15:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-06T11:19:57Z",
+      "lastUpdated": "2026-09-06T14:07:25Z",
       "homeTeam": {
         "id": 677,
         "name": "FC Groningen",
@@ -261566,15 +262031,15 @@
         "crest": "https://crests.football-data.org/666.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         }
       },
       "odds": {
@@ -261612,11 +262077,11 @@
       },
       "id": 561819,
       "utcDate": "2026-09-06T11:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-06T10:20:30Z",
+      "lastUpdated": "2026-09-06T14:59:09Z",
       "homeTeam": {
         "id": 332,
         "name": "Birmingham City FC",
@@ -261632,15 +262097,15 @@
         "crest": "https://crests.football-data.org/76.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         }
       },
       "odds": {
@@ -261654,361 +262119,9 @@
           "nationality": "England"
         }
       ]
-    },
-    {
-      "area": {
-        "id": 2163,
-        "name": "Netherlands",
-        "code": "NLD",
-        "flag": "https://crests.football-data.org/8601.svg"
-      },
-      "competition": {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      },
-      "season": {
-        "id": 2493,
-        "startDate": "2026-08-07",
-        "endDate": "2027-05-23",
-        "currentMatchday": 5,
-        "winner": null
-      },
-      "id": 558256,
-      "utcDate": "2026-09-06T12:30:00Z",
-      "status": "TIMED",
-      "matchday": 5,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-09-06T01:32:00Z",
-      "homeTeam": {
-        "id": 673,
-        "name": "SC Heerenveen",
-        "shortName": "Heerenveen",
-        "tla": "HEE",
-        "crest": "https://crests.football-data.org/673.png"
-      },
-      "awayTeam": {
-        "id": 682,
-        "name": "AZ",
-        "shortName": "AZ",
-        "tla": "AZ",
-        "crest": "https://crests.football-data.org/682.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
-    {
-      "area": {
-        "id": 2163,
-        "name": "Netherlands",
-        "code": "NLD",
-        "flag": "https://crests.football-data.org/8601.svg"
-      },
-      "competition": {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      },
-      "season": {
-        "id": 2493,
-        "startDate": "2026-08-07",
-        "endDate": "2027-05-23",
-        "currentMatchday": 5,
-        "winner": null
-      },
-      "id": 558257,
-      "utcDate": "2026-09-06T12:30:00Z",
-      "status": "TIMED",
-      "matchday": 5,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-09-06T00:20:34Z",
-      "homeTeam": {
-        "id": 1912,
-        "name": "Telstar 1963",
-        "shortName": "Telstar",
-        "tla": "TEL",
-        "crest": "https://crests.football-data.org/1912.png"
-      },
-      "awayTeam": {
-        "id": 1909,
-        "name": "SC Cambuur-Leeuwarden",
-        "shortName": "Cambuur",
-        "tla": "CAM",
-        "crest": "https://crests.football-data.org/1909.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
-    {
-      "area": {
-        "id": 2081,
-        "name": "France",
-        "code": "FRA",
-        "flag": "https://crests.football-data.org/773.svg"
-      },
-      "competition": {
-        "id": 2015,
-        "name": "Ligue 1",
-        "code": "FL1",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      },
-      "season": {
-        "id": 2497,
-        "startDate": "2026-08-22",
-        "endDate": "2027-05-29",
-        "currentMatchday": 3,
-        "winner": null
-      },
-      "id": 559700,
-      "utcDate": "2026-09-06T13:00:00Z",
-      "status": "TIMED",
-      "matchday": 3,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-09-06T10:20:30Z",
-      "homeTeam": {
-        "id": 531,
-        "name": "ES Troyes AC",
-        "shortName": "Troyes",
-        "tla": "ETR",
-        "crest": "https://crests.football-data.org/531.png"
-      },
-      "awayTeam": {
-        "id": 576,
-        "name": "RC Strasbourg Alsace",
-        "shortName": "Strasbourg",
-        "tla": "RC ",
-        "crest": "https://crests.football-data.org/576.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
-    {
-      "area": {
-        "id": 2072,
-        "name": "England",
-        "code": "ENG",
-        "flag": "https://crests.football-data.org/770.svg"
-      },
-      "competition": {
-        "id": 2021,
-        "name": "Premier League",
-        "code": "PL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PL.png"
-      },
-      "season": {
-        "id": 2502,
-        "startDate": "2026-08-21",
-        "endDate": "2027-05-30",
-        "currentMatchday": 3,
-        "winner": null
-      },
-      "id": 560567,
-      "utcDate": "2026-09-06T13:00:00Z",
-      "status": "TIMED",
-      "matchday": 3,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-09-06T10:20:31Z",
-      "homeTeam": {
-        "id": 62,
-        "name": "Everton FC",
-        "shortName": "Everton",
-        "tla": "EVE",
-        "crest": "https://crests.football-data.org/62.png"
-      },
-      "awayTeam": {
-        "id": 66,
-        "name": "Manchester United FC",
-        "shortName": "Man United",
-        "tla": "MUN",
-        "crest": "https://crests.football-data.org/66.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
-    {
-      "area": {
-        "id": 2114,
-        "name": "Italy",
-        "code": "ITA",
-        "flag": "https://crests.football-data.org/784.svg"
-      },
-      "competition": {
-        "id": 2019,
-        "name": "Serie A",
-        "code": "SA",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/c111.png"
-      },
-      "season": {
-        "id": 2494,
-        "startDate": "2026-08-23",
-        "endDate": "2027-05-30",
-        "currentMatchday": 3,
-        "winner": null
-      },
-      "id": 558612,
-      "utcDate": "2026-09-06T13:00:00Z",
-      "status": "TIMED",
-      "matchday": 3,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-09-06T10:20:30Z",
-      "homeTeam": {
-        "id": 112,
-        "name": "Parma Calcio 1913",
-        "shortName": "Parma",
-        "tla": "PAR",
-        "crest": "https://crests.football-data.org/112.png"
-      },
-      "awayTeam": {
-        "id": 5911,
-        "name": "AC Monza",
-        "shortName": "Monza",
-        "tla": "MON",
-        "crest": "https://crests.football-data.org/5911.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
-    {
-      "area": {
-        "id": 2114,
-        "name": "Italy",
-        "code": "ITA",
-        "flag": "https://crests.football-data.org/784.svg"
-      },
-      "competition": {
-        "id": 2019,
-        "name": "Serie A",
-        "code": "SA",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/c111.png"
-      },
-      "season": {
-        "id": 2494,
-        "startDate": "2026-08-23",
-        "endDate": "2027-05-30",
-        "currentMatchday": 3,
-        "winner": null
-      },
-      "id": 558615,
-      "utcDate": "2026-09-06T13:00:00Z",
-      "status": "TIMED",
-      "matchday": 3,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-09-06T10:20:30Z",
-      "homeTeam": {
-        "id": 470,
-        "name": "Frosinone Calcio",
-        "shortName": "Frosinone",
-        "tla": "FRO",
-        "crest": "https://crests.football-data.org/470.png"
-      },
-      "awayTeam": {
-        "id": 454,
-        "name": "Venezia FC",
-        "shortName": "Venezia FC",
-        "tla": "VEN",
-        "crest": "https://crests.football-data.org/454.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
+    }
+  ],
+  "upcoming": [
     {
       "area": {
         "id": 2088,
@@ -262036,7 +262149,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-06T10:20:29Z",
+      "lastUpdated": "2026-09-06T14:58:37Z",
       "homeTeam": {
         "id": 7,
         "name": "Hamburger SV",
@@ -262066,7 +262179,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 57512,
+          "name": "Tobias Reichel",
+          "type": "REFEREE",
+          "nationality": "Germany"
+        }
+      ]
     },
     {
       "area": {
@@ -262184,7 +262304,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 57930,
+          "name": "Isidro Díaz de Mera",
+          "type": "REFEREE",
+          "nationality": "Spain"
+        }
+      ]
     },
     {
       "area": {
@@ -262243,7 +262370,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 37655,
+          "name": "Anzhony Rodrigues",
+          "type": "REFEREE",
+          "nationality": "Portugal"
+        }
+      ]
     },
     {
       "area": {
@@ -262302,7 +262436,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 17127,
+          "name": "Ingmar Oostrom",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
     },
     {
       "area": {
@@ -491792,7 +491933,7 @@
       "seasonId": 2502,
       "seasonStart": "2026-08-21",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-09-06 09:40 UTC"
+      "lastSuccessfulUpdate": "2026-09-06 13:08 UTC"
     },
     "ELC": {
       "status": "connected",
@@ -491801,7 +491942,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-09-06 09:40 UTC"
+      "lastSuccessfulUpdate": "2026-09-06 13:09 UTC"
     },
     "PD": {
       "status": "connected",
@@ -491810,7 +491951,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-09-06 09:41 UTC"
+      "lastSuccessfulUpdate": "2026-09-06 13:09 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -491819,7 +491960,7 @@
       "seasonId": 2522,
       "seasonStart": "2026-08-28",
       "seasonEnd": "2027-05-22",
-      "lastSuccessfulUpdate": "2026-09-06 09:41 UTC"
+      "lastSuccessfulUpdate": "2026-09-06 13:09 UTC"
     },
     "SA": {
       "status": "connected",
@@ -491828,7 +491969,7 @@
       "seasonId": 2494,
       "seasonStart": "2026-08-23",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-09-06 09:41 UTC"
+      "lastSuccessfulUpdate": "2026-09-06 13:09 UTC"
     },
     "FL1": {
       "status": "connected",
@@ -491837,7 +491978,7 @@
       "seasonId": 2497,
       "seasonStart": "2026-08-22",
       "seasonEnd": "2027-05-29",
-      "lastSuccessfulUpdate": "2026-09-06 09:41 UTC"
+      "lastSuccessfulUpdate": "2026-09-06 13:09 UTC"
     },
     "DED": {
       "status": "connected",
@@ -491846,7 +491987,7 @@
       "seasonId": 2493,
       "seasonStart": "2026-08-07",
       "seasonEnd": "2027-05-23",
-      "lastSuccessfulUpdate": "2026-09-06 09:41 UTC"
+      "lastSuccessfulUpdate": "2026-09-06 13:09 UTC"
     },
     "PPL": {
       "status": "connected",
@@ -491855,7 +491996,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-09-06 09:41 UTC"
+      "lastSuccessfulUpdate": "2026-09-06 13:09 UTC"
     },
     "BSA": {
       "status": "connected",
