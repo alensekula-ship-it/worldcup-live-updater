@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-09-07 22:31 UTC",
-  "lastUpdate": "2026-09-07 22:31 UTC",
+  "generatedAt": "2026-09-08 00:40 UTC",
+  "lastUpdate": "2026-09-08 00:40 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -46784,11 +46784,11 @@
       },
       "id": 554999,
       "utcDate": "2026-09-07T23:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 26,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:30:28Z",
+      "lastUpdated": "2026-09-08T02:39:32Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -46804,15 +46804,15 @@
         "crest": "https://crests.football-data.org/1767.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -46913,7 +46913,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:00Z",
       "homeTeam": {
         "id": 851,
         "name": "Club Brugge KV",
@@ -46972,7 +46972,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:00Z",
       "homeTeam": {
         "id": 1899,
         "name": "PAE AEK",
@@ -47385,7 +47385,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:00Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -47444,7 +47444,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:00Z",
       "homeTeam": {
         "id": 503,
         "name": "FC Porto",
@@ -47503,7 +47503,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:00Z",
       "homeTeam": {
         "id": 4,
         "name": "Borussia Dortmund",
@@ -47562,7 +47562,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:00Z",
       "homeTeam": {
         "id": 521,
         "name": "Lille OSC",
@@ -47680,7 +47680,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:00Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -47739,7 +47739,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:00Z",
       "homeTeam": {
         "id": 10,
         "name": "VfB Stuttgart",
@@ -47975,7 +47975,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:00Z",
       "homeTeam": {
         "id": 64,
         "name": "Liverpool FC",
@@ -48034,7 +48034,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:00Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -48093,7 +48093,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:00Z",
       "homeTeam": {
         "id": 113,
         "name": "SSC Napoli",
@@ -48152,7 +48152,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:00Z",
       "homeTeam": {
         "id": 498,
         "name": "Sporting Clube de Portugal",
@@ -48329,7 +48329,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:01Z",
       "homeTeam": {
         "id": 613,
         "name": "Fenerbahçe SK",
@@ -48388,7 +48388,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:01Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -48447,7 +48447,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:01Z",
       "homeTeam": {
         "id": 5,
         "name": "FC Bayern München",
@@ -48506,7 +48506,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:01Z",
       "homeTeam": {
         "id": 66,
         "name": "Manchester United FC",
@@ -48565,7 +48565,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:01Z",
       "homeTeam": {
         "id": 7397,
         "name": "Como 1907",
@@ -48624,7 +48624,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:01Z",
       "homeTeam": {
         "id": 930,
         "name": "SK Slavia Praha",
@@ -49509,7 +49509,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:02Z",
       "homeTeam": {
         "id": 5335,
         "name": "Real Racing Club de Santander",
@@ -49568,7 +49568,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:02Z",
       "homeTeam": {
         "id": 107,
         "name": "Genoa CFC",
@@ -50630,7 +50630,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:03Z",
       "homeTeam": {
         "id": 79,
         "name": "CA Osasuna",
@@ -50866,7 +50866,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:03Z",
       "homeTeam": {
         "id": 110,
         "name": "SS Lazio",
@@ -50984,7 +50984,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:03Z",
       "homeTeam": {
         "id": 77,
         "name": "Athletic Club",
@@ -51515,7 +51515,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:04Z",
       "homeTeam": {
         "id": 102,
         "name": "Atalanta BC",
@@ -51751,7 +51751,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:04Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -52282,7 +52282,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:04Z",
       "homeTeam": {
         "id": 558,
         "name": "RC Celta de Vigo",
@@ -52636,7 +52636,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:05Z",
       "homeTeam": {
         "id": 88,
         "name": "Levante UD",
@@ -52931,7 +52931,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:05Z",
       "homeTeam": {
         "id": 113,
         "name": "SSC Napoli",
@@ -53285,7 +53285,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:05Z",
       "homeTeam": {
         "id": 471,
         "name": "US Sassuolo Calcio",
@@ -53344,7 +53344,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:06Z",
       "homeTeam": {
         "id": 92,
         "name": "Real Sociedad de Fútbol",
@@ -53462,7 +53462,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:06Z",
       "homeTeam": {
         "id": 7397,
         "name": "Como 1907",
@@ -53521,7 +53521,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:06Z",
       "homeTeam": {
         "id": 586,
         "name": "Torino FC",
@@ -53580,7 +53580,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:06Z",
       "homeTeam": {
         "id": 496,
         "name": "Rio Ave FC",
@@ -53639,7 +53639,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:06Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -53698,7 +53698,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:06Z",
       "homeTeam": {
         "id": 94,
         "name": "Villarreal CF",
@@ -53757,7 +53757,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:31Z",
+      "lastUpdated": "2026-09-08T01:32:06Z",
       "homeTeam": {
         "id": 341,
         "name": "Leeds United FC",
@@ -53816,7 +53816,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:06Z",
       "homeTeam": {
         "id": 583,
         "name": "Moreirense FC",
@@ -53875,7 +53875,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:06Z",
       "homeTeam": {
         "id": 5613,
         "name": "Sporting Clube de Braga",
@@ -217397,7 +217397,67 @@
       "referees": []
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "area": {
+        "id": 2032,
+        "name": "Brazil",
+        "code": "BRA",
+        "flag": "https://crests.football-data.org/764.svg"
+      },
+      "competition": {
+        "id": 2013,
+        "name": "Campeonato Brasileiro Série A",
+        "code": "BSA",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/bsa.png"
+      },
+      "season": {
+        "id": 2474,
+        "startDate": "2026-01-28",
+        "endDate": "2026-12-02",
+        "currentMatchday": 26,
+        "winner": null
+      },
+      "id": 554999,
+      "utcDate": "2026-09-07T23:00:00Z",
+      "status": "IN_PLAY",
+      "matchday": 26,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-09-08T02:39:32Z",
+      "homeTeam": {
+        "id": 1782,
+        "name": "EC Vitória",
+        "shortName": "Vitória",
+        "tla": "VIT",
+        "crest": "https://crests.football-data.org/1782.png"
+      },
+      "awayTeam": {
+        "id": 1767,
+        "name": "Grêmio FBPA",
+        "shortName": "Grêmio",
+        "tla": "FBP",
+        "crest": "https://crests.football-data.org/1767.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": []
+    }
+  ],
   "finished": [
     {
       "area": {
@@ -263909,65 +263969,6 @@
   "upcoming": [
     {
       "area": {
-        "id": 2032,
-        "name": "Brazil",
-        "code": "BRA",
-        "flag": "https://crests.football-data.org/764.svg"
-      },
-      "competition": {
-        "id": 2013,
-        "name": "Campeonato Brasileiro Série A",
-        "code": "BSA",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      "season": {
-        "id": 2474,
-        "startDate": "2026-01-28",
-        "endDate": "2026-12-02",
-        "currentMatchday": 26,
-        "winner": null
-      },
-      "id": 554999,
-      "utcDate": "2026-09-07T23:00:00Z",
-      "status": "TIMED",
-      "matchday": 26,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-09-08T00:30:28Z",
-      "homeTeam": {
-        "id": 1782,
-        "name": "EC Vitória",
-        "shortName": "Vitória",
-        "tla": "VIT",
-        "crest": "https://crests.football-data.org/1782.png"
-      },
-      "awayTeam": {
-        "id": 1767,
-        "name": "Grêmio FBPA",
-        "shortName": "Grêmio",
-        "tla": "FBP",
-        "crest": "https://crests.football-data.org/1767.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
-    {
-      "area": {
         "id": 2077,
         "name": "Europe",
         "code": "EUR",
@@ -263993,7 +263994,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:00Z",
       "homeTeam": {
         "id": 851,
         "name": "Club Brugge KV",
@@ -264052,7 +264053,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:00Z",
       "homeTeam": {
         "id": 1899,
         "name": "PAE AEK",
@@ -264465,7 +264466,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:00Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -264524,7 +264525,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:00Z",
       "homeTeam": {
         "id": 503,
         "name": "FC Porto",
@@ -264583,7 +264584,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:00Z",
       "homeTeam": {
         "id": 4,
         "name": "Borussia Dortmund",
@@ -264642,7 +264643,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:00Z",
       "homeTeam": {
         "id": 521,
         "name": "Lille OSC",
@@ -264760,7 +264761,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:00Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -264819,7 +264820,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:00Z",
       "homeTeam": {
         "id": 10,
         "name": "VfB Stuttgart",
@@ -265055,7 +265056,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:00Z",
       "homeTeam": {
         "id": 64,
         "name": "Liverpool FC",
@@ -265114,7 +265115,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:00Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -265173,7 +265174,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:00Z",
       "homeTeam": {
         "id": 113,
         "name": "SSC Napoli",
@@ -265232,7 +265233,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:00Z",
       "homeTeam": {
         "id": 498,
         "name": "Sporting Clube de Portugal",
@@ -265409,7 +265410,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:01Z",
       "homeTeam": {
         "id": 613,
         "name": "Fenerbahçe SK",
@@ -265468,7 +265469,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:01Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -265527,7 +265528,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:01Z",
       "homeTeam": {
         "id": 5,
         "name": "FC Bayern München",
@@ -265586,7 +265587,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:01Z",
       "homeTeam": {
         "id": 66,
         "name": "Manchester United FC",
@@ -265645,7 +265646,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:01Z",
       "homeTeam": {
         "id": 7397,
         "name": "Como 1907",
@@ -265704,7 +265705,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:29Z",
+      "lastUpdated": "2026-09-08T01:32:01Z",
       "homeTeam": {
         "id": 930,
         "name": "SK Slavia Praha",
@@ -266589,7 +266590,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:02Z",
       "homeTeam": {
         "id": 5335,
         "name": "Real Racing Club de Santander",
@@ -266648,7 +266649,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:02Z",
       "homeTeam": {
         "id": 107,
         "name": "Genoa CFC",
@@ -267710,7 +267711,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:03Z",
       "homeTeam": {
         "id": 79,
         "name": "CA Osasuna",
@@ -267946,7 +267947,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:03Z",
       "homeTeam": {
         "id": 110,
         "name": "SS Lazio",
@@ -268064,7 +268065,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:03Z",
       "homeTeam": {
         "id": 77,
         "name": "Athletic Club",
@@ -268595,7 +268596,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:04Z",
       "homeTeam": {
         "id": 102,
         "name": "Atalanta BC",
@@ -268831,7 +268832,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:04Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -269362,7 +269363,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:04Z",
       "homeTeam": {
         "id": 558,
         "name": "RC Celta de Vigo",
@@ -269716,7 +269717,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:05Z",
       "homeTeam": {
         "id": 88,
         "name": "Levante UD",
@@ -270011,7 +270012,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:05Z",
       "homeTeam": {
         "id": 113,
         "name": "SSC Napoli",
@@ -270365,7 +270366,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:05Z",
       "homeTeam": {
         "id": 471,
         "name": "US Sassuolo Calcio",
@@ -270424,7 +270425,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:06Z",
       "homeTeam": {
         "id": 92,
         "name": "Real Sociedad de Fútbol",
@@ -270542,7 +270543,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:06Z",
       "homeTeam": {
         "id": 7397,
         "name": "Como 1907",
@@ -270601,7 +270602,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:06Z",
       "homeTeam": {
         "id": 586,
         "name": "Torino FC",
@@ -270660,7 +270661,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:06Z",
       "homeTeam": {
         "id": 496,
         "name": "Rio Ave FC",
@@ -270719,7 +270720,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:06Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -270778,7 +270779,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:06Z",
       "homeTeam": {
         "id": 94,
         "name": "Villarreal CF",
@@ -270837,7 +270838,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:31Z",
+      "lastUpdated": "2026-09-08T01:32:06Z",
       "homeTeam": {
         "id": 341,
         "name": "Leeds United FC",
@@ -270896,7 +270897,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:06Z",
       "homeTeam": {
         "id": 583,
         "name": "Moreirense FC",
@@ -270955,7 +270956,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T00:20:30Z",
+      "lastUpdated": "2026-09-08T01:32:06Z",
       "homeTeam": {
         "id": 5613,
         "name": "Sporting Clube de Braga",
@@ -489634,6 +489635,25 @@
             {
               "position": 9,
               "team": {
+                "id": 92,
+                "name": "Real Sociedad de Fútbol",
+                "shortName": "Real Sociedad",
+                "tla": "RSO",
+                "crest": "https://crests.football-data.org/92.png"
+              },
+              "playedGames": 5,
+              "form": null,
+              "won": 2,
+              "draw": 1,
+              "lost": 2,
+              "points": 7,
+              "goalsFor": 6,
+              "goalsAgainst": 8,
+              "goalDifference": -2
+            },
+            {
+              "position": 10,
+              "team": {
                 "id": 77,
                 "name": "Athletic Club",
                 "shortName": "Athletic",
@@ -489651,7 +489671,7 @@
               "goalDifference": 1
             },
             {
-              "position": 10,
+              "position": 11,
               "team": {
                 "id": 88,
                 "name": "Levante UD",
@@ -489670,7 +489690,7 @@
               "goalDifference": 0
             },
             {
-              "position": 11,
+              "position": 12,
               "team": {
                 "id": 80,
                 "name": "RCD Espanyol de Barcelona",
@@ -489689,7 +489709,7 @@
               "goalDifference": 1
             },
             {
-              "position": 12,
+              "position": 13,
               "team": {
                 "id": 5335,
                 "name": "Real Racing Club de Santander",
@@ -489708,7 +489728,7 @@
               "goalDifference": -1
             },
             {
-              "position": 13,
+              "position": 14,
               "team": {
                 "id": 87,
                 "name": "Rayo Vallecano de Madrid",
@@ -489727,25 +489747,6 @@
               "goalDifference": -3
             },
             {
-              "position": 14,
-              "team": {
-                "id": 92,
-                "name": "Real Sociedad de Fútbol",
-                "shortName": "Real Sociedad",
-                "tla": "RSO",
-                "crest": "https://crests.football-data.org/92.png"
-              },
-              "playedGames": 4,
-              "form": null,
-              "won": 1,
-              "draw": 1,
-              "lost": 2,
-              "points": 4,
-              "goalsFor": 3,
-              "goalsAgainst": 6,
-              "goalDifference": -3
-            },
-            {
               "position": 15,
               "team": {
                 "id": 82,
@@ -489754,18 +489755,37 @@
                 "tla": "GET",
                 "crest": "https://crests.football-data.org/82.png"
               },
-              "playedGames": 3,
+              "playedGames": 4,
               "form": null,
               "won": 1,
-              "draw": 0,
+              "draw": 1,
               "lost": 2,
-              "points": 3,
-              "goalsFor": 1,
-              "goalsAgainst": 4,
+              "points": 4,
+              "goalsFor": 2,
+              "goalsAgainst": 5,
               "goalDifference": -3
             },
             {
               "position": 16,
+              "team": {
+                "id": 558,
+                "name": "RC Celta de Vigo",
+                "shortName": "Celta",
+                "tla": "CEL",
+                "crest": "https://crests.football-data.org/558.png"
+              },
+              "playedGames": 5,
+              "form": null,
+              "won": 0,
+              "draw": 3,
+              "lost": 2,
+              "points": 3,
+              "goalsFor": 2,
+              "goalsAgainst": 5,
+              "goalDifference": -3
+            },
+            {
+              "position": 17,
               "team": {
                 "id": 94,
                 "name": "Villarreal CF",
@@ -489782,25 +489802,6 @@
               "goalsFor": 6,
               "goalsAgainst": 8,
               "goalDifference": -2
-            },
-            {
-              "position": 17,
-              "team": {
-                "id": 558,
-                "name": "RC Celta de Vigo",
-                "shortName": "Celta",
-                "tla": "CEL",
-                "crest": "https://crests.football-data.org/558.png"
-              },
-              "playedGames": 4,
-              "form": null,
-              "won": 0,
-              "draw": 2,
-              "lost": 2,
-              "points": 2,
-              "goalsFor": 1,
-              "goalsAgainst": 4,
-              "goalDifference": -3
             },
             {
               "position": 18,
@@ -489830,15 +489831,15 @@
                 "tla": "ELC",
                 "crest": "https://crests.football-data.org/285.png"
               },
-              "playedGames": 3,
+              "playedGames": 4,
               "form": null,
               "won": 0,
               "draw": 1,
-              "lost": 2,
+              "lost": 3,
               "points": 1,
-              "goalsFor": 3,
-              "goalsAgainst": 9,
-              "goalDifference": -6
+              "goalsFor": 5,
+              "goalsAgainst": 12,
+              "goalDifference": -7
             },
             {
               "position": 20,
@@ -492204,7 +492205,7 @@
       "seasonId": 2557,
       "seasonStart": "2026-09-08",
       "seasonEnd": "2027-01-27",
-      "lastSuccessfulUpdate": "2026-09-07 22:30 UTC",
+      "lastSuccessfulUpdate": "2026-09-08 00:38 UTC",
       "qualifyingProvider": "ESPN UEFA Champions League Qualifying",
       "qualifyingMatchCount": 7
     },
@@ -492215,7 +492216,7 @@
       "seasonId": 2502,
       "seasonStart": "2026-08-21",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-09-07 22:30 UTC"
+      "lastSuccessfulUpdate": "2026-09-08 00:38 UTC"
     },
     "ELC": {
       "status": "connected",
@@ -492233,7 +492234,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-09-07 22:30 UTC"
+      "lastSuccessfulUpdate": "2026-09-08 00:39 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -492251,7 +492252,7 @@
       "seasonId": 2494,
       "seasonStart": "2026-08-23",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-09-07 22:30 UTC"
+      "lastSuccessfulUpdate": "2026-09-08 00:39 UTC"
     },
     "FL1": {
       "status": "connected",
@@ -492278,7 +492279,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-09-07 22:31 UTC"
+      "lastSuccessfulUpdate": "2026-09-08 00:39 UTC"
     },
     "BSA": {
       "status": "connected",
@@ -492287,7 +492288,7 @@
       "seasonId": 2474,
       "seasonStart": "2026-01-28",
       "seasonEnd": "2026-12-02",
-      "lastSuccessfulUpdate": "2026-09-07 22:31 UTC"
+      "lastSuccessfulUpdate": "2026-09-08 00:39 UTC"
     },
     "WC": {
       "status": "connected",
