@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-09-08 14:13 UTC",
-  "lastUpdate": "2026-09-08 14:13 UTC",
+  "generatedAt": "2026-09-08 17:57 UTC",
+  "lastUpdate": "2026-09-08 17:57 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -46909,11 +46909,11 @@
       },
       "id": 575323,
       "utcDate": "2026-09-08T16:45:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T15:20:51Z",
+      "lastUpdated": "2026-09-08T19:55:48Z",
       "homeTeam": {
         "id": 851,
         "name": "Club Brugge KV",
@@ -46929,21 +46929,28 @@
         "crest": "https://crests.football-data.org/58.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 3
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 3
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 31823,
+          "name": "Sandro Schärer",
+          "type": "REFEREE",
+          "nationality": "Switzerland"
+        }
+      ]
     },
     {
       "area": {
@@ -46968,11 +46975,11 @@
       },
       "id": 575324,
       "utcDate": "2026-09-08T16:45:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T15:20:51Z",
+      "lastUpdated": "2026-09-08T19:55:48Z",
       "homeTeam": {
         "id": 1899,
         "name": "PAE AEK",
@@ -46988,21 +46995,28 @@
         "crest": "https://crests.football-data.org/2016.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 37629,
+          "name": "Luís Godinho",
+          "type": "REFEREE",
+          "nationality": "Portugal"
+        }
+      ]
     },
     {
       "area": {
@@ -47027,11 +47041,11 @@
       },
       "id": 558233,
       "utcDate": "2026-09-08T16:45:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T10:20:32Z",
+      "lastUpdated": "2026-09-08T19:56:52Z",
       "homeTeam": {
         "id": 1915,
         "name": "NEC",
@@ -47047,21 +47061,28 @@
         "crest": "https://crests.football-data.org/670.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 56917,
+          "name": "Erwin Blank",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
     },
     {
       "area": {
@@ -47090,7 +47111,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T15:20:52Z",
+      "lastUpdated": "2026-09-08T19:54:44Z",
       "homeTeam": {
         "id": 59,
         "name": "Blackburn Rovers FC",
@@ -47120,7 +47141,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11626,
+          "name": "Matt Donohue",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     },
     {
       "area": {
@@ -47179,7 +47207,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 81840,
+          "name": "Lewis Smith",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     },
     {
       "area": {
@@ -47238,7 +47273,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 210717,
+          "name": "Farai Hallam",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     },
     {
       "area": {
@@ -47267,7 +47309,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T15:20:52Z",
+      "lastUpdated": "2026-09-08T19:53:08Z",
       "homeTeam": {
         "id": 715,
         "name": "Cardiff City FC",
@@ -47297,7 +47339,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11635,
+          "name": "Samuel Allison",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     },
     {
       "area": {
@@ -47326,7 +47375,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T15:20:52Z",
+      "lastUpdated": "2026-09-08T19:54:44Z",
       "homeTeam": {
         "id": 404,
         "name": "Wrexham AFC",
@@ -47356,7 +47405,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11396,
+          "name": "Tim Robinson",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     },
     {
       "area": {
@@ -47385,7 +47441,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T15:20:51Z",
+      "lastUpdated": "2026-09-08T19:36:36Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -47415,7 +47471,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11605,
+          "name": "Michael Oliver",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     },
     {
       "area": {
@@ -47444,7 +47507,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T15:20:51Z",
+      "lastUpdated": "2026-09-08T19:37:08Z",
       "homeTeam": {
         "id": 503,
         "name": "FC Porto",
@@ -47474,7 +47537,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 43888,
+          "name": "Szymon Marciniak",
+          "type": "REFEREE",
+          "nationality": "Poland"
+        }
+      ]
     },
     {
       "area": {
@@ -47503,7 +47573,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T15:20:51Z",
+      "lastUpdated": "2026-09-08T19:37:08Z",
       "homeTeam": {
         "id": 4,
         "name": "Borussia Dortmund",
@@ -47533,7 +47603,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 57826,
+          "name": "Simone Sozza",
+          "type": "REFEREE",
+          "nationality": "Italy"
+        }
+      ]
     },
     {
       "area": {
@@ -47562,7 +47639,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T15:20:51Z",
+      "lastUpdated": "2026-09-08T19:37:40Z",
       "homeTeam": {
         "id": 521,
         "name": "Lille OSC",
@@ -47592,7 +47669,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 15654,
+          "name": "Georgi Kabakov",
+          "type": "REFEREE",
+          "nationality": "Bulgaria"
+        }
+      ]
     },
     {
       "area": {
@@ -47651,7 +47735,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11549,
+          "name": "David Webb",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     },
     {
       "area": {
@@ -217397,7 +217488,206 @@
       "referees": []
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "area": {
+        "id": 2077,
+        "name": "Europe",
+        "code": "EUR",
+        "flag": "https://crests.football-data.org/EUR.svg"
+      },
+      "competition": {
+        "id": 2001,
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP",
+        "emblem": "https://crests.football-data.org/CL.png"
+      },
+      "season": {
+        "id": 2557,
+        "startDate": "2026-09-08",
+        "endDate": "2027-01-27",
+        "currentMatchday": 1,
+        "winner": null
+      },
+      "id": 575323,
+      "utcDate": "2026-09-08T16:45:00Z",
+      "status": "IN_PLAY",
+      "matchday": 1,
+      "stage": "LEAGUE_STAGE",
+      "group": null,
+      "lastUpdated": "2026-09-08T19:55:48Z",
+      "homeTeam": {
+        "id": 851,
+        "name": "Club Brugge KV",
+        "shortName": "Club Brugge",
+        "tla": "BRU",
+        "crest": "https://crests.football-data.org/851.png"
+      },
+      "awayTeam": {
+        "id": 58,
+        "name": "Aston Villa FC",
+        "shortName": "Aston Villa",
+        "tla": "AVL",
+        "crest": "https://crests.football-data.org/58.png"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 1,
+          "away": 3
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 3
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 31823,
+          "name": "Sandro Schärer",
+          "type": "REFEREE",
+          "nationality": "Switzerland"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2077,
+        "name": "Europe",
+        "code": "EUR",
+        "flag": "https://crests.football-data.org/EUR.svg"
+      },
+      "competition": {
+        "id": 2001,
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "type": "CUP",
+        "emblem": "https://crests.football-data.org/CL.png"
+      },
+      "season": {
+        "id": 2557,
+        "startDate": "2026-09-08",
+        "endDate": "2027-01-27",
+        "currentMatchday": 1,
+        "winner": null
+      },
+      "id": 575324,
+      "utcDate": "2026-09-08T16:45:00Z",
+      "status": "IN_PLAY",
+      "matchday": 1,
+      "stage": "LEAGUE_STAGE",
+      "group": null,
+      "lastUpdated": "2026-09-08T19:55:48Z",
+      "homeTeam": {
+        "id": 1899,
+        "name": "PAE AEK",
+        "shortName": "PAE AEK",
+        "tla": "AEK",
+        "crest": "https://crests.football-data.org/1899.png"
+      },
+      "awayTeam": {
+        "id": 2016,
+        "name": "LASK Linz",
+        "shortName": "LASK",
+        "tla": "LIN",
+        "crest": "https://crests.football-data.org/2016.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 1,
+          "away": 0
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 37629,
+          "name": "Luís Godinho",
+          "type": "REFEREE",
+          "nationality": "Portugal"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 2493,
+        "startDate": "2026-08-07",
+        "endDate": "2027-05-23",
+        "currentMatchday": 5,
+        "winner": null
+      },
+      "id": 558233,
+      "utcDate": "2026-09-08T16:45:00Z",
+      "status": "IN_PLAY",
+      "matchday": 3,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-09-08T19:56:52Z",
+      "homeTeam": {
+        "id": 1915,
+        "name": "NEC",
+        "shortName": "NEC",
+        "tla": "NEC",
+        "crest": "https://crests.football-data.org/1915.png"
+      },
+      "awayTeam": {
+        "id": 670,
+        "name": "SBV Excelsior",
+        "shortName": "Excelsior",
+        "tla": "EXC",
+        "crest": "https://crests.football-data.org/670.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 1,
+          "away": 1
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 56917,
+          "name": "Erwin Blank",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    }
+  ],
   "finished": [
     {
       "area": {
@@ -263968,183 +264258,6 @@
   "upcoming": [
     {
       "area": {
-        "id": 2077,
-        "name": "Europe",
-        "code": "EUR",
-        "flag": "https://crests.football-data.org/EUR.svg"
-      },
-      "competition": {
-        "id": 2001,
-        "name": "UEFA Champions League",
-        "code": "CL",
-        "type": "CUP",
-        "emblem": "https://crests.football-data.org/CL.png"
-      },
-      "season": {
-        "id": 2557,
-        "startDate": "2026-09-08",
-        "endDate": "2027-01-27",
-        "currentMatchday": 1,
-        "winner": null
-      },
-      "id": 575323,
-      "utcDate": "2026-09-08T16:45:00Z",
-      "status": "TIMED",
-      "matchday": 1,
-      "stage": "LEAGUE_STAGE",
-      "group": null,
-      "lastUpdated": "2026-09-08T15:20:51Z",
-      "homeTeam": {
-        "id": 851,
-        "name": "Club Brugge KV",
-        "shortName": "Club Brugge",
-        "tla": "BRU",
-        "crest": "https://crests.football-data.org/851.png"
-      },
-      "awayTeam": {
-        "id": 58,
-        "name": "Aston Villa FC",
-        "shortName": "Aston Villa",
-        "tla": "AVL",
-        "crest": "https://crests.football-data.org/58.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
-    {
-      "area": {
-        "id": 2077,
-        "name": "Europe",
-        "code": "EUR",
-        "flag": "https://crests.football-data.org/EUR.svg"
-      },
-      "competition": {
-        "id": 2001,
-        "name": "UEFA Champions League",
-        "code": "CL",
-        "type": "CUP",
-        "emblem": "https://crests.football-data.org/CL.png"
-      },
-      "season": {
-        "id": 2557,
-        "startDate": "2026-09-08",
-        "endDate": "2027-01-27",
-        "currentMatchday": 1,
-        "winner": null
-      },
-      "id": 575324,
-      "utcDate": "2026-09-08T16:45:00Z",
-      "status": "TIMED",
-      "matchday": 1,
-      "stage": "LEAGUE_STAGE",
-      "group": null,
-      "lastUpdated": "2026-09-08T15:20:51Z",
-      "homeTeam": {
-        "id": 1899,
-        "name": "PAE AEK",
-        "shortName": "PAE AEK",
-        "tla": "AEK",
-        "crest": "https://crests.football-data.org/1899.png"
-      },
-      "awayTeam": {
-        "id": 2016,
-        "name": "LASK Linz",
-        "shortName": "LASK",
-        "tla": "LIN",
-        "crest": "https://crests.football-data.org/2016.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
-    {
-      "area": {
-        "id": 2163,
-        "name": "Netherlands",
-        "code": "NLD",
-        "flag": "https://crests.football-data.org/8601.svg"
-      },
-      "competition": {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      },
-      "season": {
-        "id": 2493,
-        "startDate": "2026-08-07",
-        "endDate": "2027-05-23",
-        "currentMatchday": 5,
-        "winner": null
-      },
-      "id": 558233,
-      "utcDate": "2026-09-08T16:45:00Z",
-      "status": "TIMED",
-      "matchday": 3,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-09-08T10:20:32Z",
-      "homeTeam": {
-        "id": 1915,
-        "name": "NEC",
-        "shortName": "NEC",
-        "tla": "NEC",
-        "crest": "https://crests.football-data.org/1915.png"
-      },
-      "awayTeam": {
-        "id": 670,
-        "name": "SBV Excelsior",
-        "shortName": "Excelsior",
-        "tla": "EXC",
-        "crest": "https://crests.football-data.org/670.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
-    {
-      "area": {
         "id": 2072,
         "name": "England",
         "code": "ENG",
@@ -264170,7 +264283,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T15:20:52Z",
+      "lastUpdated": "2026-09-08T19:54:44Z",
       "homeTeam": {
         "id": 59,
         "name": "Blackburn Rovers FC",
@@ -264200,7 +264313,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11626,
+          "name": "Matt Donohue",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     },
     {
       "area": {
@@ -264259,7 +264379,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 81840,
+          "name": "Lewis Smith",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     },
     {
       "area": {
@@ -264318,7 +264445,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 210717,
+          "name": "Farai Hallam",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     },
     {
       "area": {
@@ -264347,7 +264481,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T15:20:52Z",
+      "lastUpdated": "2026-09-08T19:53:08Z",
       "homeTeam": {
         "id": 715,
         "name": "Cardiff City FC",
@@ -264377,7 +264511,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11635,
+          "name": "Samuel Allison",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     },
     {
       "area": {
@@ -264406,7 +264547,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-08T15:20:52Z",
+      "lastUpdated": "2026-09-08T19:54:44Z",
       "homeTeam": {
         "id": 404,
         "name": "Wrexham AFC",
@@ -264436,7 +264577,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11396,
+          "name": "Tim Robinson",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     },
     {
       "area": {
@@ -264465,7 +264613,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T15:20:51Z",
+      "lastUpdated": "2026-09-08T19:36:36Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -264495,7 +264643,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11605,
+          "name": "Michael Oliver",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     },
     {
       "area": {
@@ -264524,7 +264679,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T15:20:51Z",
+      "lastUpdated": "2026-09-08T19:37:08Z",
       "homeTeam": {
         "id": 503,
         "name": "FC Porto",
@@ -264554,7 +264709,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 43888,
+          "name": "Szymon Marciniak",
+          "type": "REFEREE",
+          "nationality": "Poland"
+        }
+      ]
     },
     {
       "area": {
@@ -264583,7 +264745,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T15:20:51Z",
+      "lastUpdated": "2026-09-08T19:37:08Z",
       "homeTeam": {
         "id": 4,
         "name": "Borussia Dortmund",
@@ -264613,7 +264775,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 57826,
+          "name": "Simone Sozza",
+          "type": "REFEREE",
+          "nationality": "Italy"
+        }
+      ]
     },
     {
       "area": {
@@ -264642,7 +264811,7 @@
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-08T15:20:51Z",
+      "lastUpdated": "2026-09-08T19:37:40Z",
       "homeTeam": {
         "id": 521,
         "name": "Lille OSC",
@@ -264672,7 +264841,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 15654,
+          "name": "Georgi Kabakov",
+          "type": "REFEREE",
+          "nationality": "Bulgaria"
+        }
+      ]
     },
     {
       "area": {
@@ -264731,7 +264907,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11549,
+          "name": "David Webb",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     },
     {
       "area": {
@@ -487860,24 +488043,43 @@
             {
               "position": 1,
               "team": {
+                "id": 58,
+                "name": "Aston Villa FC",
+                "shortName": "Aston Villa",
+                "tla": "AVL",
+                "crest": "https://crests.football-data.org/58.png"
+              },
+              "playedGames": 1,
+              "form": null,
+              "won": 1,
+              "draw": 0,
+              "lost": 0,
+              "points": 3,
+              "goalsFor": 3,
+              "goalsAgainst": 1,
+              "goalDifference": 2
+            },
+            {
+              "position": 2,
+              "team": {
                 "id": 1899,
                 "name": "PAE AEK",
                 "shortName": "PAE AEK",
                 "tla": "AEK",
                 "crest": "https://crests.football-data.org/1899.png"
               },
-              "playedGames": 0,
+              "playedGames": 1,
               "form": null,
-              "won": 0,
+              "won": 1,
               "draw": 0,
               "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
+              "points": 3,
+              "goalsFor": 1,
               "goalsAgainst": 0,
-              "goalDifference": 0
+              "goalDifference": 1
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 57,
                 "name": "Arsenal FC",
@@ -487896,7 +488098,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 100,
                 "name": "AS Roma",
@@ -487915,26 +488117,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
-              "team": {
-                "id": 58,
-                "name": "Aston Villa FC",
-                "shortName": "Aston Villa",
-                "tla": "AVL",
-                "crest": "https://crests.football-data.org/58.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 78,
                 "name": "Club Atlético de Madrid",
@@ -487953,7 +488136,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 5,
                 "name": "FC Bayern München",
@@ -487972,7 +488155,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 4,
                 "name": "Borussia Dortmund",
@@ -487991,26 +488174,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
-              "team": {
-                "id": 851,
-                "name": "Club Brugge KV",
-                "shortName": "Club Brugge",
-                "tla": "BRU",
-                "crest": "https://crests.football-data.org/851.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 7397,
                 "name": "Como 1907",
@@ -488029,7 +488193,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 81,
                 "name": "FC Barcelona",
@@ -488048,7 +488212,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 503,
                 "name": "FC Porto",
@@ -488067,7 +488231,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 613,
                 "name": "Fenerbahçe SK",
@@ -488086,7 +488250,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 675,
                 "name": "Feyenoord Rotterdam",
@@ -488105,7 +488269,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 5721,
                 "name": "FK Bodø/Glimt",
@@ -488124,7 +488288,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 610,
                 "name": "Galatasaray SK",
@@ -488143,7 +488307,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 108,
                 "name": "FC Internazionale Milano",
@@ -488162,26 +488326,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
-              "team": {
-                "id": 2016,
-                "name": "LASK Linz",
-                "shortName": "LASK",
-                "tla": "LIN",
-                "crest": "https://crests.football-data.org/2016.png"
-              },
-              "playedGames": 0,
-              "form": null,
-              "won": 0,
-              "draw": 0,
-              "lost": 0,
-              "points": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0
-            },
-            {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 521,
                 "name": "Lille OSC",
@@ -488200,7 +488345,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 64,
                 "name": "Liverpool FC",
@@ -488219,7 +488364,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 65,
                 "name": "Manchester City FC",
@@ -488238,7 +488383,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 66,
                 "name": "Manchester United FC",
@@ -488257,7 +488402,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 524,
                 "name": "Paris Saint-Germain FC",
@@ -488276,7 +488421,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 674,
                 "name": "PSV",
@@ -488295,7 +488440,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 721,
                 "name": "RB Leipzig",
@@ -488314,7 +488459,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 546,
                 "name": "Racing Club de Lens",
@@ -488333,7 +488478,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 90,
                 "name": "Real Betis Balompié",
@@ -488352,7 +488497,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 86,
                 "name": "Real Madrid CF",
@@ -488371,7 +488516,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 10233,
                 "name": "Sabah FK",
@@ -488390,7 +488535,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 1887,
                 "name": "FK Shakhtar Donetsk",
@@ -488409,7 +488554,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 930,
                 "name": "SK Slavia Praha",
@@ -488428,7 +488573,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 7509,
                 "name": "ŠK Slovan Bratislava",
@@ -488447,7 +488592,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 498,
                 "name": "Sporting Clube de Portugal",
@@ -488466,7 +488611,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 113,
                 "name": "SSC Napoli",
@@ -488485,7 +488630,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 10,
                 "name": "VfB Stuttgart",
@@ -488504,7 +488649,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 5720,
                 "name": "Viking FK",
@@ -488523,7 +488668,7 @@
               "goalDifference": 0
             },
             {
-              "position": 1,
+              "position": 3,
               "team": {
                 "id": 94,
                 "name": "Villarreal CF",
@@ -488540,6 +488685,44 @@
               "goalsFor": 0,
               "goalsAgainst": 0,
               "goalDifference": 0
+            },
+            {
+              "position": 35,
+              "team": {
+                "id": 2016,
+                "name": "LASK Linz",
+                "shortName": "LASK",
+                "tla": "LIN",
+                "crest": "https://crests.football-data.org/2016.png"
+              },
+              "playedGames": 1,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 1,
+              "points": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 1,
+              "goalDifference": -1
+            },
+            {
+              "position": 36,
+              "team": {
+                "id": 851,
+                "name": "Club Brugge KV",
+                "shortName": "Club Brugge",
+                "tla": "BRU",
+                "crest": "https://crests.football-data.org/851.png"
+              },
+              "playedGames": 1,
+              "form": null,
+              "won": 0,
+              "draw": 0,
+              "lost": 1,
+              "points": 0,
+              "goalsFor": 1,
+              "goalsAgainst": 3,
+              "goalDifference": -2
             }
           ]
         }
@@ -492204,7 +492387,7 @@
       "seasonId": 2557,
       "seasonStart": "2026-09-08",
       "seasonEnd": "2027-01-27",
-      "lastSuccessfulUpdate": "2026-09-08 14:12 UTC",
+      "lastSuccessfulUpdate": "2026-09-08 17:56 UTC",
       "qualifyingProvider": "ESPN UEFA Champions League Qualifying",
       "qualifyingMatchCount": 7
     },
@@ -492224,7 +492407,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-09-08 14:12 UTC"
+      "lastSuccessfulUpdate": "2026-09-08 17:56 UTC"
     },
     "PD": {
       "status": "connected",
@@ -492269,7 +492452,7 @@
       "seasonId": 2493,
       "seasonStart": "2026-08-07",
       "seasonEnd": "2027-05-23",
-      "lastSuccessfulUpdate": "2026-09-08 09:57 UTC"
+      "lastSuccessfulUpdate": "2026-09-08 17:56 UTC"
     },
     "PPL": {
       "status": "connected",
