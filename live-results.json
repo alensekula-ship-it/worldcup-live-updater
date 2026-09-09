@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-09-09 18:41 UTC",
-  "lastUpdate": "2026-09-09 18:41 UTC",
+  "generatedAt": "2026-09-09 21:13 UTC",
+  "lastUpdate": "2026-09-09 21:13 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -47965,11 +47965,11 @@
       },
       "id": 561829,
       "utcDate": "2026-09-09T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-09T20:06:28Z",
+      "lastUpdated": "2026-09-09T22:40:04Z",
       "homeTeam": {
         "id": 342,
         "name": "Derby County FC",
@@ -47985,15 +47985,15 @@
         "crest": "https://crests.football-data.org/74.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -48031,11 +48031,11 @@
       },
       "id": 561832,
       "utcDate": "2026-09-09T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-09T20:06:28Z",
+      "lastUpdated": "2026-09-09T22:39:32Z",
       "homeTeam": {
         "id": 68,
         "name": "Norwich City FC",
@@ -48051,15 +48051,15 @@
         "crest": "https://crests.football-data.org/332.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         }
       },
       "odds": {
@@ -48097,11 +48097,11 @@
       },
       "id": 575331,
       "utcDate": "2026-09-09T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-09T20:04:52Z",
+      "lastUpdated": "2026-09-09T22:55:00Z",
       "homeTeam": {
         "id": 64,
         "name": "Liverpool FC",
@@ -48117,15 +48117,15 @@
         "crest": "https://crests.football-data.org/78.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         }
       },
       "odds": {
@@ -48163,11 +48163,11 @@
       },
       "id": 575332,
       "utcDate": "2026-09-09T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-09T19:58:28Z",
+      "lastUpdated": "2026-09-09T22:53:56Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -48183,15 +48183,15 @@
         "crest": "https://crests.football-data.org/7509.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 6,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         }
       },
       "odds": {
@@ -48229,11 +48229,11 @@
       },
       "id": 575333,
       "utcDate": "2026-09-09T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-09T20:04:52Z",
+      "lastUpdated": "2026-09-09T22:56:04Z",
       "homeTeam": {
         "id": 113,
         "name": "SSC Napoli",
@@ -48249,15 +48249,15 @@
         "crest": "https://crests.football-data.org/57.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -48295,11 +48295,11 @@
       },
       "id": 575334,
       "utcDate": "2026-09-09T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-09T20:04:20Z",
+      "lastUpdated": "2026-09-09T22:59:16Z",
       "homeTeam": {
         "id": 498,
         "name": "Sporting Clube de Portugal",
@@ -48315,15 +48315,15 @@
         "crest": "https://crests.football-data.org/610.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         }
       },
       "odds": {
@@ -48361,11 +48361,11 @@
       },
       "id": 561831,
       "utcDate": "2026-09-09T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-09T20:27:16Z",
+      "lastUpdated": "2026-09-09T22:53:56Z",
       "homeTeam": {
         "id": 348,
         "name": "Charlton Athletic FC",
@@ -48381,15 +48381,15 @@
         "crest": "https://crests.football-data.org/69.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -48427,11 +48427,11 @@
       },
       "id": 567282,
       "utcDate": "2026-09-09T19:45:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-09T15:20:35Z",
+      "lastUpdated": "2026-09-09T23:13:08Z",
       "homeTeam": {
         "id": 583,
         "name": "Moreirense FC",
@@ -48447,21 +48447,28 @@
         "crest": "https://crests.football-data.org/1903.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 3
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 37812,
+          "name": "Fábio Veríssimo",
+          "type": "REFEREE",
+          "nationality": "Portugal"
+        }
+      ]
     },
     {
       "area": {
@@ -217558,7 +217565,74 @@
       "referees": []
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "competition": {
+        "id": 2017,
+        "name": "Primeira Liga",
+        "code": "PPL",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/PPL.png"
+      },
+      "season": {
+        "id": 2526,
+        "startDate": "2026-08-08",
+        "endDate": "2027-05-16",
+        "currentMatchday": 5,
+        "winner": null
+      },
+      "id": 567282,
+      "utcDate": "2026-09-09T19:45:00Z",
+      "status": "IN_PLAY",
+      "matchday": 3,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-09-09T23:13:08Z",
+      "homeTeam": {
+        "id": 583,
+        "name": "Moreirense FC",
+        "shortName": "Moreirense",
+        "tla": "MOR",
+        "crest": "https://crests.football-data.org/583.png"
+      },
+      "awayTeam": {
+        "id": 1903,
+        "name": "Sport Lisboa e Benfica",
+        "shortName": "SL Benfica",
+        "tla": "BEN",
+        "crest": "https://crests.football-data.org/1903.png"
+      },
+      "score": {
+        "winner": "AWAY_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 3
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 37812,
+          "name": "Fábio Veríssimo",
+          "type": "REFEREE",
+          "nationality": "Portugal"
+        }
+      ]
+    }
+  ],
   "finished": [
     {
       "area": {
@@ -265246,9 +265320,7 @@
           "nationality": "Netherlands"
         }
       ]
-    }
-  ],
-  "upcoming": [
+    },
     {
       "area": {
         "id": 2072,
@@ -265272,11 +265344,11 @@
       },
       "id": 561829,
       "utcDate": "2026-09-09T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-09T20:06:28Z",
+      "lastUpdated": "2026-09-09T22:40:04Z",
       "homeTeam": {
         "id": 342,
         "name": "Derby County FC",
@@ -265292,15 +265364,15 @@
         "crest": "https://crests.football-data.org/74.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -265338,11 +265410,11 @@
       },
       "id": 561832,
       "utcDate": "2026-09-09T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-09T20:06:28Z",
+      "lastUpdated": "2026-09-09T22:39:32Z",
       "homeTeam": {
         "id": 68,
         "name": "Norwich City FC",
@@ -265358,15 +265430,15 @@
         "crest": "https://crests.football-data.org/332.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         }
       },
       "odds": {
@@ -265404,11 +265476,11 @@
       },
       "id": 575331,
       "utcDate": "2026-09-09T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-09T20:04:52Z",
+      "lastUpdated": "2026-09-09T22:55:00Z",
       "homeTeam": {
         "id": 64,
         "name": "Liverpool FC",
@@ -265424,15 +265496,15 @@
         "crest": "https://crests.football-data.org/78.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         }
       },
       "odds": {
@@ -265470,11 +265542,11 @@
       },
       "id": 575332,
       "utcDate": "2026-09-09T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-09T19:58:28Z",
+      "lastUpdated": "2026-09-09T22:53:56Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -265490,15 +265562,15 @@
         "crest": "https://crests.football-data.org/7509.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 6,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         }
       },
       "odds": {
@@ -265536,11 +265608,11 @@
       },
       "id": 575333,
       "utcDate": "2026-09-09T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-09T20:04:52Z",
+      "lastUpdated": "2026-09-09T22:56:04Z",
       "homeTeam": {
         "id": 113,
         "name": "SSC Napoli",
@@ -265556,15 +265628,15 @@
         "crest": "https://crests.football-data.org/57.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -265602,11 +265674,11 @@
       },
       "id": 575334,
       "utcDate": "2026-09-09T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-09-09T20:04:20Z",
+      "lastUpdated": "2026-09-09T22:59:16Z",
       "homeTeam": {
         "id": 498,
         "name": "Sporting Clube de Portugal",
@@ -265622,15 +265694,15 @@
         "crest": "https://crests.football-data.org/610.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         }
       },
       "odds": {
@@ -265668,11 +265740,11 @@
       },
       "id": 561831,
       "utcDate": "2026-09-09T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-09T20:27:16Z",
+      "lastUpdated": "2026-09-09T22:53:56Z",
       "homeTeam": {
         "id": 348,
         "name": "Charlton Athletic FC",
@@ -265688,15 +265760,15 @@
         "crest": "https://crests.football-data.org/69.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -265710,66 +265782,9 @@
           "nationality": "England"
         }
       ]
-    },
-    {
-      "area": {
-        "id": 2187,
-        "name": "Portugal",
-        "code": "POR",
-        "flag": "https://crests.football-data.org/765.svg"
-      },
-      "competition": {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      },
-      "season": {
-        "id": 2526,
-        "startDate": "2026-08-08",
-        "endDate": "2027-05-16",
-        "currentMatchday": 5,
-        "winner": null
-      },
-      "id": 567282,
-      "utcDate": "2026-09-09T19:45:00Z",
-      "status": "TIMED",
-      "matchday": 3,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-09-09T15:20:35Z",
-      "homeTeam": {
-        "id": 583,
-        "name": "Moreirense FC",
-        "shortName": "Moreirense",
-        "tla": "MOR",
-        "crest": "https://crests.football-data.org/583.png"
-      },
-      "awayTeam": {
-        "id": 1903,
-        "name": "Sport Lisboa e Benfica",
-        "shortName": "SL Benfica",
-        "tla": "BEN",
-        "crest": "https://crests.football-data.org/1903.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
+    }
+  ],
+  "upcoming": [
     {
       "area": {
         "id": 2077,
@@ -491845,6 +491860,25 @@
             {
               "position": 2,
               "team": {
+                "id": 1903,
+                "name": "Sport Lisboa e Benfica",
+                "shortName": "SL Benfica",
+                "tla": "BEN",
+                "crest": "https://crests.football-data.org/1903.png"
+              },
+              "playedGames": 5,
+              "form": null,
+              "won": 4,
+              "draw": 1,
+              "lost": 0,
+              "points": 13,
+              "goalsFor": 17,
+              "goalsAgainst": 3,
+              "goalDifference": 14
+            },
+            {
+              "position": 3,
+              "team": {
                 "id": 498,
                 "name": "Sporting Clube de Portugal",
                 "shortName": "Sporting CP",
@@ -491862,7 +491896,7 @@
               "goalDifference": 9
             },
             {
-              "position": 3,
+              "position": 4,
               "team": {
                 "id": 5530,
                 "name": "CD Santa Clara",
@@ -491879,25 +491913,6 @@
               "goalsFor": 9,
               "goalsAgainst": 3,
               "goalDifference": 6
-            },
-            {
-              "position": 4,
-              "team": {
-                "id": 1903,
-                "name": "Sport Lisboa e Benfica",
-                "shortName": "SL Benfica",
-                "tla": "BEN",
-                "crest": "https://crests.football-data.org/1903.png"
-              },
-              "playedGames": 4,
-              "form": null,
-              "won": 3,
-              "draw": 1,
-              "lost": 0,
-              "points": 10,
-              "goalsFor": 14,
-              "goalsAgainst": 3,
-              "goalDifference": 11
             },
             {
               "position": 5,
@@ -492060,15 +492075,15 @@
                 "tla": "MOR",
                 "crest": "https://crests.football-data.org/583.png"
               },
-              "playedGames": 4,
+              "playedGames": 5,
               "form": null,
               "won": 1,
               "draw": 1,
-              "lost": 2,
+              "lost": 3,
               "points": 4,
               "goalsFor": 4,
-              "goalsAgainst": 8,
-              "goalDifference": -4
+              "goalsAgainst": 11,
+              "goalDifference": -7
             },
             {
               "position": 14,
@@ -492592,7 +492607,7 @@
       "seasonId": 2557,
       "seasonStart": "2026-09-08",
       "seasonEnd": "2027-01-27",
-      "lastSuccessfulUpdate": "2026-09-09 18:40 UTC",
+      "lastSuccessfulUpdate": "2026-09-09 21:12 UTC",
       "qualifyingProvider": "ESPN UEFA Champions League Qualifying",
       "qualifyingMatchCount": 4
     },
@@ -492612,7 +492627,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-09-09 18:40 UTC"
+      "lastSuccessfulUpdate": "2026-09-09 21:12 UTC"
     },
     "PD": {
       "status": "connected",
@@ -492666,7 +492681,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-09-09 15:14 UTC"
+      "lastSuccessfulUpdate": "2026-09-09 21:13 UTC"
     },
     "BSA": {
       "status": "connected",
