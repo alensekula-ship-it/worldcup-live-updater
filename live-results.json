@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-09-12 21:20 UTC",
-  "lastUpdate": "2026-09-12 21:20 UTC",
+  "generatedAt": "2026-09-12 23:10 UTC",
+  "lastUpdate": "2026-09-12 23:10 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -52234,11 +52234,11 @@
       },
       "id": 567309,
       "utcDate": "2026-09-12T19:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-12T23:19:36Z",
+      "lastUpdated": "2026-09-12T23:34:30Z",
       "homeTeam": {
         "id": 5527,
         "name": "Académico de Viseu FC",
@@ -52254,10 +52254,10 @@
         "crest": "https://crests.football-data.org/5543.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 2,
           "away": 1
         },
         "halfTime": {
@@ -52300,11 +52300,11 @@
       },
       "id": 555003,
       "utcDate": "2026-09-12T20:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 27,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-12T23:20:08Z",
+      "lastUpdated": "2026-09-13T00:08:02Z",
       "homeTeam": {
         "id": 1772,
         "name": "Chapecoense AF",
@@ -52320,11 +52320,11 @@
         "crest": "https://crests.football-data.org/6684.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 1,
-          "away": 1
+          "away": 2
         },
         "halfTime": {
           "home": 1,
@@ -52359,11 +52359,11 @@
       },
       "id": 555008,
       "utcDate": "2026-09-12T21:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 27,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-12T23:02:00Z",
+      "lastUpdated": "2026-09-13T01:10:32Z",
       "homeTeam": {
         "id": 1769,
         "name": "SE Palmeiras",
@@ -52379,15 +52379,15 @@
         "crest": "https://crests.football-data.org/1776.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
@@ -52422,7 +52422,7 @@
       "matchday": 27,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-12T15:20:08Z",
+      "lastUpdated": "2026-09-13T01:04:40Z",
       "homeTeam": {
         "id": 1770,
         "name": "Botafogo FR",
@@ -217953,72 +217953,6 @@
   "live": [
     {
       "area": {
-        "id": 2187,
-        "name": "Portugal",
-        "code": "POR",
-        "flag": "https://crests.football-data.org/765.svg"
-      },
-      "competition": {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      },
-      "season": {
-        "id": 2526,
-        "startDate": "2026-08-08",
-        "endDate": "2027-05-16",
-        "currentMatchday": 6,
-        "winner": null
-      },
-      "id": 567309,
-      "utcDate": "2026-09-12T19:30:00Z",
-      "status": "IN_PLAY",
-      "matchday": 6,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-09-12T23:19:36Z",
-      "homeTeam": {
-        "id": 5527,
-        "name": "Académico de Viseu FC",
-        "shortName": "Acad. Viseu",
-        "tla": "ACV",
-        "crest": "https://crests.football-data.org/5527.png"
-      },
-      "awayTeam": {
-        "id": 5543,
-        "name": "Vitória SC",
-        "shortName": "Vitória SC",
-        "tla": "GUI",
-        "crest": "https://crests.football-data.org/5543.png"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 0
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 40454,
-          "name": "Carlos Macedo",
-          "type": "REFEREE",
-          "nationality": "Portugal"
-        }
-      ]
-    },
-    {
-      "area": {
         "id": 2032,
         "name": "Brazil",
         "code": "BRA",
@@ -218038,37 +217972,37 @@
         "currentMatchday": 27,
         "winner": null
       },
-      "id": 555003,
-      "utcDate": "2026-09-12T20:00:00Z",
+      "id": 555008,
+      "utcDate": "2026-09-12T21:30:00Z",
       "status": "IN_PLAY",
       "matchday": 27,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-12T23:20:08Z",
+      "lastUpdated": "2026-09-13T01:10:32Z",
       "homeTeam": {
-        "id": 1772,
-        "name": "Chapecoense AF",
-        "shortName": "Chapecoense",
-        "tla": "CHA",
-        "crest": "https://crests.football-data.org/1772_large.png"
+        "id": 1769,
+        "name": "SE Palmeiras",
+        "shortName": "Palmeiras",
+        "tla": "PAL",
+        "crest": "https://crests.football-data.org/1769.png"
       },
       "awayTeam": {
-        "id": 6684,
-        "name": "SC Internacional",
-        "shortName": "Internacional",
-        "tla": "SCI",
-        "crest": "https://crests.football-data.org/6684.png"
+        "id": 1776,
+        "name": "São Paulo FC",
+        "shortName": "São Paulo",
+        "tla": "PAU",
+        "crest": "https://crests.football-data.org/1776.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
-          "away": 1
+          "home": 2,
+          "away": 0
         },
         "halfTime": {
           "home": 1,
-          "away": 1
+          "away": 0
         }
       },
       "odds": {
@@ -270033,9 +269967,73 @@
           "nationality": "England"
         }
       ]
-    }
-  ],
-  "upcoming": [
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "competition": {
+        "id": 2017,
+        "name": "Primeira Liga",
+        "code": "PPL",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/PPL.png"
+      },
+      "season": {
+        "id": 2526,
+        "startDate": "2026-08-08",
+        "endDate": "2027-05-16",
+        "currentMatchday": 6,
+        "winner": null
+      },
+      "id": 567309,
+      "utcDate": "2026-09-12T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-09-12T23:34:30Z",
+      "homeTeam": {
+        "id": 5527,
+        "name": "Académico de Viseu FC",
+        "shortName": "Acad. Viseu",
+        "tla": "ACV",
+        "crest": "https://crests.football-data.org/5527.png"
+      },
+      "awayTeam": {
+        "id": 5543,
+        "name": "Vitória SC",
+        "shortName": "Vitória SC",
+        "tla": "GUI",
+        "crest": "https://crests.football-data.org/5543.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 40454,
+          "name": "Carlos Macedo",
+          "type": "REFEREE",
+          "nationality": "Portugal"
+        }
+      ]
+    },
     {
       "area": {
         "id": 2032,
@@ -270057,44 +270055,46 @@
         "currentMatchday": 27,
         "winner": null
       },
-      "id": 555008,
-      "utcDate": "2026-09-12T21:30:00Z",
-      "status": "TIMED",
+      "id": 555003,
+      "utcDate": "2026-09-12T20:00:00Z",
+      "status": "FINISHED",
       "matchday": 27,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-12T23:02:00Z",
+      "lastUpdated": "2026-09-13T00:08:02Z",
       "homeTeam": {
-        "id": 1769,
-        "name": "SE Palmeiras",
-        "shortName": "Palmeiras",
-        "tla": "PAL",
-        "crest": "https://crests.football-data.org/1769.png"
+        "id": 1772,
+        "name": "Chapecoense AF",
+        "shortName": "Chapecoense",
+        "tla": "CHA",
+        "crest": "https://crests.football-data.org/1772_large.png"
       },
       "awayTeam": {
-        "id": 1776,
-        "name": "São Paulo FC",
-        "shortName": "São Paulo",
-        "tla": "PAU",
-        "crest": "https://crests.football-data.org/1776.png"
+        "id": 6684,
+        "name": "SC Internacional",
+        "shortName": "Internacional",
+        "tla": "SCI",
+        "crest": "https://crests.football-data.org/6684.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
-    },
+    }
+  ],
+  "upcoming": [
     {
       "area": {
         "id": 2032,
@@ -270122,7 +270122,7 @@
       "matchday": 27,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-12T15:20:08Z",
+      "lastUpdated": "2026-09-13T01:04:40Z",
       "homeTeam": {
         "id": 1770,
         "name": "Botafogo FR",
@@ -489751,6 +489751,25 @@
             {
               "position": 1,
               "team": {
+                "id": 57,
+                "name": "Arsenal FC",
+                "shortName": "Arsenal",
+                "tla": "ARS",
+                "crest": "https://crests.football-data.org/57.png"
+              },
+              "playedGames": 4,
+              "form": null,
+              "won": 4,
+              "draw": 0,
+              "lost": 0,
+              "points": 12,
+              "goalsFor": 8,
+              "goalsAgainst": 1,
+              "goalDifference": 7
+            },
+            {
+              "position": 2,
+              "team": {
                 "id": 65,
                 "name": "Manchester City FC",
                 "shortName": "Man City",
@@ -489765,25 +489784,6 @@
               "points": 9,
               "goalsFor": 7,
               "goalsAgainst": 2,
-              "goalDifference": 5
-            },
-            {
-              "position": 2,
-              "team": {
-                "id": 57,
-                "name": "Arsenal FC",
-                "shortName": "Arsenal",
-                "tla": "ARS",
-                "crest": "https://crests.football-data.org/57.png"
-              },
-              "playedGames": 3,
-              "form": null,
-              "won": 3,
-              "draw": 0,
-              "lost": 0,
-              "points": 9,
-              "goalsFor": 6,
-              "goalsAgainst": 1,
               "goalDifference": 5
             },
             {
@@ -490004,15 +490004,15 @@
                 "tla": "SUN",
                 "crest": "https://crests.football-data.org/71.png"
               },
-              "playedGames": 3,
+              "playedGames": 4,
               "form": null,
               "won": 1,
               "draw": 1,
-              "lost": 1,
+              "lost": 2,
               "points": 4,
               "goalsFor": 3,
-              "goalsAgainst": 3,
-              "goalDifference": 0
+              "goalsAgainst": 5,
+              "goalDifference": -2
             },
             {
               "position": 15,
@@ -493388,7 +493388,7 @@
       "seasonId": 2502,
       "seasonStart": "2026-08-21",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-09-12 21:19 UTC"
+      "lastSuccessfulUpdate": "2026-09-12 23:09 UTC"
     },
     "ELC": {
       "status": "connected",
@@ -493451,7 +493451,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-09-12 21:20 UTC"
+      "lastSuccessfulUpdate": "2026-09-12 23:10 UTC"
     },
     "BSA": {
       "status": "connected",
@@ -493460,7 +493460,7 @@
       "seasonId": 2474,
       "seasonStart": "2026-01-28",
       "seasonEnd": "2026-12-02",
-      "lastSuccessfulUpdate": "2026-09-12 21:20 UTC"
+      "lastSuccessfulUpdate": "2026-09-12 23:10 UTC"
     },
     "WC": {
       "status": "connected",
