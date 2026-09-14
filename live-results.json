@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-09-14 18:39 UTC",
-  "lastUpdate": "2026-09-14 18:39 UTC",
+  "generatedAt": "2026-09-14 22:05 UTC",
+  "lastUpdate": "2026-09-14 22:05 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -54231,11 +54231,11 @@
       },
       "id": 567303,
       "utcDate": "2026-09-14T17:45:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-14T20:38:32Z",
+      "lastUpdated": "2026-09-14T21:44:41Z",
       "homeTeam": {
         "id": 496,
         "name": "Rio Ave FC",
@@ -54254,8 +54254,8 @@
         "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
-          "away": 1
+          "home": 3,
+          "away": 3
         },
         "halfTime": {
           "home": 1,
@@ -54297,11 +54297,11 @@
       },
       "id": 558601,
       "utcDate": "2026-09-14T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-14T19:59:36Z",
+      "lastUpdated": "2026-09-14T22:39:36Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -54317,15 +54317,15 @@
         "crest": "https://crests.football-data.org/115.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 5,
+          "away": 3
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         }
       },
       "odds": {
@@ -54363,11 +54363,11 @@
       },
       "id": 564671,
       "utcDate": "2026-09-14T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-14T20:13:28Z",
+      "lastUpdated": "2026-09-14T22:55:04Z",
       "homeTeam": {
         "id": 94,
         "name": "Villarreal CF",
@@ -54383,15 +54383,15 @@
         "crest": "https://crests.football-data.org/90.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         }
       },
       "odds": {
@@ -54429,11 +54429,11 @@
       },
       "id": 560579,
       "utcDate": "2026-09-14T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-14T20:05:28Z",
+      "lastUpdated": "2026-09-14T22:54:00Z",
       "homeTeam": {
         "id": 341,
         "name": "Leeds United FC",
@@ -54449,15 +54449,15 @@
         "crest": "https://crests.football-data.org/67.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         }
       },
       "odds": {
@@ -54495,11 +54495,11 @@
       },
       "id": 567302,
       "utcDate": "2026-09-14T19:15:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-14T20:34:48Z",
+      "lastUpdated": "2026-09-14T23:10:00Z",
       "homeTeam": {
         "id": 583,
         "name": "Moreirense FC",
@@ -54515,21 +54515,28 @@
         "crest": "https://crests.football-data.org/5575.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 131993,
+          "name": "Fabio Melo",
+          "type": "REFEREE",
+          "nationality": "Portugal"
+        }
+      ]
     },
     {
       "area": {
@@ -54554,11 +54561,11 @@
       },
       "id": 567308,
       "utcDate": "2026-09-14T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-14T15:21:03Z",
+      "lastUpdated": "2026-09-14T23:43:04Z",
       "homeTeam": {
         "id": 5613,
         "name": "Sporting Clube de Braga",
@@ -54574,15 +54581,15 @@
         "crest": "https://crests.football-data.org/582.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -218146,74 +218153,7 @@
       "referees": []
     }
   ],
-  "live": [
-    {
-      "area": {
-        "id": 2187,
-        "name": "Portugal",
-        "code": "POR",
-        "flag": "https://crests.football-data.org/765.svg"
-      },
-      "competition": {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      },
-      "season": {
-        "id": 2526,
-        "startDate": "2026-08-08",
-        "endDate": "2027-05-16",
-        "currentMatchday": 6,
-        "winner": null
-      },
-      "id": 567303,
-      "utcDate": "2026-09-14T17:45:00Z",
-      "status": "PAUSED",
-      "matchday": 6,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-09-14T20:38:32Z",
-      "homeTeam": {
-        "id": 496,
-        "name": "Rio Ave FC",
-        "shortName": "Rio Ave",
-        "tla": "RIO",
-        "crest": "https://crests.football-data.org/496.png"
-      },
-      "awayTeam": {
-        "id": 9136,
-        "name": "CF Estrela da Amadora",
-        "shortName": "Amadora",
-        "tla": "AMA",
-        "crest": "https://crests.football-data.org/9136.png"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 1
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 37823,
-          "name": "Gustavo Correia",
-          "type": "REFEREE",
-          "nationality": "Portugal"
-        }
-      ]
-    }
-  ],
+  "live": [],
   "finished": [
     {
       "area": {
@@ -272167,9 +272107,73 @@
           "nationality": "Italy"
         }
       ]
-    }
-  ],
-  "upcoming": [
+    },
+    {
+      "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+      },
+      "competition": {
+        "id": 2017,
+        "name": "Primeira Liga",
+        "code": "PPL",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/PPL.png"
+      },
+      "season": {
+        "id": 2526,
+        "startDate": "2026-08-08",
+        "endDate": "2027-05-16",
+        "currentMatchday": 6,
+        "winner": null
+      },
+      "id": 567303,
+      "utcDate": "2026-09-14T17:45:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-09-14T21:44:41Z",
+      "homeTeam": {
+        "id": 496,
+        "name": "Rio Ave FC",
+        "shortName": "Rio Ave",
+        "tla": "RIO",
+        "crest": "https://crests.football-data.org/496.png"
+      },
+      "awayTeam": {
+        "id": 9136,
+        "name": "CF Estrela da Amadora",
+        "shortName": "Amadora",
+        "tla": "AMA",
+        "crest": "https://crests.football-data.org/9136.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 3,
+          "away": 3
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 37823,
+          "name": "Gustavo Correia",
+          "type": "REFEREE",
+          "nationality": "Portugal"
+        }
+      ]
+    },
     {
       "area": {
         "id": 2114,
@@ -272193,11 +272197,11 @@
       },
       "id": 558601,
       "utcDate": "2026-09-14T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-14T19:59:36Z",
+      "lastUpdated": "2026-09-14T22:39:36Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -272213,15 +272217,15 @@
         "crest": "https://crests.football-data.org/115.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 5,
+          "away": 3
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         }
       },
       "odds": {
@@ -272259,11 +272263,11 @@
       },
       "id": 564671,
       "utcDate": "2026-09-14T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-14T20:13:28Z",
+      "lastUpdated": "2026-09-14T22:55:04Z",
       "homeTeam": {
         "id": 94,
         "name": "Villarreal CF",
@@ -272279,15 +272283,15 @@
         "crest": "https://crests.football-data.org/90.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         }
       },
       "odds": {
@@ -272325,11 +272329,11 @@
       },
       "id": 560579,
       "utcDate": "2026-09-14T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-14T20:05:28Z",
+      "lastUpdated": "2026-09-14T22:54:00Z",
       "homeTeam": {
         "id": 341,
         "name": "Leeds United FC",
@@ -272345,15 +272349,15 @@
         "crest": "https://crests.football-data.org/67.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         }
       },
       "odds": {
@@ -272391,11 +272395,11 @@
       },
       "id": 567302,
       "utcDate": "2026-09-14T19:15:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-14T20:34:48Z",
+      "lastUpdated": "2026-09-14T23:10:00Z",
       "homeTeam": {
         "id": 583,
         "name": "Moreirense FC",
@@ -272411,21 +272415,28 @@
         "crest": "https://crests.football-data.org/5575.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 131993,
+          "name": "Fabio Melo",
+          "type": "REFEREE",
+          "nationality": "Portugal"
+        }
+      ]
     },
     {
       "area": {
@@ -272450,11 +272461,11 @@
       },
       "id": 567308,
       "utcDate": "2026-09-14T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-14T15:21:03Z",
+      "lastUpdated": "2026-09-14T23:43:04Z",
       "homeTeam": {
         "id": 5613,
         "name": "Sporting Clube de Braga",
@@ -272470,15 +272481,15 @@
         "crest": "https://crests.football-data.org/582.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -272492,7 +272503,9 @@
           "nationality": "Portugal"
         }
       ]
-    },
+    }
+  ],
+  "upcoming": [
     {
       "area": {
         "id": 2032,
@@ -493780,7 +493793,7 @@
       "seasonId": 2502,
       "seasonStart": "2026-08-21",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-09-14 18:38 UTC"
+      "lastSuccessfulUpdate": "2026-09-14 22:03 UTC"
     },
     "ELC": {
       "status": "connected",
@@ -493798,7 +493811,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-09-14 18:38 UTC"
+      "lastSuccessfulUpdate": "2026-09-14 22:04 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -493816,7 +493829,7 @@
       "seasonId": 2494,
       "seasonStart": "2026-08-23",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-09-14 18:38 UTC"
+      "lastSuccessfulUpdate": "2026-09-14 22:04 UTC"
     },
     "FL1": {
       "status": "connected",
@@ -493843,7 +493856,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-09-14 18:39 UTC"
+      "lastSuccessfulUpdate": "2026-09-14 22:04 UTC"
     },
     "BSA": {
       "status": "connected",
