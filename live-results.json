@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-09-16 18:28 UTC",
-  "lastUpdate": "2026-09-16 18:28 UTC",
+  "generatedAt": "2026-09-16 21:35 UTC",
+  "lastUpdate": "2026-09-16 21:35 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -55068,11 +55068,11 @@
       },
       "id": 564679,
       "utcDate": "2026-09-16T17:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-16T20:27:21Z",
+      "lastUpdated": "2026-09-16T20:57:12Z",
       "homeTeam": {
         "id": 560,
         "name": "RC Deportivo La Coruña",
@@ -55134,11 +55134,11 @@
       },
       "id": 564684,
       "utcDate": "2026-09-16T17:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-16T20:27:21Z",
+      "lastUpdated": "2026-09-16T20:57:12Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -55157,7 +55157,7 @@
         "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 3,
+          "home": 4,
           "away": 0
         },
         "halfTime": {
@@ -55200,11 +55200,11 @@
       },
       "id": 564685,
       "utcDate": "2026-09-16T19:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-16T20:25:44Z",
+      "lastUpdated": "2026-09-16T23:34:00Z",
       "homeTeam": {
         "id": 88,
         "name": "Levante UD",
@@ -55220,11 +55220,11 @@
         "crest": "https://crests.football-data.org/77.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -55266,11 +55266,11 @@
       },
       "id": 564687,
       "utcDate": "2026-09-16T19:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-16T20:25:12Z",
+      "lastUpdated": "2026-09-16T23:34:01Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -55286,15 +55286,15 @@
         "crest": "https://crests.football-data.org/5335.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 7,
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 1
         }
       },
       "odds": {
@@ -218231,37 +218231,37 @@
         "currentMatchday": 6,
         "winner": null
       },
-      "id": 564679,
-      "utcDate": "2026-09-16T17:00:00Z",
+      "id": 564685,
+      "utcDate": "2026-09-16T19:30:00Z",
       "status": "IN_PLAY",
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-16T20:27:21Z",
+      "lastUpdated": "2026-09-16T23:34:00Z",
       "homeTeam": {
-        "id": 560,
-        "name": "RC Deportivo La Coruña",
-        "shortName": "Deportivo",
-        "tla": "DEP",
-        "crest": "https://crests.football-data.org/560.png"
+        "id": 88,
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "tla": "LEV",
+        "crest": "https://crests.football-data.org/88.png"
       },
       "awayTeam": {
-        "id": 559,
-        "name": "Sevilla FC",
-        "shortName": "Sevilla FC",
-        "tla": "SEV",
-        "crest": "https://crests.football-data.org/559.png"
+        "id": 77,
+        "name": "Athletic Club",
+        "shortName": "Athletic",
+        "tla": "ATH",
+        "crest": "https://crests.football-data.org/77.png"
       },
       "score": {
-        "winner": "AWAY_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 1
+          "away": 0
         },
         "halfTime": {
-          "home": 0,
-          "away": 0
+          "home": null,
+          "away": null
         }
       },
       "odds": {
@@ -218269,74 +218269,8 @@
       },
       "referees": [
         {
-          "id": 206208,
-          "name": "Alejandro Hernández Hernández",
-          "type": "REFEREE",
-          "nationality": "Spain"
-        }
-      ]
-    },
-    {
-      "area": {
-        "id": 2224,
-        "name": "Spain",
-        "code": "ESP",
-        "flag": "https://crests.football-data.org/760.svg"
-      },
-      "competition": {
-        "id": 2014,
-        "name": "Primera Division",
-        "code": "PD",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/laliga.png"
-      },
-      "season": {
-        "id": 2518,
-        "startDate": "2026-08-16",
-        "endDate": "2027-05-30",
-        "currentMatchday": 6,
-        "winner": null
-      },
-      "id": 564684,
-      "utcDate": "2026-09-16T17:00:00Z",
-      "status": "IN_PLAY",
-      "matchday": 6,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-09-16T20:27:21Z",
-      "homeTeam": {
-        "id": 78,
-        "name": "Club Atlético de Madrid",
-        "shortName": "Atleti",
-        "tla": "ATL",
-        "crest": "https://crests.football-data.org/78.png"
-      },
-      "awayTeam": {
-        "id": 79,
-        "name": "CA Osasuna",
-        "shortName": "Osasuna",
-        "tla": "OSA",
-        "crest": "https://crests.football-data.org/79.png"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 3,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 0
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 214213,
-          "name": "Francisco Hernández Maeso",
+          "id": 214410,
+          "name": "Alejandro Quintero González",
           "type": "REFEREE",
           "nationality": "Spain"
         }
@@ -273133,9 +273067,7 @@
           "nationality": "Spain"
         }
       ]
-    }
-  ],
-  "upcoming": [
+    },
     {
       "area": {
         "id": 2224,
@@ -273157,37 +273089,37 @@
         "currentMatchday": 6,
         "winner": null
       },
-      "id": 564685,
-      "utcDate": "2026-09-16T19:30:00Z",
-      "status": "TIMED",
+      "id": 564679,
+      "utcDate": "2026-09-16T17:00:00Z",
+      "status": "FINISHED",
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-16T20:25:44Z",
+      "lastUpdated": "2026-09-16T20:57:12Z",
       "homeTeam": {
-        "id": 88,
-        "name": "Levante UD",
-        "shortName": "Levante",
-        "tla": "LEV",
-        "crest": "https://crests.football-data.org/88.png"
+        "id": 560,
+        "name": "RC Deportivo La Coruña",
+        "shortName": "Deportivo",
+        "tla": "DEP",
+        "crest": "https://crests.football-data.org/560.png"
       },
       "awayTeam": {
-        "id": 77,
-        "name": "Athletic Club",
-        "shortName": "Athletic",
-        "tla": "ATH",
-        "crest": "https://crests.football-data.org/77.png"
+        "id": 559,
+        "name": "Sevilla FC",
+        "shortName": "Sevilla FC",
+        "tla": "SEV",
+        "crest": "https://crests.football-data.org/559.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -273195,8 +273127,74 @@
       },
       "referees": [
         {
-          "id": 214410,
-          "name": "Alejandro Quintero González",
+          "id": 206208,
+          "name": "Alejandro Hernández Hernández",
+          "type": "REFEREE",
+          "nationality": "Spain"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2224,
+        "name": "Spain",
+        "code": "ESP",
+        "flag": "https://crests.football-data.org/760.svg"
+      },
+      "competition": {
+        "id": 2014,
+        "name": "Primera Division",
+        "code": "PD",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/laliga.png"
+      },
+      "season": {
+        "id": 2518,
+        "startDate": "2026-08-16",
+        "endDate": "2027-05-30",
+        "currentMatchday": 6,
+        "winner": null
+      },
+      "id": 564684,
+      "utcDate": "2026-09-16T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-09-16T20:57:12Z",
+      "homeTeam": {
+        "id": 78,
+        "name": "Club Atlético de Madrid",
+        "shortName": "Atleti",
+        "tla": "ATL",
+        "crest": "https://crests.football-data.org/78.png"
+      },
+      "awayTeam": {
+        "id": 79,
+        "name": "CA Osasuna",
+        "shortName": "Osasuna",
+        "tla": "OSA",
+        "crest": "https://crests.football-data.org/79.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 4,
+          "away": 0
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 214213,
+          "name": "Francisco Hernández Maeso",
           "type": "REFEREE",
           "nationality": "Spain"
         }
@@ -273225,11 +273223,11 @@
       },
       "id": 564687,
       "utcDate": "2026-09-16T19:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-16T20:25:12Z",
+      "lastUpdated": "2026-09-16T23:34:01Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -273245,15 +273243,15 @@
         "crest": "https://crests.football-data.org/5335.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 7,
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 1
         }
       },
       "odds": {
@@ -273267,7 +273265,9 @@
           "nationality": "Spain"
         }
       ]
-    },
+    }
+  ],
+  "upcoming": [
     {
       "area": {
         "id": 2032,
@@ -492365,7 +492365,7 @@
         "id": 2497,
         "startDate": "2026-08-22",
         "endDate": "2027-05-29",
-        "currentMatchday": 4,
+        "currentMatchday": 5,
         "winner": null
       },
       "standings": [
@@ -493924,7 +493924,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-09-16 18:27 UTC"
+      "lastSuccessfulUpdate": "2026-09-16 21:34 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -493951,7 +493951,7 @@
       "seasonId": 2497,
       "seasonStart": "2026-08-22",
       "seasonEnd": "2027-05-29",
-      "lastSuccessfulUpdate": "2026-09-16 18:27 UTC"
+      "lastSuccessfulUpdate": "2026-09-16 21:34 UTC"
     },
     "DED": {
       "status": "connected",
