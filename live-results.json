@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-09-19 23:36 UTC",
-  "lastUpdate": "2026-09-19 23:36 UTC",
+  "generatedAt": "2026-09-20 01:41 UTC",
+  "lastUpdate": "2026-09-20 01:41 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -58618,11 +58618,11 @@
       },
       "id": 555018,
       "utcDate": "2026-09-19T23:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 28,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-20T01:35:36Z",
+      "lastUpdated": "2026-09-20T03:28:40Z",
       "homeTeam": {
         "id": 1780,
         "name": "CR Vasco da Gama",
@@ -58638,15 +58638,15 @@
         "crest": "https://crests.football-data.org/4241.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 5,
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         }
       },
       "odds": {
@@ -58677,11 +58677,11 @@
       },
       "id": 555017,
       "utcDate": "2026-09-20T00:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 28,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-20T01:33:28Z",
+      "lastUpdated": "2026-09-20T03:40:56Z",
       "homeTeam": {
         "id": 1776,
         "name": "São Paulo FC",
@@ -58697,15 +58697,15 @@
         "crest": "https://crests.football-data.org/6684.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
@@ -218574,37 +218574,37 @@
         "currentMatchday": 28,
         "winner": null
       },
-      "id": 555018,
-      "utcDate": "2026-09-19T23:30:00Z",
+      "id": 555017,
+      "utcDate": "2026-09-20T00:00:00Z",
       "status": "IN_PLAY",
       "matchday": 28,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-20T01:35:36Z",
+      "lastUpdated": "2026-09-20T03:40:56Z",
       "homeTeam": {
-        "id": 1780,
-        "name": "CR Vasco da Gama",
-        "shortName": "Vasco da Gama",
-        "tla": "VAS",
-        "crest": "https://crests.football-data.org/1780.png"
+        "id": 1776,
+        "name": "São Paulo FC",
+        "shortName": "São Paulo",
+        "tla": "PAU",
+        "crest": "https://crests.football-data.org/1776.png"
       },
       "awayTeam": {
-        "id": 4241,
-        "name": "Coritiba FBC",
-        "shortName": "Coritiba",
-        "tla": "COR",
-        "crest": "https://crests.football-data.org/4241.png"
+        "id": 6684,
+        "name": "SC Internacional",
+        "shortName": "Internacional",
+        "tla": "SCI",
+        "crest": "https://crests.football-data.org/6684.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
@@ -277071,9 +277071,7 @@
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
-    }
-  ],
-  "upcoming": [
+    },
     {
       "area": {
         "id": 2032,
@@ -277095,44 +277093,46 @@
         "currentMatchday": 28,
         "winner": null
       },
-      "id": 555017,
-      "utcDate": "2026-09-20T00:00:00Z",
-      "status": "TIMED",
+      "id": 555018,
+      "utcDate": "2026-09-19T23:30:00Z",
+      "status": "FINISHED",
       "matchday": 28,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-20T01:33:28Z",
+      "lastUpdated": "2026-09-20T03:28:40Z",
       "homeTeam": {
-        "id": 1776,
-        "name": "São Paulo FC",
-        "shortName": "São Paulo",
-        "tla": "PAU",
-        "crest": "https://crests.football-data.org/1776.png"
+        "id": 1780,
+        "name": "CR Vasco da Gama",
+        "shortName": "Vasco da Gama",
+        "tla": "VAS",
+        "crest": "https://crests.football-data.org/1780.png"
       },
       "awayTeam": {
-        "id": 6684,
-        "name": "SC Internacional",
-        "shortName": "Internacional",
-        "tla": "SCI",
-        "crest": "https://crests.football-data.org/6684.png"
+        "id": 4241,
+        "name": "Coritiba FBC",
+        "shortName": "Coritiba",
+        "tla": "COR",
+        "crest": "https://crests.football-data.org/4241.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 5,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
-    },
+    }
+  ],
+  "upcoming": [
     {
       "area": {
         "id": 2163,
@@ -492805,6 +492805,25 @@
             {
               "position": 3,
               "team": {
+                "id": 110,
+                "name": "SS Lazio",
+                "shortName": "Lazio",
+                "tla": "LAZ",
+                "crest": "https://crests.football-data.org/110.png"
+              },
+              "playedGames": 5,
+              "form": null,
+              "won": 4,
+              "draw": 1,
+              "lost": 0,
+              "points": 13,
+              "goalsFor": 8,
+              "goalsAgainst": 3,
+              "goalDifference": 5
+            },
+            {
+              "position": 4,
+              "team": {
                 "id": 104,
                 "name": "Cagliari Calcio",
                 "shortName": "Cagliari",
@@ -492819,25 +492838,6 @@
               "points": 12,
               "goalsFor": 5,
               "goalsAgainst": 2,
-              "goalDifference": 3
-            },
-            {
-              "position": 4,
-              "team": {
-                "id": 110,
-                "name": "SS Lazio",
-                "shortName": "Lazio",
-                "tla": "LAZ",
-                "crest": "https://crests.football-data.org/110.png"
-              },
-              "playedGames": 5,
-              "form": null,
-              "won": 3,
-              "draw": 2,
-              "lost": 0,
-              "points": 11,
-              "goalsFor": 6,
-              "goalsAgainst": 3,
               "goalDifference": 3
             },
             {
@@ -493137,12 +493137,12 @@
               "playedGames": 5,
               "form": null,
               "won": 0,
-              "draw": 1,
-              "lost": 4,
-              "points": 1,
+              "draw": 0,
+              "lost": 5,
+              "points": 0,
               "goalsFor": 4,
-              "goalsAgainst": 11,
-              "goalDifference": -7
+              "goalsAgainst": 13,
+              "goalDifference": -9
             }
           ]
         }
@@ -494746,7 +494746,7 @@
       "seasonId": 2494,
       "seasonStart": "2026-08-23",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-09-19 23:35 UTC"
+      "lastSuccessfulUpdate": "2026-09-20 01:40 UTC"
     },
     "FL1": {
       "status": "connected",
@@ -494782,7 +494782,7 @@
       "seasonId": 2474,
       "seasonStart": "2026-01-28",
       "seasonEnd": "2026-12-02",
-      "lastSuccessfulUpdate": "2026-09-19 23:35 UTC"
+      "lastSuccessfulUpdate": "2026-09-20 01:41 UTC"
     },
     "WC": {
       "status": "connected",
