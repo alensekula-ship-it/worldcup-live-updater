@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-09-30 23:31 UTC",
-  "lastUpdate": "2026-09-30 23:31 UTC",
+  "generatedAt": "2026-10-01 02:21 UTC",
+  "lastUpdate": "2026-10-01 02:21 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -61199,7 +61199,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-01T00:20:33Z",
+      "lastUpdated": "2026-10-01T01:32:01Z",
       "homeTeam": {
         "id": 4286,
         "name": "RB Bragantino",
@@ -61258,7 +61258,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-01T00:20:33Z",
+      "lastUpdated": "2026-10-01T01:32:01Z",
       "homeTeam": {
         "id": 6684,
         "name": "SC Internacional",
@@ -61317,7 +61317,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-01T00:20:33Z",
+      "lastUpdated": "2026-10-01T01:32:01Z",
       "homeTeam": {
         "id": 4287,
         "name": "Clube do Remo",
@@ -61376,7 +61376,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-01T00:20:33Z",
+      "lastUpdated": "2026-10-01T01:32:01Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -61435,7 +61435,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-01T00:20:33Z",
+      "lastUpdated": "2026-10-01T01:32:01Z",
       "homeTeam": {
         "id": 1770,
         "name": "Botafogo FR",
@@ -61494,7 +61494,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-01T00:20:33Z",
+      "lastUpdated": "2026-10-01T01:32:01Z",
       "homeTeam": {
         "id": 1771,
         "name": "Cruzeiro EC",
@@ -279835,7 +279835,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-01T00:20:33Z",
+      "lastUpdated": "2026-10-01T01:32:01Z",
       "homeTeam": {
         "id": 4286,
         "name": "RB Bragantino",
@@ -279894,7 +279894,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-01T00:20:33Z",
+      "lastUpdated": "2026-10-01T01:32:01Z",
       "homeTeam": {
         "id": 6684,
         "name": "SC Internacional",
@@ -279953,7 +279953,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-01T00:20:33Z",
+      "lastUpdated": "2026-10-01T01:32:01Z",
       "homeTeam": {
         "id": 4287,
         "name": "Clube do Remo",
@@ -280012,7 +280012,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-01T00:20:33Z",
+      "lastUpdated": "2026-10-01T01:32:01Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -280071,7 +280071,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-01T00:20:33Z",
+      "lastUpdated": "2026-10-01T01:32:01Z",
       "homeTeam": {
         "id": 1770,
         "name": "Botafogo FR",
@@ -280130,7 +280130,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-01T00:20:33Z",
+      "lastUpdated": "2026-10-01T01:32:01Z",
       "homeTeam": {
         "id": 1771,
         "name": "Cruzeiro EC",
@@ -495215,7 +495215,7 @@
       "seasonId": 2474,
       "seasonStart": "2026-01-28",
       "seasonEnd": "2026-12-02",
-      "lastSuccessfulUpdate": "2026-09-30 23:30 UTC"
+      "lastSuccessfulUpdate": "2026-10-01 02:20 UTC"
     },
     "WC": {
       "status": "connected",
