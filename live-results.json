@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-10-02 22:36 UTC",
-  "lastUpdate": "2026-10-02 22:36 UTC",
+  "generatedAt": "2026-10-03 01:29 UTC",
+  "lastUpdate": "2026-10-03 01:29 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -61018,11 +61018,11 @@
       },
       "id": 554948,
       "utcDate": "2026-10-02T23:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 21,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-03T00:31:50Z",
+      "lastUpdated": "2026-10-03T03:06:31Z",
       "homeTeam": {
         "id": 1776,
         "name": "São Paulo FC",
@@ -61038,15 +61038,15 @@
         "crest": "https://crests.football-data.org/6685.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         }
       },
       "odds": {
@@ -61081,7 +61081,7 @@
       "matchday": 21,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-02T20:20:34Z",
+      "lastUpdated": "2026-10-03T01:32:00Z",
       "homeTeam": {
         "id": 1766,
         "name": "CA Mineiro",
@@ -61140,7 +61140,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-02T20:20:34Z",
+      "lastUpdated": "2026-10-03T01:32:01Z",
       "homeTeam": {
         "id": 4286,
         "name": "RB Bragantino",
@@ -61435,7 +61435,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-02T20:20:34Z",
+      "lastUpdated": "2026-10-03T01:32:01Z",
       "homeTeam": {
         "id": 1771,
         "name": "Cruzeiro EC",
@@ -61730,7 +61730,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-03T00:20:28Z",
+      "lastUpdated": "2026-10-03T01:32:01Z",
       "homeTeam": {
         "id": 583,
         "name": "Moreirense FC",
@@ -61789,7 +61789,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-03T00:20:27Z",
+      "lastUpdated": "2026-10-03T01:32:01Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -61848,7 +61848,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-03T00:20:27Z",
+      "lastUpdated": "2026-10-03T01:32:01Z",
       "homeTeam": {
         "id": 4,
         "name": "Borussia Dortmund",
@@ -61907,7 +61907,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-03T00:20:28Z",
+      "lastUpdated": "2026-10-03T01:32:01Z",
       "homeTeam": {
         "id": 546,
         "name": "Racing Club de Lens",
@@ -61966,7 +61966,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-03T00:20:28Z",
+      "lastUpdated": "2026-10-03T01:32:01Z",
       "homeTeam": {
         "id": 563,
         "name": "West Ham United FC",
@@ -62025,7 +62025,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-03T00:20:28Z",
+      "lastUpdated": "2026-10-03T01:32:01Z",
       "homeTeam": {
         "id": 84,
         "name": "Málaga CF",
@@ -62084,7 +62084,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-03T00:20:28Z",
+      "lastUpdated": "2026-10-03T01:32:01Z",
       "homeTeam": {
         "id": 5613,
         "name": "Sporting Clube de Braga",
@@ -279687,9 +279687,7 @@
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
-    }
-  ],
-  "upcoming": [
+    },
     {
       "area": {
         "id": 2032,
@@ -279713,11 +279711,11 @@
       },
       "id": 554948,
       "utcDate": "2026-10-02T23:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 21,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-03T00:31:50Z",
+      "lastUpdated": "2026-10-03T03:06:31Z",
       "homeTeam": {
         "id": 1776,
         "name": "São Paulo FC",
@@ -279733,22 +279731,24 @@
         "crest": "https://crests.football-data.org/6685.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
-    },
+    }
+  ],
+  "upcoming": [
     {
       "area": {
         "id": 2032,
@@ -279776,7 +279776,7 @@
       "matchday": 21,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-02T20:20:34Z",
+      "lastUpdated": "2026-10-03T01:32:00Z",
       "homeTeam": {
         "id": 1766,
         "name": "CA Mineiro",
@@ -279835,7 +279835,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-02T20:20:34Z",
+      "lastUpdated": "2026-10-03T01:32:01Z",
       "homeTeam": {
         "id": 4286,
         "name": "RB Bragantino",
@@ -280130,7 +280130,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-02T20:20:34Z",
+      "lastUpdated": "2026-10-03T01:32:01Z",
       "homeTeam": {
         "id": 1771,
         "name": "Cruzeiro EC",
@@ -280425,7 +280425,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-03T00:20:28Z",
+      "lastUpdated": "2026-10-03T01:32:01Z",
       "homeTeam": {
         "id": 583,
         "name": "Moreirense FC",
@@ -280484,7 +280484,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-03T00:20:27Z",
+      "lastUpdated": "2026-10-03T01:32:01Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -280543,7 +280543,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-03T00:20:27Z",
+      "lastUpdated": "2026-10-03T01:32:01Z",
       "homeTeam": {
         "id": 4,
         "name": "Borussia Dortmund",
@@ -280602,7 +280602,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-03T00:20:28Z",
+      "lastUpdated": "2026-10-03T01:32:01Z",
       "homeTeam": {
         "id": 546,
         "name": "Racing Club de Lens",
@@ -280661,7 +280661,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-03T00:20:28Z",
+      "lastUpdated": "2026-10-03T01:32:01Z",
       "homeTeam": {
         "id": 563,
         "name": "West Ham United FC",
@@ -280720,7 +280720,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-03T00:20:28Z",
+      "lastUpdated": "2026-10-03T01:32:01Z",
       "homeTeam": {
         "id": 84,
         "name": "Málaga CF",
@@ -280779,7 +280779,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-03T00:20:28Z",
+      "lastUpdated": "2026-10-03T01:32:01Z",
       "homeTeam": {
         "id": 5613,
         "name": "Sporting Clube de Braga",
@@ -494915,6 +494915,25 @@
             {
               "position": 7,
               "team": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+              },
+              "playedGames": 28,
+              "form": null,
+              "won": 11,
+              "draw": 8,
+              "lost": 9,
+              "points": 41,
+              "goalsFor": 43,
+              "goalsAgainst": 41,
+              "goalDifference": 2
+            },
+            {
+              "position": 8,
+              "team": {
                 "id": 1766,
                 "name": "CA Mineiro",
                 "shortName": "Mineiro",
@@ -494930,25 +494949,6 @@
               "goalsFor": 36,
               "goalsAgainst": 32,
               "goalDifference": 4
-            },
-            {
-              "position": 8,
-              "team": {
-                "id": 6685,
-                "name": "Santos FC",
-                "shortName": "Santos",
-                "tla": "SAN",
-                "crest": "https://crests.football-data.org/6685.png"
-              },
-              "playedGames": 27,
-              "form": null,
-              "won": 10,
-              "draw": 8,
-              "lost": 9,
-              "points": 38,
-              "goalsFor": 41,
-              "goalsAgainst": 40,
-              "goalDifference": 1
             },
             {
               "position": 9,
@@ -494997,15 +494997,15 @@
                 "tla": "PAU",
                 "crest": "https://crests.football-data.org/1776.png"
               },
-              "playedGames": 27,
+              "playedGames": 28,
               "form": null,
               "won": 10,
               "draw": 6,
-              "lost": 11,
+              "lost": 12,
               "points": 36,
-              "goalsFor": 32,
-              "goalsAgainst": 30,
-              "goalDifference": 2
+              "goalsFor": 33,
+              "goalsAgainst": 32,
+              "goalDifference": 1
             },
             {
               "position": 12,
@@ -495211,7 +495211,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-10-02 22:34 UTC"
+      "lastSuccessfulUpdate": "2026-10-03 01:27 UTC"
     },
     "PD": {
       "status": "connected",
@@ -495220,7 +495220,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-10-02 22:34 UTC"
+      "lastSuccessfulUpdate": "2026-10-03 01:27 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -495229,7 +495229,7 @@
       "seasonId": 2522,
       "seasonStart": "2026-08-28",
       "seasonEnd": "2027-05-22",
-      "lastSuccessfulUpdate": "2026-10-02 22:35 UTC"
+      "lastSuccessfulUpdate": "2026-10-03 01:27 UTC"
     },
     "SA": {
       "status": "connected",
@@ -495247,7 +495247,7 @@
       "seasonId": 2497,
       "seasonStart": "2026-08-22",
       "seasonEnd": "2027-05-29",
-      "lastSuccessfulUpdate": "2026-10-02 22:35 UTC"
+      "lastSuccessfulUpdate": "2026-10-03 01:28 UTC"
     },
     "DED": {
       "status": "connected",
@@ -495256,7 +495256,7 @@
       "seasonId": 2493,
       "seasonStart": "2026-08-07",
       "seasonEnd": "2027-05-23",
-      "lastSuccessfulUpdate": "2026-10-02 22:35 UTC"
+      "lastSuccessfulUpdate": "2026-10-03 01:28 UTC"
     },
     "PPL": {
       "status": "connected",
@@ -495265,7 +495265,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-10-02 22:35 UTC"
+      "lastSuccessfulUpdate": "2026-10-03 01:28 UTC"
     },
     "BSA": {
       "status": "connected",
@@ -495274,7 +495274,7 @@
       "seasonId": 2474,
       "seasonStart": "2026-01-28",
       "seasonEnd": "2026-12-02",
-      "lastSuccessfulUpdate": "2026-10-02 22:35 UTC"
+      "lastSuccessfulUpdate": "2026-10-03 01:28 UTC"
     },
     "WC": {
       "status": "connected",
