@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-10-06 23:18 UTC",
-  "lastUpdate": "2026-10-06 23:18 UTC",
+  "generatedAt": "2026-10-07 02:36 UTC",
+  "lastUpdate": "2026-10-07 02:36 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -66922,7 +66922,7 @@
       "matchday": 2,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:36Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 546,
         "name": "Racing Club de Lens",
@@ -66981,7 +66981,7 @@
       "matchday": 2,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:36Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 10233,
         "name": "Sabah FK",
@@ -67040,7 +67040,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:37Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 76,
         "name": "Wolverhampton Wanderers FC",
@@ -67099,7 +67099,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:37Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 404,
         "name": "Wrexham AFC",
@@ -67158,7 +67158,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:37Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 384,
         "name": "Millwall FC",
@@ -67217,7 +67217,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:37Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 715,
         "name": "Cardiff City FC",
@@ -67276,7 +67276,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:37Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 328,
         "name": "Burnley FC",
@@ -67335,7 +67335,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:37Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 387,
         "name": "Bristol City FC",
@@ -67394,7 +67394,7 @@
       "matchday": 2,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:36Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -67453,7 +67453,7 @@
       "matchday": 2,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:36Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 610,
         "name": "Galatasaray SK",
@@ -67512,7 +67512,7 @@
       "matchday": 2,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:36Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -67571,7 +67571,7 @@
       "matchday": 2,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:36Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 57,
         "name": "Arsenal FC",
@@ -67630,7 +67630,7 @@
       "matchday": 2,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:36Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 5720,
         "name": "Viking FK",
@@ -67689,7 +67689,7 @@
       "matchday": 2,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:36Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 721,
         "name": "RB Leipzig",
@@ -67748,7 +67748,7 @@
       "matchday": 2,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:36Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 94,
         "name": "Villarreal CF",
@@ -67807,7 +67807,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:37Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 332,
         "name": "Birmingham City FC",
@@ -67866,7 +67866,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:37Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 70,
         "name": "Stoke City FC",
@@ -285617,7 +285617,7 @@
       "matchday": 2,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:36Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 546,
         "name": "Racing Club de Lens",
@@ -285676,7 +285676,7 @@
       "matchday": 2,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:36Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 10233,
         "name": "Sabah FK",
@@ -285735,7 +285735,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:37Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 76,
         "name": "Wolverhampton Wanderers FC",
@@ -285794,7 +285794,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:37Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 404,
         "name": "Wrexham AFC",
@@ -285853,7 +285853,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:37Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 384,
         "name": "Millwall FC",
@@ -285912,7 +285912,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:37Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 715,
         "name": "Cardiff City FC",
@@ -285971,7 +285971,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:37Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 328,
         "name": "Burnley FC",
@@ -286030,7 +286030,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:37Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 387,
         "name": "Bristol City FC",
@@ -286089,7 +286089,7 @@
       "matchday": 2,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:36Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -286148,7 +286148,7 @@
       "matchday": 2,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:36Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 610,
         "name": "Galatasaray SK",
@@ -286207,7 +286207,7 @@
       "matchday": 2,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:36Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -286266,7 +286266,7 @@
       "matchday": 2,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:36Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 57,
         "name": "Arsenal FC",
@@ -286325,7 +286325,7 @@
       "matchday": 2,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:36Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 5720,
         "name": "Viking FK",
@@ -286384,7 +286384,7 @@
       "matchday": 2,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:36Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 721,
         "name": "RB Leipzig",
@@ -286443,7 +286443,7 @@
       "matchday": 2,
       "stage": "LEAGUE_STAGE",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:36Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 94,
         "name": "Villarreal CF",
@@ -286502,7 +286502,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:37Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 332,
         "name": "Birmingham City FC",
@@ -286561,7 +286561,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-07T00:20:37Z",
+      "lastUpdated": "2026-10-07T01:32:06Z",
       "homeTeam": {
         "id": 70,
         "name": "Stoke City FC",
@@ -495191,7 +495191,7 @@
       "seasonId": 2557,
       "seasonStart": "2026-09-08",
       "seasonEnd": "2027-01-27",
-      "lastSuccessfulUpdate": "2026-10-06 23:17 UTC",
+      "lastSuccessfulUpdate": "2026-10-07 02:35 UTC",
       "qualifyingProvider": "ESPN UEFA Champions League Qualifying",
       "qualifyingMatchCount": 4
     },
@@ -495211,7 +495211,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-10-06 23:17 UTC"
+      "lastSuccessfulUpdate": "2026-10-07 02:35 UTC"
     },
     "PD": {
       "status": "connected",
