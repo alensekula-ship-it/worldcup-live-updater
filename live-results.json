@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-10-10 22:58 UTC",
-  "lastUpdate": "2026-10-10 22:58 UTC",
+  "generatedAt": "2026-10-11 01:41 UTC",
+  "lastUpdate": "2026-10-11 01:41 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -64960,11 +64960,11 @@
       },
       "id": 555038,
       "utcDate": "2026-10-11T00:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 30,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-10T20:20:22Z",
+      "lastUpdated": "2026-10-11T03:41:11Z",
       "homeTeam": {
         "id": 1776,
         "name": "São Paulo FC",
@@ -64980,15 +64980,15 @@
         "crest": "https://crests.football-data.org/1782.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         }
       },
       "odds": {
@@ -65082,7 +65082,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:00Z",
       "homeTeam": {
         "id": 7397,
         "name": "Como 1907",
@@ -65141,7 +65141,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:00Z",
       "homeTeam": {
         "id": 340,
         "name": "Southampton FC",
@@ -65377,7 +65377,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:00Z",
       "homeTeam": {
         "id": 522,
         "name": "OGC Nice",
@@ -65436,7 +65436,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:01Z",
       "homeTeam": {
         "id": 322,
         "name": "Hull City AFC",
@@ -65554,7 +65554,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:01Z",
       "homeTeam": {
         "id": 5890,
         "name": "US Lecce",
@@ -65613,7 +65613,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:01Z",
       "homeTeam": {
         "id": 110,
         "name": "SS Lazio",
@@ -65672,7 +65672,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:01Z",
       "homeTeam": {
         "id": 1,
         "name": "1. FC Köln",
@@ -65849,7 +65849,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:01Z",
       "homeTeam": {
         "id": 670,
         "name": "SBV Excelsior",
@@ -65908,7 +65908,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:01Z",
       "homeTeam": {
         "id": 529,
         "name": "Stade Rennais FC 1901",
@@ -65967,7 +65967,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:01Z",
       "homeTeam": {
         "id": 17,
         "name": "SC Freiburg",
@@ -66026,7 +66026,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:01Z",
       "homeTeam": {
         "id": 64,
         "name": "Liverpool FC",
@@ -66144,7 +66144,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:01Z",
       "homeTeam": {
         "id": 90,
         "name": "Real Betis Balompié",
@@ -66203,7 +66203,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:01Z",
       "homeTeam": {
         "id": 1903,
         "name": "Sport Lisboa e Benfica",
@@ -66498,7 +66498,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:02Z",
       "homeTeam": {
         "id": 712,
         "name": "FC Arouca",
@@ -67029,7 +67029,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:02Z",
       "homeTeam": {
         "id": 1076,
         "name": "Coventry City FC",
@@ -67383,7 +67383,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:02Z",
       "homeTeam": {
         "id": 76,
         "name": "Wolverhampton Wanderers FC",
@@ -67442,7 +67442,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:02Z",
       "homeTeam": {
         "id": 404,
         "name": "Wrexham AFC",
@@ -67501,7 +67501,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:02Z",
       "homeTeam": {
         "id": 384,
         "name": "Millwall FC",
@@ -67619,7 +67619,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:03Z",
       "homeTeam": {
         "id": 328,
         "name": "Burnley FC",
@@ -67678,7 +67678,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:03Z",
       "homeTeam": {
         "id": 387,
         "name": "Bristol City FC",
@@ -68150,7 +68150,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:03Z",
       "homeTeam": {
         "id": 332,
         "name": "Birmingham City FC",
@@ -68209,7 +68209,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:03Z",
       "homeTeam": {
         "id": 70,
         "name": "Stoke City FC",
@@ -68386,7 +68386,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:03Z",
       "homeTeam": {
         "id": 325,
         "name": "Portsmouth FC",
@@ -68445,7 +68445,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:03Z",
       "homeTeam": {
         "id": 68,
         "name": "Norwich City FC",
@@ -68504,7 +68504,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:03Z",
       "homeTeam": {
         "id": 69,
         "name": "Queens Park Rangers FC",
@@ -68976,7 +68976,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:03Z",
       "homeTeam": {
         "id": 1126,
         "name": "Lincoln City FC",
@@ -69094,7 +69094,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:04Z",
       "homeTeam": {
         "id": 19,
         "name": "Eintracht Frankfurt",
@@ -69153,7 +69153,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:04Z",
       "homeTeam": {
         "id": 535,
         "name": "Le Mans FC",
@@ -69212,7 +69212,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:04Z",
       "homeTeam": {
         "id": 470,
         "name": "Frosinone Calcio",
@@ -69271,7 +69271,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:04Z",
       "homeTeam": {
         "id": 328,
         "name": "Burnley FC",
@@ -69448,7 +69448,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:05Z",
       "homeTeam": {
         "id": 384,
         "name": "Millwall FC",
@@ -69507,7 +69507,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:05Z",
       "homeTeam": {
         "id": 343,
         "name": "Middlesbrough FC",
@@ -69566,7 +69566,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:05Z",
       "homeTeam": {
         "id": 346,
         "name": "Watford FC",
@@ -69625,7 +69625,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:05Z",
       "homeTeam": {
         "id": 62,
         "name": "Everton FC",
@@ -69684,7 +69684,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:05Z",
       "homeTeam": {
         "id": 80,
         "name": "RCD Espanyol de Barcelona",
@@ -69743,7 +69743,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 454,
         "name": "Venezia FC",
@@ -69802,7 +69802,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 28,
         "name": "1. FC Union Berlin",
@@ -69861,7 +69861,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 7,
         "name": "Hamburger SV",
@@ -69920,7 +69920,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 12,
         "name": "SV Werder Bremen",
@@ -69979,7 +69979,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 719,
         "name": "SV 07 Elversberg",
@@ -70038,7 +70038,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 6,
         "name": "FC Schalke 04",
@@ -70097,7 +70097,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 68,
         "name": "Norwich City FC",
@@ -70156,7 +70156,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 340,
         "name": "Southampton FC",
@@ -70215,7 +70215,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 387,
         "name": "Bristol City FC",
@@ -70274,7 +70274,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 332,
         "name": "Birmingham City FC",
@@ -70333,7 +70333,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 342,
         "name": "Derby County FC",
@@ -70392,7 +70392,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 72,
         "name": "Swansea City AFC",
@@ -70451,7 +70451,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 74,
         "name": "West Bromwich Albion FC",
@@ -70510,7 +70510,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 404,
         "name": "Wrexham AFC",
@@ -70569,7 +70569,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 63,
         "name": "Fulham FC",
@@ -70628,7 +70628,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 65,
         "name": "Manchester City FC",
@@ -70687,7 +70687,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 402,
         "name": "Brentford FC",
@@ -70746,7 +70746,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 94,
         "name": "Villarreal CF",
@@ -70805,7 +70805,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 680,
         "name": "ADO Den Haag",
@@ -70864,7 +70864,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 576,
         "name": "RC Strasbourg Alsace",
@@ -70923,7 +70923,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 103,
         "name": "Bologna FC 1909",
@@ -70982,7 +70982,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 5,
         "name": "FC Bayern München",
@@ -71041,7 +71041,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 90,
         "name": "Real Betis Balompié",
@@ -71100,7 +71100,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 67,
         "name": "Newcastle United FC",
@@ -71159,7 +71159,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 1912,
         "name": "Telstar 1963",
@@ -71218,7 +71218,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 531,
         "name": "ES Troyes AC",
@@ -71277,7 +71277,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 521,
         "name": "Lille OSC",
@@ -71336,7 +71336,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 100,
         "name": "AS Roma",
@@ -71395,7 +71395,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 6806,
         "name": "Sparta Rotterdam",
@@ -71454,7 +71454,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 95,
         "name": "Valencia CF",
@@ -71513,7 +71513,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-10T20:20:22Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 1770,
         "name": "Botafogo FR",
@@ -71572,7 +71572,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-10T20:20:22Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 1766,
         "name": "CA Mineiro",
@@ -71631,7 +71631,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-10T20:20:22Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 1768,
         "name": "CA Paranaense",
@@ -71690,7 +71690,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-10T20:20:22Z",
+      "lastUpdated": "2026-10-11T01:32:08Z",
       "homeTeam": {
         "id": 1776,
         "name": "São Paulo FC",
@@ -219112,7 +219112,67 @@
       "referees": []
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "area": {
+        "id": 2032,
+        "name": "Brazil",
+        "code": "BRA",
+        "flag": "https://crests.football-data.org/764.svg"
+      },
+      "competition": {
+        "id": 2013,
+        "name": "Campeonato Brasileiro Série A",
+        "code": "BSA",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/bsa.png"
+      },
+      "season": {
+        "id": 2474,
+        "startDate": "2026-01-28",
+        "endDate": "2026-12-02",
+        "currentMatchday": 30,
+        "winner": null
+      },
+      "id": 555038,
+      "utcDate": "2026-10-11T00:00:00Z",
+      "status": "IN_PLAY",
+      "matchday": 30,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-10-11T03:41:11Z",
+      "homeTeam": {
+        "id": 1776,
+        "name": "São Paulo FC",
+        "shortName": "São Paulo",
+        "tla": "PAU",
+        "crest": "https://crests.football-data.org/1776.png"
+      },
+      "awayTeam": {
+        "id": 1782,
+        "name": "EC Vitória",
+        "shortName": "Vitória",
+        "tla": "VIT",
+        "crest": "https://crests.football-data.org/1782.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": []
+    }
+  ],
   "finished": [
     {
       "area": {
@@ -283911,65 +283971,6 @@
   "upcoming": [
     {
       "area": {
-        "id": 2032,
-        "name": "Brazil",
-        "code": "BRA",
-        "flag": "https://crests.football-data.org/764.svg"
-      },
-      "competition": {
-        "id": 2013,
-        "name": "Campeonato Brasileiro Série A",
-        "code": "BSA",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      "season": {
-        "id": 2474,
-        "startDate": "2026-01-28",
-        "endDate": "2026-12-02",
-        "currentMatchday": 30,
-        "winner": null
-      },
-      "id": 555038,
-      "utcDate": "2026-10-11T00:00:00Z",
-      "status": "TIMED",
-      "matchday": 30,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-10-10T20:20:22Z",
-      "homeTeam": {
-        "id": 1776,
-        "name": "São Paulo FC",
-        "shortName": "São Paulo",
-        "tla": "PAU",
-        "crest": "https://crests.football-data.org/1776.png"
-      },
-      "awayTeam": {
-        "id": 1782,
-        "name": "EC Vitória",
-        "shortName": "Vitória",
-        "tla": "VIT",
-        "crest": "https://crests.football-data.org/1782.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
-    {
-      "area": {
         "id": 2163,
         "name": "Netherlands",
         "code": "NLD",
@@ -284054,7 +284055,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:00Z",
       "homeTeam": {
         "id": 7397,
         "name": "Como 1907",
@@ -284113,7 +284114,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:00Z",
       "homeTeam": {
         "id": 340,
         "name": "Southampton FC",
@@ -284349,7 +284350,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:00Z",
       "homeTeam": {
         "id": 522,
         "name": "OGC Nice",
@@ -284408,7 +284409,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:01Z",
       "homeTeam": {
         "id": 322,
         "name": "Hull City AFC",
@@ -284526,7 +284527,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:01Z",
       "homeTeam": {
         "id": 5890,
         "name": "US Lecce",
@@ -284585,7 +284586,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:01Z",
       "homeTeam": {
         "id": 110,
         "name": "SS Lazio",
@@ -284644,7 +284645,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:01Z",
       "homeTeam": {
         "id": 1,
         "name": "1. FC Köln",
@@ -284821,7 +284822,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:01Z",
       "homeTeam": {
         "id": 670,
         "name": "SBV Excelsior",
@@ -284880,7 +284881,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:01Z",
       "homeTeam": {
         "id": 529,
         "name": "Stade Rennais FC 1901",
@@ -284939,7 +284940,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:01Z",
       "homeTeam": {
         "id": 17,
         "name": "SC Freiburg",
@@ -284998,7 +284999,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:01Z",
       "homeTeam": {
         "id": 64,
         "name": "Liverpool FC",
@@ -285116,7 +285117,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:01Z",
       "homeTeam": {
         "id": 90,
         "name": "Real Betis Balompié",
@@ -285175,7 +285176,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:01Z",
       "homeTeam": {
         "id": 1903,
         "name": "Sport Lisboa e Benfica",
@@ -285470,7 +285471,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:02Z",
       "homeTeam": {
         "id": 712,
         "name": "FC Arouca",
@@ -286001,7 +286002,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:02Z",
       "homeTeam": {
         "id": 1076,
         "name": "Coventry City FC",
@@ -286355,7 +286356,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:02Z",
       "homeTeam": {
         "id": 76,
         "name": "Wolverhampton Wanderers FC",
@@ -286414,7 +286415,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:02Z",
       "homeTeam": {
         "id": 404,
         "name": "Wrexham AFC",
@@ -286473,7 +286474,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:02Z",
       "homeTeam": {
         "id": 384,
         "name": "Millwall FC",
@@ -286591,7 +286592,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:03Z",
       "homeTeam": {
         "id": 328,
         "name": "Burnley FC",
@@ -286650,7 +286651,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:03Z",
       "homeTeam": {
         "id": 387,
         "name": "Bristol City FC",
@@ -287122,7 +287123,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:03Z",
       "homeTeam": {
         "id": 332,
         "name": "Birmingham City FC",
@@ -287181,7 +287182,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:03Z",
       "homeTeam": {
         "id": 70,
         "name": "Stoke City FC",
@@ -287358,7 +287359,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:03Z",
       "homeTeam": {
         "id": 325,
         "name": "Portsmouth FC",
@@ -287417,7 +287418,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:03Z",
       "homeTeam": {
         "id": 68,
         "name": "Norwich City FC",
@@ -287476,7 +287477,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:03Z",
       "homeTeam": {
         "id": 69,
         "name": "Queens Park Rangers FC",
@@ -287948,7 +287949,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:03Z",
       "homeTeam": {
         "id": 1126,
         "name": "Lincoln City FC",
@@ -288066,7 +288067,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:04Z",
       "homeTeam": {
         "id": 19,
         "name": "Eintracht Frankfurt",
@@ -288125,7 +288126,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:04Z",
       "homeTeam": {
         "id": 535,
         "name": "Le Mans FC",
@@ -288184,7 +288185,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:04Z",
       "homeTeam": {
         "id": 470,
         "name": "Frosinone Calcio",
@@ -288243,7 +288244,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:04Z",
       "homeTeam": {
         "id": 328,
         "name": "Burnley FC",
@@ -288420,7 +288421,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:05Z",
       "homeTeam": {
         "id": 384,
         "name": "Millwall FC",
@@ -288479,7 +288480,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:05Z",
       "homeTeam": {
         "id": 343,
         "name": "Middlesbrough FC",
@@ -288538,7 +288539,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:05Z",
       "homeTeam": {
         "id": 346,
         "name": "Watford FC",
@@ -288597,7 +288598,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:05Z",
       "homeTeam": {
         "id": 62,
         "name": "Everton FC",
@@ -288656,7 +288657,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:05Z",
       "homeTeam": {
         "id": 80,
         "name": "RCD Espanyol de Barcelona",
@@ -288715,7 +288716,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 454,
         "name": "Venezia FC",
@@ -288774,7 +288775,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 28,
         "name": "1. FC Union Berlin",
@@ -288833,7 +288834,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 7,
         "name": "Hamburger SV",
@@ -288892,7 +288893,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 12,
         "name": "SV Werder Bremen",
@@ -288951,7 +288952,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 719,
         "name": "SV 07 Elversberg",
@@ -289010,7 +289011,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 6,
         "name": "FC Schalke 04",
@@ -289069,7 +289070,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 68,
         "name": "Norwich City FC",
@@ -289128,7 +289129,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 340,
         "name": "Southampton FC",
@@ -289187,7 +289188,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 387,
         "name": "Bristol City FC",
@@ -289246,7 +289247,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 332,
         "name": "Birmingham City FC",
@@ -289305,7 +289306,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 342,
         "name": "Derby County FC",
@@ -289364,7 +289365,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 72,
         "name": "Swansea City AFC",
@@ -289423,7 +289424,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 74,
         "name": "West Bromwich Albion FC",
@@ -289482,7 +289483,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 404,
         "name": "Wrexham AFC",
@@ -289541,7 +289542,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 63,
         "name": "Fulham FC",
@@ -289600,7 +289601,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 65,
         "name": "Manchester City FC",
@@ -289659,7 +289660,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 402,
         "name": "Brentford FC",
@@ -289718,7 +289719,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:06Z",
       "homeTeam": {
         "id": 94,
         "name": "Villarreal CF",
@@ -289777,7 +289778,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 680,
         "name": "ADO Den Haag",
@@ -289836,7 +289837,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 576,
         "name": "RC Strasbourg Alsace",
@@ -289895,7 +289896,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 103,
         "name": "Bologna FC 1909",
@@ -289954,7 +289955,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 5,
         "name": "FC Bayern München",
@@ -290013,7 +290014,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 90,
         "name": "Real Betis Balompié",
@@ -290072,7 +290073,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 67,
         "name": "Newcastle United FC",
@@ -290131,7 +290132,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 1912,
         "name": "Telstar 1963",
@@ -290190,7 +290191,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 531,
         "name": "ES Troyes AC",
@@ -290249,7 +290250,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 521,
         "name": "Lille OSC",
@@ -290308,7 +290309,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 100,
         "name": "AS Roma",
@@ -290367,7 +290368,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:31Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 6806,
         "name": "Sparta Rotterdam",
@@ -290426,7 +290427,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:20:32Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 95,
         "name": "Valencia CF",
@@ -290485,7 +290486,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-10T20:20:22Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 1770,
         "name": "Botafogo FR",
@@ -290544,7 +290545,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-10T20:20:22Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 1766,
         "name": "CA Mineiro",
@@ -290603,7 +290604,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-10T20:20:22Z",
+      "lastUpdated": "2026-10-11T01:32:07Z",
       "homeTeam": {
         "id": 1768,
         "name": "CA Paranaense",
@@ -290662,7 +290663,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-10T20:20:22Z",
+      "lastUpdated": "2026-10-11T01:32:08Z",
       "homeTeam": {
         "id": 1776,
         "name": "São Paulo FC",
@@ -494293,6 +494294,25 @@
             {
               "position": 1,
               "team": {
+                "id": 548,
+                "name": "AS Monaco FC",
+                "shortName": "Monaco",
+                "tla": "ASM",
+                "crest": "https://crests.football-data.org/548.png"
+              },
+              "playedGames": 6,
+              "form": null,
+              "won": 4,
+              "draw": 2,
+              "lost": 0,
+              "points": 14,
+              "goalsFor": 10,
+              "goalsAgainst": 5,
+              "goalDifference": 5
+            },
+            {
+              "position": 2,
+              "team": {
                 "id": 521,
                 "name": "Lille OSC",
                 "shortName": "Lille",
@@ -494307,25 +494327,6 @@
               "points": 13,
               "goalsFor": 9,
               "goalsAgainst": 4,
-              "goalDifference": 5
-            },
-            {
-              "position": 2,
-              "team": {
-                "id": 548,
-                "name": "AS Monaco FC",
-                "shortName": "Monaco",
-                "tla": "ASM",
-                "crest": "https://crests.football-data.org/548.png"
-              },
-              "playedGames": 5,
-              "form": null,
-              "won": 4,
-              "draw": 1,
-              "lost": 0,
-              "points": 13,
-              "goalsFor": 8,
-              "goalsAgainst": 3,
               "goalDifference": 5
             },
             {
@@ -494356,18 +494357,37 @@
                 "tla": "PFC",
                 "crest": "https://crests.football-data.org/1045.png"
               },
-              "playedGames": 5,
+              "playedGames": 6,
               "form": null,
               "won": 3,
               "draw": 2,
-              "lost": 0,
+              "lost": 1,
               "points": 11,
               "goalsFor": 8,
-              "goalsAgainst": 3,
-              "goalDifference": 5
+              "goalsAgainst": 4,
+              "goalDifference": 4
             },
             {
               "position": 5,
+              "team": {
+                "id": 524,
+                "name": "Paris Saint-Germain FC",
+                "shortName": "PSG",
+                "tla": "PSG",
+                "crest": "https://crests.football-data.org/524.png"
+              },
+              "playedGames": 6,
+              "form": null,
+              "won": 3,
+              "draw": 2,
+              "lost": 1,
+              "points": 11,
+              "goalsFor": 11,
+              "goalsAgainst": 8,
+              "goalDifference": 3
+            },
+            {
+              "position": 6,
               "team": {
                 "id": 529,
                 "name": "Stade Rennais FC 1901",
@@ -494386,26 +494406,45 @@
               "goalDifference": -1
             },
             {
-              "position": 6,
+              "position": 7,
               "team": {
-                "id": 524,
-                "name": "Paris Saint-Germain FC",
-                "shortName": "PSG",
-                "tla": "PSG",
-                "crest": "https://crests.football-data.org/524.png"
+                "id": 512,
+                "name": "Stade Brestois 29",
+                "shortName": "Brest",
+                "tla": "BRE",
+                "crest": "https://crests.football-data.org/512.png"
               },
-              "playedGames": 5,
+              "playedGames": 6,
               "form": null,
               "won": 2,
               "draw": 2,
-              "lost": 1,
+              "lost": 2,
               "points": 8,
-              "goalsFor": 8,
-              "goalsAgainst": 7,
-              "goalDifference": 1
+              "goalsFor": 12,
+              "goalsAgainst": 9,
+              "goalDifference": 3
             },
             {
-              "position": 7,
+              "position": 8,
+              "team": {
+                "id": 525,
+                "name": "FC Lorient",
+                "shortName": "Lorient",
+                "tla": "FCL",
+                "crest": "https://crests.football-data.org/525.png"
+              },
+              "playedGames": 6,
+              "form": null,
+              "won": 2,
+              "draw": 2,
+              "lost": 2,
+              "points": 8,
+              "goalsFor": 6,
+              "goalsAgainst": 6,
+              "goalDifference": 0
+            },
+            {
+              "position": 9,
               "team": {
                 "id": 546,
                 "name": "Racing Club de Lens",
@@ -494424,26 +494463,7 @@
               "goalDifference": 1
             },
             {
-              "position": 8,
-              "team": {
-                "id": 532,
-                "name": "Angers SCO",
-                "shortName": "Angers SCO",
-                "tla": "ANG",
-                "crest": "https://crests.football-data.org/532.png"
-              },
-              "playedGames": 5,
-              "form": null,
-              "won": 2,
-              "draw": 1,
-              "lost": 2,
-              "points": 7,
-              "goalsFor": 6,
-              "goalsAgainst": 5,
-              "goalDifference": 1
-            },
-            {
-              "position": 9,
+              "position": 10,
               "team": {
                 "id": 576,
                 "name": "RC Strasbourg Alsace",
@@ -494462,7 +494482,26 @@
               "goalDifference": 0
             },
             {
-              "position": 10,
+              "position": 11,
+              "team": {
+                "id": 532,
+                "name": "Angers SCO",
+                "shortName": "Angers SCO",
+                "tla": "ANG",
+                "crest": "https://crests.football-data.org/532.png"
+              },
+              "playedGames": 6,
+              "form": null,
+              "won": 2,
+              "draw": 1,
+              "lost": 3,
+              "points": 7,
+              "goalsFor": 7,
+              "goalsAgainst": 10,
+              "goalDifference": -3
+            },
+            {
+              "position": 12,
               "team": {
                 "id": 535,
                 "name": "Le Mans FC",
@@ -494470,18 +494509,37 @@
                 "tla": "LMF",
                 "crest": "https://crests.football-data.org/535.png"
               },
-              "playedGames": 5,
+              "playedGames": 6,
               "form": null,
               "won": 1,
               "draw": 3,
-              "lost": 1,
+              "lost": 2,
               "points": 6,
-              "goalsFor": 9,
-              "goalsAgainst": 9,
-              "goalDifference": 0
+              "goalsFor": 10,
+              "goalsAgainst": 12,
+              "goalDifference": -2
             },
             {
-              "position": 11,
+              "position": 13,
+              "team": {
+                "id": 511,
+                "name": "Toulouse FC",
+                "shortName": "Toulouse",
+                "tla": "TOU",
+                "crest": "https://crests.football-data.org/511.png"
+              },
+              "playedGames": 6,
+              "form": null,
+              "won": 1,
+              "draw": 3,
+              "lost": 2,
+              "points": 6,
+              "goalsFor": 9,
+              "goalsAgainst": 11,
+              "goalDifference": -2
+            },
+            {
+              "position": 14,
               "team": {
                 "id": 519,
                 "name": "AJ Auxerre",
@@ -494498,63 +494556,6 @@
               "goalsFor": 7,
               "goalsAgainst": 12,
               "goalDifference": -5
-            },
-            {
-              "position": 12,
-              "team": {
-                "id": 512,
-                "name": "Stade Brestois 29",
-                "shortName": "Brest",
-                "tla": "BRE",
-                "crest": "https://crests.football-data.org/512.png"
-              },
-              "playedGames": 5,
-              "form": null,
-              "won": 1,
-              "draw": 2,
-              "lost": 2,
-              "points": 5,
-              "goalsFor": 7,
-              "goalsAgainst": 8,
-              "goalDifference": -1
-            },
-            {
-              "position": 13,
-              "team": {
-                "id": 525,
-                "name": "FC Lorient",
-                "shortName": "Lorient",
-                "tla": "FCL",
-                "crest": "https://crests.football-data.org/525.png"
-              },
-              "playedGames": 5,
-              "form": null,
-              "won": 1,
-              "draw": 2,
-              "lost": 2,
-              "points": 5,
-              "goalsFor": 5,
-              "goalsAgainst": 6,
-              "goalDifference": -1
-            },
-            {
-              "position": 14,
-              "team": {
-                "id": 511,
-                "name": "Toulouse FC",
-                "shortName": "Toulouse",
-                "tla": "TOU",
-                "crest": "https://crests.football-data.org/511.png"
-              },
-              "playedGames": 5,
-              "form": null,
-              "won": 1,
-              "draw": 2,
-              "lost": 2,
-              "points": 5,
-              "goalsFor": 7,
-              "goalsAgainst": 9,
-              "goalDifference": -2
             },
             {
               "position": 15,
@@ -494669,6 +494670,25 @@
             {
               "position": 1,
               "team": {
+                "id": 675,
+                "name": "Feyenoord Rotterdam",
+                "shortName": "Feyenoord",
+                "tla": "FEY",
+                "crest": "https://crests.football-data.org/675.png"
+              },
+              "playedGames": 8,
+              "form": null,
+              "won": 6,
+              "draw": 2,
+              "lost": 0,
+              "points": 20,
+              "goalsFor": 27,
+              "goalsAgainst": 7,
+              "goalDifference": 20
+            },
+            {
+              "position": 2,
+              "team": {
                 "id": 674,
                 "name": "PSV",
                 "shortName": "PSV",
@@ -494686,7 +494706,7 @@
               "goalDifference": 16
             },
             {
-              "position": 2,
+              "position": 3,
               "team": {
                 "id": 682,
                 "name": "AZ",
@@ -494694,34 +494714,15 @@
                 "tla": "AZ",
                 "crest": "https://crests.football-data.org/682.png"
               },
-              "playedGames": 7,
+              "playedGames": 8,
               "form": null,
               "won": 6,
               "draw": 1,
-              "lost": 0,
+              "lost": 1,
               "points": 19,
               "goalsFor": 18,
-              "goalsAgainst": 6,
-              "goalDifference": 12
-            },
-            {
-              "position": 3,
-              "team": {
-                "id": 675,
-                "name": "Feyenoord Rotterdam",
-                "shortName": "Feyenoord",
-                "tla": "FEY",
-                "crest": "https://crests.football-data.org/675.png"
-              },
-              "playedGames": 7,
-              "form": null,
-              "won": 5,
-              "draw": 2,
-              "lost": 0,
-              "points": 17,
-              "goalsFor": 25,
-              "goalsAgainst": 7,
-              "goalDifference": 18
+              "goalsAgainst": 8,
+              "goalDifference": 10
             },
             {
               "position": 4,
@@ -494732,14 +494733,14 @@
                 "tla": "TWE",
                 "crest": "https://crests.football-data.org/666.png"
               },
-              "playedGames": 7,
+              "playedGames": 8,
               "form": null,
               "won": 5,
-              "draw": 1,
+              "draw": 2,
               "lost": 1,
-              "points": 16,
-              "goalsFor": 15,
-              "goalsAgainst": 7,
+              "points": 17,
+              "goalsFor": 16,
+              "goalsAgainst": 8,
               "goalDifference": 8
             },
             {
@@ -494751,14 +494752,14 @@
                 "tla": "AJA",
                 "crest": "https://crests.football-data.org/678.png"
               },
-              "playedGames": 7,
+              "playedGames": 8,
               "form": null,
               "won": 4,
-              "draw": 2,
+              "draw": 3,
               "lost": 1,
-              "points": 14,
-              "goalsFor": 21,
-              "goalsAgainst": 9,
+              "points": 15,
+              "goalsFor": 22,
+              "goalsAgainst": 10,
               "goalDifference": 12
             },
             {
@@ -494770,14 +494771,14 @@
                 "tla": "SIT",
                 "crest": "https://crests.football-data.org/1920.png"
               },
-              "playedGames": 7,
+              "playedGames": 8,
               "form": null,
               "won": 4,
-              "draw": 1,
+              "draw": 2,
               "lost": 2,
-              "points": 13,
-              "goalsFor": 13,
-              "goalsAgainst": 14,
+              "points": 14,
+              "goalsFor": 14,
+              "goalsAgainst": 15,
               "goalDifference": -1
             },
             {
@@ -494802,6 +494803,25 @@
             {
               "position": 8,
               "team": {
+                "id": 718,
+                "name": "Go Ahead Eagles",
+                "shortName": "Go Ahead",
+                "tla": "GOA",
+                "crest": "https://crests.football-data.org/718.png"
+              },
+              "playedGames": 8,
+              "form": null,
+              "won": 2,
+              "draw": 5,
+              "lost": 1,
+              "points": 11,
+              "goalsFor": 19,
+              "goalsAgainst": 17,
+              "goalDifference": 2
+            },
+            {
+              "position": 9,
+              "team": {
                 "id": 677,
                 "name": "FC Groningen",
                 "shortName": "Groningen",
@@ -494817,25 +494837,6 @@
               "goalsFor": 15,
               "goalsAgainst": 13,
               "goalDifference": 2
-            },
-            {
-              "position": 9,
-              "team": {
-                "id": 718,
-                "name": "Go Ahead Eagles",
-                "shortName": "Go Ahead",
-                "tla": "GOA",
-                "crest": "https://crests.football-data.org/718.png"
-              },
-              "playedGames": 8,
-              "form": null,
-              "won": 2,
-              "draw": 4,
-              "lost": 2,
-              "points": 10,
-              "goalsFor": 16,
-              "goalsAgainst": 15,
-              "goalDifference": 1
             },
             {
               "position": 10,
@@ -494865,14 +494866,14 @@
                 "tla": "NEC",
                 "crest": "https://crests.football-data.org/1915.png"
               },
-              "playedGames": 7,
+              "playedGames": 8,
               "form": null,
               "won": 2,
-              "draw": 2,
+              "draw": 3,
               "lost": 3,
-              "points": 8,
-              "goalsFor": 12,
-              "goalsAgainst": 13,
+              "points": 9,
+              "goalsFor": 13,
+              "goalsAgainst": 14,
               "goalDifference": -1
             },
             {
@@ -494886,13 +494887,13 @@
               },
               "playedGames": 8,
               "form": null,
-              "won": 2,
-              "draw": 2,
+              "won": 1,
+              "draw": 3,
               "lost": 4,
-              "points": 8,
-              "goalsFor": 11,
-              "goalsAgainst": 17,
-              "goalDifference": -6
+              "points": 6,
+              "goalsFor": 13,
+              "goalsAgainst": 20,
+              "goalDifference": -7
             },
             {
               "position": 13,
@@ -495822,7 +495823,7 @@
       "seasonId": 2502,
       "seasonStart": "2026-08-21",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-10-10 22:57 UTC"
+      "lastSuccessfulUpdate": "2026-10-11 01:40 UTC"
     },
     "ELC": {
       "status": "connected",
@@ -495831,7 +495832,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-10-10 22:57 UTC"
+      "lastSuccessfulUpdate": "2026-10-11 01:40 UTC"
     },
     "PD": {
       "status": "connected",
@@ -495840,7 +495841,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-10-10 22:57 UTC"
+      "lastSuccessfulUpdate": "2026-10-11 01:40 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -495849,7 +495850,7 @@
       "seasonId": 2522,
       "seasonStart": "2026-08-28",
       "seasonEnd": "2027-05-22",
-      "lastSuccessfulUpdate": "2026-10-10 22:57 UTC"
+      "lastSuccessfulUpdate": "2026-10-11 01:40 UTC"
     },
     "SA": {
       "status": "connected",
@@ -495858,7 +495859,7 @@
       "seasonId": 2494,
       "seasonStart": "2026-08-23",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-10-10 22:57 UTC"
+      "lastSuccessfulUpdate": "2026-10-11 01:40 UTC"
     },
     "FL1": {
       "status": "connected",
@@ -495867,7 +495868,7 @@
       "seasonId": 2497,
       "seasonStart": "2026-08-22",
       "seasonEnd": "2027-05-29",
-      "lastSuccessfulUpdate": "2026-10-10 22:58 UTC"
+      "lastSuccessfulUpdate": "2026-10-11 01:40 UTC"
     },
     "DED": {
       "status": "connected",
@@ -495876,7 +495877,7 @@
       "seasonId": 2493,
       "seasonStart": "2026-08-07",
       "seasonEnd": "2027-05-23",
-      "lastSuccessfulUpdate": "2026-10-10 22:58 UTC"
+      "lastSuccessfulUpdate": "2026-10-11 01:41 UTC"
     },
     "PPL": {
       "status": "connected",
@@ -495885,7 +495886,7 @@
       "seasonId": 2526,
       "seasonStart": "2026-08-08",
       "seasonEnd": "2027-05-16",
-      "lastSuccessfulUpdate": "2026-10-10 22:58 UTC"
+      "lastSuccessfulUpdate": "2026-10-11 01:41 UTC"
     },
     "BSA": {
       "status": "connected",
@@ -495894,7 +495895,7 @@
       "seasonId": 2474,
       "seasonStart": "2026-01-28",
       "seasonEnd": "2026-12-02",
-      "lastSuccessfulUpdate": "2026-10-10 22:58 UTC"
+      "lastSuccessfulUpdate": "2026-10-11 01:41 UTC"
     },
     "WC": {
       "status": "connected",
