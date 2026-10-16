@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-10-16 18:23 UTC",
-  "lastUpdate": "2026-10-16 18:23 UTC",
+  "generatedAt": "2026-10-16 21:31 UTC",
+  "lastUpdate": "2026-10-16 21:31 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -69367,11 +69367,11 @@
       },
       "id": 558872,
       "utcDate": "2026-10-16T18:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-16T20:23:09Z",
+      "lastUpdated": "2026-10-16T21:54:53Z",
       "homeTeam": {
         "id": 673,
         "name": "SC Heerenveen",
@@ -69390,12 +69390,12 @@
         "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 4,
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
@@ -69433,11 +69433,11 @@
       },
       "id": 565828,
       "utcDate": "2026-10-16T18:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-16T19:55:57Z",
+      "lastUpdated": "2026-10-16T22:26:53Z",
       "homeTeam": {
         "id": 19,
         "name": "Eintracht Frankfurt",
@@ -69453,15 +69453,15 @@
         "crest": "https://crests.football-data.org/1.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -69499,11 +69499,11 @@
       },
       "id": 559661,
       "utcDate": "2026-10-16T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-16T20:05:33Z",
+      "lastUpdated": "2026-10-16T22:41:17Z",
       "homeTeam": {
         "id": 535,
         "name": "Le Mans FC",
@@ -69519,15 +69519,15 @@
         "crest": "https://crests.football-data.org/511.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 3
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -69565,11 +69565,11 @@
       },
       "id": 558573,
       "utcDate": "2026-10-16T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-16T20:08:45Z",
+      "lastUpdated": "2026-10-16T22:41:49Z",
       "homeTeam": {
         "id": 470,
         "name": "Frosinone Calcio",
@@ -69585,15 +69585,15 @@
         "crest": "https://crests.football-data.org/471.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 2
         }
       },
       "odds": {
@@ -69631,11 +69631,11 @@
       },
       "id": 561883,
       "utcDate": "2026-10-16T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-16T20:17:49Z",
+      "lastUpdated": "2026-10-16T23:07:51Z",
       "homeTeam": {
         "id": 328,
         "name": "Burnley FC",
@@ -69651,15 +69651,15 @@
         "crest": "https://crests.football-data.org/76.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         }
       },
       "odds": {
@@ -69697,11 +69697,11 @@
       },
       "id": 564716,
       "utcDate": "2026-10-16T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-16T20:05:01Z",
+      "lastUpdated": "2026-10-16T23:00:29Z",
       "homeTeam": {
         "id": 560,
         "name": "RC Deportivo La Coruña",
@@ -69717,15 +69717,15 @@
         "crest": "https://crests.football-data.org/88.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -69797,7 +69797,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 206800,
+          "name": "Bruno de Araújo",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -219490,74 +219497,7 @@
       "referees": []
     }
   ],
-  "live": [
-    {
-      "area": {
-        "id": 2163,
-        "name": "Netherlands",
-        "code": "NLD",
-        "flag": "https://crests.football-data.org/8601.svg"
-      },
-      "competition": {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      },
-      "season": {
-        "id": 2493,
-        "startDate": "2026-08-07",
-        "endDate": "2027-05-23",
-        "currentMatchday": 9,
-        "winner": null
-      },
-      "id": 558872,
-      "utcDate": "2026-10-16T18:00:00Z",
-      "status": "IN_PLAY",
-      "matchday": 9,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-10-16T20:23:09Z",
-      "homeTeam": {
-        "id": 673,
-        "name": "SC Heerenveen",
-        "shortName": "Heerenveen",
-        "tla": "HEE",
-        "crest": "https://crests.football-data.org/673.png"
-      },
-      "awayTeam": {
-        "id": 670,
-        "name": "SBV Excelsior",
-        "shortName": "Excelsior",
-        "tla": "EXC",
-        "crest": "https://crests.football-data.org/670.png"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 0
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 81036,
-          "name": "Robin Hensgens",
-          "type": "REFEREE",
-          "nationality": "Netherlands"
-        }
-      ]
-    }
-  ],
+  "live": [],
   "finished": [
     {
       "area": {
@@ -288758,9 +288698,73 @@
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
-    }
-  ],
-  "upcoming": [
+    },
+    {
+      "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+      },
+      "competition": {
+        "id": 2003,
+        "name": "Eredivisie",
+        "code": "DED",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "season": {
+        "id": 2493,
+        "startDate": "2026-08-07",
+        "endDate": "2027-05-23",
+        "currentMatchday": 9,
+        "winner": null
+      },
+      "id": 558872,
+      "utcDate": "2026-10-16T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-10-16T21:54:53Z",
+      "homeTeam": {
+        "id": 673,
+        "name": "SC Heerenveen",
+        "shortName": "Heerenveen",
+        "tla": "HEE",
+        "crest": "https://crests.football-data.org/673.png"
+      },
+      "awayTeam": {
+        "id": 670,
+        "name": "SBV Excelsior",
+        "shortName": "Excelsior",
+        "tla": "EXC",
+        "crest": "https://crests.football-data.org/670.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 4,
+          "away": 0
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 81036,
+          "name": "Robin Hensgens",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
+    },
     {
       "area": {
         "id": 2088,
@@ -288784,11 +288788,11 @@
       },
       "id": 565828,
       "utcDate": "2026-10-16T18:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-16T19:55:57Z",
+      "lastUpdated": "2026-10-16T22:26:53Z",
       "homeTeam": {
         "id": 19,
         "name": "Eintracht Frankfurt",
@@ -288804,15 +288808,15 @@
         "crest": "https://crests.football-data.org/1.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -288850,11 +288854,11 @@
       },
       "id": 559661,
       "utcDate": "2026-10-16T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-16T20:05:33Z",
+      "lastUpdated": "2026-10-16T22:41:17Z",
       "homeTeam": {
         "id": 535,
         "name": "Le Mans FC",
@@ -288870,15 +288874,15 @@
         "crest": "https://crests.football-data.org/511.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 3
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -288916,11 +288920,11 @@
       },
       "id": 558573,
       "utcDate": "2026-10-16T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-16T20:08:45Z",
+      "lastUpdated": "2026-10-16T22:41:49Z",
       "homeTeam": {
         "id": 470,
         "name": "Frosinone Calcio",
@@ -288936,15 +288940,15 @@
         "crest": "https://crests.football-data.org/471.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 2
         }
       },
       "odds": {
@@ -288982,11 +288986,11 @@
       },
       "id": 561883,
       "utcDate": "2026-10-16T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-16T20:17:49Z",
+      "lastUpdated": "2026-10-16T23:07:51Z",
       "homeTeam": {
         "id": 328,
         "name": "Burnley FC",
@@ -289002,15 +289006,15 @@
         "crest": "https://crests.football-data.org/76.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         }
       },
       "odds": {
@@ -289048,11 +289052,11 @@
       },
       "id": 564716,
       "utcDate": "2026-10-16T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-16T20:05:01Z",
+      "lastUpdated": "2026-10-16T23:00:29Z",
       "homeTeam": {
         "id": 560,
         "name": "RC Deportivo La Coruña",
@@ -289068,15 +289072,15 @@
         "crest": "https://crests.football-data.org/88.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -289090,7 +289094,9 @@
           "nationality": "Spain"
         }
       ]
-    },
+    }
+  ],
+  "upcoming": [
     {
       "area": {
         "id": 2032,
@@ -289148,7 +289154,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 206800,
+          "name": "Bruno de Araújo",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -495164,6 +495177,25 @@
             {
               "position": 7,
               "team": {
+                "id": 511,
+                "name": "Toulouse FC",
+                "shortName": "Toulouse",
+                "tla": "TOU",
+                "crest": "https://crests.football-data.org/511.png"
+              },
+              "playedGames": 7,
+              "form": null,
+              "won": 2,
+              "draw": 3,
+              "lost": 2,
+              "points": 9,
+              "goalsFor": 12,
+              "goalsAgainst": 11,
+              "goalDifference": 1
+            },
+            {
+              "position": 8,
+              "team": {
                 "id": 512,
                 "name": "Stade Brestois 29",
                 "shortName": "Brest",
@@ -495181,7 +495213,7 @@
               "goalDifference": 3
             },
             {
-              "position": 8,
+              "position": 9,
               "team": {
                 "id": 525,
                 "name": "FC Lorient",
@@ -495200,7 +495232,7 @@
               "goalDifference": 0
             },
             {
-              "position": 9,
+              "position": 10,
               "team": {
                 "id": 522,
                 "name": "OGC Nice",
@@ -495219,7 +495251,7 @@
               "goalDifference": -2
             },
             {
-              "position": 10,
+              "position": 11,
               "team": {
                 "id": 546,
                 "name": "Racing Club de Lens",
@@ -495238,7 +495270,7 @@
               "goalDifference": 1
             },
             {
-              "position": 11,
+              "position": 12,
               "team": {
                 "id": 576,
                 "name": "RC Strasbourg Alsace",
@@ -495257,7 +495289,7 @@
               "goalDifference": -1
             },
             {
-              "position": 12,
+              "position": 13,
               "team": {
                 "id": 532,
                 "name": "Angers SCO",
@@ -495276,7 +495308,7 @@
               "goalDifference": -3
             },
             {
-              "position": 13,
+              "position": 14,
               "team": {
                 "id": 516,
                 "name": "Olympique de Marseille",
@@ -495295,7 +495327,7 @@
               "goalDifference": 1
             },
             {
-              "position": 14,
+              "position": 15,
               "team": {
                 "id": 535,
                 "name": "Le Mans FC",
@@ -495303,34 +495335,15 @@
                 "tla": "LMF",
                 "crest": "https://crests.football-data.org/535.png"
               },
-              "playedGames": 6,
+              "playedGames": 7,
               "form": null,
               "won": 1,
               "draw": 3,
-              "lost": 2,
+              "lost": 3,
               "points": 6,
               "goalsFor": 10,
-              "goalsAgainst": 12,
-              "goalDifference": -2
-            },
-            {
-              "position": 15,
-              "team": {
-                "id": 511,
-                "name": "Toulouse FC",
-                "shortName": "Toulouse",
-                "tla": "TOU",
-                "crest": "https://crests.football-data.org/511.png"
-              },
-              "playedGames": 6,
-              "form": null,
-              "won": 1,
-              "draw": 3,
-              "lost": 2,
-              "points": 6,
-              "goalsFor": 9,
-              "goalsAgainst": 11,
-              "goalDifference": -2
+              "goalsAgainst": 15,
+              "goalDifference": -5
             },
             {
               "position": 16,
@@ -495559,6 +495572,25 @@
             {
               "position": 8,
               "team": {
+                "id": 673,
+                "name": "SC Heerenveen",
+                "shortName": "Heerenveen",
+                "tla": "HEE",
+                "crest": "https://crests.football-data.org/673.png"
+              },
+              "playedGames": 9,
+              "form": null,
+              "won": 3,
+              "draw": 3,
+              "lost": 3,
+              "points": 12,
+              "goalsFor": 15,
+              "goalsAgainst": 11,
+              "goalDifference": 4
+            },
+            {
+              "position": 9,
+              "team": {
                 "id": 718,
                 "name": "Go Ahead Eagles",
                 "shortName": "Go Ahead",
@@ -495576,7 +495608,7 @@
               "goalDifference": 2
             },
             {
-              "position": 9,
+              "position": 10,
               "team": {
                 "id": 670,
                 "name": "SBV Excelsior",
@@ -495584,34 +495616,15 @@
                 "tla": "EXC",
                 "crest": "https://crests.football-data.org/670.png"
               },
-              "playedGames": 8,
+              "playedGames": 9,
               "form": null,
               "won": 3,
               "draw": 2,
-              "lost": 3,
+              "lost": 4,
               "points": 11,
               "goalsFor": 16,
-              "goalsAgainst": 14,
-              "goalDifference": 2
-            },
-            {
-              "position": 10,
-              "team": {
-                "id": 673,
-                "name": "SC Heerenveen",
-                "shortName": "Heerenveen",
-                "tla": "HEE",
-                "crest": "https://crests.football-data.org/673.png"
-              },
-              "playedGames": 8,
-              "form": null,
-              "won": 2,
-              "draw": 3,
-              "lost": 3,
-              "points": 9,
-              "goalsFor": 11,
-              "goalsAgainst": 11,
-              "goalDifference": 0
+              "goalsAgainst": 18,
+              "goalDifference": -2
             },
             {
               "position": 11,
@@ -496588,7 +496601,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-10-16 18:22 UTC"
+      "lastSuccessfulUpdate": "2026-10-16 21:30 UTC"
     },
     "PD": {
       "status": "connected",
@@ -496597,7 +496610,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-10-16 18:22 UTC"
+      "lastSuccessfulUpdate": "2026-10-16 21:30 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -496606,7 +496619,7 @@
       "seasonId": 2522,
       "seasonStart": "2026-08-28",
       "seasonEnd": "2027-05-22",
-      "lastSuccessfulUpdate": "2026-10-16 18:22 UTC"
+      "lastSuccessfulUpdate": "2026-10-16 21:30 UTC"
     },
     "SA": {
       "status": "connected",
@@ -496615,7 +496628,7 @@
       "seasonId": 2494,
       "seasonStart": "2026-08-23",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-10-16 18:22 UTC"
+      "lastSuccessfulUpdate": "2026-10-16 21:30 UTC"
     },
     "FL1": {
       "status": "connected",
@@ -496624,7 +496637,7 @@
       "seasonId": 2497,
       "seasonStart": "2026-08-22",
       "seasonEnd": "2027-05-29",
-      "lastSuccessfulUpdate": "2026-10-16 18:23 UTC"
+      "lastSuccessfulUpdate": "2026-10-16 21:31 UTC"
     },
     "DED": {
       "status": "connected",
@@ -496633,7 +496646,7 @@
       "seasonId": 2493,
       "seasonStart": "2026-08-07",
       "seasonEnd": "2027-05-23",
-      "lastSuccessfulUpdate": "2026-10-16 18:23 UTC"
+      "lastSuccessfulUpdate": "2026-10-16 21:31 UTC"
     },
     "PPL": {
       "status": "connected",
@@ -496651,7 +496664,7 @@
       "seasonId": 2474,
       "seasonStart": "2026-01-28",
       "seasonEnd": "2026-12-02",
-      "lastSuccessfulUpdate": "2026-10-16 18:23 UTC"
+      "lastSuccessfulUpdate": "2026-10-16 21:31 UTC"
     },
     "WC": {
       "status": "connected",
