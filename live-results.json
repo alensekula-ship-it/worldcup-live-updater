@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-10-22 22:38 UTC",
-  "lastUpdate": "2026-10-22 22:38 UTC",
+  "generatedAt": "2026-10-23 00:59 UTC",
+  "lastUpdate": "2026-10-23 00:59 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -81944,7 +81944,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T01:32:07Z",
       "homeTeam": {
         "id": 470,
         "name": "Frosinone Calcio",
@@ -82003,7 +82003,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T01:32:07Z",
       "homeTeam": {
         "id": 99,
         "name": "ACF Fiorentina",
@@ -82062,7 +82062,7 @@
       "matchday": 33,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T01:32:07Z",
       "homeTeam": {
         "id": 1766,
         "name": "CA Mineiro",
@@ -82121,7 +82121,7 @@
       "matchday": 33,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T01:32:08Z",
       "homeTeam": {
         "id": 1780,
         "name": "CR Vasco da Gama",
@@ -82180,7 +82180,7 @@
       "matchday": 33,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T01:32:08Z",
       "homeTeam": {
         "id": 1767,
         "name": "Grêmio FBPA",
@@ -301959,7 +301959,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T01:32:07Z",
       "homeTeam": {
         "id": 470,
         "name": "Frosinone Calcio",
@@ -302018,7 +302018,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T01:32:07Z",
       "homeTeam": {
         "id": 99,
         "name": "ACF Fiorentina",
@@ -302077,7 +302077,7 @@
       "matchday": 33,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T01:32:07Z",
       "homeTeam": {
         "id": 1766,
         "name": "CA Mineiro",
@@ -302136,7 +302136,7 @@
       "matchday": 33,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T01:32:08Z",
       "homeTeam": {
         "id": 1780,
         "name": "CR Vasco da Gama",
@@ -302195,7 +302195,7 @@
       "matchday": 33,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T01:32:08Z",
       "homeTeam": {
         "id": 1767,
         "name": "Grêmio FBPA",
@@ -495953,7 +495953,7 @@
         "id": 2494,
         "startDate": "2026-08-23",
         "endDate": "2027-05-30",
-        "currentMatchday": 7,
+        "currentMatchday": 8,
         "winner": null
       },
       "standings": [
@@ -497944,7 +497944,7 @@
       "seasonId": 2494,
       "seasonStart": "2026-08-23",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-10-22 22:37 UTC"
+      "lastSuccessfulUpdate": "2026-10-23 00:58 UTC"
     },
     "FL1": {
       "status": "connected",
@@ -497980,7 +497980,7 @@
       "seasonId": 2474,
       "seasonStart": "2026-01-28",
       "seasonEnd": "2026-12-02",
-      "lastSuccessfulUpdate": "2026-10-22 22:37 UTC"
+      "lastSuccessfulUpdate": "2026-10-23 00:59 UTC"
     },
     "WC": {
       "status": "connected",
