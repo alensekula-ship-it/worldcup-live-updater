@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-10-24 10:20 UTC",
-  "lastUpdate": "2026-10-24 10:20 UTC",
+  "generatedAt": "2026-10-24 14:06 UTC",
+  "lastUpdate": "2026-10-24 14:06 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -76752,11 +76752,11 @@
       },
       "id": 560614,
       "utcDate": "2026-10-24T11:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-24T10:20:32Z",
+      "lastUpdated": "2026-10-24T15:24:25Z",
       "homeTeam": {
         "id": 58,
         "name": "Aston Villa FC",
@@ -76772,21 +76772,28 @@
         "crest": "https://crests.football-data.org/65.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11309,
+          "name": "Peter Bankes",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     },
     {
       "area": {
@@ -77755,11 +77762,11 @@
       },
       "id": 560616,
       "utcDate": "2026-10-24T14:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-24T10:20:32Z",
+      "lastUpdated": "2026-10-24T16:04:26Z",
       "homeTeam": {
         "id": 57,
         "name": "Arsenal FC",
@@ -77775,11 +77782,11 @@
         "crest": "https://crests.football-data.org/62.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -77789,7 +77796,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11378,
+          "name": "Tony Harrington",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     },
     {
       "area": {
@@ -77814,11 +77828,11 @@
       },
       "id": 560618,
       "utcDate": "2026-10-24T14:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-24T10:20:32Z",
+      "lastUpdated": "2026-10-24T16:04:26Z",
       "homeTeam": {
         "id": 1076,
         "name": "Coventry City FC",
@@ -77834,11 +77848,11 @@
         "crest": "https://crests.football-data.org/63.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -77848,7 +77862,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 58025,
+          "name": "Adam Herczeg",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     },
     {
       "area": {
@@ -220218,7 +220239,140 @@
       "referees": []
     }
   ],
-  "live": [],
+  "live": [
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/PL.png"
+      },
+      "season": {
+        "id": 2502,
+        "startDate": "2026-08-21",
+        "endDate": "2027-05-30",
+        "currentMatchday": 8,
+        "winner": null
+      },
+      "id": 560616,
+      "utcDate": "2026-10-24T14:00:00Z",
+      "status": "IN_PLAY",
+      "matchday": 8,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-10-24T16:04:26Z",
+      "homeTeam": {
+        "id": 57,
+        "name": "Arsenal FC",
+        "shortName": "Arsenal",
+        "tla": "ARS",
+        "crest": "https://crests.football-data.org/57.png"
+      },
+      "awayTeam": {
+        "id": 62,
+        "name": "Everton FC",
+        "shortName": "Everton",
+        "tla": "EVE",
+        "crest": "https://crests.football-data.org/62.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 11378,
+          "name": "Tony Harrington",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/PL.png"
+      },
+      "season": {
+        "id": 2502,
+        "startDate": "2026-08-21",
+        "endDate": "2027-05-30",
+        "currentMatchday": 8,
+        "winner": null
+      },
+      "id": 560618,
+      "utcDate": "2026-10-24T14:00:00Z",
+      "status": "IN_PLAY",
+      "matchday": 8,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-10-24T16:04:26Z",
+      "homeTeam": {
+        "id": 1076,
+        "name": "Coventry City FC",
+        "shortName": "Coventry City",
+        "tla": "COV",
+        "crest": "https://crests.football-data.org/1076.png"
+      },
+      "awayTeam": {
+        "id": 63,
+        "name": "Fulham FC",
+        "shortName": "Fulham",
+        "tla": "FUL",
+        "crest": "https://crests.football-data.org/63.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 58025,
+          "name": "Adam Herczeg",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
+    }
+  ],
   "finished": [
     {
       "area": {
@@ -296627,6 +296781,72 @@
           "nationality": "Brazil"
         }
       ]
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/PL.png"
+      },
+      "season": {
+        "id": 2502,
+        "startDate": "2026-08-21",
+        "endDate": "2027-05-30",
+        "currentMatchday": 8,
+        "winner": null
+      },
+      "id": 560614,
+      "utcDate": "2026-10-24T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-10-24T15:24:25Z",
+      "homeTeam": {
+        "id": 58,
+        "name": "Aston Villa FC",
+        "shortName": "Aston Villa",
+        "tla": "AVL",
+        "crest": "https://crests.football-data.org/58.png"
+      },
+      "awayTeam": {
+        "id": 65,
+        "name": "Manchester City FC",
+        "shortName": "Man City",
+        "tla": "MCI",
+        "crest": "https://crests.football-data.org/65.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 0
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": [
+        {
+          "id": 11309,
+          "name": "Peter Bankes",
+          "type": "REFEREE",
+          "nationality": "England"
+        }
+      ]
     }
   ],
   "upcoming": [
@@ -296789,65 +297009,6 @@
         "shortName": "Millwall",
         "tla": "MIL",
         "crest": "https://crests.football-data.org/384.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
-    {
-      "area": {
-        "id": 2072,
-        "name": "England",
-        "code": "ENG",
-        "flag": "https://crests.football-data.org/770.svg"
-      },
-      "competition": {
-        "id": 2021,
-        "name": "Premier League",
-        "code": "PL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PL.png"
-      },
-      "season": {
-        "id": 2502,
-        "startDate": "2026-08-21",
-        "endDate": "2027-05-30",
-        "currentMatchday": 8,
-        "winner": null
-      },
-      "id": 560614,
-      "utcDate": "2026-10-24T11:30:00Z",
-      "status": "TIMED",
-      "matchday": 8,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-10-24T10:20:32Z",
-      "homeTeam": {
-        "id": 58,
-        "name": "Aston Villa FC",
-        "shortName": "Aston Villa",
-        "tla": "AVL",
-        "crest": "https://crests.football-data.org/58.png"
-      },
-      "awayTeam": {
-        "id": 65,
-        "name": "Manchester City FC",
-        "shortName": "Man City",
-        "tla": "MCI",
-        "crest": "https://crests.football-data.org/65.png"
       },
       "score": {
         "winner": null,
@@ -297792,124 +297953,6 @@
         "shortName": "Watford",
         "tla": "WAT",
         "crest": "https://crests.football-data.org/346.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
-    {
-      "area": {
-        "id": 2072,
-        "name": "England",
-        "code": "ENG",
-        "flag": "https://crests.football-data.org/770.svg"
-      },
-      "competition": {
-        "id": 2021,
-        "name": "Premier League",
-        "code": "PL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PL.png"
-      },
-      "season": {
-        "id": 2502,
-        "startDate": "2026-08-21",
-        "endDate": "2027-05-30",
-        "currentMatchday": 8,
-        "winner": null
-      },
-      "id": 560616,
-      "utcDate": "2026-10-24T14:00:00Z",
-      "status": "TIMED",
-      "matchday": 8,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-10-24T10:20:32Z",
-      "homeTeam": {
-        "id": 57,
-        "name": "Arsenal FC",
-        "shortName": "Arsenal",
-        "tla": "ARS",
-        "crest": "https://crests.football-data.org/57.png"
-      },
-      "awayTeam": {
-        "id": 62,
-        "name": "Everton FC",
-        "shortName": "Everton",
-        "tla": "EVE",
-        "crest": "https://crests.football-data.org/62.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
-    {
-      "area": {
-        "id": 2072,
-        "name": "England",
-        "code": "ENG",
-        "flag": "https://crests.football-data.org/770.svg"
-      },
-      "competition": {
-        "id": 2021,
-        "name": "Premier League",
-        "code": "PL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PL.png"
-      },
-      "season": {
-        "id": 2502,
-        "startDate": "2026-08-21",
-        "endDate": "2027-05-30",
-        "currentMatchday": 8,
-        "winner": null
-      },
-      "id": 560618,
-      "utcDate": "2026-10-24T14:00:00Z",
-      "status": "TIMED",
-      "matchday": 8,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-10-24T10:20:32Z",
-      "homeTeam": {
-        "id": 1076,
-        "name": "Coventry City FC",
-        "shortName": "Coventry City",
-        "tla": "COV",
-        "crest": "https://crests.football-data.org/1076.png"
-      },
-      "awayTeam": {
-        "id": 63,
-        "name": "Fulham FC",
-        "shortName": "Fulham",
-        "tla": "FUL",
-        "crest": "https://crests.football-data.org/63.png"
       },
       "score": {
         "winner": null,
@@ -494811,6 +494854,25 @@
             {
               "position": 1,
               "team": {
+                "id": 343,
+                "name": "Middlesbrough FC",
+                "shortName": "Middlesbrough",
+                "tla": "MID",
+                "crest": "https://crests.football-data.org/343.png"
+              },
+              "playedGames": 12,
+              "form": null,
+              "won": 7,
+              "draw": 4,
+              "lost": 1,
+              "points": 25,
+              "goalsFor": 27,
+              "goalsAgainst": 17,
+              "goalDifference": 10
+            },
+            {
+              "position": 2,
+              "team": {
                 "id": 72,
                 "name": "Swansea City AFC",
                 "shortName": "Swansea",
@@ -494828,7 +494890,7 @@
               "goalDifference": 8
             },
             {
-              "position": 2,
+              "position": 3,
               "team": {
                 "id": 563,
                 "name": "West Ham United FC",
@@ -494845,25 +494907,6 @@
               "goalsFor": 30,
               "goalsAgainst": 12,
               "goalDifference": 18
-            },
-            {
-              "position": 3,
-              "team": {
-                "id": 343,
-                "name": "Middlesbrough FC",
-                "shortName": "Middlesbrough",
-                "tla": "MID",
-                "crest": "https://crests.football-data.org/343.png"
-              },
-              "playedGames": 11,
-              "form": null,
-              "won": 6,
-              "draw": 4,
-              "lost": 1,
-              "points": 22,
-              "goalsFor": 22,
-              "goalsAgainst": 16,
-              "goalDifference": 6
             },
             {
               "position": 4,
@@ -494944,6 +494987,25 @@
             {
               "position": 8,
               "team": {
+                "id": 325,
+                "name": "Portsmouth FC",
+                "shortName": "Portsmouth",
+                "tla": "POR",
+                "crest": "https://crests.football-data.org/325.png"
+              },
+              "playedGames": 12,
+              "form": null,
+              "won": 5,
+              "draw": 3,
+              "lost": 4,
+              "points": 18,
+              "goalsFor": 16,
+              "goalsAgainst": 15,
+              "goalDifference": 1
+            },
+            {
+              "position": 9,
+              "team": {
                 "id": 340,
                 "name": "Southampton FC",
                 "shortName": "Southampton",
@@ -494961,7 +495023,7 @@
               "goalDifference": 11
             },
             {
-              "position": 9,
+              "position": 10,
               "team": {
                 "id": 69,
                 "name": "Queens Park Rangers FC",
@@ -494980,7 +495042,26 @@
               "goalDifference": 3
             },
             {
-              "position": 10,
+              "position": 11,
+              "team": {
+                "id": 356,
+                "name": "Sheffield United FC",
+                "shortName": "Sheffield Utd",
+                "tla": "SHE",
+                "crest": "https://crests.football-data.org/356.png"
+              },
+              "playedGames": 12,
+              "form": null,
+              "won": 4,
+              "draw": 4,
+              "lost": 4,
+              "points": 16,
+              "goalsFor": 16,
+              "goalsAgainst": 15,
+              "goalDifference": 1
+            },
+            {
+              "position": 12,
               "team": {
                 "id": 59,
                 "name": "Blackburn Rovers FC",
@@ -494999,26 +495080,7 @@
               "goalDifference": 1
             },
             {
-              "position": 11,
-              "team": {
-                "id": 356,
-                "name": "Sheffield United FC",
-                "shortName": "Sheffield Utd",
-                "tla": "SHE",
-                "crest": "https://crests.football-data.org/356.png"
-              },
-              "playedGames": 11,
-              "form": null,
-              "won": 4,
-              "draw": 3,
-              "lost": 4,
-              "points": 15,
-              "goalsFor": 15,
-              "goalsAgainst": 14,
-              "goalDifference": 1
-            },
-            {
-              "position": 12,
+              "position": 13,
               "team": {
                 "id": 384,
                 "name": "Millwall FC",
@@ -495026,34 +495088,15 @@
                 "tla": "MIL",
                 "crest": "https://crests.football-data.org/384.png"
               },
-              "playedGames": 11,
+              "playedGames": 12,
               "form": null,
               "won": 4,
               "draw": 3,
-              "lost": 4,
+              "lost": 5,
               "points": 15,
-              "goalsFor": 18,
-              "goalsAgainst": 18,
-              "goalDifference": 0
-            },
-            {
-              "position": 13,
-              "team": {
-                "id": 325,
-                "name": "Portsmouth FC",
-                "shortName": "Portsmouth",
-                "tla": "POR",
-                "crest": "https://crests.football-data.org/325.png"
-              },
-              "playedGames": 11,
-              "form": null,
-              "won": 4,
-              "draw": 3,
-              "lost": 4,
-              "points": 15,
-              "goalsFor": 14,
-              "goalsAgainst": 14,
-              "goalDifference": 0
+              "goalsFor": 19,
+              "goalsAgainst": 20,
+              "goalDifference": -1
             },
             {
               "position": 14,
@@ -495077,25 +495120,6 @@
             {
               "position": 15,
               "team": {
-                "id": 60,
-                "name": "Bolton Wanderers FC",
-                "shortName": "Bolton",
-                "tla": "BOL",
-                "crest": "https://crests.football-data.org/60.png"
-              },
-              "playedGames": 11,
-              "form": null,
-              "won": 4,
-              "draw": 2,
-              "lost": 5,
-              "points": 14,
-              "goalsFor": 15,
-              "goalsAgainst": 18,
-              "goalDifference": -3
-            },
-            {
-              "position": 16,
-              "team": {
                 "id": 387,
                 "name": "Bristol City FC",
                 "shortName": "Bristol City",
@@ -495113,6 +495137,25 @@
               "goalDifference": -3
             },
             {
+              "position": 16,
+              "team": {
+                "id": 60,
+                "name": "Bolton Wanderers FC",
+                "shortName": "Bolton",
+                "tla": "BOL",
+                "crest": "https://crests.football-data.org/60.png"
+              },
+              "playedGames": 12,
+              "form": null,
+              "won": 4,
+              "draw": 2,
+              "lost": 6,
+              "points": 14,
+              "goalsFor": 16,
+              "goalsAgainst": 23,
+              "goalDifference": -7
+            },
+            {
               "position": 17,
               "team": {
                 "id": 348,
@@ -495121,18 +495164,37 @@
                 "tla": "CHA",
                 "crest": "https://crests.football-data.org/348.png"
               },
-              "playedGames": 11,
+              "playedGames": 12,
               "form": null,
               "won": 3,
               "draw": 5,
-              "lost": 3,
+              "lost": 4,
               "points": 14,
-              "goalsFor": 10,
-              "goalsAgainst": 15,
-              "goalDifference": -5
+              "goalsFor": 11,
+              "goalsAgainst": 18,
+              "goalDifference": -7
             },
             {
               "position": 18,
+              "team": {
+                "id": 68,
+                "name": "Norwich City FC",
+                "shortName": "Norwich",
+                "tla": "NOR",
+                "crest": "https://crests.football-data.org/68.png"
+              },
+              "playedGames": 12,
+              "form": null,
+              "won": 4,
+              "draw": 0,
+              "lost": 8,
+              "points": 12,
+              "goalsFor": 20,
+              "goalsAgainst": 22,
+              "goalDifference": -2
+            },
+            {
+              "position": 19,
               "team": {
                 "id": 1126,
                 "name": "Lincoln City FC",
@@ -495151,7 +495213,7 @@
               "goalDifference": -10
             },
             {
-              "position": 19,
+              "position": 20,
               "team": {
                 "id": 715,
                 "name": "Cardiff City FC",
@@ -495170,7 +495232,7 @@
               "goalDifference": 1
             },
             {
-              "position": 20,
+              "position": 21,
               "team": {
                 "id": 346,
                 "name": "Watford FC",
@@ -495187,25 +495249,6 @@
               "goalsFor": 10,
               "goalsAgainst": 19,
               "goalDifference": -9
-            },
-            {
-              "position": 21,
-              "team": {
-                "id": 68,
-                "name": "Norwich City FC",
-                "shortName": "Norwich",
-                "tla": "NOR",
-                "crest": "https://crests.football-data.org/68.png"
-              },
-              "playedGames": 11,
-              "form": null,
-              "won": 3,
-              "draw": 0,
-              "lost": 8,
-              "points": 9,
-              "goalsFor": 17,
-              "goalsAgainst": 21,
-              "goalDifference": -4
             },
             {
               "position": 22,
@@ -495235,14 +495278,14 @@
                 "tla": "DER",
                 "crest": "https://crests.football-data.org/342.png"
               },
-              "playedGames": 11,
+              "playedGames": 12,
               "form": null,
               "won": 1,
-              "draw": 3,
+              "draw": 4,
               "lost": 7,
-              "points": 6,
-              "goalsFor": 9,
-              "goalsAgainst": 20,
+              "points": 7,
+              "goalsFor": 10,
+              "goalsAgainst": 21,
               "goalDifference": -11
             },
             {
@@ -495510,6 +495553,25 @@
             {
               "position": 12,
               "team": {
+                "id": 285,
+                "name": "Elche CF",
+                "shortName": "Elche",
+                "tla": "ELC",
+                "crest": "https://crests.football-data.org/285.png"
+              },
+              "playedGames": 10,
+              "form": null,
+              "won": 2,
+              "draw": 4,
+              "lost": 4,
+              "points": 10,
+              "goalsFor": 14,
+              "goalsAgainst": 17,
+              "goalDifference": -3
+            },
+            {
+              "position": 13,
+              "team": {
                 "id": 94,
                 "name": "Villarreal CF",
                 "shortName": "Villarreal",
@@ -495527,7 +495589,7 @@
               "goalDifference": 0
             },
             {
-              "position": 13,
+              "position": 14,
               "team": {
                 "id": 77,
                 "name": "Athletic Club",
@@ -495544,25 +495606,6 @@
               "goalsFor": 8,
               "goalsAgainst": 9,
               "goalDifference": -1
-            },
-            {
-              "position": 14,
-              "team": {
-                "id": 87,
-                "name": "Rayo Vallecano de Madrid",
-                "shortName": "Rayo Vallecano",
-                "tla": "RAY",
-                "crest": "https://crests.football-data.org/87.png"
-              },
-              "playedGames": 8,
-              "form": null,
-              "won": 2,
-              "draw": 3,
-              "lost": 3,
-              "points": 9,
-              "goalsFor": 12,
-              "goalsAgainst": 17,
-              "goalDifference": -5
             },
             {
               "position": 15,
@@ -495586,6 +495629,25 @@
             {
               "position": 16,
               "team": {
+                "id": 87,
+                "name": "Rayo Vallecano de Madrid",
+                "shortName": "Rayo Vallecano",
+                "tla": "RAY",
+                "crest": "https://crests.football-data.org/87.png"
+              },
+              "playedGames": 9,
+              "form": null,
+              "won": 2,
+              "draw": 3,
+              "lost": 4,
+              "points": 9,
+              "goalsFor": 12,
+              "goalsAgainst": 20,
+              "goalDifference": -8
+            },
+            {
+              "position": 17,
+              "team": {
                 "id": 80,
                 "name": "RCD Espanyol de Barcelona",
                 "shortName": "Espanyol",
@@ -495603,7 +495665,7 @@
               "goalDifference": -1
             },
             {
-              "position": 17,
+              "position": 18,
               "team": {
                 "id": 5335,
                 "name": "Real Racing Club de Santander",
@@ -495620,25 +495682,6 @@
               "goalsFor": 13,
               "goalsAgainst": 25,
               "goalDifference": -12
-            },
-            {
-              "position": 18,
-              "team": {
-                "id": 285,
-                "name": "Elche CF",
-                "shortName": "Elche",
-                "tla": "ELC",
-                "crest": "https://crests.football-data.org/285.png"
-              },
-              "playedGames": 9,
-              "form": null,
-              "won": 1,
-              "draw": 4,
-              "lost": 4,
-              "points": 7,
-              "goalsFor": 11,
-              "goalsAgainst": 17,
-              "goalDifference": -6
             },
             {
               "position": 19,
@@ -498034,7 +498077,7 @@
       "seasonId": 2502,
       "seasonStart": "2026-08-21",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-10-24 10:18 UTC"
+      "lastSuccessfulUpdate": "2026-10-24 14:04 UTC"
     },
     "ELC": {
       "status": "connected",
@@ -498043,7 +498086,7 @@
       "seasonId": 2509,
       "seasonStart": "2026-08-14",
       "seasonEnd": "2027-05-01",
-      "lastSuccessfulUpdate": "2026-10-24 01:07 UTC"
+      "lastSuccessfulUpdate": "2026-10-24 14:05 UTC"
     },
     "PD": {
       "status": "connected",
@@ -498052,7 +498095,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-10-24 10:19 UTC"
+      "lastSuccessfulUpdate": "2026-10-24 14:05 UTC"
     },
     "BL1": {
       "status": "connected",
