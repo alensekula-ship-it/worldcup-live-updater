@@ -1,7 +1,7 @@
 {
   "source": "football-data.org",
-  "generatedAt": "2026-11-13 23:33 UTC",
-  "lastUpdate": "2026-11-13 23:33 UTC",
+  "generatedAt": "2026-11-14 03:36 UTC",
+  "lastUpdate": "2026-11-14 03:36 UTC",
   "competition": {
     "id": 2000,
     "name": "FIFA World Cup",
@@ -96816,7 +96816,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-14T00:20:32Z",
+      "lastUpdated": "2026-11-14T01:32:01Z",
       "homeTeam": {
         "id": 5,
         "name": "FC Bayern München",
@@ -96875,7 +96875,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-14T00:20:33Z",
+      "lastUpdated": "2026-11-14T01:32:01Z",
       "homeTeam": {
         "id": 531,
         "name": "ES Troyes AC",
@@ -96934,7 +96934,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-14T00:20:33Z",
+      "lastUpdated": "2026-11-14T01:32:01Z",
       "homeTeam": {
         "id": 77,
         "name": "Athletic Club",
@@ -319393,7 +319393,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-14T00:20:32Z",
+      "lastUpdated": "2026-11-14T01:32:01Z",
       "homeTeam": {
         "id": 5,
         "name": "FC Bayern München",
@@ -319452,7 +319452,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-14T00:20:33Z",
+      "lastUpdated": "2026-11-14T01:32:01Z",
       "homeTeam": {
         "id": 531,
         "name": "ES Troyes AC",
@@ -319511,7 +319511,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-14T00:20:33Z",
+      "lastUpdated": "2026-11-14T01:32:01Z",
       "homeTeam": {
         "id": 77,
         "name": "Athletic Club",
@@ -502859,7 +502859,7 @@
       "seasonId": 2518,
       "seasonStart": "2026-08-16",
       "seasonEnd": "2027-05-30",
-      "lastSuccessfulUpdate": "2026-11-13 23:32 UTC"
+      "lastSuccessfulUpdate": "2026-11-14 03:35 UTC"
     },
     "BL1": {
       "status": "connected",
@@ -502868,7 +502868,7 @@
       "seasonId": 2522,
       "seasonStart": "2026-08-28",
       "seasonEnd": "2027-05-22",
-      "lastSuccessfulUpdate": "2026-11-13 23:32 UTC"
+      "lastSuccessfulUpdate": "2026-11-14 03:35 UTC"
     },
     "SA": {
       "status": "connected",
@@ -502886,7 +502886,7 @@
       "seasonId": 2497,
       "seasonStart": "2026-08-22",
       "seasonEnd": "2027-05-29",
-      "lastSuccessfulUpdate": "2026-11-13 23:32 UTC"
+      "lastSuccessfulUpdate": "2026-11-14 03:35 UTC"
     },
     "DED": {
       "status": "connected",
